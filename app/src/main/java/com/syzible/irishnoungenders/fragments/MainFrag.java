@@ -100,11 +100,11 @@ public class MainFrag extends Fragment {
 
         if (currentScore > LocalStorage.getHighScore(getActivity())) {
             LocalStorage.setHighScore(getActivity(), currentScore);
-        }
 
-        if (!hasAnimatedNewHighScore) {
-            hasAnimatedNewHighScore = true;
-            PulseAnimation.animateView(highScoreTV);
+            if (!hasAnimatedNewHighScore) {
+                hasAnimatedNewHighScore = true;
+                PulseAnimation.animateView(highScoreTV);
+            }
         }
     }
 
