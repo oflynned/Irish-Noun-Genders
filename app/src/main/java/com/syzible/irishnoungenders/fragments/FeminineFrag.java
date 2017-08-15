@@ -10,6 +10,7 @@ import android.widget.Toast;
 
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
+import com.syzible.irishnoungenders.utils.Utils;
 
 import static com.syzible.irishnoungenders.MainActivity.currentNoun;
 
@@ -40,8 +41,6 @@ public class FeminineFrag extends Fragment {
                 } else {
                     MainActivity.answer.onWrongAnswer();
                 }
-
-                ((MainActivity) getActivity()).getViewPager().setCurrentItem(MAIN_INDEX);
             }
         }
     }

@@ -6,6 +6,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.syzible.irishnoungenders.utils.LocalStorage;
@@ -32,6 +33,7 @@ public class MainFrag extends Fragment {
     private boolean hasAnimatedNewHighScore = false;
 
     public static int currentScore = 0;
+    private ProgressBar loadingBar;
 
     @Nullable
     @Override
@@ -50,12 +52,14 @@ public class MainFrag extends Fragment {
         MainActivity.answer = new IAnswer() {
             @Override
             public void onCorrectAnswer() {
+                Utils.delay(getActivity());
                 generateNewNoun();
                 incrementScore();
             }
 
             @Override
             public void onWrongAnswer() {
+                Utils.returnToMainFrag(getActivity());
                 resetScore();
             }
         };

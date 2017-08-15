@@ -1,7 +1,11 @@
 package com.syzible.irishnoungenders.utils;
 
+import android.app.Activity;
 import android.content.Context;
+import android.os.Handler;
+import android.support.v4.view.ViewPager;
 
+import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.objects.Noun;
 
 import org.json.JSONArray;
@@ -17,6 +21,37 @@ import java.util.Random;
  */
 
 public class Utils {
+    private static final int DELAY = 500;
+
+    public static void returnToMainFrag(Context context) {
+        ((MainActivity) context).getViewPager().setCurrentItem(1);
+    }
+
+    public static void delay(final Context context) {
+        final Handler handler = new Handler();
+
+        final Runnable returnAction = new Runnable() {
+            @Override
+            public void run() {
+                returnToMainFrag(context);
+            }
+        };
+
+        Runnable background = new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    Thread.sleep(DELAY);
+                    handler.post(returnAction);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        };
+
+        new Thread(background).start();
+    }
+
     public static JSONArray loadNounList(Context context) {
         try {
             InputStream is = context.getAssets().open("nouns.json");
