@@ -1,6 +1,8 @@
-package com.syzible.irishnoungenders;
+package com.syzible.irishnoungenders.utils;
 
 import android.content.Context;
+
+import com.syzible.irishnoungenders.objects.Noun;
 
 import org.json.JSONArray;
 import org.json.JSONException;

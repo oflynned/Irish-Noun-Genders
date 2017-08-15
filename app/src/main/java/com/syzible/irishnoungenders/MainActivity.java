@@ -1,115 +1,93 @@
 package com.syzible.irishnoungenders;
 
+import android.support.annotation.Nullable;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentStatePagerAdapter;
+import android.support.v4.view.PagerAdapter;
+import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
+
+import com.syzible.irishnoungenders.fragments.FeminineFrag;
+import com.syzible.irishnoungenders.fragments.IAnswer;
+import com.syzible.irishnoungenders.fragments.MainFrag;
+import com.syzible.irishnoungenders.fragments.MasculineFrag;
+import com.syzible.irishnoungenders.objects.Noun;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.util.ArrayList;
+
 public class MainActivity extends AppCompatActivity {
 
-    private JSONArray nouns;
-    private JSONObject hints;
-    private TextView gaNounTV, gaNounHintTV, gaNounOtherTV, enTranslationTV, highScoreTV;
+    private static final int PAGER_SIZE = 3;
+    private ViewPager viewPager;
+    private PagerAdapter pagerAdapter;
 
-    private int currentScore = 0;
-    private boolean hasAnimatedNewHighScore = false;
+    public static IAnswer answer;
+    public static Noun currentNoun;
 
-    private Noun currentNoun;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        gaNounTV = (TextView) findViewById(R.id.ga_noun);
-        gaNounHintTV = (TextView) findViewById(R.id.ga_hint);
-        gaNounOtherTV = (TextView) findViewById(R.id.ga_other_words);
-        enTranslationTV = (TextView) findViewById(R.id.en_translation);
-        highScoreTV = (TextView) findViewById(R.id.high_score);
-
-        nouns = Utils.loadNounList(this);
-        hints = Utils.loadNounHints(this);
-
-        Button markMasculine = (Button) findViewById(R.id.mark_masculine);
-        markMasculine.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                generateNewNoun();
-                if(currentNoun.isMasculine()) {
-                    incrementScore();
-                } else {
-                    resetScore();
-                }
-            }
-        });
-
-        Button markFeminine = (Button) findViewById(R.id.mark_feminine);
-        markFeminine.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                generateNewNoun();
-                if (currentNoun.isMasculine()) {
-                    resetScore();
-                } else {
-                    incrementScore();
-                }
-            }
-        });
-
-        generateNewNoun();
-        resetScore();
+        viewPager = (ViewPager) findViewById(R.id.view_pager);
+        pagerAdapter = new PageAdapter(getSupportFragmentManager());
+        viewPager.setAdapter(pagerAdapter);
+        viewPager.setCurrentItem(1);
     }
 
-    private void generateNewNoun() {
-        Noun noun = Utils.getRandomNoun(nouns);
-        currentNoun = noun;
-        boolean shouldShowHints = Utils.shouldShowNounHint(noun, hints);
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+    }
 
-        if (!shouldShowHints) {
-            gaNounTV.setText(noun.getIrishWord());
-            gaNounHintTV.setText("");
-            gaNounOtherTV.setText("");
-        } else {
-            String ending = Utils.getHint(noun, hints);
-            String firstWord = noun.getIrishWord().split(" ")[0];
-            String strippedNoun = firstWord.substring(0, firstWord.length() - ending.length());
-
-            // now we have <stripped><ending>
-            // we need <stripped><ending> <word> <word> ... if more words exist after the initial one
-
-            String otherWords = noun.getIrishWord()
-                    .substring(firstWord.length(), noun.getIrishWord().length());
-
-            gaNounTV.setText(strippedNoun);
-            gaNounHintTV.setText(ending);
-            gaNounOtherTV.setText(otherWords);
+    public int getViewPagerIndex() {
+        if (viewPager == null) {
+            viewPager = (ViewPager) findViewById(R.id.view_pager);
         }
 
-        enTranslationTV.setText(noun.getEnglishTranslation());
+        return viewPager.getCurrentItem();
     }
 
-    private void incrementScore() {
-        currentScore++;
-        highScoreTV.setText(String.valueOf(currentScore));
-
-        if (currentScore > LocalStorage.getHighScore(this)) {
-            // LocalStorage.setHighScore(this, currentScore);
-            hasAnimatedNewHighScore = true;
-            animateHighScore();
+    public ViewPager getViewPager() {
+        if (viewPager == null) {
+            viewPager = (ViewPager) findViewById(R.id.view_pager);
         }
+
+        return viewPager;
     }
 
-    private void resetScore() {
-        currentScore = 0;
-        highScoreTV.setText(String.valueOf(currentScore));
-        hasAnimatedNewHighScore = false;
-    }
+    private class PageAdapter extends FragmentStatePagerAdapter {
+        PageAdapter(FragmentManager fm) {
+            super(fm);
+        }
 
-    private void animateHighScore() {
+        @Override
+        public Fragment getItem(int position) {
+            switch (position) {
+                case 0:
+                    return new MasculineFrag();
+                case 1:
+                    return new MainFrag();
+                case 2:
+                    return new FeminineFrag();
+            }
 
+            return null;
+        }
+
+        @Override
+        public int getCount() {
+            return PAGER_SIZE;
+        }
     }
 }

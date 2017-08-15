@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders;
+package com.syzible.irishnoungenders.objects;
 
 import org.json.JSONArray;
 import org.json.JSONException;
