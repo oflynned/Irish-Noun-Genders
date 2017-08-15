@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
     public static IAnswer answer;
     public static Noun currentNoun;
 
-
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

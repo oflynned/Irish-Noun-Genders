@@ -1,5 +1,6 @@
 package com.syzible.irishnoungenders.fragments;
 
+import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -33,7 +34,6 @@ public class MainFrag extends Fragment {
     private boolean hasAnimatedNewHighScore = false;
 
     public static int currentScore = 0;
-    private ProgressBar loadingBar;
 
     @Nullable
     @Override
