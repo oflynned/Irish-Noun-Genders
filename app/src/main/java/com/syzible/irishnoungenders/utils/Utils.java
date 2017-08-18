@@ -66,6 +66,9 @@ public class Utils {
     }
 
     public static String getFileName(String rawName) {
+        if (rawName.equals("All Categories"))
+            return "*";
+
         return rawName.toLowerCase().replace(" ", "_").replace("&", "and");
     }
 

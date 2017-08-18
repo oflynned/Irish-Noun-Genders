@@ -37,8 +37,8 @@ public class MainFrag extends Fragment {
     private JSONArray nouns, domains;
     private JSONObject hints;
     private TextView gaNounTV, gaNounHintTV, gaNounOtherTV, enTranslationTV, highScoreTV;
-    private Noun lastReceivedNoun;
 
+    private String category;
     private boolean hasAnimatedNewHighScore = false;
 
     public static int currentScore = 0;
@@ -80,6 +80,7 @@ public class MainFrag extends Fragment {
         }
 
         Collections.sort(adapterDomains);
+        category = "*";
 
         ArrayAdapter<String> categoryAdapter = new ArrayAdapter<>(getActivity(),
                 android.R.layout.simple_dropdown_item_1line, adapterDomains);
@@ -88,10 +89,7 @@ public class MainFrag extends Fragment {
         categoryList.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-                String category = adapterDomains.get(position);
-                if (category.equals("All Categories"))
-                    category = "*";
-
+                category = adapterDomains.get(position);
                 category = Utils.getFileName(category);
                 generateNewNoun(category, true);
             }
@@ -102,14 +100,11 @@ public class MainFrag extends Fragment {
             }
         });
 
-        generateNewNoun("*", false);
-        resetScore();
-
         MainActivity.answer = new IAnswer() {
             @Override
             public void onCorrectAnswer() {
                 Utils.delay(getActivity());
-                generateNewNoun("*", false);
+                generateNewNoun(category, false);
                 incrementScore();
             }
 
@@ -120,6 +115,9 @@ public class MainFrag extends Fragment {
                 AnimationsHelper.shakeAnimation(highScoreTV);
             }
         };
+
+        generateNewNoun(category, false);
+        resetScore();
 
         return view;
     }
@@ -136,20 +134,14 @@ public class MainFrag extends Fragment {
                 }
             }
         } else {
-            nouns = Utils.loadNounList(getActivity(), Utils.getFileName(domain));
+            if (wasCategoryChanged)
+                nouns = Utils.loadNounList(getActivity(), Utils.getFileName(domain));
         }
 
         if (!wasCategoryChanged)
             currentIteration++;
 
         currentNoun = Utils.getRandomNoun(nouns);
-
-        if (currentIteration == 0)
-            lastReceivedNoun = currentNoun;
-
-        if (currentNoun == lastReceivedNoun)
-            generateNewNoun(domain, wasCategoryChanged);
-
         boolean shouldShowHints = Utils.shouldShowNounHint(currentNoun, hints);
 
         if (!shouldShowHints) {
