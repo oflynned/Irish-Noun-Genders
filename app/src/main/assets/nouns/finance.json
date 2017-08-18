@@ -1,0 +1,5750 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Consol"
+        ],
+        "ga": "Comhdhlúthán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Eurocurrency",
+            "euro-currency"
+        ],
+        "ga": "Eor-airgeadra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Eurobank"
+        ],
+        "ga": "Eorabhanc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Eurobond"
+        ],
+        "ga": "Eorabhanna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Eurocredit"
+        ],
+        "ga": "Eoraichreidmheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Euromarket"
+        ],
+        "ga": "Eoramhargadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Euronote"
+        ],
+        "ga": "Eoranóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Europaper"
+        ],
+        "ga": "Eorapháipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Eurosystem"
+        ],
+        "ga": "Eurochóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Q-ratio",
+            "Tobins Q"
+        ],
+        "ga": "Q-chóimheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "T-period"
+        ],
+        "ga": "T-thréimhse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "receipt"
+        ],
+        "ga": "admháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air insurance"
+        ],
+        "ga": "aerárachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "face value"
+        ],
+        "ga": "aghaidhluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "agritourism"
+        ],
+        "ga": "agrathurasóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "maturity"
+        ],
+        "ga": "aibíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "angel"
+        ],
+        "ga": "aingeal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nominee"
+        ],
+        "ga": "ainmnitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "denomination"
+        ],
+        "ga": "ainmníocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "money"
+        ],
+        "ga": "airgead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "finance"
+        ],
+        "ga": "airgeadas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "currency"
+        ],
+        "ga": "airgeadra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "moneyness"
+        ],
+        "ga": "airgeadúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "property"
+        ],
+        "ga": "airnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chattel"
+        ],
+        "ga": "airnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "recoupment"
+        ],
+        "ga": "aisghabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "recovery"
+        ],
+        "ga": "aisghabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transitivity"
+        ],
+        "ga": "aistreacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "payback"
+        ],
+        "ga": "aisíoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "return"
+        ],
+        "ga": "aisíoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "repayment"
+        ],
+        "ga": "aisíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chargeback"
+        ],
+        "ga": "aisíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "import"
+        ],
+        "ga": "allmhaire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "importer"
+        ],
+        "ga": "allmhaireoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "speculator"
+        ],
+        "ga": "amhantraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "speculation"
+        ],
+        "ga": "amhantraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crude oil"
+        ],
+        "ga": "amhola",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "raw material"
+        ],
+        "ga": "amhábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "time value"
+        ],
+        "ga": "amluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "time line",
+            "timeline"
+        ],
+        "ga": "amlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "time series"
+        ],
+        "ga": "amshraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "superannuation allowance"
+        ],
+        "ga": "aoisliúntas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "superannuation"
+        ],
+        "ga": "aoisliúntas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "arbitrage"
+        ],
+        "ga": "arbatráiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "arbitrageur"
+        ],
+        "ga": "arbatráisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "deduction"
+        ],
+        "ga": "asbhaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "extraction"
+        ],
+        "ga": "asbhaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deductible"
+        ],
+        "ga": "asbhainteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "repurchase"
+        ],
+        "ga": "athcheannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reverse split"
+        ],
+        "ga": "athchumasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "revaluation"
+        ],
+        "ga": "athluacháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "variation"
+        ],
+        "ga": "athrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "re-insurance"
+        ],
+        "ga": "athárachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "swap"
+        ],
+        "ga": "babhtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "banker"
+        ],
+        "ga": "baincéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "banking"
+        ],
+        "ga": "baincéireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bank"
+        ],
+        "ga": "banc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bancassurance"
+        ],
+        "ga": "banc-árachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bond"
+        ],
+        "ga": "banna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "economy"
+        ],
+        "ga": "barainneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "surplus"
+        ],
+        "ga": "barrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "warrant"
+        ],
+        "ga": "barántas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basket"
+        ],
+        "ga": "bascaed",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "impairment"
+        ],
+        "ga": "bearnúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transacting"
+        ],
+        "ga": "beartaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bill"
+        ],
+        "ga": "bille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "debenture"
+        ],
+        "ga": "bintiúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "premium"
+        ],
+        "ga": "biseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "annuity"
+        ],
+        "ga": "blianacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "annuitisation"
+        ],
+        "ga": "blianachtú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basis"
+        ],
+        "ga": "bonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "base year"
+        ],
+        "ga": "bonnbhliain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "base date"
+        ],
+        "ga": "bonndáta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "base value"
+        ],
+        "ga": "bonnluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "basis point"
+        ],
+        "ga": "bonnphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "basis rate"
+        ],
+        "ga": "bonnráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "base effect"
+        ],
+        "ga": "bonnéifeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "board"
+        ],
+        "ga": "bord",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "financial return"
+        ],
+        "ga": "brabach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gain"
+        ],
+        "ga": "brabús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "profit"
+        ],
+        "ga": "brabús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "profitability"
+        ],
+        "ga": "brabúsacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "umbrella policy"
+        ],
+        "ga": "bratpholasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "added value"
+        ],
+        "ga": "breisluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bootstrapping"
+        ],
+        "ga": "brógstrapáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "broker"
+        ],
+        "ga": "bróicéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "permanent subadvance"
+        ],
+        "ga": "buanairleacan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "budget"
+        ],
+        "ga": "buiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bull"
+        ],
+        "ga": "bulla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "underlying property"
+        ],
+        "ga": "bun-réadmhaoin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core capital",
+            "tier 1 capital"
+        ],
+        "ga": "bunchaipiteal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "original issue"
+        ],
+        "ga": "buneisiúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "primary market"
+        ],
+        "ga": "bunmhargadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "base rate"
+        ],
+        "ga": "bunráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "underlying asset"
+        ],
+        "ga": "bunsócmhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "profit"
+        ],
+        "ga": "buntáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bear"
+        ],
+        "ga": "béar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bearishness"
+        ],
+        "ga": "béarachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bear market"
+        ],
+        "ga": "béarmhargadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "beta"
+        ],
+        "ga": "béite",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bonus"
+        ],
+        "ga": "bónas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "capitalization issue",
+            "free issue",
+            "scrip issue",
+            "bonus-issue",
+            "script issue",
+            "bonus issue"
+        ],
+        "ga": "bónaseisiúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cap"
+        ],
+        "ga": "caidhp",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cap option",
+            "option on a cap",
+            "caption"
+        ],
+        "ga": "caidhp-rogha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "capping"
+        ],
+        "ga": "caidhpeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "loss"
+        ],
+        "ga": "caillteanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cheating"
+        ],
+        "ga": "caimiléireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conduit"
+        ],
+        "ga": "cainéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "capital"
+        ],
+        "ga": "caipiteal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "capitalism"
+        ],
+        "ga": "caipitleachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "credit"
+        ],
+        "ga": "cairde",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "charterer"
+        ],
+        "ga": "cairtfhostóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cartel"
+        ],
+        "ga": "cairtéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spending",
+            "spend"
+        ],
+        "ga": "caiteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consumption"
+        ],
+        "ga": "caitheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "freeze"
+        ],
+        "ga": "calcadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "carriage"
+        ],
+        "ga": "carraeireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "commitment"
+        ],
+        "ga": "ceangaltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "buying",
+            "purchasing"
+        ],
+        "ga": "ceannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "purchase"
+        ],
+        "ga": "ceannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "purchase"
+        ],
+        "ga": "ceannachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "leadership"
+        ],
+        "ga": "ceannaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "buyer",
+            "purchaser"
+        ],
+        "ga": "ceannaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "merchant",
+            "buyer"
+        ],
+        "ga": "ceannaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "auction"
+        ],
+        "ga": "ceant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "auctioning",
+            "auction"
+        ],
+        "ga": "ceantáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "auctioneer"
+        ],
+        "ga": "ceantálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "remote banking"
+        ],
+        "ga": "cianbhaincéireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "remote payment"
+        ],
+        "ga": "cianíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "determination"
+        ],
+        "ga": "cinntiúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rationing"
+        ],
+        "ga": "ciondáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fund"
+        ],
+        "ga": "ciste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "treasurer"
+        ],
+        "ga": "cisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "treasury"
+        ],
+        "ga": "cistíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "client"
+        ],
+        "ga": "cliant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "clientele"
+        ],
+        "ga": "cliantacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bullet"
+        ],
+        "ga": "cnap-aisíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lump sum"
+        ],
+        "ga": "cnapshuim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "balloon payment"
+        ],
+        "ga": "cnapíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "saving"
+        ],
+        "ga": "coigilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "savings"
+        ],
+        "ga": "coigilteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "saver"
+        ],
+        "ga": "coigilteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "collar"
+        ],
+        "ga": "coiléar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "collar"
+        ],
+        "ga": "coiléar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "commission"
+        ],
+        "ga": "coimisiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "retention"
+        ],
+        "ga": "coinneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conditionality"
+        ],
+        "ga": "coinníollacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "consignment"
+        ],
+        "ga": "coinsíneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "consideration"
+        ],
+        "ga": "comaoin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "succession"
+        ],
+        "ga": "comharbas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cooperative",
+            "co-operative society",
+            "co-operative"
+        ],
+        "ga": "comharchumann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "covariance"
+        ],
+        "ga": "comhathraitheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trade-off"
+        ],
+        "ga": "comhbhabhtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comanager"
+        ],
+        "ga": "comhbhainisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "correlation"
+        ],
+        "ga": "comhchoibhneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joint account"
+        ],
+        "ga": "comhchuntas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joint venture"
+        ],
+        "ga": "comhfhiontar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "correspondent"
+        ],
+        "ga": "comhfhreagraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collective investment"
+        ],
+        "ga": "comhinfheistíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aggregate"
+        ],
+        "ga": "comhiomlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aggregate"
+        ],
+        "ga": "comhiomlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gross"
+        ],
+        "ga": "comhlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "float"
+        ],
+        "ga": "comhlúthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "partnership"
+        ],
+        "ga": "comhpháirtíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "composition"
+        ],
+        "ga": "comhshuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conversion"
+        ],
+        "ga": "comhshóiteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "convertible"
+        ],
+        "ga": "comhshóiteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joint stock"
+        ],
+        "ga": "comhstoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collateral"
+        ],
+        "ga": "comhthaobhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "co-insurance"
+        ],
+        "ga": "comhárachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "co-owner"
+        ],
+        "ga": "comhúinéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "corridor"
+        ],
+        "ga": "conair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "corporation"
+        ],
+        "ga": "corparáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "edge"
+        ],
+        "ga": "corr",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "margin"
+        ],
+        "ga": "corrlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "krone"
+        ],
+        "ga": "coróin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cost"
+        ],
+        "ga": "costas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wash"
+        ],
+        "ga": "cothromacan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sweepstake",
+            "sweepstakes",
+            "sweep"
+        ],
+        "ga": "crannchur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vulture fund"
+        ],
+        "ga": "creach-chiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "creditor"
+        ],
+        "ga": "creidiúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "credit"
+        ],
+        "ga": "creidmheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cross"
+        ],
+        "ga": "crosáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blank"
+        ],
+        "ga": "crotán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hardship"
+        ],
+        "ga": "cruatan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "exact matching"
+        ],
+        "ga": "cruinnmheaitseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "effectiveness"
+        ],
+        "ga": "críochnúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "merger"
+        ],
+        "ga": "cumasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coverage",
+            "covering",
+            "cover"
+        ],
+        "ga": "cumhdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coverage",
+            "protection"
+        ],
+        "ga": "cumhdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "counter"
+        ],
+        "ga": "cuntar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "account",
+            "a/c"
+        ],
+        "ga": "cuntas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "accounting"
+        ],
+        "ga": "cuntasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "accountant"
+        ],
+        "ga": "cuntasóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "accountancy"
+        ],
+        "ga": "cuntasóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quota"
+        ],
+        "ga": "cuóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "goodwill"
+        ],
+        "ga": "cáilmheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "tax"
+        ],
+        "ga": "cáin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "budget"
+        ],
+        "ga": "cáinaisnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tax expert"
+        ],
+        "ga": "cáineolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "taxpayer"
+        ],
+        "ga": "cáiníocóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rent"
+        ],
+        "ga": "cíos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rental"
+        ],
+        "ga": "cíos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kopeck"
+        ],
+        "ga": "cóipeic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "duplication"
+        ],
+        "ga": "cóipeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "accommodation"
+        ],
+        "ga": "cóiríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compensation"
+        ],
+        "ga": "cúiteamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "backward integration"
+        ],
+        "ga": "cúl-chomhcheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cushion"
+        ],
+        "ga": "cúlchiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reserve fund",
+            "monetary reserve",
+            "reserve"
+        ],
+        "ga": "cúlchiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "float"
+        ],
+        "ga": "cúlchnap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "retro-rating"
+        ],
+        "ga": "cúlrátáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "covenant"
+        ],
+        "ga": "cúnant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coupon"
+        ],
+        "ga": "cúpón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "circulation"
+        ],
+        "ga": "cúrsaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "\"good bank\""
+        ],
+        "ga": "dea-bhanc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "absolute amount"
+        ],
+        "ga": "dearbhmhéid",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "absolute priority"
+        ],
+        "ga": "dearbhthosaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "voucher"
+        ],
+        "ga": "dearbhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "red herring"
+        ],
+        "ga": "deargeolaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "endowment"
+        ],
+        "ga": "dearlaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "delta"
+        ],
+        "ga": "deilte",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "opportunity cost"
+        ],
+        "ga": "deischostas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grant"
+        ],
+        "ga": "deontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "divergence"
+        ],
+        "ga": "dibhéirseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "differentiation"
+        ],
+        "ga": "difreáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "indenture"
+        ],
+        "ga": "dintiúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dingo"
+        ],
+        "ga": "diongó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ducat"
+        ],
+        "ga": "diúcat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "duty"
+        ],
+        "ga": "dleacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dollar"
+        ],
+        "ga": "dollar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dun"
+        ],
+        "ga": "donnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "drachma"
+        ],
+        "ga": "drachma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "junk bond"
+        ],
+        "ga": "dramhbhanna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "incentive"
+        ],
+        "ga": "dreasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bad bank",
+            "hive-off structure"
+        ],
+        "ga": "drochbhanc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "convexity"
+        ],
+        "ga": "dronnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slip"
+        ],
+        "ga": "duillín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "duopsony"
+        ],
+        "ga": "dé-opsanacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dealer"
+        ],
+        "ga": "déileálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dual aspect"
+        ],
+        "ga": "déthreoíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "decomposition"
+        ],
+        "ga": "dí-chomhdhéanamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dividend"
+        ],
+        "ga": "díbhinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deflator"
+        ],
+        "ga": "díbhoilsceoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "best effort"
+        ],
+        "ga": "dícheall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "proprietor"
+        ],
+        "ga": "dílseánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "proprietorship"
+        ],
+        "ga": "dílseánacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "devaluation"
+        ],
+        "ga": "díluacháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "depreciation"
+        ],
+        "ga": "dímheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "exemption"
+        ],
+        "ga": "díolúine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "derivative instrument",
+            "derivative"
+        ],
+        "ga": "díorthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "insolvency"
+        ],
+        "ga": "dócmhainneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "economist"
+        ],
+        "ga": "eacnamaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "economics"
+        ],
+        "ga": "eacnamaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "grid"
+        ],
+        "ga": "eangach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "good",
+            "ware"
+        ],
+        "ga": "earra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tail event"
+        ],
+        "ga": "earrtheagmhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deficit"
+        ],
+        "ga": "easnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "estate"
+        ],
+        "ga": "eastát",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "exonumia"
+        ],
+        "ga": "eiseanúime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "exclusion"
+        ],
+        "ga": "eisiamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "emission"
+        ],
+        "ga": "eisiúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "issuance",
+            "issue"
+        ],
+        "ga": "eisiúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eurodollar"
+        ],
+        "ga": "eoradhollar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "eurobill"
+        ],
+        "ga": "euro-bhille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "factor"
+        ],
+        "ga": "fachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "factoring"
+        ],
+        "ga": "fachtóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "long run",
+            "long-run period"
+        ],
+        "ga": "fadtréimhse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "observatory"
+        ],
+        "ga": "faireachlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inventory"
+        ],
+        "ga": "fardal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "debt"
+        ],
+        "ga": "fiachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "return"
+        ],
+        "ga": "filleadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "enterprise"
+        ],
+        "ga": "fiontar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "worth"
+        ],
+        "ga": "fiúchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subordinated exposure"
+        ],
+        "ga": "fo-neamhchosaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subordinated debenture"
+        ],
+        "ga": "fobhintiúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subsidiary"
+        ],
+        "ga": "fochuideachta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subordinated debt",
+            "junior debt"
+        ],
+        "ga": "fofhiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subordinate debt"
+        ],
+        "ga": "fofhiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sub-item"
+        ],
+        "ga": "fomhír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subparticipation"
+        ],
+        "ga": "fopháirteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "developer"
+        ],
+        "ga": "forbróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "overhead",
+            "overhead cost"
+        ],
+        "ga": "forchostas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tender offer"
+        ],
+        "ga": "forthairiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "subgoal"
+        ],
+        "ga": "fosprioc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "employer"
+        ],
+        "ga": "fostóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subenvironment"
+        ],
+        "ga": "fothimpeallacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "franc"
+        ],
+        "ga": "franc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "counterpurchase"
+        ],
+        "ga": "frithcheannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "underwriter"
+        ],
+        "ga": "frithgheallaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "offset"
+        ],
+        "ga": "fritháireamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "countertrade"
+        ],
+        "ga": "fritrádáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "redemption"
+        ],
+        "ga": "fuascailt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "receipt"
+        ],
+        "ga": "fáltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "debtor"
+        ],
+        "ga": "féichiúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bankruptcy"
+        ],
+        "ga": "féimheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-employment"
+        ],
+        "ga": "féinfhostaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-tender"
+        ],
+        "ga": "féintairiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "self-insurance"
+        ],
+        "ga": "féinárachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "real cost"
+        ],
+        "ga": "fíorchostas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "real growth"
+        ],
+        "ga": "fíorfhás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subsidy"
+        ],
+        "ga": "fóirdheontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "servicing"
+        ],
+        "ga": "fónamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "forum"
+        ],
+        "ga": "fóram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shortage"
+        ],
+        "ga": "ganntanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "accommodation"
+        ],
+        "ga": "garaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "promisee"
+        ],
+        "ga": "geallaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "writer"
+        ],
+        "ga": "geallaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stakeholder"
+        ],
+        "ga": "geallsealbhóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "promisor"
+        ],
+        "ga": "geallóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "short bill"
+        ],
+        "ga": "gearrbhille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "short term",
+            "short-term"
+        ],
+        "ga": "gearrthéarma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gearing"
+        ],
+        "ga": "giaráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guilder"
+        ],
+        "ga": "gildear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "receiver"
+        ],
+        "ga": "glacadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "acceptor"
+        ],
+        "ga": "glacóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "net float"
+        ],
+        "ga": "glan-chúlchnap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "net basis"
+        ],
+        "ga": "glanbhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "net loss"
+        ],
+        "ga": "glanchaillteanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "net capital"
+        ],
+        "ga": "glanchaipiteal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "net worth"
+        ],
+        "ga": "glanfhiúchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "net gain"
+        ],
+        "ga": "glanghnóthachan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "net borrowing"
+        ],
+        "ga": "glaniasachtaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "net investment"
+        ],
+        "ga": "glaninfheistíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "net revenue",
+            "net effective income"
+        ],
+        "ga": "glanioncam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "net value"
+        ],
+        "ga": "glanluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "netting"
+        ],
+        "ga": "glanluacháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "net amount"
+        ],
+        "ga": "glanmhéid",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "net settlement"
+        ],
+        "ga": "glansocraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "net space"
+        ],
+        "ga": "glanspás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "net asset"
+        ],
+        "ga": "glansócmhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "net calculation"
+        ],
+        "ga": "glanáireamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "call market"
+        ],
+        "ga": "glaomhargadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "call rate"
+        ],
+        "ga": "glaoráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lock"
+        ],
+        "ga": "glas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "greenmail"
+        ],
+        "ga": "glasmhál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mover"
+        ],
+        "ga": "gluaisneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plain vanilla swap"
+        ],
+        "ga": "gnáthbhabhtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common equity"
+        ],
+        "ga": "gnáthchothromas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "equity share",
+            "ordinary share",
+            "equity"
+        ],
+        "ga": "gnáthscair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common stock"
+        ],
+        "ga": "gnáthstoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "agent"
+        ],
+        "ga": "gníomhaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gain"
+        ],
+        "ga": "gnóthachan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "blue chip"
+        ],
+        "ga": "gormshlis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "group insurance"
+        ],
+        "ga": "grúpárachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gamma"
+        ],
+        "ga": "gáma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "heteroscedasticity"
+        ],
+        "ga": "heitrisceideastacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "homoscedasticity"
+        ],
+        "ga": "homaisceideastacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "annuity in arrears"
+        ],
+        "ga": "iarbhlianacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "asking"
+        ],
+        "ga": "iarraidh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "borrower"
+        ],
+        "ga": "iasachtaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lender"
+        ],
+        "ga": "iasachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deal",
+            "transaction"
+        ],
+        "ga": "idirbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intervention"
+        ],
+        "ga": "idirghabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "intermediary"
+        ],
+        "ga": "idirghabhálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fungibility"
+        ],
+        "ga": "idirmhalartacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interlinking"
+        ],
+        "ga": "idirnascacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "conglomerate"
+        ],
+        "ga": "ilchuideachta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blanket-inventory"
+        ],
+        "ga": "ilfhardal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clearance"
+        ],
+        "ga": "imréiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clearing"
+        ],
+        "ga": "imréiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "compounding",
+            "composition"
+        ],
+        "ga": "imshocraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "convertibility"
+        ],
+        "ga": "in-chomhshóiteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collectability"
+        ],
+        "ga": "inbhailitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "manageability"
+        ],
+        "ga": "inbhainistitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "creditworthiness"
+        ],
+        "ga": "inchairde",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comparability"
+        ],
+        "ga": "inchomparáideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "increment"
+        ],
+        "ga": "incrimint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "increment"
+        ],
+        "ga": "incrimint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "marketability",
+            "saleability",
+            "merchantability",
+            "merchantableness"
+        ],
+        "ga": "indíoltacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "investor"
+        ],
+        "ga": "infheisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "auditee"
+        ],
+        "ga": "iniúchaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "auditor"
+        ],
+        "ga": "iniúchóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "convertibility"
+        ],
+        "ga": "inmhalartacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contents",
+            "content"
+        ],
+        "ga": "inneachar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pensionability"
+        ],
+        "ga": "inphinseanacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "payability"
+        ],
+        "ga": "iníocthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "multiplier"
+        ],
+        "ga": "iolraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "redundancy"
+        ],
+        "ga": "iomarcaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "income"
+        ],
+        "ga": "ioncam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "expectation"
+        ],
+        "ga": "ionchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "instrument"
+        ],
+        "ga": "ionstraim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trust"
+        ],
+        "ga": "iontaobhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trustee"
+        ],
+        "ga": "iontaobhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "job code"
+        ],
+        "ga": "jabchód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "impairment"
+        ],
+        "ga": "laige",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "concession"
+        ],
+        "ga": "lamháltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "concessionaire"
+        ],
+        "ga": "lamháltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bias"
+        ],
+        "ga": "laofacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "discount"
+        ],
+        "ga": "lascaine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "freight charge",
+            "freight",
+            "freightage"
+        ],
+        "ga": "last-táille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shipment"
+        ],
+        "ga": "lastas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lotto"
+        ],
+        "ga": "lató",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "book-keeping",
+            "bookkeeping"
+        ],
+        "ga": "leabharchoimeád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "liquidity"
+        ],
+        "ga": "leachtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interest"
+        ],
+        "ga": "leas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "half-sovereign"
+        ],
+        "ga": "leathshabhran",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lien"
+        ],
+        "ga": "lian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "allowance"
+        ],
+        "ga": "liúntas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "defaulter"
+        ],
+        "ga": "loiceach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shipowner"
+        ],
+        "ga": "longúinéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "value fund"
+        ],
+        "ga": "luach-chiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "quotation"
+        ],
+        "ga": "luachan",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "evaluation"
+        ],
+        "ga": "luacháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "volatility"
+        ],
+        "ga": "luaineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lading"
+        ],
+        "ga": "ládáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "turnover"
+        ],
+        "ga": "láimhdeachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lease"
+        ],
+        "ga": "léas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "leasehold"
+        ],
+        "ga": "léasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lessee"
+        ],
+        "ga": "léasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lessor"
+        ],
+        "ga": "léasóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "representation"
+        ],
+        "ga": "léiriúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "linearity"
+        ],
+        "ga": "líneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "macroeconomics",
+            "macro-economics",
+            "macro economics"
+        ],
+        "ga": "maicreacnamaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "default"
+        ],
+        "ga": "mainneachtain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "forgiveness"
+        ],
+        "ga": "maitheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "forgiveness"
+        ],
+        "ga": "maithiúnas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "funder"
+        ],
+        "ga": "maoinitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mitigant"
+        ],
+        "ga": "maolaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deadweight"
+        ],
+        "ga": "marbhualach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "marking"
+        ],
+        "ga": "marcáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "marking"
+        ],
+        "ga": "marcáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mark"
+        ],
+        "ga": "marg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "market"
+        ],
+        "ga": "margadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "market price"
+        ],
+        "ga": "margadhphraghas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "quick ratio"
+        ],
+        "ga": "mearchóimheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quick-lodge"
+        ],
+        "ga": "mearthaisce",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mean zero"
+        ],
+        "ga": "meán-nialas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "average maturity"
+        ],
+        "ga": "meánaibíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mean variance"
+        ],
+        "ga": "meánathraitheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "average total"
+        ],
+        "ga": "meániomlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mean value"
+        ],
+        "ga": "meánluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "average price"
+        ],
+        "ga": "meánphraghas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "middle price"
+        ],
+        "ga": "meánphraghas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "average rate"
+        ],
+        "ga": "meánráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "average return"
+        ],
+        "ga": "meántoradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "medium term"
+        ],
+        "ga": "meántéarma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "microeconomics",
+            "micro-economics"
+        ],
+        "ga": "micreacnamaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "microlettering"
+        ],
+        "ga": "micrilitreoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "micro-printing",
+            "microtext"
+        ],
+        "ga": "micriphriontáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sweetener"
+        ],
+        "ga": "milsitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "petty cash",
+            "petty cash fund"
+        ],
+        "ga": "mionairgead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mini-budget"
+        ],
+        "ga": "mionbhuiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "retail sales"
+        ],
+        "ga": "miondíolachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coin",
+            "coinage"
+        ],
+        "ga": "mona",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coin"
+        ],
+        "ga": "mona",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "monopoly"
+        ],
+        "ga": "monaplacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "coinage"
+        ],
+        "ga": "monaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mortgage"
+        ],
+        "ga": "morgáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "average"
+        ],
+        "ga": "muirchaill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "master printing plate"
+        ],
+        "ga": "máistir-chlóphláta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "excise"
+        ],
+        "ga": "mál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lot"
+        ],
+        "ga": "mír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "snake"
+        ],
+        "ga": "nathair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "exposure"
+        ],
+        "ga": "neamhchosaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "non-derivative"
+        ],
+        "ga": "neamhdhíorthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "illiquidity"
+        ],
+        "ga": "neamhleachtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "discrepancy"
+        ],
+        "ga": "neamhréiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "independence"
+        ],
+        "ga": "neamhspleáchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "new issue"
+        ],
+        "ga": "nua-eisiúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "novation"
+        ],
+        "ga": "nuachan",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "note",
+            "annotation"
+        ],
+        "ga": "nóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "huckster"
+        ],
+        "ga": "ocastóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "heir"
+        ],
+        "ga": "oidhre",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "oligopoly"
+        ],
+        "ga": "olagaplacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gross outlay"
+        ],
+        "ga": "oll-eisíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gross investment",
+            "gross capital formation"
+        ],
+        "ga": "oll-infheistíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gross value"
+        ],
+        "ga": "oll-luach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gross income"
+        ],
+        "ga": "ollioncam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gross wage"
+        ],
+        "ga": "ollphá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "super majority"
+        ],
+        "ga": "olltromlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palimony"
+        ],
+        "ga": "pailiúnas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "par"
+        ],
+        "ga": "par",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "par value"
+        ],
+        "ga": "parluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "petrodollar"
+        ],
+        "ga": "peitreadollar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "perk",
+            "perquisite"
+        ],
+        "ga": "peorcais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "peseta"
+        ],
+        "ga": "peseta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pension"
+        ],
+        "ga": "pinsean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pensioner",
+            "retiree"
+        ],
+        "ga": "pinsinéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pegging"
+        ],
+        "ga": "pionnáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "policy"
+        ],
+        "ga": "polasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "post"
+        ],
+        "ga": "post",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "price"
+        ],
+        "ga": "praghas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prompt cash"
+        ],
+        "ga": "prapairgead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prompt demand"
+        ],
+        "ga": "prapéileamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "premium"
+        ],
+        "ga": "préimh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bookrunner"
+        ],
+        "ga": "príomh-fhrithgheallaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "principal"
+        ],
+        "ga": "príomhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prime bank"
+        ],
+        "ga": "príomhbhanc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prime broker"
+        ],
+        "ga": "príomhbhróicéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "principal"
+        ],
+        "ga": "príomhshuim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "pro-numeral"
+        ],
+        "ga": "pró-uimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "punch"
+        ],
+        "ga": "puinseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "portfolio"
+        ],
+        "ga": "punann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pound"
+        ],
+        "ga": "punt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pay"
+        ],
+        "ga": "pá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wages",
+            "wage"
+        ],
+        "ga": "pá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "part-reimbursement"
+        ],
+        "ga": "páirt-aisíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "part-period cover",
+            "side financing"
+        ],
+        "ga": "páirtchumhdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "partial share"
+        ],
+        "ga": "páirtscair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "party"
+        ],
+        "ga": "páirtí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wealth"
+        ],
+        "ga": "rachmas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contribution"
+        ],
+        "ga": "ranníocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spread trading"
+        ],
+        "ga": "raontrádáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "governance"
+        ],
+        "ga": "rialachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "arrears"
+        ],
+        "ga": "riaráiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lagging"
+        ],
+        "ga": "righneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "risk"
+        ],
+        "ga": "riosca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "risk"
+        ],
+        "ga": "riosca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "riskmetrics"
+        ],
+        "ga": "rioscamhéadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "option"
+        ],
+        "ga": "rogha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "selectivity"
+        ],
+        "ga": "roghnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "swaption"
+        ],
+        "ga": "roghtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "option look-alike"
+        ],
+        "ga": "roghán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "freehold"
+        ],
+        "ga": "ruíleas",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guarantee"
+        ],
+        "ga": "ráth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "safeguard"
+        ],
+        "ga": "ráthaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guarantor"
+        ],
+        "ga": "ráthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rating"
+        ],
+        "ga": "rátáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "property"
+        ],
+        "ga": "réadmhaoin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "forward integration"
+        ],
+        "ga": "réamh-chomhcheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "forward transaction"
+        ],
+        "ga": "réamh-idirbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "predictor"
+        ],
+        "ga": "réamhaithriseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "forward swap"
+        ],
+        "ga": "réamhbhabhtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "forward premium"
+        ],
+        "ga": "réamhbhiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "annuity in advance"
+        ],
+        "ga": "réamhbhlianacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "advance commitment"
+        ],
+        "ga": "réamhcheangaltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pre-emption"
+        ],
+        "ga": "réamhcheannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "forward auction"
+        ],
+        "ga": "réamhcheant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "preliminary tax"
+        ],
+        "ga": "réamhcháin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ratio forward"
+        ],
+        "ga": "réamhchóimheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "forward sale"
+        ],
+        "ga": "réamhdhíol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "prospectus"
+        ],
+        "ga": "réamheolaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pre-borrow"
+        ],
+        "ga": "réamhiasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "forward price"
+        ],
+        "ga": "réamhphraghas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "forward option"
+        ],
+        "ga": "réamhrogha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "forward rate"
+        ],
+        "ga": "réamhráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sub"
+        ],
+        "ga": "réamhsciar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "forward trade"
+        ],
+        "ga": "réamhthrádáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "forward table"
+        ],
+        "ga": "réamhthábla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "advance payment",
+            "advance"
+        ],
+        "ga": "réamhíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prepayment"
+        ],
+        "ga": "réamhíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "delinquency"
+        ],
+        "ga": "rédhliteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "electronic transaction"
+        ],
+        "ga": "ríomh-idirbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "e-banking"
+        ],
+        "ga": "ríomhbhaincéireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "computer banking",
+            "electronic banking"
+        ],
+        "ga": "ríomhbhaincéireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "e-payment"
+        ],
+        "ga": "ríomhíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rho"
+        ],
+        "ga": "ró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "over-allotment"
+        ],
+        "ga": "ró-leithroinnt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "over-insurance"
+        ],
+        "ga": "ró-árachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overshooting"
+        ],
+        "ga": "róluaineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rouble"
+        ],
+        "ga": "rúbal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "franchise"
+        ],
+        "ga": "saincheadúnas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "characteristic line"
+        ],
+        "ga": "sainlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "free equity"
+        ],
+        "ga": "saorchothromas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "free zone"
+        ],
+        "ga": "saorlimistéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "free market"
+        ],
+        "ga": "saormhargadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "free trade"
+        ],
+        "ga": "saorthrádáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "share"
+        ],
+        "ga": "scair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "share-capital"
+        ],
+        "ga": "scairchaipiteal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "share price"
+        ],
+        "ga": "scairphraghas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shareholder"
+        ],
+        "ga": "scairshealbhóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "panic pricing"
+        ],
+        "ga": "scaollphraghsáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shilling"
+        ],
+        "ga": "scilling",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "strangle"
+        ],
+        "ga": "sciúchaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cutoff point",
+            "cut-off point"
+        ],
+        "ga": "scoithphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prime area"
+        ],
+        "ga": "scothcheantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "prime location"
+        ],
+        "ga": "scothláthair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cherry picker"
+        ],
+        "ga": "scothroghnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prime situation"
+        ],
+        "ga": "scothshuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sweep account"
+        ],
+        "ga": "scuabchuntas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sweep"
+        ],
+        "ga": "scuaibín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "offshore currency"
+        ],
+        "ga": "seachairgeadra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "proxy vote",
+            "proxy"
+        ],
+        "ga": "seachvóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "proxy"
+        ],
+        "ga": "seachvótálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "possessor"
+        ],
+        "ga": "sealbhóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "holding"
+        ],
+        "ga": "sealúchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cheque",
+            "check"
+        ],
+        "ga": "seic",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shelf life"
+        ],
+        "ga": "seilfré",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "backtesting"
+        ],
+        "ga": "siarthástáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "syndicate"
+        ],
+        "ga": "sindeacáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "seniority"
+        ],
+        "ga": "sinsearacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bargain price"
+        ],
+        "ga": "sladmhargadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chip card"
+        ],
+        "ga": "slischárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "smoking"
+        ],
+        "ga": "smócáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "crawling peg"
+        ],
+        "ga": "snámhphionnáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "settlement"
+        ],
+        "ga": "socraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "invoice",
+            "inv."
+        ],
+        "ga": "sonrasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dependence"
+        ],
+        "ga": "spleáchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spot transaction"
+        ],
+        "ga": "spot-idirbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spot trade"
+        ],
+        "ga": "spot-trádáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spot date"
+        ],
+        "ga": "spotdáta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spot market"
+        ],
+        "ga": "spotmhargadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spot price"
+        ],
+        "ga": "spotphraghas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spot rate"
+        ],
+        "ga": "spotráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spot position"
+        ],
+        "ga": "spotsuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "target zone"
+        ],
+        "ga": "sprioc-chrios",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "target ratio"
+        ],
+        "ga": "sprioc-chóimheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shortfall",
+            "short-fall"
+        ],
+        "ga": "sprioceasnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "target firm"
+        ],
+        "ga": "spriocghnólacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spoofing"
+        ],
+        "ga": "spúfáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "straddle"
+        ],
+        "ga": "srathair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "restraint"
+        ],
+        "ga": "srian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "restriction"
+        ],
+        "ga": "sriantacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stop price"
+        ],
+        "ga": "stadphraghas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "position"
+        ],
+        "ga": "staid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "strike"
+        ],
+        "ga": "stailc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sterling",
+            "stg"
+        ],
+        "ga": "steirling",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "strip"
+        ],
+        "ga": "stiall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stock"
+        ],
+        "ga": "stoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stockbroker"
+        ],
+        "ga": "stocbhróicéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stock exchange"
+        ],
+        "ga": "stocmhalartán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stock market",
+            "stockmarket"
+        ],
+        "ga": "stocmhargadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stockholder"
+        ],
+        "ga": "stocshealbhóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "strategy"
+        ],
+        "ga": "straitéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "strap"
+        ],
+        "ga": "strapa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "exchequer"
+        ],
+        "ga": "státchiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "state treasury",
+            "treasury"
+        ],
+        "ga": "státchiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "subscription"
+        ],
+        "ga": "suibscríbhinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "amount"
+        ],
+        "ga": "suim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "additivity"
+        ],
+        "ga": "suimitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "perpetuity"
+        ],
+        "ga": "suthaine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "outperformer"
+        ],
+        "ga": "sárfheidhmeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "market high flyer"
+        ],
+        "ga": "sárscair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "extension"
+        ],
+        "ga": "síneadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seed grant"
+        ],
+        "ga": "síoldeontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "asset"
+        ],
+        "ga": "sócmhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "change"
+        ],
+        "ga": "sóinseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "donation"
+        ],
+        "ga": "tabhartas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tangent"
+        ],
+        "ga": "tadhlaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bidder"
+        ],
+        "ga": "tairgeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bid"
+        ],
+        "ga": "tairiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "depositor"
+        ],
+        "ga": "taisceoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "depository"
+        ],
+        "ga": "taisclann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shakeout"
+        ],
+        "ga": "tanúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tariff"
+        ],
+        "ga": "taraif",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drawer"
+        ],
+        "ga": "tarraingeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "drawee"
+        ],
+        "ga": "tarraingí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bailout",
+            "bail out"
+        ],
+        "ga": "tarrtháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "standby"
+        ],
+        "ga": "teannta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "underspend"
+        ],
+        "ga": "tearc-chaitheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "underinsurance"
+        ],
+        "ga": "tearc-árachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "underperformance"
+        ],
+        "ga": "tearcfheidhmíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "underbidding"
+        ],
+        "ga": "tearcthairiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "telebanking"
+        ],
+        "ga": "teileabhaincéireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cycle"
+        ],
+        "ga": "timthriall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "industry"
+        ],
+        "ga": "tionscal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "industrialization",
+            "industrialisation"
+        ],
+        "ga": "tionsclaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tenant"
+        ],
+        "ga": "tionónta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "levy"
+        ],
+        "ga": "tobhach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "futures",
+            "futures contract"
+        ],
+        "ga": "todhchaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "proposer"
+        ],
+        "ga": "togróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consumption"
+        ],
+        "ga": "tomhaltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "yield",
+            "return"
+        ],
+        "ga": "toradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cross-holding"
+        ],
+        "ga": "tras-sealúchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cross-rate"
+        ],
+        "ga": "trasráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "leading indicator"
+        ],
+        "ga": "treoirtháscaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "commodity"
+        ],
+        "ga": "tráchtearra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "commerce"
+        ],
+        "ga": "tráchtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trade name"
+        ],
+        "ga": "trádainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "warehousing"
+        ],
+        "ga": "trádstóráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dealing"
+        ],
+        "ga": "trádáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trade"
+        ],
+        "ga": "trádáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trader"
+        ],
+        "ga": "trádálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tranche"
+        ],
+        "ga": "tráinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "instalment saving"
+        ],
+        "ga": "tráthchoigilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "instalment"
+        ],
+        "ga": "tráthchuid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "salary"
+        ],
+        "ga": "tuarastal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "impregnation"
+        ],
+        "ga": "tuile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "earnings"
+        ],
+        "ga": "tuilleamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "literacy"
+        ],
+        "ga": "tuiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fee"
+        ],
+        "ga": "táille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "productivism"
+        ],
+        "ga": "táirgiúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "yielder"
+        ],
+        "ga": "tálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "takeover",
+            "take-over"
+        ],
+        "ga": "táthcheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "theta"
+        ],
+        "ga": "téite",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contagion"
+        ],
+        "ga": "tógálacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "near leg",
+            "initial exchange"
+        ],
+        "ga": "túsmhalairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "window warrant"
+        ],
+        "ga": "uainbharántas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hour rate",
+            "hourly rate"
+        ],
+        "ga": "uair-ráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "maximum value",
+            "maximum"
+        ],
+        "ga": "uasluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "maximum return"
+        ],
+        "ga": "uastoradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "autocorrelation"
+        ],
+        "ga": "uath-chomhchoibhneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "numeral"
+        ],
+        "ga": "uimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "surety"
+        ],
+        "ga": "urra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "security"
+        ],
+        "ga": "urrús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "virement"
+        ],
+        "ga": "vírmint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "calculator",
+            "calculating machine"
+        ],
+        "ga": "áireamhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "occupation"
+        ],
+        "ga": "áitíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "assurance"
+        ],
+        "ga": "árachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "insurance"
+        ],
+        "ga": "árachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "insured",
+            "insured person"
+        ],
+        "ga": "árachaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "insurer"
+        ],
+        "ga": "árachóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ecu"
+        ],
+        "ga": "éacú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "front side",
+            "recto",
+            "front"
+        ],
+        "ga": "éadan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "acquisition"
+        ],
+        "ga": "éadáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "expiry"
+        ],
+        "ga": "éag",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "margin",
+            "deposit"
+        ],
+        "ga": "éarlais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "claim"
+        ],
+        "ga": "éileamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "payee"
+        ],
+        "ga": "íocaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paper money"
+        ],
+        "ga": "íocpháipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sensibility",
+            "sensitivity"
+        ],
+        "ga": "íogaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minimum variance"
+        ],
+        "ga": "íosathraitheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "imprest"
+        ],
+        "ga": "óinchiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gold standard"
+        ],
+        "ga": "órchaighdeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "host bond"
+        ],
+        "ga": "óstbhanna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interest"
+        ],
+        "ga": "ús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "usurer",
+            "loanshark",
+            "loan shark"
+        ],
+        "ga": "úsaire",
+        "gender": "masculine"
+    }
+]

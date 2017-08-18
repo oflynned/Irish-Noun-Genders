@@ -1,0 +1,204 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "agrofuel"
+        ],
+        "ga": "agraibhreosla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "monopile"
+        ],
+        "ga": "aonphíle",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bagasse"
+        ],
+        "ga": "bagás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bioenergy"
+        ],
+        "ga": "bithfhuinneamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "extender"
+        ],
+        "ga": "breiseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cogging"
+        ],
+        "ga": "cogáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "design month"
+        ],
+        "ga": "dearadhmhí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "observatory"
+        ],
+        "ga": "faireachlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "power"
+        ],
+        "ga": "fuinneamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "solar fuel"
+        ],
+        "ga": "grianbhreosla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solar fraction"
+        ],
+        "ga": "grianchodán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solarimeter"
+        ],
+        "ga": "grianmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shade screen"
+        ],
+        "ga": "grianscáth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solar heating"
+        ],
+        "ga": "griantéamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydroenergy"
+        ],
+        "ga": "hidreafhuinneamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "encapsulant"
+        ],
+        "ga": "imchochlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "micro-storage"
+        ],
+        "ga": "micreastóráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "negawatt"
+        ],
+        "ga": "neigeavata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "negajoule"
+        ],
+        "ga": "neigigiúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pyrgeometer"
+        ],
+        "ga": "pirgeoiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "radiosity"
+        ],
+        "ga": "radaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jacket"
+        ],
+        "ga": "seaicéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "thermal energy storage",
+            "thermal storage",
+            "TES"
+        ],
+        "ga": "teirmeastóráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trigeneration"
+        ],
+        "ga": "tríghiniúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "autoproducer"
+        ],
+        "ga": "uatáirgeoir",
+        "gender": "masculine"
+    }
+]

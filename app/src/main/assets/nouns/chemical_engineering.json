@@ -1,0 +1,117 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "flashback",
+            "flash-back"
+        ],
+        "ga": "cúlsplanc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ebulliometer"
+        ],
+        "ga": "eibilleaméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "exotherm"
+        ],
+        "ga": "eisiteirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "countercurrent",
+            "countercurrent flow",
+            "counterflow"
+        ],
+        "ga": "frithshreabh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mass balance"
+        ],
+        "ga": "maischothromaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "microcalorimeter"
+        ],
+        "ga": "micreacalraiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nomograph"
+        ],
+        "ga": "nómagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "frosted enamel"
+        ],
+        "ga": "reochruan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bed"
+        ],
+        "ga": "scair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cream enamel"
+        ],
+        "ga": "smearchruan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flotation"
+        ],
+        "ga": "snámhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "depressor"
+        ],
+        "ga": "sochtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flash point"
+        ],
+        "ga": "splancphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "saturator"
+        ],
+        "ga": "sáithitheoir",
+        "gender": "masculine"
+    }
+]

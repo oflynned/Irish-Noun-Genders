@@ -1,0 +1,5126 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Alexandrinism"
+        ],
+        "ga": "Alastrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Apology"
+        ],
+        "ga": "Apalacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Aristotelianism"
+        ],
+        "ga": "Arastataileachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Aristotle"
+        ],
+        "ga": "Arastatal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cicero"
+        ],
+        "ga": "Cicearó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Confucian"
+        ],
+        "ga": "Confúiceach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Confucianism"
+        ],
+        "ga": "Confúiceachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Confucius"
+        ],
+        "ga": "Confúicias",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Epicureanism"
+        ],
+        "ga": "Eipiciúrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Guardians"
+        ],
+        "ga": "Gardaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Leucippus"
+        ],
+        "ga": "Leocapas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Manicheism"
+        ],
+        "ga": "Mainicésaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Maoism"
+        ],
+        "ga": "Maochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mencius"
+        ],
+        "ga": "Meincias",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Manism"
+        ],
+        "ga": "Mánachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Molinism"
+        ],
+        "ga": "Móilíneachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Molinist"
+        ],
+        "ga": "Móilíní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Neo-Platonism"
+        ],
+        "ga": "Nua-Phlatónachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pyrrhonism"
+        ],
+        "ga": "Piorróineachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Plato"
+        ],
+        "ga": "Platón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Scotism"
+        ],
+        "ga": "Scótachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Scotist"
+        ],
+        "ga": "Scótaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Stoic"
+        ],
+        "ga": "Stóch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Socrates"
+        ],
+        "ga": "Sócraitéas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Taoist"
+        ],
+        "ga": "Taoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Taoism"
+        ],
+        "ga": "Taochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "absolute"
+        ],
+        "ga": "absalóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "absoluteness"
+        ],
+        "ga": "absalóideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aboulia"
+        ],
+        "ga": "abúile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "atomism"
+        ],
+        "ga": "adamhachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "admit"
+        ],
+        "ga": "admháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aesthetic"
+        ],
+        "ga": "aestéitidil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "agnostic"
+        ],
+        "ga": "agnóisí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "immensity"
+        ],
+        "ga": "aibhseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dress"
+        ],
+        "ga": "aibíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "accident"
+        ],
+        "ga": "aicíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "affection"
+        ],
+        "ga": "aificsean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "affectivity"
+        ],
+        "ga": "aificseanacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "affinity"
+        ],
+        "ga": "aifinideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mentality"
+        ],
+        "ga": "aigne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alternate"
+        ],
+        "ga": "ailtéarnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "alternative"
+        ],
+        "ga": "ailtéarnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dilemma"
+        ],
+        "ga": "aincheist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anarchism"
+        ],
+        "ga": "ainrialachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "apperception"
+        ],
+        "ga": "aipéircheap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "perceptionism"
+        ],
+        "ga": "aireachtálachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "invention"
+        ],
+        "ga": "aireag",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "qualian"
+        ],
+        "ga": "airíonna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aseity"
+        ],
+        "ga": "aiséiteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "precept"
+        ],
+        "ga": "aithne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mimetism"
+        ],
+        "ga": "aithriseachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mimicry"
+        ],
+        "ga": "aithriseachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "attribute",
+            "quality",
+            "characteristic"
+        ],
+        "ga": "aitreabúid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "anachronism"
+        ],
+        "ga": "anacronacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "analogue"
+        ],
+        "ga": "analacháid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "animism"
+        ],
+        "ga": "anamachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "generationism"
+        ],
+        "ga": "anamghiniúnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "traducianism"
+        ],
+        "ga": "anamshíolrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anthropocentrism"
+        ],
+        "ga": "antrapalárnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anthroposopher"
+        ],
+        "ga": "antrapasamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "anthroposophy"
+        ],
+        "ga": "antrapasúnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ageism"
+        ],
+        "ga": "aoiseachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ageist"
+        ],
+        "ga": "aoisíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aeveternity"
+        ],
+        "ga": "aoisíoraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "one"
+        ],
+        "ga": "aon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "singularity"
+        ],
+        "ga": "aonaracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "single person"
+        ],
+        "ga": "aonarán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "single thing"
+        ],
+        "ga": "aonarán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solitary person"
+        ],
+        "ga": "aonarán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solitary thing"
+        ],
+        "ga": "aonarán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "univocity"
+        ],
+        "ga": "aonghuthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monoideism"
+        ],
+        "ga": "aonidéachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "unity"
+        ],
+        "ga": "aontacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "higher power"
+        ],
+        "ga": "ardchumhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ataraxia"
+        ],
+        "ga": "ataráisce",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "metempsychosis"
+        ],
+        "ga": "athchollúchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transmigration of souls"
+        ],
+        "ga": "athchollúchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "recollection"
+        ],
+        "ga": "athchuimhne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palingenesis"
+        ],
+        "ga": "athghineas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reproduction"
+        ],
+        "ga": "athghiniúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "repeat"
+        ],
+        "ga": "athrá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "doxometry"
+        ],
+        "ga": "barúilmheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "critique"
+        ],
+        "ga": "beachtaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "exactitude"
+        ],
+        "ga": "beaichte",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "precision"
+        ],
+        "ga": "beaichte",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rigorousness"
+        ],
+        "ga": "beaichte",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "strictness"
+        ],
+        "ga": "beaichte",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "beatitude"
+        ],
+        "ga": "beannaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "interstice"
+        ],
+        "ga": "bearna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "life"
+        ],
+        "ga": "beatha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "life"
+        ],
+        "ga": "beatha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "form of life"
+        ],
+        "ga": "beathachruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "entity"
+        ],
+        "ga": "beith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "living"
+        ],
+        "ga": "beo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "liveliness"
+        ],
+        "ga": "beogacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vitality"
+        ],
+        "ga": "beogacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "foundation"
+        ],
+        "ga": "bonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "logomachy"
+        ],
+        "ga": "briatharchath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ability"
+        ],
+        "ga": "bua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "acme"
+        ],
+        "ga": "buaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "perpetuity"
+        ],
+        "ga": "buaine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dimension"
+        ],
+        "ga": "buntomhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "foundation"
+        ],
+        "ga": "bunús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "criterion"
+        ],
+        "ga": "caighdeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "characteristic"
+        ],
+        "ga": "carachtaracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "characterology"
+        ],
+        "ga": "carachtareolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "catagorema"
+        ],
+        "ga": "catagoiréama",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "connector"
+        ],
+        "ga": "ceangaltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "just"
+        ],
+        "ga": "ceart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "signification"
+        ],
+        "ga": "ciall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "distance"
+        ],
+        "ga": "cianúlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cyberlibertarian"
+        ],
+        "ga": "cibirliobraíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "genus"
+        ],
+        "ga": "cineál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "destiny"
+        ],
+        "ga": "cinniúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fatalism"
+        ],
+        "ga": "cinniúnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fatalist"
+        ],
+        "ga": "cinniúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "certitude"
+        ],
+        "ga": "cinnteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "certainty"
+        ],
+        "ga": "cinnteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "determinist"
+        ],
+        "ga": "cinntí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "racialist"
+        ],
+        "ga": "ciníochaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "children"
+        ],
+        "ga": "clann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "paralogism"
+        ],
+        "ga": "claonloighic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kleptomania"
+        ],
+        "ga": "cleipteamáine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "equivalence"
+        ],
+        "ga": "coibhéiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colonialist"
+        ],
+        "ga": "coilíníoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "concomitance"
+        ],
+        "ga": "coimhdeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conventionalism"
+        ],
+        "ga": "coinbhinseanachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "convention"
+        ],
+        "ga": "coinbhinsiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conceptualism"
+        ],
+        "ga": "coincheapachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "continuity"
+        ],
+        "ga": "cointeanóideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "criminology"
+        ],
+        "ga": "coireolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "agreement"
+        ],
+        "ga": "comh-ardacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "concordism"
+        ],
+        "ga": "comhardachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "concordance"
+        ],
+        "ga": "comhardacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "associationism"
+        ],
+        "ga": "comhcheangaltachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "associativity"
+        ],
+        "ga": "comhcheangaltacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "equiprobabilism"
+        ],
+        "ga": "comhdhóchúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "community"
+        ],
+        "ga": "comhluadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "communion"
+        ],
+        "ga": "comhpháirteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "collectivism"
+        ],
+        "ga": "comhsheilbheachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "consensualist"
+        ],
+        "ga": "comhthoilí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consensualism"
+        ],
+        "ga": "comhthoilíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compulsion"
+        ],
+        "ga": "comhéigean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "constraint"
+        ],
+        "ga": "comhéigean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contract"
+        ],
+        "ga": "conradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mover"
+        ],
+        "ga": "corraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cosmographer"
+        ],
+        "ga": "cosmagrafaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "resemblance"
+        ],
+        "ga": "cosúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fairness"
+        ],
+        "ga": "cothrom",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dilemma"
+        ],
+        "ga": "cruachás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Weltanschauung",
+            "worldview"
+        ],
+        "ga": "cruinneshamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "creator"
+        ],
+        "ga": "cruthaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "creationism"
+        ],
+        "ga": "cruthaíochtachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "creature"
+        ],
+        "ga": "créatúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "caducity"
+        ],
+        "ga": "críne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "finiteness"
+        ],
+        "ga": "críochtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prudence"
+        ],
+        "ga": "críonnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "comprehension"
+        ],
+        "ga": "cuimse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "intension"
+        ],
+        "ga": "cuimse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "finalism"
+        ],
+        "ga": "cuspóireachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "finality"
+        ],
+        "ga": "cuspóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "casuist"
+        ],
+        "ga": "cásaisteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "casuistry"
+        ],
+        "ga": "cásaisteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "protasis"
+        ],
+        "ga": "céadbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sensorium"
+        ],
+        "ga": "céadfaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sensationalism"
+        ],
+        "ga": "céadfaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sensationism"
+        ],
+        "ga": "céadfaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sensualism"
+        ],
+        "ga": "céadfaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "occupation"
+        ],
+        "ga": "céadghabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quiddity"
+        ],
+        "ga": "céardas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "status"
+        ],
+        "ga": "céimíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "justice"
+        ],
+        "ga": "cóir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "koan"
+        ],
+        "ga": "cóán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "causality",
+            "causation"
+        ],
+        "ga": "cúisíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compensation"
+        ],
+        "ga": "cúiteamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compensationism"
+        ],
+        "ga": "cúiteamhachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "covenant"
+        ],
+        "ga": "cúnant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "doubt"
+        ],
+        "ga": "dabht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "philanthropy"
+        ],
+        "ga": "daonchairdeas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "human being"
+        ],
+        "ga": "daonnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "humanitarian"
+        ],
+        "ga": "daonnúlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "good life"
+        ],
+        "ga": "dea-bheatha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "good neighbourliness"
+        ],
+        "ga": "dea-chomharsanacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "beneficence"
+        ],
+        "ga": "dea-ghníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "goodwill"
+        ],
+        "ga": "dea-thoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dictum"
+        ],
+        "ga": "deacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "morphology"
+        ],
+        "ga": "deilbheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "differential"
+        ],
+        "ga": "deochraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "theist"
+        ],
+        "ga": "diachaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dialectician"
+        ],
+        "ga": "dialachtaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "occult"
+        ],
+        "ga": "diamhair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "occultism"
+        ],
+        "ga": "diamhrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "obscurantism"
+        ],
+        "ga": "diamhróireachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "intensity"
+        ],
+        "ga": "dianas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "endeavour"
+        ],
+        "ga": "dianiarracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deism"
+        ],
+        "ga": "dias",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "theosoph"
+        ],
+        "ga": "diasamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "theosopher"
+        ],
+        "ga": "diasamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "theosophist"
+        ],
+        "ga": "diasamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deist"
+        ],
+        "ga": "diasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "theosophy"
+        ],
+        "ga": "diasúnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dilemma"
+        ],
+        "ga": "dileama",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solidarism"
+        ],
+        "ga": "dlúthpháirtíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "infallibility"
+        ],
+        "ga": "do-earráideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "imperturbability"
+        ],
+        "ga": "dochorraitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rigourist"
+        ],
+        "ga": "dochtach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "obscurantism"
+        ],
+        "ga": "doiléireachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pessimist"
+        ],
+        "ga": "doirbhíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pessimism"
+        ],
+        "ga": "doirbhíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hustle and bustle"
+        ],
+        "ga": "driopás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "conation"
+        ],
+        "ga": "dréim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deontology"
+        ],
+        "ga": "dualeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fate"
+        ],
+        "ga": "dán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bilocation"
+        ],
+        "ga": "dé-ionadas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "equivocity"
+        ],
+        "ga": "déchiallacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dichotomy"
+        ],
+        "ga": "déscaradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dissociation"
+        ],
+        "ga": "dícheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "split off"
+        ],
+        "ga": "dícheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dysteleology"
+        ],
+        "ga": "díchuspóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "proper"
+        ],
+        "ga": "díl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "demerit"
+        ],
+        "ga": "díluaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elimination"
+        ],
+        "ga": "díobhadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "impermanence"
+        ],
+        "ga": "díomuaine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "apologist"
+        ],
+        "ga": "díonchruthúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "disputation"
+        ],
+        "ga": "díospóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clinamen"
+        ],
+        "ga": "díraonadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "declination"
+        ],
+        "ga": "díraonadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deconstructionist"
+        ],
+        "ga": "dístruchtúraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deconstruction"
+        ],
+        "ga": "díthógáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "probabilism"
+        ],
+        "ga": "dóchúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "diligence"
+        ],
+        "ga": "dúthracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ecstasy"
+        ],
+        "ga": "eacstais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "enlightenment"
+        ],
+        "ga": "eagnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deficience"
+        ],
+        "ga": "easnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "privation"
+        ],
+        "ga": "easnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "enthymene"
+        ],
+        "ga": "eintiméim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "entelechy"
+        ],
+        "ga": "eintéilicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "epicheirema"
+        ],
+        "ga": "eipicíréim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "epiphenomenon"
+        ],
+        "ga": "eipifeiniméan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "epiphenomenism"
+        ],
+        "ga": "eipifeiniméanachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "episyllogism"
+        ],
+        "ga": "eipisiollóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "extraversion"
+        ],
+        "ga": "eisdíritheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "exemplarism"
+        ],
+        "ga": "eiseamlárachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "emanatism"
+        ],
+        "ga": "eisileachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "being"
+        ],
+        "ga": "eisint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "essentialist"
+        ],
+        "ga": "eisintiúlaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "existentialist"
+        ],
+        "ga": "eisí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ethic"
+        ],
+        "ga": "eitic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "key question"
+        ],
+        "ga": "eochaircheist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "key concept"
+        ],
+        "ga": "eochairchoincheap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "key difficulty"
+        ],
+        "ga": "eochairdheacracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "key element"
+        ],
+        "ga": "eochairghné",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "key teaching"
+        ],
+        "ga": "eochairtheagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eudemonism"
+        ],
+        "ga": "eodaemónachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scientism"
+        ],
+        "ga": "eolaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fallacy"
+        ],
+        "ga": "fallás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "falseness"
+        ],
+        "ga": "falsacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "falsity"
+        ],
+        "ga": "falsacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "phantasy"
+        ],
+        "ga": "fantaiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "surplus"
+        ],
+        "ga": "farasbarr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "meliorism"
+        ],
+        "ga": "fearrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "functionalist"
+        ],
+        "ga": "feidhmiúlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phenomenalism"
+        ],
+        "ga": "feiniméanachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "phenomenalist"
+        ],
+        "ga": "feiniméanaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "phenomenologist"
+        ],
+        "ga": "feiniméaneolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fideism"
+        ],
+        "ga": "fidéachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "discovery"
+        ],
+        "ga": "fionnachtain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "configuration"
+        ],
+        "ga": "fioraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "knowledge"
+        ],
+        "ga": "fios",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "explorer"
+        ],
+        "ga": "fiosraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "value"
+        ],
+        "ga": "fiúntas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "axiology"
+        ],
+        "ga": "fiúntaseolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hierarchy"
+        ],
+        "ga": "flaitheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "subcontrary"
+        ],
+        "ga": "fochontráir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "form"
+        ],
+        "ga": "foirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fortitude"
+        ],
+        "ga": "foirtile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vacuist"
+        ],
+        "ga": "folúsaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "progressivism"
+        ],
+        "ga": "forchéimnitheachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "progressive"
+        ],
+        "ga": "forchéimní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "accretion"
+        ],
+        "ga": "forthórmach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "growth"
+        ],
+        "ga": "forás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "substrate"
+        ],
+        "ga": "foshraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "postulate"
+        ],
+        "ga": "foshuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "phrenology"
+        ],
+        "ga": "freineolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contraposition"
+        ],
+        "ga": "frithchur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "antinomy"
+        ],
+        "ga": "frithdhleathacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reaction"
+        ],
+        "ga": "frithghníomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "antiogy"
+        ],
+        "ga": "frithloighceacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contrast"
+        ],
+        "ga": "frithshuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "patient"
+        ],
+        "ga": "fulangaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "futurology"
+        ],
+        "ga": "fáistineolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bata"
+        ],
+        "ga": "fáltais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "growth"
+        ],
+        "ga": "fás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "allegory"
+        ],
+        "ga": "fáthchiallacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "possible"
+        ],
+        "ga": "féidearthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ego"
+        ],
+        "ga": "féin",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "I"
+        ],
+        "ga": "féin",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "self"
+        ],
+        "ga": "féin",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "autodetermination"
+        ],
+        "ga": "féinchinneadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "identitarian"
+        ],
+        "ga": "féiniúlaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "identitarianism"
+        ],
+        "ga": "féiniúlaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "self-reflection"
+        ],
+        "ga": "féinmhachnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "egotism"
+        ],
+        "ga": "féinspéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "egoism"
+        ],
+        "ga": "féinspéiseachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "egoist"
+        ],
+        "ga": "féinspéisí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "egotist"
+        ],
+        "ga": "féinspéisíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "form",
+            "configuration"
+        ],
+        "ga": "fíoraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "veracity"
+        ],
+        "ga": "fírinneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "utilitarianism"
+        ],
+        "ga": "fóntachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "receptivity"
+        ],
+        "ga": "gabhálacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "call"
+        ],
+        "ga": "gairm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chastity"
+        ],
+        "ga": "geanmaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "configurationism"
+        ],
+        "ga": "geisteáltachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gestaltism"
+        ],
+        "ga": "geisteáltachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "engender"
+        ],
+        "ga": "giniúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shortness"
+        ],
+        "ga": "giorracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "supposition"
+        ],
+        "ga": "glacan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "glory"
+        ],
+        "ga": "glóir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "species"
+        ],
+        "ga": "gné",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "physiognomics"
+        ],
+        "ga": "gné-eolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "specificity"
+        ],
+        "ga": "gnéitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gnosis"
+        ],
+        "ga": "gnóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gnostic"
+        ],
+        "ga": "gnóisí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "graphism"
+        ],
+        "ga": "grafachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hermetism"
+        ],
+        "ga": "heirméatachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "heterosexuality"
+        ],
+        "ga": "heitrighnéasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hedonist"
+        ],
+        "ga": "héadónaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hylemorphism"
+        ],
+        "ga": "híleamorfachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hylozoism"
+        ],
+        "ga": "híleasóchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "apodosis"
+        ],
+        "ga": "iarbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consequentialism"
+        ],
+        "ga": "iarmhartachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interactionist"
+        ],
+        "ga": "idirghníomhaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ideality"
+        ],
+        "ga": "idéalacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "perennialism"
+        ],
+        "ga": "ilbhliantúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "perennialist"
+        ],
+        "ga": "ilbhliantúlaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plurivocity"
+        ],
+        "ga": "ilchiallacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polygenism"
+        ],
+        "ga": "ilghineachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "immanentism"
+        ],
+        "ga": "imeanachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "immanentist"
+        ],
+        "ga": "imeanaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "changeability"
+        ],
+        "ga": "inathraitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "naturism"
+        ],
+        "ga": "inbheirtheachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "innateness"
+        ],
+        "ga": "inbheirtheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cerebration"
+        ],
+        "ga": "inchinnit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "movable body"
+        ],
+        "ga": "inchorraitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "credibility"
+        ],
+        "ga": "inchreidteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "imitability"
+        ],
+        "ga": "inchóipeáilteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "individual"
+        ],
+        "ga": "indibhid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "individuality"
+        ],
+        "ga": "indibhidiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "individualist"
+        ],
+        "ga": "indibhidiúlaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fallibility"
+        ],
+        "ga": "inearráideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cognoscibility"
+        ],
+        "ga": "infhiosaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "knowability"
+        ],
+        "ga": "infhiosaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "infrastructure"
+        ],
+        "ga": "infreastruchtúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "imputability"
+        ],
+        "ga": "inleagthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tangibility"
+        ],
+        "ga": "intadhaille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intentionality"
+        ],
+        "ga": "intinniúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "intellectualism"
+        ],
+        "ga": "intleachtúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "amphibology"
+        ],
+        "ga": "iolabairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "manifold"
+        ],
+        "ga": "iolra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plural"
+        ],
+        "ga": "iolra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pluralist"
+        ],
+        "ga": "iolraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "multipresence"
+        ],
+        "ga": "ioláithreacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "intuitionism",
+            "intuitionalism"
+        ],
+        "ga": "iomasachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "concurrence"
+        ],
+        "ga": "iomaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "totality"
+        ],
+        "ga": "iomláine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ubiety"
+        ],
+        "ga": "ionadas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wonder"
+        ],
+        "ga": "ionadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "equipolience"
+        ],
+        "ga": "ionnúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rectitude"
+        ],
+        "ga": "ionracas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "instrumentalism"
+        ],
+        "ga": "ionstraimeachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "instrumentalist"
+        ],
+        "ga": "ionstraimeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "isonomy"
+        ],
+        "ga": "iosanóimeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "isotope"
+        ],
+        "ga": "iosatóip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "yoga"
+        ],
+        "ga": "ióga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "yogi"
+        ],
+        "ga": "iógaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mediocrity"
+        ],
+        "ga": "lagmheasarthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "good"
+        ],
+        "ga": "leas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "imbecility"
+        ],
+        "ga": "leibideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "expiation"
+        ],
+        "ga": "leorghníomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "libertarianism"
+        ],
+        "ga": "liobraíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "defect"
+        ],
+        "ga": "locht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "logicism"
+        ],
+        "ga": "loighceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "logician"
+        ],
+        "ga": "loighceoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "logistic"
+        ],
+        "ga": "loighistic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "merit"
+        ],
+        "ga": "luaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contents"
+        ],
+        "ga": "lucht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fullness"
+        ],
+        "ga": "lánmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "light"
+        ],
+        "ga": "léargas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "evidence"
+        ],
+        "ga": "léire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "platitude"
+        ],
+        "ga": "léireasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "truism"
+        ],
+        "ga": "léireasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "macrocosm"
+        ],
+        "ga": "macracosma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "maieutics"
+        ],
+        "ga": "maighiútaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "malice"
+        ],
+        "ga": "mailís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "goodness"
+        ],
+        "ga": "maitheas",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "necromancy"
+        ],
+        "ga": "marbhdhraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "masochism"
+        ],
+        "ga": "masacas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "temperance"
+        ],
+        "ga": "measarthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "estimative sense"
+        ],
+        "ga": "measúnaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cowardice"
+        ],
+        "ga": "meatacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mechanism"
+        ],
+        "ga": "meicneachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mechanist"
+        ],
+        "ga": "meicní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "megalomania"
+        ],
+        "ga": "meigleamáine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "metaphysician"
+        ],
+        "ga": "meitifisicí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "means"
+        ],
+        "ga": "meán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "concupiscence"
+        ],
+        "ga": "miangas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "microcosm"
+        ],
+        "ga": "micreacosma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minor"
+        ],
+        "ga": "mionaoiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minor"
+        ],
+        "ga": "mionleagan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minor term"
+        ],
+        "ga": "miontéarma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mythomania"
+        ],
+        "ga": "miotamáine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mystique"
+        ],
+        "ga": "mistic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monad"
+        ],
+        "ga": "monad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monadism"
+        ],
+        "ga": "monadachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "monadist"
+        ],
+        "ga": "monadaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "monomania"
+        ],
+        "ga": "monamáine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monarchism"
+        ],
+        "ga": "monarcachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "monist"
+        ],
+        "ga": "monasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "immoralism"
+        ],
+        "ga": "mímhoráltachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "immorality"
+        ],
+        "ga": "mímhoráltacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fallacy"
+        ],
+        "ga": "míthuairim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "magnanimity"
+        ],
+        "ga": "móraigeantacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "major"
+        ],
+        "ga": "mórleagan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "major term"
+        ],
+        "ga": "mórthéarma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "enemy"
+        ],
+        "ga": "namhaid",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nexus"
+        ],
+        "ga": "nasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "being"
+        ],
+        "ga": "neach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "egolessness"
+        ],
+        "ga": "neamh-fhéinspéiseachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "immediacy"
+        ],
+        "ga": "neamh-mheánacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "non-being"
+        ],
+        "ga": "neamhbheith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "immortality"
+        ],
+        "ga": "neamhbhásmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "indeterminism"
+        ],
+        "ga": "neamhchinnteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "indetermination"
+        ],
+        "ga": "neamhchinntitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "indeterminist"
+        ],
+        "ga": "neamhchinntí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contrarianism"
+        ],
+        "ga": "neamhdhóchúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "improbability"
+        ],
+        "ga": "neamhdhóchúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "imperfection"
+        ],
+        "ga": "neamhfhoirfeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "nothingness"
+        ],
+        "ga": "neamhnitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nothing"
+        ],
+        "ga": "neamhní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "non-entity"
+        ],
+        "ga": "neamhní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "detachment"
+        ],
+        "ga": "neamhshaoltacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "immaterialism"
+        ],
+        "ga": "neamhábharachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "immaterialist"
+        ],
+        "ga": "neamhábharaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "immateriality"
+        ],
+        "ga": "neamhábharthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nirvana"
+        ],
+        "ga": "nirbheána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "normality"
+        ],
+        "ga": "normáltacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neo-essentialism",
+            "neoessentialism"
+        ],
+        "ga": "nua-eisintiúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neovitalism"
+        ],
+        "ga": "nuabheathúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "innovation"
+        ],
+        "ga": "nuáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "naturalist"
+        ],
+        "ga": "nádúraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nerve centre"
+        ],
+        "ga": "néarlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "thing"
+        ],
+        "ga": "ní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "probabilorism"
+        ],
+        "ga": "níosdóchúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "noosphere"
+        ],
+        "ga": "nóaisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nounienon"
+        ],
+        "ga": "núiméan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "acquirements"
+        ],
+        "ga": "oilteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "providence"
+        ],
+        "ga": "oirchill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "prosyllogism"
+        ],
+        "ga": "oirshiollóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "badness"
+        ],
+        "ga": "olcas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ontogenesis"
+        ],
+        "ga": "ontaighiniúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ontologist"
+        ],
+        "ga": "onteolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ontologism"
+        ],
+        "ga": "onteolaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "onanism"
+        ],
+        "ga": "onánachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "honour"
+        ],
+        "ga": "onóir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "organicism"
+        ],
+        "ga": "orgánachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "organism"
+        ],
+        "ga": "orgánacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orthogenesis"
+        ],
+        "ga": "ortaigineas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "superman"
+        ],
+        "ga": "osduine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "parese"
+        ],
+        "ga": "pairéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pancalism"
+        ],
+        "ga": "panchalanachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "panentheism"
+        ],
+        "ga": "panindiachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "panlogism"
+        ],
+        "ga": "panloighceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "panspermia"
+        ],
+        "ga": "panspeirmeachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "paraboulia"
+        ],
+        "ga": "parabúile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "paraesthesia"
+        ],
+        "ga": "paraestéise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "paramnesia"
+        ],
+        "ga": "paraimnéise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parliamentarianism"
+        ],
+        "ga": "parlaiminteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "person"
+        ],
+        "ga": "pearsa",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "personalism"
+        ],
+        "ga": "pearsantachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "personalist"
+        ],
+        "ga": "pearsantaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "perspectivism"
+        ],
+        "ga": "peirspictíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pyromania"
+        ],
+        "ga": "pioramáine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "psittacism"
+        ],
+        "ga": "pioróideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "design"
+        ],
+        "ga": "plean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pleasure"
+        ],
+        "ga": "pléisiúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polygamy"
+        ],
+        "ga": "polagamas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polyandry"
+        ],
+        "ga": "polandras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "verification"
+        ],
+        "ga": "promhadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "protanopia"
+        ],
+        "ga": "protanóipe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "primacy"
+        ],
+        "ga": "príomhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "proletarian"
+        ],
+        "ga": "prólatáireach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "quasi-theory"
+        ],
+        "ga": "quasi-theoiric",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "capitalism"
+        ],
+        "ga": "rachmasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sight"
+        ],
+        "ga": "radharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "necessity"
+        ],
+        "ga": "riachtanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contemplation"
+        ],
+        "ga": "rinnfheitheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "enunciation"
+        ],
+        "ga": "ráiteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pragmatism",
+            "realism"
+        ],
+        "ga": "réadúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reality"
+        ],
+        "ga": "réaltacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "propaedeutic"
+        ],
+        "ga": "réamheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "foreknowledge"
+        ],
+        "ga": "réamhfhios",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "anticipation"
+        ],
+        "ga": "réamhghabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "premiss"
+        ],
+        "ga": "réamhleagan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "anteriority"
+        ],
+        "ga": "réamhtheacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reason"
+        ],
+        "ga": "réasún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reasoning"
+        ],
+        "ga": "réasúnadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rationale"
+        ],
+        "ga": "réasúnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reasonableness"
+        ],
+        "ga": "réasúntacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scope"
+        ],
+        "ga": "réimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "richness"
+        ],
+        "ga": "saibhreacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interest"
+        ],
+        "ga": "sainleas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aporia"
+        ],
+        "ga": "sainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "avarice"
+        ],
+        "ga": "saint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "covetousness"
+        ],
+        "ga": "saint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "satyagraha"
+        ],
+        "ga": "saiteágraha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "imagining"
+        ],
+        "ga": "samhlúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "secularist"
+        ],
+        "ga": "saoltaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "artificialism"
+        ],
+        "ga": "saorgachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "free will"
+        ],
+        "ga": "saorthoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "laxist"
+        ],
+        "ga": "scaoilteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "laxism"
+        ],
+        "ga": "scaoilteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "schizoidia"
+        ],
+        "ga": "scitsíde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scholion"
+        ],
+        "ga": "scoileán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "savant"
+        ],
+        "ga": "scoláire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scruple"
+        ],
+        "ga": "scrupall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "schematism"
+        ],
+        "ga": "scéimreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "horizon"
+        ],
+        "ga": "scóip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "avoid"
+        ],
+        "ga": "seachaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chakra"
+        ],
+        "ga": "seacra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stability"
+        ],
+        "ga": "seasmhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hallucination"
+        ],
+        "ga": "siabhránacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "simplism"
+        ],
+        "ga": "simpleachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "synaesthesis"
+        ],
+        "ga": "sinaestéise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "synesthesis"
+        ],
+        "ga": "sinaestéise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "syncretist"
+        ],
+        "ga": "sincréataí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "affect"
+        ],
+        "ga": "siocair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "integrity"
+        ],
+        "ga": "slánchúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sobornost"
+        ],
+        "ga": "sobornast",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sociologism"
+        ],
+        "ga": "socheolaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "equanimity"
+        ],
+        "ga": "sochmaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sophist"
+        ],
+        "ga": "sofaist",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sophism"
+        ],
+        "ga": "sofaisteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eutrapely"
+        ],
+        "ga": "soilbhreas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "illuminationism"
+        ],
+        "ga": "soilsiúchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "illuminism"
+        ],
+        "ga": "soilsiúchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "optimism"
+        ],
+        "ga": "soirbheachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "optimist"
+        ],
+        "ga": "soirbhíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "optimism"
+        ],
+        "ga": "soirbhíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "docility"
+        ],
+        "ga": "somhúinteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sonder"
+        ],
+        "ga": "sondráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sorites"
+        ],
+        "ga": "soraíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spiritism",
+            "spiritualism"
+        ],
+        "ga": "spioradachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spiritist",
+            "spiritualist"
+        ],
+        "ga": "spioradaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spiritualism"
+        ],
+        "ga": "spioradáltachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spiritualist"
+        ],
+        "ga": "spioradáltaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deflect"
+        ],
+        "ga": "sraonadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "state"
+        ],
+        "ga": "staid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "zodiac"
+        ],
+        "ga": "stoidiaca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "statism"
+        ],
+        "ga": "státachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stoicism"
+        ],
+        "ga": "stóchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quietism"
+        ],
+        "ga": "suaimhneachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quietist"
+        ],
+        "ga": "suaimhní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "substantialism"
+        ],
+        "ga": "substaintiúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "substantiality"
+        ],
+        "ga": "substaintiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "substantialist"
+        ],
+        "ga": "substaintiúlaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subjectivist"
+        ],
+        "ga": "suibiachtaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subject"
+        ],
+        "ga": "suibíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "suppositum"
+        ],
+        "ga": "supasaít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "supposite"
+        ],
+        "ga": "supasáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "everlastingness"
+        ],
+        "ga": "suthaineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "virtue"
+        ],
+        "ga": "suáilce",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "goodness"
+        ],
+        "ga": "suáilceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tutiorism"
+        ],
+        "ga": "sábháilteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sadism"
+        ],
+        "ga": "sádachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "psychism"
+        ],
+        "ga": "síceacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "psychopathology"
+        ],
+        "ga": "síceapaiteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "biopsychology"
+        ],
+        "ga": "sícibhitheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "psychotechnology"
+        ],
+        "ga": "síciteicneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "application"
+        ],
+        "ga": "sínteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "denotation"
+        ],
+        "ga": "sínteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "extent"
+        ],
+        "ga": "sínteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pacifism"
+        ],
+        "ga": "síocháineachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "eternity"
+        ],
+        "ga": "síoraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solipsism"
+        ],
+        "ga": "sóilipseachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sociality"
+        ],
+        "ga": "sóisialtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "somesthesia"
+        ],
+        "ga": "sómaestéise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "limen"
+        ],
+        "ga": "tairseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "delectation"
+        ],
+        "ga": "taitneamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transformism"
+        ],
+        "ga": "tarfhoirmeachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contingence"
+        ],
+        "ga": "teagmhasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "terminus"
+        ],
+        "ga": "tearmann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "abstractionism"
+        ],
+        "ga": "teibíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "surroundings"
+        ],
+        "ga": "timpeallacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "impulse"
+        ],
+        "ga": "tiomáinteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "future happening"
+        ],
+        "ga": "todhchaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "elective"
+        ],
+        "ga": "toghaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "volition"
+        ],
+        "ga": "toil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "voluntarism"
+        ],
+        "ga": "toileachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "voluntarist"
+        ],
+        "ga": "toilí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "arbitrary"
+        ],
+        "ga": "treallach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pity"
+        ],
+        "ga": "trua",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clemency"
+        ],
+        "ga": "trócaire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tropism"
+        ],
+        "ga": "trópachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "potential"
+        ],
+        "ga": "tualaing",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "potency"
+        ],
+        "ga": "tualaing",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comprehend"
+        ],
+        "ga": "tuiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "inertia"
+        ],
+        "ga": "támhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "constructivism"
+        ],
+        "ga": "tógachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "constructivist"
+        ],
+        "ga": "tógachaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "top"
+        ],
+        "ga": "uachtar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "upper part"
+        ],
+        "ga": "uachtar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "unicity"
+        ],
+        "ga": "uathúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "universe"
+        ],
+        "ga": "uilebhith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "omnipotence"
+        ],
+        "ga": "uilechumhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "omniscience"
+        ],
+        "ga": "uilefhios",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "omnipresence"
+        ],
+        "ga": "uileláithreacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "universal"
+        ],
+        "ga": "uilíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "universalist"
+        ],
+        "ga": "uilíochaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "iniquity"
+        ],
+        "ga": "urchóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Utopia"
+        ],
+        "ga": "Útóipe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "materialist"
+        ],
+        "ga": "ábharaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "materialness"
+        ],
+        "ga": "ábharthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "materiality",
+            "relevancy",
+            "relevance"
+        ],
+        "ga": "ábharthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "adverse"
+        ],
+        "ga": "áibhirseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "the beautiful"
+        ],
+        "ga": "áilleacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "thisness"
+        ],
+        "ga": "áiritheacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "locus"
+        ],
+        "ga": "áit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "evolutionism"
+        ],
+        "ga": "éabhlóideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "evolutionist"
+        ],
+        "ga": "éabhlóidí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "impotency"
+        ],
+        "ga": "éagumas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "injustice"
+        ],
+        "ga": "éagóir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ecologism"
+        ],
+        "ga": "éiceolaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "efficiency"
+        ],
+        "ga": "éifeachtúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "uncertainty"
+        ],
+        "ga": "éiginnteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bottom"
+        ],
+        "ga": "íochtar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lower part"
+        ],
+        "ga": "íochtar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "occasionalism"
+        ],
+        "ga": "ócáideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "occasionalist"
+        ],
+        "ga": "ócáidí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "utopianism"
+        ],
+        "ga": "útóipeachas",
+        "gender": "masculine"
+    }
+]

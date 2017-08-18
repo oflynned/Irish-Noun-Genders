@@ -1,0 +1,5037 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "Codium"
+        ],
+        "ga": "Cóidiam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "abaca"
+        ],
+        "ga": "abacá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "avocado",
+            "avocado pear"
+        ],
+        "ga": "abhacád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "apple"
+        ],
+        "ga": "abhaill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acanthus"
+        ],
+        "ga": "acantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ajo",
+            "achotillo"
+        ],
+        "ga": "achó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "acacia"
+        ],
+        "ga": "acáise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "horncone"
+        ],
+        "ga": "adharcbhuaircíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "liverwort"
+        ],
+        "ga": "aelus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "afrormosia"
+        ],
+        "ga": "afrarmóisé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "agroforestry"
+        ],
+        "ga": "agrafhoraoiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "agave"
+        ],
+        "ga": "agáibhe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ajillo"
+        ],
+        "ga": "aichílleo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "akenial",
+            "achenial"
+        ],
+        "ga": "aicéineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ageratum"
+        ],
+        "ga": "aigéaratam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "angelica",
+            "garden angelica"
+        ],
+        "ga": "ainglice",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "field bindweed",
+            "small bindweed"
+        ],
+        "ga": "ainleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anemochore"
+        ],
+        "ga": "ainéimeacór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "anise"
+        ],
+        "ga": "ainís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sloe"
+        ],
+        "ga": "airne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "areca"
+        ],
+        "ga": "airéic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "juniper"
+        ],
+        "ga": "aiteal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gorse",
+            "whin",
+            "furze"
+        ],
+        "ga": "aiteann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ayugue"
+        ],
+        "ga": "aiúgú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alerce"
+        ],
+        "ga": "aleirse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alluaudia"
+        ],
+        "ga": "alluáidia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alpine",
+            "alpine plant"
+        ],
+        "ga": "alpach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aloe"
+        ],
+        "ga": "aló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "amaryllid"
+        ],
+        "ga": "amairillid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "amanatsu"
+        ],
+        "ga": "amanatsú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "amaranth",
+            "common amaranth"
+        ],
+        "ga": "amarantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "anarthria"
+        ],
+        "ga": "anairtre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "angiosperm"
+        ],
+        "ga": "angaispeirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "antirrhinum"
+        ],
+        "ga": "antairíneam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anthropochore"
+        ],
+        "ga": "antrapacór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "laceleaf"
+        ],
+        "ga": "antúiriaim",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "primrose-peerless"
+        ],
+        "ga": "aoinil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stonewort"
+        ],
+        "ga": "aol-lus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "apophysis"
+        ],
+        "ga": "apaifís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hoary whitlowgrass"
+        ],
+        "ga": "araflasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "arracacha"
+        ],
+        "ga": "arracaicia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aralia"
+        ],
+        "ga": "aráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "auricaria"
+        ],
+        "ga": "arócar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monkey-puzzle"
+        ],
+        "ga": "arócar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pitcherplant"
+        ],
+        "ga": "ascaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pitcher plant"
+        ],
+        "ga": "ascaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pitcher plant"
+        ],
+        "ga": "ascaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aster"
+        ],
+        "ga": "astar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "azalea"
+        ],
+        "ga": "asáilia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "azobé"
+        ],
+        "ga": "asóibé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "creeper"
+        ],
+        "ga": "athair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "babaco"
+        ],
+        "ga": "babacó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "budding baby"
+        ],
+        "ga": "bachlóigín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pyrenean valerian"
+        ],
+        "ga": "bailéirín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "banyan"
+        ],
+        "ga": "bainian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oxlip"
+        ],
+        "ga": "baisleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "balsa"
+        ],
+        "ga": "balsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "busy lizzie"
+        ],
+        "ga": "balsaimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wild plum",
+            "bullace"
+        ],
+        "ga": "baláiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "barberry"
+        ],
+        "ga": "barbróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crop"
+        ],
+        "ga": "barr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lot"
+        ],
+        "ga": "beart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "St John's-wort"
+        ],
+        "ga": "beathnua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vervain"
+        ],
+        "ga": "beirbhéine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "betel"
+        ],
+        "ga": "beiteal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mat-grass"
+        ],
+        "ga": "beiteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "birch"
+        ],
+        "ga": "beith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bilimbi",
+            "cucumber tree",
+            "tree sorrel",
+            "belimbing asam",
+            "belimbing buloh",
+            "billing-billing"
+        ],
+        "ga": "bilimbí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "water-cress",
+            "watercress"
+        ],
+        "ga": "biolar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "water-pepper"
+        ],
+        "ga": "biorphiobar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rough horsetail"
+        ],
+        "ga": "bioróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "purple milk-vetch"
+        ],
+        "ga": "bleachtphiseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sow thistle",
+            "sow-thistle",
+            "sowthistle"
+        ],
+        "ga": "bleachtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bulb"
+        ],
+        "ga": "bleib",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "artichoke"
+        ],
+        "ga": "bliosán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "floriculturalist",
+            "florist"
+        ],
+        "ga": "bláthadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bugloss"
+        ],
+        "ga": "boglas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "common club-rush",
+            "bulrush"
+        ],
+        "ga": "bogshifín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pennyroyal"
+        ],
+        "ga": "borógach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "loosestrife"
+        ],
+        "ga": "breallán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "silverweed cinquefoil"
+        ],
+        "ga": "briosclán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "burnet rose"
+        ],
+        "ga": "briúlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common couch",
+            "scutch",
+            "couch-grass"
+        ],
+        "ga": "broimfhéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "horsetail plant"
+        ],
+        "ga": "broimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "non-root"
+        ],
+        "ga": "bréagfhréamh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ilomba"
+        ],
+        "ga": "bréagnoitmig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stinking goosefoot"
+        ],
+        "ga": "bréanlus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bryology"
+        ],
+        "ga": "brí-eolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bridewort"
+        ],
+        "ga": "brídeach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bromeliad"
+        ],
+        "ga": "bróiméileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brome",
+            "brome-grass"
+        ],
+        "ga": "brómas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ragwort"
+        ],
+        "ga": "buachalán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "toad rush"
+        ],
+        "ga": "buafluachair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common toadflax"
+        ],
+        "ga": "buaflíon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "toadflax"
+        ],
+        "ga": "buaflíon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cone"
+        ],
+        "ga": "buaircín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conifer"
+        ],
+        "ga": "buaircíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "foot"
+        ],
+        "ga": "bun",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "corn marigold"
+        ],
+        "ga": "buíán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bogbean"
+        ],
+        "ga": "báchrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "boab"
+        ],
+        "ga": "bóab",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "garlic mustard",
+            "Jack-by-the-hedge"
+        ],
+        "ga": "bóchoinneal",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cowberry"
+        ],
+        "ga": "bódhearc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "marsh woundwort",
+            "clown's all-heal"
+        ],
+        "ga": "cabhsadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cactus"
+        ],
+        "ga": "cachtas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cacao",
+            "cacao bean",
+            "cocoa bean"
+        ],
+        "ga": "cacó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "khaya"
+        ],
+        "ga": "caidhia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "calceolaria"
+        ],
+        "ga": "cailceoláiria",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crested hair-grass"
+        ],
+        "ga": "cailcfhéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "calcicole"
+        ],
+        "ga": "cailciarrthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "calcifuge"
+        ],
+        "ga": "cailctheifeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "calliactis"
+        ],
+        "ga": "cailliachtas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "common calamint"
+        ],
+        "ga": "cailmint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "calyx"
+        ],
+        "ga": "cailís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gold-of-pleasure"
+        ],
+        "ga": "caimilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "camellia"
+        ],
+        "ga": "caiméilia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Babington's leek"
+        ],
+        "ga": "cainneann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "leek"
+        ],
+        "ga": "cainneann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dandelion"
+        ],
+        "ga": "caisearbhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cassia",
+            "Chinese cinnamon",
+            "cassia bark"
+        ],
+        "ga": "caisia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "strawberry-tree",
+            "arbutus"
+        ],
+        "ga": "caithne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "black cumin"
+        ],
+        "ga": "calaindí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cambui"
+        ],
+        "ga": "cambaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dwarf willow"
+        ],
+        "ga": "camshaileog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cannabis"
+        ],
+        "ga": "cannabas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dead-nettle"
+        ],
+        "ga": "caochneantóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "moss"
+        ],
+        "ga": "caonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "valerian"
+        ],
+        "ga": "caorthann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rowan",
+            "rowan tree",
+            "mountain ash"
+        ],
+        "ga": "caorthann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cardoon"
+        ],
+        "ga": "cardún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carob"
+        ],
+        "ga": "carúb",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "screw moss"
+        ],
+        "ga": "caschaonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chestnut"
+        ],
+        "ga": "castán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sweet chestnut",
+            "Spanish chestnut",
+            "European chestnut"
+        ],
+        "ga": "castán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cataphyll"
+        ],
+        "ga": "cataifill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mountain everlasting",
+            "mountain cudweed"
+        ],
+        "ga": "catluibh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gentian"
+        ],
+        "ga": "ceadharlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cell line"
+        ],
+        "ga": "ceall-líne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dominance"
+        ],
+        "ga": "ceannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common cottongrass",
+            "bog cotton"
+        ],
+        "ga": "ceannbhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grey cushion moss"
+        ],
+        "ga": "ceapchaonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caraway"
+        ],
+        "ga": "cearbhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kempas"
+        ],
+        "ga": "ceimpeas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ambary hemp",
+            "kenaf"
+        ],
+        "ga": "ceineaf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cyclamen"
+        ],
+        "ga": "ciclimin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cineraria"
+        ],
+        "ga": "cinearáiria",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cisgene"
+        ],
+        "ga": "cisghéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "swine-cress"
+        ],
+        "ga": "cladhthach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dodder"
+        ],
+        "ga": "clamhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "feather moss"
+        ],
+        "ga": "cleitchaonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "assemblage"
+        ],
+        "ga": "cluichreán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chlorophyll"
+        ],
+        "ga": "clóraifill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spider plant"
+        ],
+        "ga": "clóraifíteam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "buttonweed"
+        ],
+        "ga": "cnaipín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lesser burdock",
+            "burdock"
+        ],
+        "ga": "cnádán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nut"
+        ],
+        "ga": "cnó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "skullcap",
+            "skull-cap"
+        ],
+        "ga": "cochall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "opium poppy"
+        ],
+        "ga": "codlaidín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "corncockle"
+        ],
+        "ga": "cogal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conidiophore"
+        ],
+        "ga": "coinideafór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "campion"
+        ],
+        "ga": "coireán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "columbine"
+        ],
+        "ga": "colaimbín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mare's-tail"
+        ],
+        "ga": "colgrach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hazel"
+        ],
+        "ga": "coll",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common comfrey"
+        ],
+        "ga": "compar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dogwood"
+        ],
+        "ga": "conbhaiscne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "convallarin"
+        ],
+        "ga": "convalláirin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dock"
+        ],
+        "ga": "copóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "cork oak"
+        ],
+        "ga": "corcdhair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cordyline"
+        ],
+        "ga": "cordailín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common cord moss"
+        ],
+        "ga": "cordchaonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rigid hornwort"
+        ],
+        "ga": "cornlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "water-plantain"
+        ],
+        "ga": "corrchopóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chervil"
+        ],
+        "ga": "costóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "carragheen",
+            "carrageen"
+        ],
+        "ga": "cosáinín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "arboriculture"
+        ],
+        "ga": "crannadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tree spurge"
+        ],
+        "ga": "crannspuirse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rock samphire"
+        ],
+        "ga": "craobhraic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common stork's-bill",
+            "storkbill"
+        ],
+        "ga": "creagach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ramsons",
+            "wild garlic"
+        ],
+        "ga": "creamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cryptogam"
+        ],
+        "ga": "crioptagam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chrysaora"
+        ],
+        "ga": "criosaorach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cristacortis"
+        ],
+        "ga": "criostacortas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chrysophyte"
+        ],
+        "ga": "crisifít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "black bryony"
+        ],
+        "ga": "crotharnach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hard-grass"
+        ],
+        "ga": "cruafhéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "purple-loosestrife"
+        ],
+        "ga": "créachtach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hedge woundwort"
+        ],
+        "ga": "créachtlus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crocus"
+        ],
+        "ga": "cróch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "redwood"
+        ],
+        "ga": "crónghiúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quassia",
+            "Quassia amara"
+        ],
+        "ga": "cuaisia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cypress"
+        ],
+        "ga": "cufróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cumin"
+        ],
+        "ga": "cuimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "reed canary-grass"
+        ],
+        "ga": "cuiscreach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "meadow-grass"
+        ],
+        "ga": "cuise",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cuta"
+        ],
+        "ga": "cuta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "false dulse",
+            "red rags"
+        ],
+        "ga": "cáithleach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "common cudweed"
+        ],
+        "ga": "cáithluibh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kohlrabi"
+        ],
+        "ga": "cálráib",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "khat"
+        ],
+        "ga": "cát",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kava"
+        ],
+        "ga": "cáva",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cedar"
+        ],
+        "ga": "céadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cherimoya"
+        ],
+        "ga": "céiriomoighe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sedge"
+        ],
+        "ga": "cíb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Chinese gooseberry",
+            "kiwi"
+        ],
+        "ga": "cíobhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cycad"
+        ],
+        "ga": "cíocáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coca"
+        ],
+        "ga": "cóca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kokum"
+        ],
+        "ga": "cócam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cos",
+            "cos lettuce"
+        ],
+        "ga": "cósleitís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pignut",
+            "earthnut"
+        ],
+        "ga": "cúlarán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "daphne"
+        ],
+        "ga": "daifne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "oak"
+        ],
+        "ga": "dair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wall germander"
+        ],
+        "ga": "dairín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dendrochronology"
+        ],
+        "ga": "deindreacroineolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dendrometry"
+        ],
+        "ga": "deindriméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "didierea"
+        ],
+        "ga": "didíréa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "common figwort"
+        ],
+        "ga": "donnlus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bird cherry"
+        ],
+        "ga": "donnroisc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dracaena"
+        ],
+        "ga": "dracaeine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blackthorn",
+            "sloe"
+        ],
+        "ga": "draighean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pitahaya"
+        ],
+        "ga": "draigineog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bramble",
+            "blackberry",
+            "blackberry bush"
+        ],
+        "ga": "dris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mistletoe"
+        ],
+        "ga": "drualus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sundew"
+        ],
+        "ga": "drúchtín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dulse"
+        ],
+        "ga": "duileasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gill"
+        ],
+        "ga": "duilleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "biennial"
+        ],
+        "ga": "débhliantóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "common twayblade"
+        ],
+        "ga": "dédhuilleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dimorphism"
+        ],
+        "ga": "démhorfacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "maidenhair fern"
+        ],
+        "ga": "dúchosach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deutzia"
+        ],
+        "ga": "dúitsia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "black medick"
+        ],
+        "ga": "dúmheidic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "broad-leaved helleborine"
+        ],
+        "ga": "ealabairín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "escallonia"
+        ],
+        "ga": "eascallóine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "echinacea"
+        ],
+        "ga": "eiceanáise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ivy"
+        ],
+        "ga": "eidhneán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "winter rose",
+            "Christmas rose",
+            "hellebore"
+        ],
+        "ga": "eileabar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "orache"
+        ],
+        "ga": "eilifleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "endive"
+        ],
+        "ga": "eindíbh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dewberry"
+        ],
+        "ga": "eithreog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "eucalyptus"
+        ],
+        "ga": "eocalaip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "phacelia"
+        ],
+        "ga": "faicéilia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gland"
+        ],
+        "ga": "faireog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pimpernel"
+        ],
+        "ga": "falcaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phanerogam"
+        ],
+        "ga": "fanaragam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hogweed"
+        ],
+        "ga": "feabhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "great horsetail"
+        ],
+        "ga": "feadóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fan columbine"
+        ],
+        "ga": "feancholaimbín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "figwort",
+            "rose noble",
+            "scrofula",
+            "kernelwort",
+            "throatwort"
+        ],
+        "ga": "fearadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "alder"
+        ],
+        "ga": "fearnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dame's-violet"
+        ],
+        "ga": "feascarlus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "yellow iris",
+            "yellow flag"
+        ],
+        "ga": "feileastram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dog-rose"
+        ],
+        "ga": "feirdhris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fescue"
+        ],
+        "ga": "feisciú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thistle"
+        ],
+        "ga": "feochadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "creeping bent",
+            "fiorin-grass"
+        ],
+        "ga": "feorainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "beech"
+        ],
+        "ga": "feá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sharp-flowered rush"
+        ],
+        "ga": "fiastalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phylloquinone"
+        ],
+        "ga": "filleacuineon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fennel"
+        ],
+        "ga": "finéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "whitebeam"
+        ],
+        "ga": "fionncholl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grass-of-Parnassus"
+        ],
+        "ga": "fionnscoth",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "purple moor-grass"
+        ],
+        "ga": "fionnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fuchsia"
+        ],
+        "ga": "fiúise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "common chickweed",
+            "chickweed"
+        ],
+        "ga": "fliodh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "forsythia"
+        ],
+        "ga": "foirsítia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hair moss"
+        ],
+        "ga": "foltchaonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Phragmites",
+            "phragmite"
+        ],
+        "ga": "fraigmíteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tansy"
+        ],
+        "ga": "franclus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bilberry",
+            "whortleberry"
+        ],
+        "ga": "fraochán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "imperial fritillaria",
+            "crown imperial"
+        ],
+        "ga": "fritealláiria",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fritillary",
+            "snake's head"
+        ],
+        "ga": "fritileán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "freesia"
+        ],
+        "ga": "fríse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "enchanter's-nightshade"
+        ],
+        "ga": "fuinseagach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ash"
+        ],
+        "ga": "fuinseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rib"
+        ],
+        "ga": "féith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "creepers"
+        ],
+        "ga": "féitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "honeysuckle",
+            "woodbine"
+        ],
+        "ga": "féithleann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phycobiont"
+        ],
+        "ga": "fíceabóiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "phycologist"
+        ],
+        "ga": "fíceolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "true root"
+        ],
+        "ga": "fíor-fhréamh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "true leaf"
+        ],
+        "ga": "fíordhuille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "physalis"
+        ],
+        "ga": "físealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phytobenthos"
+        ],
+        "ga": "fítibeantós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fork moss"
+        ],
+        "ga": "gabhalchaonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "joint fir"
+        ],
+        "ga": "gabhalghiúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "traveller's-joy",
+            "old man's beard",
+            "clematis"
+        ],
+        "ga": "gabhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "henbane"
+        ],
+        "ga": "gafann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gambier"
+        ],
+        "ga": "gaimbír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "garlic"
+        ],
+        "ga": "gairleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wild angelica"
+        ],
+        "ga": "gallfheabhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bear’s breech"
+        ],
+        "ga": "gallfheochadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cock's-foot",
+            "cocksfoot"
+        ],
+        "ga": "garbhfhéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cleavers",
+            "goosegrass",
+            "robin-run-the-hedge"
+        ],
+        "ga": "garbhlus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "club moss",
+            "clubmoss"
+        ],
+        "ga": "garbhógach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stem cell"
+        ],
+        "ga": "gaschill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "geranium",
+            "cranesbill",
+            "crane's bill"
+        ],
+        "ga": "geiréiniam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ginkgo"
+        ],
+        "ga": "ginceo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ginseng"
+        ],
+        "ga": "ginsing",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wood small-reed"
+        ],
+        "ga": "giolc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "common reed"
+        ],
+        "ga": "giolcach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fir"
+        ],
+        "ga": "giúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wood-rush"
+        ],
+        "ga": "giúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "woad plant"
+        ],
+        "ga": "glaisin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eyebright"
+        ],
+        "ga": "glanrosc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "three-cornered leek"
+        ],
+        "ga": "glaschreamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "checkerberry",
+            "wintergreen"
+        ],
+        "ga": "glasluibh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sea-lettuce",
+            "sea lettuce",
+            "green laver"
+        ],
+        "ga": "glasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "woolly fringe moss"
+        ],
+        "ga": "glibchaonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rattle"
+        ],
+        "ga": "gliográn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "yellow-rattle"
+        ],
+        "ga": "gliográn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stinking iris"
+        ],
+        "ga": "glóiriam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "opposite-leaved golden-saxifrage",
+            "golden-saxifrage"
+        ],
+        "ga": "glóiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "brown beak-sedge"
+        ],
+        "ga": "gobsheisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "white beak-sedge"
+        ],
+        "ga": "gobsheisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stimulus"
+        ],
+        "ga": "goineog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pansy",
+            "universal pansy"
+        ],
+        "ga": "goirmín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "common gromwell",
+            "European stoneseed"
+        ],
+        "ga": "gormail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cornflower"
+        ],
+        "ga": "gormán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gravitropism"
+        ],
+        "ga": "graibheatrópacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common rock-rose"
+        ],
+        "ga": "grianrós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "griselinia"
+        ],
+        "ga": "grisilinia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mermaid's hair"
+        ],
+        "ga": "gruagach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "calcareous red seaweed",
+            "coral"
+        ],
+        "ga": "gruánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "broom-grass"
+        ],
+        "ga": "grúm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "groundsel"
+        ],
+        "ga": "grúnlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guaiacum",
+            "guajacum"
+        ],
+        "ga": "guaidheacam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guariuba"
+        ],
+        "ga": "guarúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "giant-rhubarb"
+        ],
+        "ga": "gunnaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guava"
+        ],
+        "ga": "guábha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "French oat-grass",
+            "fragile oat"
+        ],
+        "ga": "gáidín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gall"
+        ],
+        "ga": "gál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jojoba"
+        ],
+        "ga": "hahóba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "halophyte"
+        ],
+        "ga": "halaifít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "haldu"
+        ],
+        "ga": "haldú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "henequen"
+        ],
+        "ga": "heinicéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hyacinth"
+        ],
+        "ga": "hiasaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydrozoan"
+        ],
+        "ga": "hiodrasón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hop"
+        ],
+        "ga": "hopa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hoodia"
+        ],
+        "ga": "húide",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jaboticaba"
+        ],
+        "ga": "iabatacába",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "allspice"
+        ],
+        "ga": "ilspíosra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ilama"
+        ],
+        "ga": "ioláma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "imbuia"
+        ],
+        "ga": "iombúia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "yam"
+        ],
+        "ga": "ionam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "layer",
+            "integument"
+        ],
+        "ga": "ionar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "endocarp"
+        ],
+        "ga": "ioncharp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "simulant"
+        ],
+        "ga": "ionsamhlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "iroko"
+        ],
+        "ga": "iorócó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jostaberry"
+        ],
+        "ga": "iostachaor",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ipe"
+        ],
+        "ga": "ipe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "yew"
+        ],
+        "ga": "iúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jongkong"
+        ],
+        "ga": "jangcang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jelutong"
+        ],
+        "ga": "jéiliútang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bay laurel"
+        ],
+        "ga": "labhras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cyst"
+        ],
+        "ga": "lamhnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lamina"
+        ],
+        "ga": "lann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lazambohitra"
+        ],
+        "ga": "lasambóihítre",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lazampasika"
+        ],
+        "ga": "lasampaisice",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mountain avens"
+        ],
+        "ga": "leaithín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "marsh-mallow",
+            "marshmallow"
+        ],
+        "ga": "leamhach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elm",
+            "elmwood"
+        ],
+        "ga": "leamhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hop"
+        ],
+        "ga": "leannlus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "larch"
+        ],
+        "ga": "learóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "globeflower"
+        ],
+        "ga": "leolach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lily"
+        ],
+        "ga": "lile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "limba"
+        ],
+        "ga": "liomba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brooklime"
+        ],
+        "ga": "lochall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pit"
+        ],
+        "ga": "logall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rush"
+        ],
+        "ga": "luachair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "herbal oil"
+        ],
+        "ga": "luibh-ola",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "botanist"
+        ],
+        "ga": "luibheolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lumper"
+        ],
+        "ga": "lumpar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "legume"
+        ],
+        "ga": "léagúm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lycopodium"
+        ],
+        "ga": "líceapóidiam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lycophyte"
+        ],
+        "ga": "lícifít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lilac"
+        ],
+        "ga": "líológ",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "spiked water-milfoil"
+        ],
+        "ga": "líonánach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lychee"
+        ],
+        "ga": "lítsí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "loganberry"
+        ],
+        "ga": "lóganchaor",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lobelia"
+        ],
+        "ga": "lóibéilia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "macadamia"
+        ],
+        "ga": "macadaimia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "macrophyte"
+        ],
+        "ga": "macraifít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "madder plant"
+        ],
+        "ga": "madar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "orchid"
+        ],
+        "ga": "magairlín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "magnolia"
+        ],
+        "ga": "magnóilia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maguey"
+        ],
+        "ga": "magua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mahogany"
+        ],
+        "ga": "mahagaine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "marguerite"
+        ],
+        "ga": "maighréidín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "field maple"
+        ],
+        "ga": "mailp",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "maple"
+        ],
+        "ga": "mailp",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mandarin"
+        ],
+        "ga": "mandairín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mansonia"
+        ],
+        "ga": "mansón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "agrimony"
+        ],
+        "ga": "marbhdhraighean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wild carrot"
+        ],
+        "ga": "mealbhacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lauan",
+            "meranti"
+        ],
+        "ga": "mearaintí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "merbau"
+        ],
+        "ga": "mearbó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fast growth"
+        ],
+        "ga": "mearfhás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wood melick"
+        ],
+        "ga": "meilic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mespil"
+        ],
+        "ga": "meispeal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "metabolite"
+        ],
+        "ga": "meitibilít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flower",
+            "pendant bud"
+        ],
+        "ga": "mill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "eelgrass"
+        ],
+        "ga": "miléarach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minneola"
+        ],
+        "ga": "minneola",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dwarf banana"
+        ],
+        "ga": "mionbhanana",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dwarf palm"
+        ],
+        "ga": "mionphailm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "silvergrass"
+        ],
+        "ga": "mioscantach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "myrobalan"
+        ],
+        "ga": "mireabalan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mirabelle"
+        ],
+        "ga": "miribéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mint"
+        ],
+        "ga": "mismín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "globular mass",
+            "cluster"
+        ],
+        "ga": "mogall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hip"
+        ],
+        "ga": "mogóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wormwood",
+            "common sagewort"
+        ],
+        "ga": "mormónta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "moschatel"
+        ],
+        "ga": "moscadal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "autumn gentian"
+        ],
+        "ga": "muilcheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "marram",
+            "sea-bent"
+        ],
+        "ga": "muiríneach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "musk"
+        ],
+        "ga": "musc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seed parent",
+            "female parent"
+        ],
+        "ga": "máthairshíol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maerl",
+            "lithothamnion"
+        ],
+        "ga": "méarla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mesocarp"
+        ],
+        "ga": "méiseacarp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mesophyte"
+        ],
+        "ga": "méisifít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mycelium"
+        ],
+        "ga": "mícéiliam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "common knapweed",
+            "knapweed",
+            "blackheads"
+        ],
+        "ga": "mínscoth",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pepper dulse"
+        ],
+        "ga": "míobhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mimosa"
+        ],
+        "ga": "míomós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wavy hair-grass"
+        ],
+        "ga": "móinfhéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cranberry"
+        ],
+        "ga": "mónóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "giant reed"
+        ],
+        "ga": "mórghiolcach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common extinguisher moss"
+        ],
+        "ga": "múch-chaonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "broomrape"
+        ],
+        "ga": "múchóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "common nettle"
+        ],
+        "ga": "neantóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nemesia"
+        ],
+        "ga": "neiméisia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Nicotiana"
+        ],
+        "ga": "nicitiana",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "common purslane"
+        ],
+        "ga": "nuaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "masterwort"
+        ],
+        "ga": "nuinseannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tormentil"
+        ],
+        "ga": "néalfartach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "node"
+        ],
+        "ga": "nód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "daisy"
+        ],
+        "ga": "nóinín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "okra"
+        ],
+        "ga": "ocra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "olearia"
+        ],
+        "ga": "oiléiria",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Robert’s barlia",
+            "giant orchid"
+        ],
+        "ga": "ollmhagairlín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "squash pumpkin",
+            "giant pumpkin"
+        ],
+        "ga": "ollphuimcín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "giant granadilla",
+            "giant tumbo",
+            "badea"
+        ],
+        "ga": "ollpháiseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "white horehound",
+            "orafunt"
+        ],
+        "ga": "orafunt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oregano",
+            "wild marjoram"
+        ],
+        "ga": "oragán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alliance"
+        ],
+        "ga": "ordghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "palm tree",
+            "palm"
+        ],
+        "ga": "pailm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeobotany"
+        ],
+        "ga": "pailéaluibheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "panicle"
+        ],
+        "ga": "painicil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palmate"
+        ],
+        "ga": "palmatach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vetch"
+        ],
+        "ga": "peasair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vetchling"
+        ],
+        "ga": "peasairín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "petunia"
+        ],
+        "ga": "peatúinia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pelargonium"
+        ],
+        "ga": "peileargóiniam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "periphyton"
+        ],
+        "ga": "peirifíotón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pilgerodendron"
+        ],
+        "ga": "pilgeirideandrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pileus"
+        ],
+        "ga": "piléas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dittander"
+        ],
+        "ga": "piobracas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pyrethrum"
+        ],
+        "ga": "pireatram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pulse"
+        ],
+        "ga": "piseánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pitayita"
+        ],
+        "ga": "pitéite",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plant"
+        ],
+        "ga": "planda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plant science"
+        ],
+        "ga": "plandeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plant oil",
+            "vegetable oil"
+        ],
+        "ga": "plandola",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plus tree"
+        ],
+        "ga": "pluschrann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plane"
+        ],
+        "ga": "plána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cow-parsnip"
+        ],
+        "ga": "pléascán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "population"
+        ],
+        "ga": "pobal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "podocarp"
+        ],
+        "ga": "podacarp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "poplar"
+        ],
+        "ga": "poibleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "poinsettia"
+        ],
+        "ga": "poinséitia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "poppy"
+        ],
+        "ga": "poipín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "brassica"
+        ],
+        "ga": "praiseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wild privet"
+        ],
+        "ga": "pribhéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "primordial"
+        ],
+        "ga": "príomhordach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "primula"
+        ],
+        "ga": "príomúla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "protea"
+        ],
+        "ga": "próitéa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "passion fruit"
+        ],
+        "ga": "páiseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "papaw",
+            "pawpaw"
+        ],
+        "ga": "pápá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "herb Paris"
+        ],
+        "ga": "páraiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pequi"
+        ],
+        "ga": "péicí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pine"
+        ],
+        "ga": "péine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pore"
+        ],
+        "ga": "póir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "potentilla"
+        ],
+        "ga": "pótaintille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thrift",
+            "sea-pink"
+        ],
+        "ga": "rabhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bog-myrtle"
+        ],
+        "ga": "raideog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "radish"
+        ],
+        "ga": "raidis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rafflesia"
+        ],
+        "ga": "raiflíse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ramin"
+        ],
+        "ga": "raimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bracken"
+        ],
+        "ga": "raithneach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rhizostoma"
+        ],
+        "ga": "riseastómach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "darnel"
+        ],
+        "ga": "roille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "roselle"
+        ],
+        "ga": "roiseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "whorl"
+        ],
+        "ga": "rothóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rape"
+        ],
+        "ga": "ráib",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ramie"
+        ],
+        "ga": "ráimí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "star anise"
+        ],
+        "ga": "réalt-ainís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rimu",
+            "red pine",
+            "New Zealand red pine"
+        ],
+        "ga": "rímú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "branched bur-reed"
+        ],
+        "ga": "rísheisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rose"
+        ],
+        "ga": "rós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rosewood"
+        ],
+        "ga": "rósadhmad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rhododendron",
+            "wild rhododendron"
+        ],
+        "ga": "róslabhras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "primrose"
+        ],
+        "ga": "sabhaircín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "willow moss"
+        ],
+        "ga": "sailchaonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "goat willow",
+            "great sallow",
+            "pussy willow"
+        ],
+        "ga": "sailchearnach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "violet"
+        ],
+        "ga": "sailchuach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "willow"
+        ],
+        "ga": "saileach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "willowherb"
+        ],
+        "ga": "saileachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "osier"
+        ],
+        "ga": "saileánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "distinctness"
+        ],
+        "ga": "sainiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "salsify"
+        ],
+        "ga": "salsabh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sorrel"
+        ],
+        "ga": "samhadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wild basil"
+        ],
+        "ga": "saoisteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sapodillo plum"
+        ],
+        "ga": "sapadaile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "saponin"
+        ],
+        "ga": "sapainin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "satranabe"
+        ],
+        "ga": "satranabaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "white mustard"
+        ],
+        "ga": "sceallagach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "skirret"
+        ],
+        "ga": "sciréad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "nettle-leaved bellflower"
+        ],
+        "ga": "scornlus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bur-marigold"
+        ],
+        "ga": "scothóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jackfruit"
+        ],
+        "ga": "seaca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sal",
+            "sal tree"
+        ],
+        "ga": "seala",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "peduncle"
+        ],
+        "ga": "sealgóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "clover",
+            "trefoil"
+        ],
+        "ga": "seamair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wood-sorrel"
+        ],
+        "ga": "seamsóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jengkol"
+        ],
+        "ga": "seancól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bitter-cress"
+        ],
+        "ga": "searbh-bhiolar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "turkey oak"
+        ],
+        "ga": "searbhdhair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jarrah"
+        ],
+        "ga": "searra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sesame"
+        ],
+        "ga": "seasaman",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sycamore"
+        ],
+        "ga": "seiceamar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sphagnum"
+        ],
+        "ga": "sfagnam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chick-pea",
+            "chick pea",
+            "chickpea"
+        ],
+        "ga": "sicphiseánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "black bog-rush"
+        ],
+        "ga": "sifín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chigua"
+        ],
+        "ga": "siogua",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rod"
+        ],
+        "ga": "slat",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "laver",
+            "sloke"
+        ],
+        "ga": "sleabhac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rock-weed",
+            "river weed",
+            "rock river weed"
+        ],
+        "ga": "slobán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ribwort plantain",
+            "narrow-leaved plantain"
+        ],
+        "ga": "slánlus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wild celery"
+        ],
+        "ga": "smaileog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acicula"
+        ],
+        "ga": "snáthadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thread moss"
+        ],
+        "ga": "snáthchaonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "celeriac"
+        ],
+        "ga": "soiliriac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sorghum",
+            "sorgum",
+            "black amber",
+            "broomcorn",
+            "chicken corn",
+            "shatter cane",
+            "wild cane",
+            "Indian millet",
+            "durra"
+        ],
+        "ga": "sorgam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "spelt",
+            "wheat"
+        ],
+        "ga": "speilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colt's-foot",
+            "coltsfoot"
+        ],
+        "ga": "sponc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spruce"
+        ],
+        "ga": "sprús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "euphorbia"
+        ],
+        "ga": "spuirse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spurge"
+        ],
+        "ga": "spuirse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "spine"
+        ],
+        "ga": "spíon",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gooseberry",
+            "European gooseberry"
+        ],
+        "ga": "spíonán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fruiting body"
+        ],
+        "ga": "spórthoradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "satinwood"
+        ],
+        "ga": "sróladhmad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "common bistort"
+        ],
+        "ga": "stóinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Scots lovage"
+        ],
+        "ga": "sunais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "saw-wort"
+        ],
+        "ga": "sábhlus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "great fen-sedge",
+            "saw sedge"
+        ],
+        "ga": "sábhsheisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "zinna"
+        ],
+        "ga": "sínne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chive"
+        ],
+        "ga": "síobhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "seed leaf"
+        ],
+        "ga": "síolduille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seed orchard"
+        ],
+        "ga": "síolghort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sipo",
+            "utile"
+        ],
+        "ga": "síopó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sapwood"
+        ],
+        "ga": "sú-adhmad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bog moss",
+            "moss peat",
+            "peat moss"
+        ],
+        "ga": "súsán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "thale cress"
+        ],
+        "ga": "tailís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tamarisk"
+        ],
+        "ga": "tamaraisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "side branch"
+        ],
+        "ga": "taobhchraobh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "taro"
+        ],
+        "ga": "taró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coco yam",
+            "wild taro"
+        ],
+        "ga": "taró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "teff"
+        ],
+        "ga": "teif",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lime"
+        ],
+        "ga": "teile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lime"
+        ],
+        "ga": "teile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tetracentron"
+        ],
+        "ga": "teitriceantrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tiama"
+        ],
+        "ga": "tiama",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "timothy",
+            "cat's-tail grass",
+            "timothy-grass",
+            "cat's-tail"
+        ],
+        "ga": "tiomóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elephant trunk"
+        ],
+        "ga": "tiúchosach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shrub ragwort"
+        ],
+        "ga": "torbhuachalán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wild clary",
+            "wild sage"
+        ],
+        "ga": "tormán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tragacanth"
+        ],
+        "ga": "tragacant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "winter-cress"
+        ],
+        "ga": "treabhach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "triticale"
+        ],
+        "ga": "triteacál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elder"
+        ],
+        "ga": "trom",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dwarf elder"
+        ],
+        "ga": "tromán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tropophyte"
+        ],
+        "ga": "trópaifít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "turbinicarp"
+        ],
+        "ga": "tuirbineacarp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stitchwort"
+        ],
+        "ga": "tursarraing",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lyme-grass"
+        ],
+        "ga": "táithean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "toatoa"
+        ],
+        "ga": "tóatóa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wide-nerved liverwort"
+        ],
+        "ga": "tóimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "orpine"
+        ],
+        "ga": "tóirpín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wenge"
+        ],
+        "ga": "uainge",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "autotroph"
+        ],
+        "ga": "uatrófach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ovary"
+        ],
+        "ga": "ubhagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ovule"
+        ],
+        "ga": "ubhúlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "allheal"
+        ],
+        "ga": "uile-íoc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vahisasety"
+        ],
+        "ga": "vaihiosaséite",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wisteria"
+        ],
+        "ga": "vistéiria",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vitroplants"
+        ],
+        "ga": "vitreaphlandaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Virola"
+        ],
+        "ga": "víreola",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "voanioala"
+        ],
+        "ga": "vóiníóla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Solomon’s seal"
+        ],
+        "ga": "áglus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ake-ake"
+        ],
+        "ga": "áicí-áicí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aurelia"
+        ],
+        "ga": "áiréiliach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ebony"
+        ],
+        "ga": "éabann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ocotillo",
+            "boojum"
+        ],
+        "ga": "ócaitíolló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aubretia",
+            "aubrieta"
+        ],
+        "ga": "óibríse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "obeche"
+        ],
+        "ga": "óibéise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "opepe"
+        ],
+        "ga": "óipeipí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "golden seal",
+            "goldenseal"
+        ],
+        "ga": "órshéala",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "apple moss"
+        ],
+        "ga": "úllchaonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "snowy mespilus"
+        ],
+        "ga": "úlláinséar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "uzazi"
+        ],
+        "ga": "úsásaí",
+        "gender": "masculine"
+    }
+]

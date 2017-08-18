@@ -1,0 +1,326 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "Main Operating Theatre"
+        ],
+        "ga": "Príomhobrádlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Secretary's Office"
+        ],
+        "ga": "Rúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "face shield"
+        ],
+        "ga": "aghaidhsciath",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "acetylene"
+        ],
+        "ga": "aicéitiléin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "caution"
+        ],
+        "ga": "aire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "helmet"
+        ],
+        "ga": "cafarr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "car park",
+            "carpark"
+        ],
+        "ga": "carrchlós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chemical"
+        ],
+        "ga": "ceimiceán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chlorine"
+        ],
+        "ga": "clóirín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pedestrian"
+        ],
+        "ga": "coisí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "roundabout"
+        ],
+        "ga": "compal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "danger"
+        ],
+        "ga": "contúirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bend"
+        ],
+        "ga": "cor",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "verge"
+        ],
+        "ga": "corr",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "step"
+        ],
+        "ga": "céim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "door"
+        ],
+        "ga": "doras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bridge"
+        ],
+        "ga": "droichead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "surface"
+        ],
+        "ga": "dromchla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "first aid",
+            "first-aid"
+        ],
+        "ga": "garchabhair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hazardous area"
+        ],
+        "ga": "guaislimistéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "machinery"
+        ],
+        "ga": "innealra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "glove"
+        ],
+        "ga": "lámhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mask"
+        ],
+        "ga": "masc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "surgical"
+        ],
+        "ga": "máinliacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "major road"
+        ],
+        "ga": "mórbhóthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fumes",
+            "fume"
+        ],
+        "ga": "múch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "work"
+        ],
+        "ga": "obair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "paint"
+        ],
+        "ga": "péint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bicycle",
+            "cycle"
+        ],
+        "ga": "rothar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "symbol"
+        ],
+        "ga": "siombail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spraying"
+        ],
+        "ga": "spraeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stop"
+        ],
+        "ga": "stop",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "textile"
+        ],
+        "ga": "teicstíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "temperature"
+        ],
+        "ga": "teocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prohibition"
+        ],
+        "ga": "toirmeasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trolley"
+        ],
+        "ga": "tralaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "equipment"
+        ],
+        "ga": "trealamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wayfinding signage"
+        ],
+        "ga": "treochomharthaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "through road"
+        ],
+        "ga": "trébhóthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "maximum bather load"
+        ],
+        "ga": "uaslíon úsáideoirí",
+        "gender": "masculine"
+    }
+]

@@ -1,0 +1,9559 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "A-level"
+        ],
+        "ga": "A-leibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Higher Certificate"
+        ],
+        "ga": "Ardteastas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Leaving Certificate"
+        ],
+        "ga": "Ardteistiméireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cato"
+        ],
+        "ga": "Cató",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Irish-Medium College"
+        ],
+        "ga": "Gaelcholáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "K-factor"
+        ],
+        "ga": "K-fhachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pro-Vice-Chancellor"
+        ],
+        "ga": "Leas-Leas-Seansailéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Deputy Chief Inspector"
+        ],
+        "ga": "Leas-Phríomhchigire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Intermediate Certificate"
+        ],
+        "ga": "Meánteistiméireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pelmanism"
+        ],
+        "ga": "Pelmanachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Principal Investigator"
+        ],
+        "ga": "Príomhthaighdeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Q-level"
+        ],
+        "ga": "Q-leibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Q-sort"
+        ],
+        "ga": "Q-shórt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Advanced Certificate"
+        ],
+        "ga": "Sainteastas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "catchment area"
+        ],
+        "ga": "abhantrach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "academician"
+        ],
+        "ga": "acadamhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "abstraction"
+        ],
+        "ga": "achoimre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "recapitulation"
+        ],
+        "ga": "achoimre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "appeal"
+        ],
+        "ga": "achomharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ability"
+        ],
+        "ga": "acmhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "potential"
+        ],
+        "ga": "acmhainneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "admission"
+        ],
+        "ga": "admháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aphasia"
+        ],
+        "ga": "afáise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "facial vibration"
+        ],
+        "ga": "aghaidhchrith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "agraphia"
+        ],
+        "ga": "agraife",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "class distinction"
+        ],
+        "ga": "aicmíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dispute"
+        ],
+        "ga": "aighneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "altmetrics"
+        ],
+        "ga": "ailtmhéadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alexia"
+        ],
+        "ga": "ailéicse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "andragogy"
+        ],
+        "ga": "aindreolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ignorance"
+        ],
+        "ga": "aineolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "attention"
+        ],
+        "ga": "aire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "percept"
+        ],
+        "ga": "aireachtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inventor"
+        ],
+        "ga": "aireagóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caretaker",
+            "custodian",
+            "janitor"
+        ],
+        "ga": "airíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "identification"
+        ],
+        "ga": "aitheantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "recognition"
+        ],
+        "ga": "aitheantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "perception"
+        ],
+        "ga": "aithint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "attribution"
+        ],
+        "ga": "aitreabúideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "allophone"
+        ],
+        "ga": "allafón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "allomorph"
+        ],
+        "ga": "allamorf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "visual question"
+        ],
+        "ga": "amharc-cheist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "visual memory"
+        ],
+        "ga": "amharc-chuimhne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sight word"
+        ],
+        "ga": "amharcfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "visual learning"
+        ],
+        "ga": "amharcfhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "visual learner"
+        ],
+        "ga": "amharcfhoghlaimeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "visual literacy"
+        ],
+        "ga": "amharclitearthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "visual studies"
+        ],
+        "ga": "amharcstaidéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "raw score"
+        ],
+        "ga": "amhscór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "malformation"
+        ],
+        "ga": "anchuma",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "adversity"
+        ],
+        "ga": "angar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guest lecturer"
+        ],
+        "ga": "aoi-léachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guest speaker"
+        ],
+        "ga": "aoichainteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "age cohort"
+        ],
+        "ga": "aoischohórt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "age range"
+        ],
+        "ga": "aoisraon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "unit"
+        ],
+        "ga": "aonad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "individual"
+        ],
+        "ga": "aonar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "isolate"
+        ],
+        "ga": "aonraíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monoglot"
+        ],
+        "ga": "aonteangach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "discipline"
+        ],
+        "ga": "araíonacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "higher doctorate"
+        ],
+        "ga": "ard-dochtúireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aspiration"
+        ],
+        "ga": "ardaidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "high culture"
+        ],
+        "ga": "ardchultúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "higher degree"
+        ],
+        "ga": "ardchéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "high degree",
+            "second degree"
+        ],
+        "ga": "ardchéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "advanced course"
+        ],
+        "ga": "ardchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "advanced learner"
+        ],
+        "ga": "ardfhoghlaimeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "high achiever"
+        ],
+        "ga": "ardghnóthachtálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "advanced stage"
+        ],
+        "ga": "ardghrád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "higher grade"
+        ],
+        "ga": "ardghrád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "advanced level"
+        ],
+        "ga": "ardleibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "higher level"
+        ],
+        "ga": "ardleibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "advanced level"
+        ],
+        "ga": "ardléitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "headmaster"
+        ],
+        "ga": "ardmháistir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "headmistress"
+        ],
+        "ga": "ardmháistreás",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "higher education"
+        ],
+        "ga": "ardoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "high school"
+        ],
+        "ga": "ardscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "advanced standing"
+        ],
+        "ga": "ardseasamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reviewer"
+        ],
+        "ga": "athbhreithneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reviewee"
+        ],
+        "ga": "athbhreithní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reminiscence"
+        ],
+        "ga": "athchuimhne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "remand"
+        ],
+        "ga": "athchur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "repeat course",
+            "repeat"
+        ],
+        "ga": "athchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "repetition"
+        ],
+        "ga": "athdhéanamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "re-learning"
+        ],
+        "ga": "athfhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quotation"
+        ],
+        "ga": "athfhriotal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "regrouping"
+        ],
+        "ga": "athghrúpáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "retraining"
+        ],
+        "ga": "athoiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reskilling"
+        ],
+        "ga": "athoiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "re-examinee"
+        ],
+        "ga": "athscrúdaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "recheck"
+        ],
+        "ga": "athsheiceáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "repetition"
+        ],
+        "ga": "athúsáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "recidivist"
+        ],
+        "ga": "atitimeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "recidivism"
+        ],
+        "ga": "atitimeachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "retest"
+        ],
+        "ga": "atriail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "recurrent"
+        ],
+        "ga": "atréimhseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spot"
+        ],
+        "ga": "ball",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "banding"
+        ],
+        "ga": "bandáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "girl scout"
+        ],
+        "ga": "banghasóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "girl guide"
+        ],
+        "ga": "banóglach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "risk"
+        ],
+        "ga": "baol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "impression"
+        ],
+        "ga": "barúil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "observation"
+        ],
+        "ga": "barúil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "opinionaire"
+        ],
+        "ga": "barúileoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "avenue"
+        ],
+        "ga": "bealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "channel"
+        ],
+        "ga": "bealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "act"
+        ],
+        "ga": "beart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "measure"
+        ],
+        "ga": "beart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "two people"
+        ],
+        "ga": "beirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bibliotherapy"
+        ],
+        "ga": "bibliteiripe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "desk"
+        ],
+        "ga": "binse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "biometrics",
+            "biometry"
+        ],
+        "ga": "bithmhéadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "year-group"
+        ],
+        "ga": "bliainghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "block practice"
+        ],
+        "ga": "bloc-chleachtadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "block design"
+        ],
+        "ga": "blocdhearadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "block grant"
+        ],
+        "ga": "blocdheontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "blockage"
+        ],
+        "ga": "blocáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "blocking"
+        ],
+        "ga": "blocáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "floristry"
+        ],
+        "ga": "bláthadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bleep"
+        ],
+        "ga": "blíp",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bleeper"
+        ],
+        "ga": "blípire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "basal age"
+        ],
+        "ga": "bonn-aois",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "foundation stage"
+        ],
+        "ga": "bonnchéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "foundation course"
+        ],
+        "ga": "bonnchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "foundation level"
+        ],
+        "ga": "bonnleibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "basal reader"
+        ],
+        "ga": "bonnléitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "foundation studies"
+        ],
+        "ga": "bonnstaidéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "borstal"
+        ],
+        "ga": "borstal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plagiarism"
+        ],
+        "ga": "bradaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vexillology"
+        ],
+        "ga": "brateolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "advanced further education"
+        ],
+        "ga": "breis-ardoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "further education"
+        ],
+        "ga": "breisoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "decision"
+        ],
+        "ga": "breith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "appraisal"
+        ],
+        "ga": "breithmheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "diction"
+        ],
+        "ga": "briathraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lisping person"
+        ],
+        "ga": "briotaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lisping",
+            "lisping speech"
+        ],
+        "ga": "briotaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "conferee"
+        ],
+        "ga": "bronntaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "false belief"
+        ],
+        "ga": "bréagchreideamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "false memory"
+        ],
+        "ga": "bréagchuimhne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "false negative"
+        ],
+        "ga": "bréagdhiúltach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pseudo-beginner"
+        ],
+        "ga": "bréagthosaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "content word"
+        ],
+        "ga": "brífhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "talent"
+        ],
+        "ga": "bua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gift"
+        ],
+        "ga": "bua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "constancy"
+        ],
+        "ga": "buaine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "permanent education"
+        ],
+        "ga": "buanoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "perseverance"
+        ],
+        "ga": "buanseasmhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bulk eraser"
+        ],
+        "ga": "builcscriosán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bullying"
+        ],
+        "ga": "bulaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "basic English"
+        ],
+        "ga": "bun-Bhéarla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basic type"
+        ],
+        "ga": "bunchineál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basic competence"
+        ],
+        "ga": "bunchumas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "first degree"
+        ],
+        "ga": "bunchéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "undergraduate degree"
+        ],
+        "ga": "bunchéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basic knowledge"
+        ],
+        "ga": "buneolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "junior stage"
+        ],
+        "ga": "bunghrád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "primary grade"
+        ],
+        "ga": "bunghrád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "primer"
+        ],
+        "ga": "bunleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "basic reader"
+        ],
+        "ga": "bunléitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "teacher"
+        ],
+        "ga": "bunmhúinteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elementary education"
+        ],
+        "ga": "bunoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "foundation training"
+        ],
+        "ga": "bunoiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "first principle"
+        ],
+        "ga": "bunphrionsabal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "underlying principle"
+        ],
+        "ga": "bunphrionsabal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "keynote"
+        ],
+        "ga": "bunphrionsabal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bulletin",
+            "daily bulletin"
+        ],
+        "ga": "bunrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "elementary school"
+        ],
+        "ga": "bunscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "basic research"
+        ],
+        "ga": "buntaighde",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "basic understanding"
+        ],
+        "ga": "buntuiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "native ability"
+        ],
+        "ga": "bunéirim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bussing"
+        ],
+        "ga": "busáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "team teaching"
+        ],
+        "ga": "buíonteagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "oralism"
+        ],
+        "ga": "béalaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "oral test"
+        ],
+        "ga": "béaltriail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conduct"
+        ],
+        "ga": "béas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mannerliness",
+            "politeness"
+        ],
+        "ga": "béasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chalk"
+        ],
+        "ga": "cailc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cheating"
+        ],
+        "ga": "caimiléireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "capitation"
+        ],
+        "ga": "caipitíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pubescent"
+        ],
+        "ga": "caithreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "partially sighted"
+        ],
+        "ga": "caoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "custody"
+        ],
+        "ga": "caomhnóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kapok"
+        ],
+        "ga": "capac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "complaint"
+        ],
+        "ga": "casaoid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "retrogradation"
+        ],
+        "ga": "casiompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chairbound pupil"
+        ],
+        "ga": "cathaoiríneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "exercise"
+        ],
+        "ga": "ceacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lesson"
+        ],
+        "ga": "ceacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "permissiveness"
+        ],
+        "ga": "ceadaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cell line"
+        ],
+        "ga": "ceall-líne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "binder"
+        ],
+        "ga": "ceanglán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "head word",
+            "headword"
+        ],
+        "ga": "ceannfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "meekness"
+        ],
+        "ga": "ceansacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trade course"
+        ],
+        "ga": "ceardchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trade education"
+        ],
+        "ga": "ceardoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "technical school"
+        ],
+        "ga": "ceardscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "unruly behaviour"
+        ],
+        "ga": "cearmansaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quadrivium"
+        ],
+        "ga": "ceathairábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cloth"
+        ],
+        "ga": "ceirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rag-rolling"
+        ],
+        "ga": "ceirtphéinteáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "question"
+        ],
+        "ga": "ceist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "questionnaire"
+        ],
+        "ga": "ceistiúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "school of music"
+        ],
+        "ga": "ceolscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chi-square"
+        ],
+        "ga": "chi-chearnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "remote sensing"
+        ],
+        "ga": "cianbhraiteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "distal sense"
+        ],
+        "ga": "cianchéadfa",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "distance learning"
+        ],
+        "ga": "cianfhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "distance marking"
+        ],
+        "ga": "cianmharcáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "distance education"
+        ],
+        "ga": "cianoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "teleclass"
+        ],
+        "ga": "cianrang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "distance teaching"
+        ],
+        "ga": "cianteagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "encyclopedia",
+            "encyclopaedia"
+        ],
+        "ga": "ciclipéid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inspection"
+        ],
+        "ga": "cigireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cell biology"
+        ],
+        "ga": "cillbhitheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cinematology"
+        ],
+        "ga": "cineamaiteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "prefect"
+        ],
+        "ga": "cinnire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ascertainment"
+        ],
+        "ga": "cinntiúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "kinesiology"
+        ],
+        "ga": "cinéiseolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "racialism"
+        ],
+        "ga": "ciníochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pool"
+        ],
+        "ga": "ciste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "treasury"
+        ],
+        "ga": "cistíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wrap-up time"
+        ],
+        "ga": "clabhsúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "disorderliness"
+        ],
+        "ga": "clampracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transformer"
+        ],
+        "ga": "claochlóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prejudice"
+        ],
+        "ga": "claontacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "practitioner"
+        ],
+        "ga": "cleachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "seminary"
+        ],
+        "ga": "cliarscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "learning unit"
+        ],
+        "ga": "closaonad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "audiogram"
+        ],
+        "ga": "closghram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acoumeter",
+            "audiometer"
+        ],
+        "ga": "closmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aural learning"
+        ],
+        "ga": "cluasfhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aural training"
+        ],
+        "ga": "cluasoiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "aural test"
+        ],
+        "ga": "cluastriail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aural comprehension"
+        ],
+        "ga": "cluastuiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "register"
+        ],
+        "ga": "clár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "program",
+            "programme"
+        ],
+        "ga": "clár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "enrolment register",
+            "school register"
+        ],
+        "ga": "clárleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "programme evaluation"
+        ],
+        "ga": "clármheastóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sinistrality"
+        ],
+        "ga": "cléthaobhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "climatology"
+        ],
+        "ga": "clíomeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lump score"
+        ],
+        "ga": "cnapscór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clustergroup"
+        ],
+        "ga": "cnuasghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "arrangement"
+        ],
+        "ga": "cogairse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cohort"
+        ],
+        "ga": "cohórt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "unclubbable"
+        ],
+        "ga": "coimhthíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "retentiveness"
+        ],
+        "ga": "coinneálacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collegiality"
+        ],
+        "ga": "coláisteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "collegian"
+        ],
+        "ga": "coláisteánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common core"
+        ],
+        "ga": "comh-chroílár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "apperception"
+        ],
+        "ga": "comhaireachtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fellow"
+        ],
+        "ga": "comhalta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "co-operative learning"
+        ],
+        "ga": "comharfhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "symptom"
+        ],
+        "ga": "comhartha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tokenism"
+        ],
+        "ga": "comharthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "co-operative teaching"
+        ],
+        "ga": "comhartheagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "confraternity"
+        ],
+        "ga": "comhbhráithreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "associationist"
+        ],
+        "ga": "comhcheangaltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sister college"
+        ],
+        "ga": "comhcholáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "common course"
+        ],
+        "ga": "comhchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coordination",
+            "co-ordination"
+        ],
+        "ga": "comheagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coordinator",
+            "co-ordinator"
+        ],
+        "ga": "comheagraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "convocation"
+        ],
+        "ga": "comhghairm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collegiality"
+        ],
+        "ga": "comhghleacaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "equality"
+        ],
+        "ga": "comhionannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "college associate"
+        ],
+        "ga": "comhlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common level"
+        ],
+        "ga": "comhleibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reciprocity"
+        ],
+        "ga": "comhlántacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "co-education"
+        ],
+        "ga": "comhoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "associate professor"
+        ],
+        "ga": "comhollamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alternative"
+        ],
+        "ga": "comhrogha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "associate secretary"
+        ],
+        "ga": "comhrúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contiguity"
+        ],
+        "ga": "comhtheagmhálacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "common language"
+        ],
+        "ga": "comhtheanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "coherence"
+        ],
+        "ga": "comhtháiteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "congruence"
+        ],
+        "ga": "congruacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hindrance"
+        ],
+        "ga": "constaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "impediment"
+        ],
+        "ga": "constaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "body sense"
+        ],
+        "ga": "corpchiall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "body concept"
+        ],
+        "ga": "corpchoincheap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "physical training",
+            "PT"
+        ],
+        "ga": "corpoiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "body image"
+        ],
+        "ga": "corpíomhá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "podiatric medicine"
+        ],
+        "ga": "cosmhíochaine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "frame"
+        ],
+        "ga": "creat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "criticism"
+        ],
+        "ga": "critic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "yardstick",
+            "criterion"
+        ],
+        "ga": "critéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "critique"
+        ],
+        "ga": "critíc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "crossed laterality"
+        ],
+        "ga": "crostaobhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "key experience"
+        ],
+        "ga": "croí-eispéireas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core subject"
+        ],
+        "ga": "croí-ábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core curriculum"
+        ],
+        "ga": "croíchuraclam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core principle"
+        ],
+        "ga": "croíphrionsabal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core vocabulary"
+        ],
+        "ga": "croístór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "conundrum"
+        ],
+        "ga": "cruacheist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "creativeness"
+        ],
+        "ga": "cruthaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "effectiveness"
+        ],
+        "ga": "críochnúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "visitation"
+        ],
+        "ga": "cuairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aide",
+            "helper"
+        ],
+        "ga": "cuiditheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "remembering"
+        ],
+        "ga": "cuimhneamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mnemonics"
+        ],
+        "ga": "cuimhneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "squeegee"
+        ],
+        "ga": "cuimleoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comprehensiveness"
+        ],
+        "ga": "cuimsitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comprehensivity"
+        ],
+        "ga": "cuimsitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quinnell"
+        ],
+        "ga": "cuineal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "juncture"
+        ],
+        "ga": "cumar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "faculty"
+        ],
+        "ga": "cumas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ability"
+        ],
+        "ga": "cumas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blending"
+        ],
+        "ga": "cumasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "curriculum"
+        ],
+        "ga": "curaclam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "award"
+        ],
+        "ga": "cáiliúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "qualification"
+        ],
+        "ga": "cáilíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "situation card"
+        ],
+        "ga": "cáschárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "case record"
+        ],
+        "ga": "cásthaifead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sameness",
+            "identity"
+        ],
+        "ga": "céannacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "degree"
+        ],
+        "ga": "céim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "step-size"
+        ],
+        "ga": "céim-mhéid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "graduateship"
+        ],
+        "ga": "céimeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rank"
+        ],
+        "ga": "céimiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ranking"
+        ],
+        "ga": "céimiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "graduate"
+        ],
+        "ga": "céimí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wax model"
+        ],
+        "ga": "céirshamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "copymaster"
+        ],
+        "ga": "cóipacmhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "copy-book",
+            "copy book"
+        ],
+        "ga": "cóipleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trainer"
+        ],
+        "ga": "cóitseálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reciprocity"
+        ],
+        "ga": "cómhalartacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "choir school"
+        ],
+        "ga": "córscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chivalry"
+        ],
+        "ga": "cúirtéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "background"
+        ],
+        "ga": "cúlionad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "course"
+        ],
+        "ga": "cúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "oaktag"
+        ],
+        "ga": "dairigilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blind person"
+        ],
+        "ga": "dall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pupillage"
+        ],
+        "ga": "daltachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "spider diagram"
+        ],
+        "ga": "damhánléaráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spider map"
+        ],
+        "ga": "damhánmhapa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "folk school"
+        ],
+        "ga": "daonscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "partially colour blind"
+        ],
+        "ga": "dathchaoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "partial colour blindness"
+        ],
+        "ga": "dathchaoiche",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colourizer"
+        ],
+        "ga": "dathán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sense of well-being"
+        ],
+        "ga": "dea-bhraistint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "absolute standard"
+        ],
+        "ga": "dearbhchaighdeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "absolute threshold"
+        ],
+        "ga": "dearbhthairseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dextrality"
+        ],
+        "ga": "deasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "elocution"
+        ],
+        "ga": "deaslabhra",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "manual dexterity"
+        ],
+        "ga": "deaslámhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "right handedness"
+        ],
+        "ga": "deaslámhaí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tact"
+        ],
+        "ga": "deastuiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "right-hand direction"
+        ],
+        "ga": "deiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grant"
+        ],
+        "ga": "deontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "weepiness"
+        ],
+        "ga": "deorshileadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "variation"
+        ],
+        "ga": "diall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grind"
+        ],
+        "ga": "diancheacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "intensive course"
+        ],
+        "ga": "dianchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "persistence"
+        ],
+        "ga": "dianseasmhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "diploma"
+        ],
+        "ga": "dioplóma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dysarthria"
+        ],
+        "ga": "diosairtre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dyscalculia"
+        ],
+        "ga": "dioscalcúile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dysealia"
+        ],
+        "ga": "dioseáile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dysphoria"
+        ],
+        "ga": "diosfóiria",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dysgraphia"
+        ],
+        "ga": "diosgraife",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "discipline"
+        ],
+        "ga": "disciplín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dysthymia"
+        ],
+        "ga": "distíme",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dyssemia"
+        ],
+        "ga": "diséime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rejectee"
+        ],
+        "ga": "diúltaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fluvial geomorphology"
+        ],
+        "ga": "dobhargheomoirfeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aversion"
+        ],
+        "ga": "dochma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "doctorate"
+        ],
+        "ga": "dochtúireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "remorse"
+        ],
+        "ga": "doilíos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "domett"
+        ],
+        "ga": "doiméad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inflexibility"
+        ],
+        "ga": "dolúbthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "earth science"
+        ],
+        "ga": "domhaneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "profane language"
+        ],
+        "ga": "drochbhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bad language"
+        ],
+        "ga": "drochtheanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drama",
+            "dramatic art"
+        ],
+        "ga": "drámaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contribution"
+        ],
+        "ga": "dréacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "draft"
+        ],
+        "ga": "dréacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tract"
+        ],
+        "ga": "dréacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "draft syllabus"
+        ],
+        "ga": "dréachtsiollabas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "reward"
+        ],
+        "ga": "duais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "prize list"
+        ],
+        "ga": "duaisliosta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "duvet"
+        ],
+        "ga": "duivé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rapport"
+        ],
+        "ga": "dáimhiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "faculty"
+        ],
+        "ga": "dámh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "awardee"
+        ],
+        "ga": "dámhachtaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "décalage"
+        ],
+        "ga": "déacaláis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dean"
+        ],
+        "ga": "déan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "recency"
+        ],
+        "ga": "déanaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "severity"
+        ],
+        "ga": "déine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "strictness"
+        ],
+        "ga": "déine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "two track"
+        ],
+        "ga": "dérian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "expulsion"
+        ],
+        "ga": "díbirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "disassociation"
+        ],
+        "ga": "dícheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "de-streaming"
+        ],
+        "ga": "díghnáthamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intensity"
+        ],
+        "ga": "díochracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "enthusiasm"
+        ],
+        "ga": "díograis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "exemption"
+        ],
+        "ga": "díolúine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "unruliness"
+        ],
+        "ga": "díriail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "indecision"
+        ],
+        "ga": "dóbartaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "putting off",
+            "hesitating"
+        ],
+        "ga": "dóbartaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "duplicating"
+        ],
+        "ga": "dúbláil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "zeal",
+            "application"
+        ],
+        "ga": "dúthracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shortcoming"
+        ],
+        "ga": "easnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eclectic"
+        ],
+        "ga": "eicléicteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "element"
+        ],
+        "ga": "eilimint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "model"
+        ],
+        "ga": "eiseamláir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "exemplar",
+            "example",
+            "illustration"
+        ],
+        "ga": "eiseamláir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rejection"
+        ],
+        "ga": "eiteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ethnomethodology"
+        ],
+        "ga": "eitnea-mhodheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "key assignment"
+        ],
+        "ga": "eochairchleachtadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "keynote lecture"
+        ],
+        "ga": "eochairléacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "key skill"
+        ],
+        "ga": "eochairscil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "key idea"
+        ],
+        "ga": "eochairsmaoineamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "euphoria"
+        ],
+        "ga": "eofóiria",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "favouritism"
+        ],
+        "ga": "fabhraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "problem solving"
+        ],
+        "ga": "fadhbréiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "breadth"
+        ],
+        "ga": "fairsinge",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "staying on"
+        ],
+        "ga": "fanúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "excellence"
+        ],
+        "ga": "feabhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "improvement"
+        ],
+        "ga": "feabhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "remedial",
+            "remedial pupil"
+        ],
+        "ga": "feabhsach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "remediation"
+        ],
+        "ga": "feabhsúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "form word"
+        ],
+        "ga": "feidhmfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "function word"
+        ],
+        "ga": "feidhmfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "functionalism"
+        ],
+        "ga": "feidhmiúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "invigilator"
+        ],
+        "ga": "feitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "supervisor"
+        ],
+        "ga": "feitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "invigilation"
+        ],
+        "ga": "feitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "suspension"
+        ],
+        "ga": "fionraí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "physics/chemistry"
+        ],
+        "ga": "fisic/ceimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "worthiness"
+        ],
+        "ga": "fiúntas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subconsciousness"
+        ],
+        "ga": "fo-chomhfhios",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subsidiary subject"
+        ],
+        "ga": "fo-ábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "logophile"
+        ],
+        "ga": "focalbhách",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "word card"
+        ],
+        "ga": "focalchárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "verbal stimulus"
+        ],
+        "ga": "focalspreagthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "undergraduate"
+        ],
+        "ga": "fochéimí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subdiscipline"
+        ],
+        "ga": "fodhisciplín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "learning"
+        ],
+        "ga": "foghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "learning"
+        ],
+        "ga": "foghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "learner"
+        ],
+        "ga": "foghlaimeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "form"
+        ],
+        "ga": "foirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "form"
+        ],
+        "ga": "foirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subilluminant"
+        ],
+        "ga": "folonraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "foundation"
+        ],
+        "ga": "fondúireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mood"
+        ],
+        "ga": "fonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ridicule",
+            "mockery",
+            "derision"
+        ],
+        "ga": "fonóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sub-professional"
+        ],
+        "ga": "fophroifisiúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "superstructure"
+        ],
+        "ga": "for-eagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "development"
+        ],
+        "ga": "forbairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "superior intelligence"
+        ],
+        "ga": "forintleacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "superior child"
+        ],
+        "ga": "forpháiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "growth"
+        ],
+        "ga": "forás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subsidiary area"
+        ],
+        "ga": "foréimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "subtopic"
+        ],
+        "ga": "fothopaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "secondary effect",
+            "side-effect",
+            "side effect"
+        ],
+        "ga": "fothoradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "subtest"
+        ],
+        "ga": "fothriail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "response"
+        ],
+        "ga": "freagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "answer book"
+        ],
+        "ga": "freagarleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "answer",
+            "response"
+        ],
+        "ga": "freagra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "respondee"
+        ],
+        "ga": "freagróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anti-academism"
+        ],
+        "ga": "frithacadúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "reflex"
+        ],
+        "ga": "frithluail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "reflexive response"
+        ],
+        "ga": "frithluail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "frame"
+        ],
+        "ga": "fráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "frame-group"
+        ],
+        "ga": "frámghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "phrasecard"
+        ],
+        "ga": "fráschárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "soundscape"
+        ],
+        "ga": "fuaimdhreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sound dubbing"
+        ],
+        "ga": "fuaimdhúbláil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sound reader"
+        ],
+        "ga": "fuaimléitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "acquisition"
+        ],
+        "ga": "fáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hospitality"
+        ],
+        "ga": "fáilteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clip board"
+        ],
+        "ga": "fáisc-chlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "predictor"
+        ],
+        "ga": "fáistineoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chute"
+        ],
+        "ga": "fánán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-discipline"
+        ],
+        "ga": "féin-araíonacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-management"
+        ],
+        "ga": "féin-bhainistíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-depreciation"
+        ],
+        "ga": "féin-dímheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self advocacy"
+        ],
+        "ga": "féinabhcóideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "self-help"
+        ],
+        "ga": "féinchabhair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-concept"
+        ],
+        "ga": "féinchoincheap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-hood",
+            "ego"
+        ],
+        "ga": "féineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-awareness"
+        ],
+        "ga": "féinfheasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "awareness"
+        ],
+        "ga": "féinfhios",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "self-love"
+        ],
+        "ga": "féinghrá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "suicide"
+        ],
+        "ga": "féinmharfóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-esteem"
+        ],
+        "ga": "féinmheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-appraisal"
+        ],
+        "ga": "féinmheastóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-evaluation"
+        ],
+        "ga": "féinmheastóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "self-confidence"
+        ],
+        "ga": "féinmhuinín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-rating"
+        ],
+        "ga": "féinrátáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-control"
+        ],
+        "ga": "féinsmacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "self-instruction"
+        ],
+        "ga": "féinteagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "self-teaching"
+        ],
+        "ga": "féinteagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "self-projection"
+        ],
+        "ga": "féinteilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "self-assertiveness"
+        ],
+        "ga": "féintreallús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "self-image"
+        ],
+        "ga": "féiníomhá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "surprise"
+        ],
+        "ga": "féirín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "form",
+            "configuration"
+        ],
+        "ga": "fíoraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "real norm"
+        ],
+        "ga": "fíornorm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "visual"
+        ],
+        "ga": "físeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "focus"
+        ],
+        "ga": "fócas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "phonics"
+        ],
+        "ga": "fónaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Irish-medium school"
+        ],
+        "ga": "gaelscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Irish-medium schooling"
+        ],
+        "ga": "gaelscolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "involvement"
+        ],
+        "ga": "gafacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "career"
+        ],
+        "ga": "gairm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vocational pathway"
+        ],
+        "ga": "gairmchonair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vocational qualification"
+        ],
+        "ga": "gairmcháilíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vocational organisation"
+        ],
+        "ga": "gairmeagraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vocational development"
+        ],
+        "ga": "gairmfhorbairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vocational education"
+        ],
+        "ga": "gairmoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vocational school"
+        ],
+        "ga": "gairmscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "career guidance"
+        ],
+        "ga": "gairmthreoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "occupational guidance"
+        ],
+        "ga": "gairmthreoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "achievement"
+        ],
+        "ga": "gaisce",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "steam iron"
+        ],
+        "ga": "galiarann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "proximate objective"
+        ],
+        "ga": "garchuspóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "boy scout"
+        ],
+        "ga": "gasóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "start"
+        ],
+        "ga": "geit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "geocomputation"
+        ],
+        "ga": "geoiríomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "generalist"
+        ],
+        "ga": "ginearálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gymnasium",
+            "gym"
+        ],
+        "ga": "giomnáisiam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lock step"
+        ],
+        "ga": "glaschéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gymnastic"
+        ],
+        "ga": "gleacaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ordinary degree"
+        ],
+        "ga": "gnáthchéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "domestic-type construction"
+        ],
+        "ga": "gnáthfhoirgneamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "average child"
+        ],
+        "ga": "gnáthleanbh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ordinary level"
+        ],
+        "ga": "gnáthleibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "normal range"
+        ],
+        "ga": "gnáthraon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ordinary school"
+        ],
+        "ga": "gnáthscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "standard subject"
+        ],
+        "ga": "gnáthábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "achievement"
+        ],
+        "ga": "gnóthachtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "attainment"
+        ],
+        "ga": "gnóthachtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "achiever"
+        ],
+        "ga": "gnóthachtálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gesture"
+        ],
+        "ga": "gotha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "graphology"
+        ],
+        "ga": "grafeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "grapheme"
+        ],
+        "ga": "graiféim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "irritant"
+        ],
+        "ga": "greannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "irritant"
+        ],
+        "ga": "greannaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intensive listening"
+        ],
+        "ga": "grinn-éisteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "in-depth inspection"
+        ],
+        "ga": "grinnchigireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intensive reading"
+        ],
+        "ga": "grinnléitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "withinness"
+        ],
+        "ga": "grinnriar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "in-depth study"
+        ],
+        "ga": "grinnstaidéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bootcamp"
+        ],
+        "ga": "grodchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stage"
+        ],
+        "ga": "grád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grade"
+        ],
+        "ga": "grád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grade training"
+        ],
+        "ga": "grádoiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "group consciousness"
+        ],
+        "ga": "grúp-chomhfhios",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "group pressure"
+        ],
+        "ga": "grúpbhrú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "group relations"
+        ],
+        "ga": "grúpchaidreamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "group leader"
+        ],
+        "ga": "grúpcheannaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "group programme"
+        ],
+        "ga": "grúpchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "group configuration"
+        ],
+        "ga": "grúpchumraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "group course"
+        ],
+        "ga": "grúpchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "group difference"
+        ],
+        "ga": "grúpdhifríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "group dynamics"
+        ],
+        "ga": "grúpdhinimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "group activity"
+        ],
+        "ga": "grúpghníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "group method"
+        ],
+        "ga": "grúpmhodh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "group norm"
+        ],
+        "ga": "grúpnorm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "group service"
+        ],
+        "ga": "grúpsheirbhís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "group session"
+        ],
+        "ga": "grúpsheisiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "group psychology"
+        ],
+        "ga": "grúpshíceolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "group study"
+        ],
+        "ga": "grúpstaidéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "group programme teaching"
+        ],
+        "ga": "grúptheagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "group teaching"
+        ],
+        "ga": "grúptheagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "group therapy"
+        ],
+        "ga": "grúptheiripe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "group project"
+        ],
+        "ga": "grúpthionscadal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "submissiveness"
+        ],
+        "ga": "géilliúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subservience"
+        ],
+        "ga": "géilliúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gore"
+        ],
+        "ga": "góire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guru"
+        ],
+        "ga": "gúrú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hectograph"
+        ],
+        "ga": "heicteagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "heuristics"
+        ],
+        "ga": "heorastaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydrocephalous"
+        ],
+        "ga": "hidriceifealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hyperactivity"
+        ],
+        "ga": "hipirghníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "i-Learning"
+        ],
+        "ga": "i-Fhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "post-primary school"
+        ],
+        "ga": "iar-bhunscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "postprimary school"
+        ],
+        "ga": "iarbhunscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "post-communication"
+        ],
+        "ga": "iarchumarsáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "record"
+        ],
+        "ga": "iarchuntas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "post-graduate degree"
+        ],
+        "ga": "iarchéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "postgraduate"
+        ],
+        "ga": "iarchéimí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ironing"
+        ],
+        "ga": "iarnáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "follow-up discussion"
+        ],
+        "ga": "iarphlé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "post-test"
+        ],
+        "ga": "iarthriail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "post-testing"
+        ],
+        "ga": "iarthástáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transition unit"
+        ],
+        "ga": "idiraonad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transition year",
+            "transitional year"
+        ],
+        "ga": "idirbhliain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interactionist"
+        ],
+        "ga": "idirghníomhaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "transition"
+        ],
+        "ga": "idirlinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "intermediate"
+        ],
+        "ga": "idirmheánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "intersession"
+        ],
+        "ga": "idirsheisiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ideologist"
+        ],
+        "ga": "idé-eolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ideograph"
+        ],
+        "ga": "idéagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "idealist"
+        ],
+        "ga": "idéalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "multiple discrimination"
+        ],
+        "ga": "il-leithcheal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "multiversity"
+        ],
+        "ga": "il-ollscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "multiple handicap",
+            "polyhandicap"
+        ],
+        "ga": "ilbhac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "all-rounder"
+        ],
+        "ga": "ilbheartóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "versatility"
+        ],
+        "ga": "ilchumas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "all-rounder"
+        ],
+        "ga": "ildánaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "polymath"
+        ],
+        "ga": "ileolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "multiple marking"
+        ],
+        "ga": "ilmharcáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reversibility"
+        ],
+        "ga": "inaisathraitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aptitude"
+        ],
+        "ga": "infheidhmeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "suggestopaedia"
+        ],
+        "ga": "inmheabhraipéid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "suggestibility"
+        ],
+        "ga": "inmheabhraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "suggestology"
+        ],
+        "ga": "inmheabhreolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "internalism"
+        ],
+        "ga": "inmheánachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "competence"
+        ],
+        "ga": "inniúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "literacy"
+        ],
+        "ga": "inniúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ability",
+            "competence"
+        ],
+        "ga": "inniúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trainability"
+        ],
+        "ga": "inoiliúnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "imprint"
+        ],
+        "ga": "inphriontáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "imprinting"
+        ],
+        "ga": "inphriontáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "converger"
+        ],
+        "ga": "inréimneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "in-service"
+        ],
+        "ga": "inseirbhís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "narrative"
+        ],
+        "ga": "insint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "motivator"
+        ],
+        "ga": "inspreagthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mind"
+        ],
+        "ga": "intinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ingenuity"
+        ],
+        "ga": "intleachtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intellectual"
+        ],
+        "ga": "intleachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "predictability"
+        ],
+        "ga": "intuarthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intelligibility"
+        ],
+        "ga": "intuigtheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "intuition"
+        ],
+        "ga": "iomas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "intuitionism",
+            "intuitionalism"
+        ],
+        "ga": "iomasachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "holist"
+        ],
+        "ga": "iomlánaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rivalry"
+        ],
+        "ga": "iompairc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "behaviourist"
+        ],
+        "ga": "iompraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "behaviour"
+        ],
+        "ga": "iompraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "in-company"
+        ],
+        "ga": "ionchuideachta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "in-group"
+        ],
+        "ga": "ionghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "entrance"
+        ],
+        "ga": "iontráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "admission"
+        ],
+        "ga": "iontráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "entry"
+        ],
+        "ga": "iontráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "accommodation"
+        ],
+        "ga": "iostas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "j-curve"
+        ],
+        "ga": "j-chuar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "job training"
+        ],
+        "ga": "jaboiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "speaking"
+        ],
+        "ga": "labhairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "whiplash question"
+        ],
+        "ga": "lasc-cheist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "boredom"
+        ],
+        "ga": "leadrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "model"
+        ],
+        "ga": "leagan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deputy head"
+        ],
+        "ga": "leas-phríomhoide",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vice-principal"
+        ],
+        "ga": "leas-phríomhoide",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deputy principal"
+        ],
+        "ga": "leas-phríomhoifigeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pro-chancellor"
+        ],
+        "ga": "leas-seansailéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vice-chancellor"
+        ],
+        "ga": "leas-seansailéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "remedial linguistics"
+        ],
+        "ga": "leasteangeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tawse"
+        ],
+        "ga": "leathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "partially-hearing person"
+        ],
+        "ga": "leathbhodhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "half-frame"
+        ],
+        "ga": "leathfhráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "semi-lining"
+        ],
+        "ga": "leathlíneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "state of being delicate"
+        ],
+        "ga": "leiceacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prompter"
+        ],
+        "ga": "leideoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prompting"
+        ],
+        "ga": "leideoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prompting"
+        ],
+        "ga": "leidíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vanity"
+        ],
+        "ga": "leitheadas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prevalence"
+        ],
+        "ga": "leitheadúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "individuality"
+        ],
+        "ga": "leithlí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "adequacy"
+        ],
+        "ga": "leorgacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "letter grade"
+        ],
+        "ga": "litirghrád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "defect"
+        ],
+        "ga": "locht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "logic block"
+        ],
+        "ga": "loighicbhloc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "value orientation"
+        ],
+        "ga": "luach-threoshuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "early experience"
+        ],
+        "ga": "luath-thaithí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "early experience"
+        ],
+        "ga": "luatheispéireas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "early learning"
+        ],
+        "ga": "luathfhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "earlier achievements"
+        ],
+        "ga": "luathghnóthachtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "early literacy"
+        ],
+        "ga": "luathlitearthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "incidence"
+        ],
+        "ga": "luí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "handedness"
+        ],
+        "ga": "lámhaí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "manual instruction"
+        ],
+        "ga": "lámhoiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plenary session"
+        ],
+        "ga": "lánseisiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lecture theatre"
+        ],
+        "ga": "léachtlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reader"
+        ],
+        "ga": "léachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reading"
+        ],
+        "ga": "léamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reading comprehension"
+        ],
+        "ga": "léamhthuiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coherence"
+        ],
+        "ga": "léirchruinneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "explicit learning"
+        ],
+        "ga": "léirfhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "insight",
+            "perception"
+        ],
+        "ga": "léirstean",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "clear understanding",
+            "appreciation"
+        ],
+        "ga": "léirthuiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guiding light"
+        ],
+        "ga": "lóchrann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "loop film"
+        ],
+        "ga": "lúbscannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "loop projector"
+        ],
+        "ga": "lúbtheilgeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "keep-fit"
+        ],
+        "ga": "lúthaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "echolalia"
+        ],
+        "ga": "macallachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "macro-photography"
+        ],
+        "ga": "macra-fótagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "macro-evaluation"
+        ],
+        "ga": "macraimheastóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "model"
+        ],
+        "ga": "mainicín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "modelling"
+        ],
+        "ga": "mainicíneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "matrice"
+        ],
+        "ga": "maitrís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "incline"
+        ],
+        "ga": "mala",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "supervision"
+        ],
+        "ga": "maoirseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "superintendent"
+        ],
+        "ga": "maoirseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mark"
+        ],
+        "ga": "marcáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "marker"
+        ],
+        "ga": "marcóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mathetics"
+        ],
+        "ga": "mataitic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mathematics education"
+        ],
+        "ga": "matoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mental age"
+        ],
+        "ga": "meabhairaois",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mental disease"
+        ],
+        "ga": "meabhairghalar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mental activity"
+        ],
+        "ga": "meabhairghníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mindmap"
+        ],
+        "ga": "meabhairmhapa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mental arithmetic"
+        ],
+        "ga": "meabhairuimhríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "animateur"
+        ],
+        "ga": "meanmóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mentor"
+        ],
+        "ga": "meantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rapid reading"
+        ],
+        "ga": "mearléitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "speed reading"
+        ],
+        "ga": "mearléitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "evaluator"
+        ],
+        "ga": "meastóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "assessment"
+        ],
+        "ga": "meastóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "evaluation"
+        ],
+        "ga": "meastóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "evaluation"
+        ],
+        "ga": "measúnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "assessment"
+        ],
+        "ga": "measúnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "assessor"
+        ],
+        "ga": "measúnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "malingering"
+        ],
+        "ga": "meathlóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "metacognition"
+        ],
+        "ga": "meiteachognaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "temper"
+        ],
+        "ga": "meon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "weight"
+        ],
+        "ga": "meá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "weight"
+        ],
+        "ga": "meáchan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "grade point average",
+            "GPA"
+        ],
+        "ga": "meán-ghrádphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "middle childhood"
+        ],
+        "ga": "meán-óige",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "higher top",
+            "secondary top"
+        ],
+        "ga": "meánbharr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "average standard"
+        ],
+        "ga": "meánchaighdeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "average ability"
+        ],
+        "ga": "meánchumas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "average error"
+        ],
+        "ga": "meánearráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "average achiever"
+        ],
+        "ga": "meánghnóthachtálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "intermediate stage"
+        ],
+        "ga": "meánghrád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "medium shot"
+        ],
+        "ga": "meánmharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "secondary school teacher",
+            "secondary teacher",
+            "teacher"
+        ],
+        "ga": "meánmhúinteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "secondary education"
+        ],
+        "ga": "meánoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "potentiality"
+        ],
+        "ga": "mianach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aspiration"
+        ],
+        "ga": "mianaidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "micro-evaluation"
+        ],
+        "ga": "micrimheastóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "microteaching"
+        ],
+        "ga": "micritheagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "micro-projector"
+        ],
+        "ga": "micritheilgeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "precision"
+        ],
+        "ga": "mionchruinneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mini-company"
+        ],
+        "ga": "mionchuideachta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "minor award"
+        ],
+        "ga": "miondámhachtain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fine movement"
+        ],
+        "ga": "mionluail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pinhole"
+        ],
+        "ga": "mionpholl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "exhibition"
+        ],
+        "ga": "mionscoláireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "miniature slide"
+        ],
+        "ga": "mionsleamhnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minor specialism"
+        ],
+        "ga": "mionspeisialachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brief"
+        ],
+        "ga": "mionteagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minor thesis"
+        ],
+        "ga": "miontráchtas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "speed"
+        ],
+        "ga": "mireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "procedure"
+        ],
+        "ga": "modh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "moderation"
+        ],
+        "ga": "modhnóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "moderatorship"
+        ],
+        "ga": "modhnóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "model school"
+        ],
+        "ga": "modhscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "module"
+        ],
+        "ga": "modúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "morphophonology"
+        ],
+        "ga": "moirfeafóineolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "molasses"
+        ],
+        "ga": "molás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monochrome"
+        ],
+        "ga": "monacróm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "monotechnic"
+        ],
+        "ga": "monaiteicnic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "monism"
+        ],
+        "ga": "monasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "belonging"
+        ],
+        "ga": "muintearas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "master class"
+        ],
+        "ga": "máistir-rang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "matriculation"
+        ],
+        "ga": "máithreánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "misbehaviour"
+        ],
+        "ga": "mí-iompraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inequality"
+        ],
+        "ga": "míchothromaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dysfunctionality"
+        ],
+        "ga": "mífheidhmiúlacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mimeograph"
+        ],
+        "ga": "míméagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mimesis"
+        ],
+        "ga": "míméis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "item analysis"
+        ],
+        "ga": "míranailís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "item bank"
+        ],
+        "ga": "mírbhanc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jigsawing"
+        ],
+        "ga": "mírobair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "item testing"
+        ],
+        "ga": "mírthástáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mood"
+        ],
+        "ga": "mód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "major award"
+        ],
+        "ga": "mórdhámhachtain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conventional building"
+        ],
+        "ga": "mórfhoirgneamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "large movement"
+        ],
+        "ga": "mórluail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "major specialism"
+        ],
+        "ga": "mórspeisialachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "major project"
+        ],
+        "ga": "mórthionscadal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "teacher"
+        ],
+        "ga": "múinteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "teacher-tutor"
+        ],
+        "ga": "múinteoir-theagascóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "truancy",
+            "mitching"
+        ],
+        "ga": "múitseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mitcher",
+            "truant"
+        ],
+        "ga": "múitseálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bridging course"
+        ],
+        "ga": "nasc-chúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "link course"
+        ],
+        "ga": "nasc-chúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "link-module"
+        ],
+        "ga": "nascmhodúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wit"
+        ],
+        "ga": "nathaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wit"
+        ],
+        "ga": "nathaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nursery",
+            "crèche",
+            "creche",
+            "day nursery"
+        ],
+        "ga": "naíolann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "playgroup",
+            "playschool",
+            "play school",
+            "play group"
+        ],
+        "ga": "naíonra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "infant"
+        ],
+        "ga": "naíonán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Irish-medium nursery school",
+            "Irish-language nursery school",
+            "nursery school"
+        ],
+        "ga": "naíscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kindergarten",
+            "nursery school"
+        ],
+        "ga": "naíscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "infant psychology"
+        ],
+        "ga": "naíshíceolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "launderette"
+        ],
+        "ga": "neachtlainnín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "neglectee"
+        ],
+        "ga": "neamairtí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inaccessibility"
+        ],
+        "ga": "neamh-inrochtaineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "unintelligibility"
+        ],
+        "ga": "neamh-intuigtheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "inadequacy"
+        ],
+        "ga": "neamh-leordhóthain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "uncommunicativeness"
+        ],
+        "ga": "neamhchaidreamhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "non-conservation"
+        ],
+        "ga": "neamhchaomhantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "non-communicator"
+        ],
+        "ga": "neamhchumarsáidí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "non-respondent"
+        ],
+        "ga": "neamhfhreagróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "discontinuity"
+        ],
+        "ga": "neamhleanúnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "absence"
+        ],
+        "ga": "neamhláithreacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "absenteeism"
+        ],
+        "ga": "neamhláithreacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "non-reader"
+        ],
+        "ga": "neamhléitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "non-fluency"
+        ],
+        "ga": "neamhlíofacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "unreality"
+        ],
+        "ga": "neamhréaltacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "innumeracy"
+        ],
+        "ga": "neamhuimhearthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inability"
+        ],
+        "ga": "neamhábaltacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nystagmus"
+        ],
+        "ga": "nisteagmas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prompt"
+        ],
+        "ga": "nod",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neo-Marxism"
+        ],
+        "ga": "nua-Mharxachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "modern school",
+            "secondary modern school"
+        ],
+        "ga": "nua-mheánscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "neonate"
+        ],
+        "ga": "nua-naí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "modern letters"
+        ],
+        "ga": "nualitríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "modern studies"
+        ],
+        "ga": "nualéann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "new mathematics"
+        ],
+        "ga": "nuamhatamaitic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "modern language"
+        ],
+        "ga": "nuatheanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "naturalistic"
+        ],
+        "ga": "nádúraíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cloudview"
+        ],
+        "ga": "néalamharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nervous impulse"
+        ],
+        "ga": "néar-ríog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neurotic"
+        ],
+        "ga": "néaróiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tyro"
+        ],
+        "ga": "núíosach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "o-level"
+        ],
+        "ga": "o-leibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "operant"
+        ],
+        "ga": "oibríoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "educationalist",
+            "educationist"
+        ],
+        "ga": "oideachasóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "educator"
+        ],
+        "ga": "oideoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pedagogue"
+        ],
+        "ga": "oideolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "training"
+        ],
+        "ga": "oiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stagiaire"
+        ],
+        "ga": "oiliúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "proficiency"
+        ],
+        "ga": "oilteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "skill"
+        ],
+        "ga": "oilteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "professor"
+        ],
+        "ga": "ollamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "supertree"
+        ],
+        "ga": "ollchrann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kingsize quilt"
+        ],
+        "ga": "ollchuilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "giant pack"
+        ],
+        "ga": "ollphacáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chair"
+        ],
+        "ga": "ollúnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "professorship"
+        ],
+        "ga": "ollúnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "orthoepy"
+        ],
+        "ga": "orta-eipe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "ascendu"
+        ],
+        "ga": "oslitir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overhead projector"
+        ],
+        "ga": "osteilgeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sick bay"
+        ],
+        "ga": "otharsheomra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pathology"
+        ],
+        "ga": "paiteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "paragraphia"
+        ],
+        "ga": "paragraife",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paraprofessional"
+        ],
+        "ga": "paraphroifisiúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pass"
+        ],
+        "ga": "pas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pass mark"
+        ],
+        "ga": "pasmharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pass rate"
+        ],
+        "ga": "pasráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "peer"
+        ],
+        "ga": "piar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "peer mediator"
+        ],
+        "ga": "piar-idirghabhálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "peer pressure",
+            "peer-group pressure"
+        ],
+        "ga": "piarbhrú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "peer culture"
+        ],
+        "ga": "piarchultúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "peer learning"
+        ],
+        "ga": "piarfhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "peer relationship"
+        ],
+        "ga": "piarghaolmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "peer reading"
+        ],
+        "ga": "piarléitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "peer mentoring"
+        ],
+        "ga": "piarmheantóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "peer teaching"
+        ],
+        "ga": "piartheagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "picture phone"
+        ],
+        "ga": "pictiúrfón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plastigraph"
+        ],
+        "ga": "plaisteagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plant science"
+        ],
+        "ga": "plandeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "playacting",
+            "play-acting"
+        ],
+        "ga": "pleidhcíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "college rag",
+            "rag"
+        ],
+        "ga": "pléarácam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "community school"
+        ],
+        "ga": "pobalscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "point"
+        ],
+        "ga": "pointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "polytechnic"
+        ],
+        "ga": "polaiteicnic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "politology"
+        ],
+        "ga": "polaiteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "punctuality"
+        ],
+        "ga": "poncúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "job sharing"
+        ],
+        "ga": "postroinnt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pragmatic"
+        ],
+        "ga": "pragmatach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pragmaticism"
+        ],
+        "ga": "pragmatachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pragmatist"
+        ],
+        "ga": "pragmataí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "practicality"
+        ],
+        "ga": "praiticiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "probation"
+        ],
+        "ga": "promhadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "probationer"
+        ],
+        "ga": "promhóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chief inspector"
+        ],
+        "ga": "príomhchigire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "head girl"
+        ],
+        "ga": "príomhchinnire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "headboy"
+        ],
+        "ga": "príomhchinnire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prime determinant"
+        ],
+        "ga": "príomhchinntitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "principal lecturer"
+        ],
+        "ga": "príomhléachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "principal",
+            "head teacher",
+            "principal teacher"
+        ],
+        "ga": "príomhoide",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "principal"
+        ],
+        "ga": "príomhoide",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "major"
+        ],
+        "ga": "príomhábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "portfolio"
+        ],
+        "ga": "punann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "part-work"
+        ],
+        "ga": "páirtfhoilseachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "partial lining"
+        ],
+        "ga": "páirtlíneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "quasi-theory"
+        ],
+        "ga": "quasi-theoiric",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quiz book"
+        ],
+        "ga": "quizleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "e-knowledge"
+        ],
+        "ga": "r-eolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "radiovision"
+        ],
+        "ga": "raidió-fís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "standard",
+            "class"
+        ],
+        "ga": "rang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "class"
+        ],
+        "ga": "rang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "whole-class teaching"
+        ],
+        "ga": "rangtheagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rhyming game"
+        ],
+        "ga": "rannchluiche",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "success"
+        ],
+        "ga": "rath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "auditor"
+        ],
+        "ga": "reachtaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rectorate"
+        ],
+        "ga": "reachtaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "essentialism"
+        ],
+        "ga": "riachtanachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "need"
+        ],
+        "ga": "riachtanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trail leaflet"
+        ],
+        "ga": "rianbhileog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trail booklet"
+        ],
+        "ga": "rianleabhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "choice"
+        ],
+        "ga": "rogha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "preference"
+        ],
+        "ga": "roghnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "uptake"
+        ],
+        "ga": "roghnúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "section"
+        ],
+        "ga": "roinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "divisional inspector"
+        ],
+        "ga": "roinnchigire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trimester"
+        ],
+        "ga": "ráithe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rater"
+        ],
+        "ga": "rátálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ready reckoner"
+        ],
+        "ga": "ré-áiritheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "preprimary education"
+        ],
+        "ga": "réamh-bhunoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reception year"
+        ],
+        "ga": "réamhbhliain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "precommunication"
+        ],
+        "ga": "réamhchumarsáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "graduand"
+        ],
+        "ga": "réamhchéimí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "advance organiser"
+        ],
+        "ga": "réamheagraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "previous knowledge",
+            "prior knowledge"
+        ],
+        "ga": "réamheolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "premise"
+        ],
+        "ga": "réamhleagan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pre-reading",
+            "prereading"
+        ],
+        "ga": "réamhléitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pre-skill"
+        ],
+        "ga": "réamhscil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pre-school"
+        ],
+        "ga": "réamhscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pre-schooling"
+        ],
+        "ga": "réamhscolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pre-adolescence"
+        ],
+        "ga": "réamhógántacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "range"
+        ],
+        "ga": "réim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "field"
+        ],
+        "ga": "réimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "area"
+        ],
+        "ga": "réimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "e-infrastructure"
+        ],
+        "ga": "ríomh-bhonneagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "e-learning"
+        ],
+        "ga": "ríomhfhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "e-literacy",
+            "electronic literacy"
+        ],
+        "ga": "ríomhinniúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "over-emphasis"
+        ],
+        "ga": "róbhéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "overprotection",
+            "over-protection"
+        ],
+        "ga": "róchumhdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overlearning"
+        ],
+        "ga": "rófhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overinvolvement",
+            "over-involvement"
+        ],
+        "ga": "róghafacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overdwelling"
+        ],
+        "ga": "rógheabaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "over-achiever"
+        ],
+        "ga": "róghnóthachtálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "role expectation"
+        ],
+        "ga": "ról-ionchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "role card"
+        ],
+        "ga": "rólchárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "role set"
+        ],
+        "ga": "róltacar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "over-expectation"
+        ],
+        "ga": "róthnúth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "excess bulk"
+        ],
+        "ga": "róthoirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "s-level"
+        ],
+        "ga": "s-leibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "saccade"
+        ],
+        "ga": "sacáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sizar"
+        ],
+        "ga": "sadhsóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sizarship"
+        ],
+        "ga": "sadhsóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "specific disability"
+        ],
+        "ga": "sain-mhíchumas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "identification"
+        ],
+        "ga": "sainaithint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "denominationality"
+        ],
+        "ga": "sainchreidmheachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "specialised aptitude"
+        ],
+        "ga": "sainchumas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "expertise"
+        ],
+        "ga": "saineolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "specialist teacher"
+        ],
+        "ga": "sainmhúinteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "quotient"
+        ],
+        "ga": "sainuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "model"
+        ],
+        "ga": "samhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "model device"
+        ],
+        "ga": "samhailacra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mock-up"
+        ],
+        "ga": "samhailchleachtadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mock-up"
+        ],
+        "ga": "samhailghaireas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "imagining"
+        ],
+        "ga": "samhlúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "modelling"
+        ],
+        "ga": "sampla-aithris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vacation"
+        ],
+        "ga": "saoire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pedant"
+        ],
+        "ga": "saoithín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "world"
+        ],
+        "ga": "saol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "life history"
+        ],
+        "ga": "saolréim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "free conversation"
+        ],
+        "ga": "saorchomhrá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "free writing"
+        ],
+        "ga": "saorscríbhneoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "free thinker"
+        ],
+        "ga": "saorsmaointeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "civics"
+        ],
+        "ga": "saoránaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "industry"
+        ],
+        "ga": "saothracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "attainment"
+        ],
+        "ga": "scil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "skill centre"
+        ],
+        "ga": "scilionad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slate"
+        ],
+        "ga": "scláta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "school"
+        ],
+        "ga": "scoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "school year",
+            "schoolyear"
+        ],
+        "ga": "scoilbhliain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cutoff point",
+            "cut-off point"
+        ],
+        "ga": "scoithphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elitist"
+        ],
+        "ga": "scothroghnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "amanuensis",
+            "scribe"
+        ],
+        "ga": "scríobhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "examiner"
+        ],
+        "ga": "scrúdaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "examinee"
+        ],
+        "ga": "scrúdaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "examination booklet"
+        ],
+        "ga": "scrúdleabhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "examination paper"
+        ],
+        "ga": "scrúdpháipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "examination number"
+        ],
+        "ga": "scrúduimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "screen"
+        ],
+        "ga": "scáileán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "narrative poetry"
+        ],
+        "ga": "scéalfhilíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scheme book"
+        ],
+        "ga": "scéimleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "schema"
+        ],
+        "ga": "scéimre",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "score"
+        ],
+        "ga": "scór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "score range"
+        ],
+        "ga": "scór-raon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conversion training"
+        ],
+        "ga": "seachoiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "distractibility"
+        ],
+        "ga": "seachránaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "distractor"
+        ],
+        "ga": "seachránaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "externalism"
+        ],
+        "ga": "seachtrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "precociousness",
+            "precocity"
+        ],
+        "ga": "seanchríonnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "proverbial saying"
+        ],
+        "ga": "seanfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "senior"
+        ],
+        "ga": "seanóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sarcasm"
+        ],
+        "ga": "searbhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ceremony"
+        ],
+        "ga": "searmanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sorority"
+        ],
+        "ga": "seathras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "resourcefulness"
+        ],
+        "ga": "seiftiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "semester"
+        ],
+        "ga": "seimeastar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sentiment"
+        ],
+        "ga": "seintimint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rooming"
+        ],
+        "ga": "seomraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "weeping"
+        ],
+        "ga": "sileadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "synectics"
+        ],
+        "ga": "sineictic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "synergogy"
+        ],
+        "ga": "sineirgeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "senior"
+        ],
+        "ga": "sinsear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "syllable"
+        ],
+        "ga": "siolla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "syllabus"
+        ],
+        "ga": "siollabas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "extract",
+            "passage",
+            "tract"
+        ],
+        "ga": "sliocht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "disciplinarian"
+        ],
+        "ga": "smachtaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flipchart",
+            "flip chart"
+        ],
+        "ga": "smeach-chairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flipboard"
+        ],
+        "ga": "smeach-chlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stain"
+        ],
+        "ga": "smál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "strand unit"
+        ],
+        "ga": "snáithaonad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "strand"
+        ],
+        "ga": "snáithe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "socio-drama"
+        ],
+        "ga": "sochdhráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sociogram"
+        ],
+        "ga": "sochghram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sociomatrix"
+        ],
+        "ga": "sochmhaitrís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sociometrics",
+            "sociometry"
+        ],
+        "ga": "sochmhéadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "placement"
+        ],
+        "ga": "socrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sophistication"
+        ],
+        "ga": "sofaisticiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sophister"
+        ],
+        "ga": "sofaistí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sophistry"
+        ],
+        "ga": "sofaistíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comprehensibility",
+            "understandability"
+        ],
+        "ga": "sothuigtheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "temperamental fit",
+            "temper"
+        ],
+        "ga": "spadhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bursary"
+        ],
+        "ga": "sparánacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bursar"
+        ],
+        "ga": "sparánaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spasticity"
+        ],
+        "ga": "spasmacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "specialism"
+        ],
+        "ga": "speisialachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "specialization",
+            "specialisation"
+        ],
+        "ga": "speisialtóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dependency"
+        ],
+        "ga": "spleáchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flash card",
+            "flashcard"
+        ],
+        "ga": "spléach-chárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spot-checking"
+        ],
+        "ga": "spotseiceáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "keynote address"
+        ],
+        "ga": "spreagaitheasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "keynote speaker"
+        ],
+        "ga": "spreagchainteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stimulus"
+        ],
+        "ga": "spreagthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "emulation"
+        ],
+        "ga": "spriocaithris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reel-to-reel"
+        ],
+        "ga": "spól-go-spól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spoonerism"
+        ],
+        "ga": "spúnaraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scanning"
+        ],
+        "ga": "sracléamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cursory reading"
+        ],
+        "ga": "sracléitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "outline plan"
+        ],
+        "ga": "sracphlean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "serial learning"
+        ],
+        "ga": "sraithfhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "serial"
+        ],
+        "ga": "sraithiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "skimming"
+        ],
+        "ga": "sruthléamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pause"
+        ],
+        "ga": "stad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "study"
+        ],
+        "ga": "staidéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stereo-photo"
+        ],
+        "ga": "steiréafóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "strip heater"
+        ],
+        "ga": "stialltéitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stichometry"
+        ],
+        "ga": "sticiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stem"
+        ],
+        "ga": "stoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "level-headedness"
+        ],
+        "ga": "stuaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sleep-learning"
+        ],
+        "ga": "suanfhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dormitory"
+        ],
+        "ga": "suanlios",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "survey"
+        ],
+        "ga": "suirbhé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sticker",
+            "batten",
+            "baton"
+        ],
+        "ga": "sáiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "master performer"
+        ],
+        "ga": "sárghníomhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "very high achiever"
+        ],
+        "ga": "sárghnóthachtálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "excellence"
+        ],
+        "ga": "sármhaitheas",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "high flier"
+        ],
+        "ga": "sárscoláire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gratification"
+        ],
+        "ga": "sásamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pacer"
+        ],
+        "ga": "séadaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "psychagogy"
+        ],
+        "ga": "síceagóige",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "psychometrics"
+        ],
+        "ga": "síciméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "psychometrician"
+        ],
+        "ga": "síciméadraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "psychotechnics"
+        ],
+        "ga": "síciteicnic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "psychotic"
+        ],
+        "ga": "síocóiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "psychoticism"
+        ],
+        "ga": "síocóiseachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "indoctrination"
+        ],
+        "ga": "síolteagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "persistent truancy"
+        ],
+        "ga": "síormhaidhtseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eye dominance"
+        ],
+        "ga": "súilcheannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tachistoscope"
+        ],
+        "ga": "tacastascóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mood"
+        ],
+        "ga": "taghd",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "referent"
+        ],
+        "ga": "tagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "research"
+        ],
+        "ga": "taighde",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "storage vacuole"
+        ],
+        "ga": "taiscfholúisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "storage heating"
+        ],
+        "ga": "taiscthéamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "display"
+        ],
+        "ga": "taispeáint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "display"
+        ],
+        "ga": "taispeántas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "demonstration"
+        ],
+        "ga": "taispeántas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "exhibit"
+        ],
+        "ga": "taispeántán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "demonstrator"
+        ],
+        "ga": "taispeántóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "laterality"
+        ],
+        "ga": "taobhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lateral dominance"
+        ],
+        "ga": "taobhcheannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lateral development"
+        ],
+        "ga": "taobhfhorbairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lateral thinking"
+        ],
+        "ga": "taobhsmaointeoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "assignment"
+        ],
+        "ga": "tasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "task card"
+        ],
+        "ga": "tasc-chárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "task analysis"
+        ],
+        "ga": "tascanailís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tuition"
+        ],
+        "ga": "teagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "teachings",
+            "instructions"
+        ],
+        "ga": "teagasca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tutee"
+        ],
+        "ga": "teagascaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "preceptor"
+        ],
+        "ga": "teagascaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interpretation"
+        ],
+        "ga": "teangaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bunching"
+        ],
+        "ga": "teannadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subvention"
+        ],
+        "ga": "teanntaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "underachievement"
+        ],
+        "ga": "tearcghnóthachtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "underachiever"
+        ],
+        "ga": "tearcghnóthachtálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "want"
+        ],
+        "ga": "teastáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "technology"
+        ],
+        "ga": "teicneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "teddy"
+        ],
+        "ga": "teidí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "projecting",
+            "screening"
+        ],
+        "ga": "teilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "projector"
+        ],
+        "ga": "teilgeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thermos flask",
+            "Thermos"
+        ],
+        "ga": "teirmeas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "certification"
+        ],
+        "ga": "teistiúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "borderline"
+        ],
+        "ga": "teorainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "swot"
+        ],
+        "ga": "tiarálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "attendance"
+        ],
+        "ga": "tinreamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tenure"
+        ],
+        "ga": "tionacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tutor"
+        ],
+        "ga": "tionchascóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "initiation"
+        ],
+        "ga": "tionscnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "originator"
+        ],
+        "ga": "tionscnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "expectancy"
+        ],
+        "ga": "tnúthán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brain wave"
+        ],
+        "ga": "tobsmaoineamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "predisposition"
+        ],
+        "ga": "togracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crossing"
+        ],
+        "ga": "trasbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "leading question"
+        ],
+        "ga": "treoircheist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "inspector of guidance"
+        ],
+        "ga": "treoirchigire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guidance programme"
+        ],
+        "ga": "treoirchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guidance counsellor"
+        ],
+        "ga": "treoirchomhairleoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guidance objective"
+        ],
+        "ga": "treoirchuspóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "guidance function"
+        ],
+        "ga": "treoirfheidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guide word"
+        ],
+        "ga": "treoirfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "guidance staff"
+        ],
+        "ga": "treoirfhoireann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shadow learning"
+        ],
+        "ga": "treoiroiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guidance personnel"
+        ],
+        "ga": "treoirphearsanra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "guidance facility"
+        ],
+        "ga": "treoirshaoráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "test"
+        ],
+        "ga": "triail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "test age"
+        ],
+        "ga": "triailaois",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "test score"
+        ],
+        "ga": "triailscór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "test experience"
+        ],
+        "ga": "triailthaithí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comment"
+        ],
+        "ga": "trácht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "commentary"
+        ],
+        "ga": "tráchtaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pastoral function"
+        ],
+        "ga": "tréadfheidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pastoral tutor"
+        ],
+        "ga": "tréadteagascóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transparency"
+        ],
+        "ga": "trédhearcán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "idiosyncrasy"
+        ],
+        "ga": "tréithleithleachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acetate sheet"
+        ],
+        "ga": "tréshoilseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transparency"
+        ],
+        "ga": "tréshoilseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "descriptor"
+        ],
+        "ga": "tuairiscín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prediction"
+        ],
+        "ga": "tuar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "merit"
+        ],
+        "ga": "tuilleamas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "meritocracy"
+        ],
+        "ga": "tuilleamhlathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "impetus"
+        ],
+        "ga": "tuinseamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comprehension"
+        ],
+        "ga": "tuiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "immersion course"
+        ],
+        "ga": "tumchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "immersion education"
+        ],
+        "ga": "tumoideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "immersion heater"
+        ],
+        "ga": "tumthéitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "experimentalism"
+        ],
+        "ga": "turgnamhachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "empiricist"
+        ],
+        "ga": "turgnamhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "experimenter"
+        ],
+        "ga": "turgnamhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "importance"
+        ],
+        "ga": "tábhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "significance"
+        ],
+        "ga": "tábhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "affix"
+        ],
+        "ga": "táthmhír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "text"
+        ],
+        "ga": "téacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "term"
+        ],
+        "ga": "téarma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "term"
+        ],
+        "ga": "téarma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tape-slide"
+        ],
+        "ga": "téipshleamhnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "typology"
+        ],
+        "ga": "tíopeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "constructionism"
+        ],
+        "ga": "tógálachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "construct"
+        ],
+        "ga": "tógán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "start"
+        ],
+        "ga": "tús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "roster"
+        ],
+        "ga": "uainchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "superiority"
+        ],
+        "ga": "uaisleacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "autotutor"
+        ],
+        "ga": "uaiteagascóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "higher orders"
+        ],
+        "ga": "uasaicme",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "apostrophe"
+        ],
+        "ga": "uaschamóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "advanced entry"
+        ],
+        "ga": "uasiontráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spontaneous achievement"
+        ],
+        "ga": "uathghnóthachtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "arm"
+        ],
+        "ga": "uillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "numeracy"
+        ],
+        "ga": "uimhearthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "readiness"
+        ],
+        "ga": "ullmhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "speech"
+        ],
+        "ga": "urlabhra",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "veltint"
+        ],
+        "ga": "veil-imir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subject"
+        ],
+        "ga": "ábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subject"
+        ],
+        "ga": "ábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "position"
+        ],
+        "ga": "áit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "place notation"
+        ],
+        "ga": "áitnodaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fellow"
+        ],
+        "ga": "ánra",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fellowship"
+        ],
+        "ga": "ánracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bird cage"
+        ],
+        "ga": "éanadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "facilitator"
+        ],
+        "ga": "éascaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "facility"
+        ],
+        "ga": "éascaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "thrust"
+        ],
+        "ga": "éirim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "brains"
+        ],
+        "ga": "éirim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ethos"
+        ],
+        "ga": "éiteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subordination"
+        ],
+        "ga": "íochtaránacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sensitiveness"
+        ],
+        "ga": "íogaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sensitization"
+        ],
+        "ga": "íogrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "under achiever"
+        ],
+        "ga": "íosghnóthachtálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inferiority"
+        ],
+        "ga": "ísleacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "youth"
+        ],
+        "ga": "óige",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "host school"
+        ],
+        "ga": "óstscoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "authoritarian"
+        ],
+        "ga": "údarásaí",
+        "gender": "masculine"
+    }
+]

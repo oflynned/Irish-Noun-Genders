@@ -1,0 +1,212 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "Sellotape",
+            "Scotch tape"
+        ],
+        "ga": "Seilitéip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "atlas"
+        ],
+        "ga": "atlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "biro"
+        ],
+        "ga": "badhró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "biro"
+        ],
+        "ga": "badhró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "binder"
+        ],
+        "ga": "ceanglán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "audio cassette"
+        ],
+        "ga": "closchaiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "card"
+        ],
+        "ga": "cárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "copier"
+        ],
+        "ga": "cóipire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "diary"
+        ],
+        "ga": "dialann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "diskette"
+        ],
+        "ga": "discéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "form"
+        ],
+        "ga": "foirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "calendar"
+        ],
+        "ga": "féilire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sticker"
+        ],
+        "ga": "greamán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "manifolding"
+        ],
+        "ga": "ilchóipeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "index"
+        ],
+        "ga": "innéacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "marker"
+        ],
+        "ga": "marcóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "packaging"
+        ],
+        "ga": "pacáistíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "printer"
+        ],
+        "ga": "printéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pocket"
+        ],
+        "ga": "póca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inkjet printer"
+        ],
+        "ga": "scairdphrintéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flipchart",
+            "flip chart"
+        ],
+        "ga": "smeach-chairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stationery"
+        ],
+        "ga": "stáiseanóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "staple"
+        ],
+        "ga": "stápla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stapler"
+        ],
+        "ga": "stáplóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "locker"
+        ],
+        "ga": "taisceadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pouch"
+        ],
+        "ga": "tiachóg",
+        "gender": "feminine"
+    }
+]

@@ -1,0 +1,1277 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "Grandmaster",
+            "GM"
+        ],
+        "ga": "Ardmháistir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Brownie"
+        ],
+        "ga": "Donnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Venturer"
+        ],
+        "ga": "Taiscéalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ace"
+        ],
+        "ga": "aon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "unicycle"
+        ],
+        "ga": "aonrothach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "repetition"
+        ],
+        "ga": "athriocht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ambiance"
+        ],
+        "ga": "atmaisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "exchange"
+        ],
+        "ga": "babhtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "exchange"
+        ],
+        "ga": "babhtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pip card"
+        ],
+        "ga": "ballchárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "balloon"
+        ],
+        "ga": "balún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "queen"
+        ],
+        "ga": "banríon",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tactics"
+        ],
+        "ga": "beartaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bridge"
+        ],
+        "ga": "beiriste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bar"
+        ],
+        "ga": "beár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bingo"
+        ],
+        "ga": "biongó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flush"
+        ],
+        "ga": "blás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "win"
+        ],
+        "ga": "bua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "boomerang"
+        ],
+        "ga": "búmarang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "karting"
+        ],
+        "ga": "cairtíneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rook"
+        ],
+        "ga": "caiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spinning top",
+            "top"
+        ],
+        "ga": "caiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kitty"
+        ],
+        "ga": "carnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blinds"
+        ],
+        "ga": "carnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Scouter",
+            "Scout leader"
+        ],
+        "ga": "ceannaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gambling"
+        ],
+        "ga": "cearrbhachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "four of a kind"
+        ],
+        "ga": "ceathair",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "craft toy"
+        ],
+        "ga": "ceirdbhréagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "audio entertainment"
+        ],
+        "ga": "clos-siamsaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "game"
+        ],
+        "ga": "cluiche",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hill walking",
+            "hillwalking"
+        ],
+        "ga": "cnocadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pari-mutuel"
+        ],
+        "ga": "comh-gheallchur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "action"
+        ],
+        "ga": "comhrac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "defence"
+        ],
+        "ga": "cosaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crossword"
+        ],
+        "ga": "crosfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "recreation",
+            "leisure pursuit"
+        ],
+        "ga": "croíléis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jack"
+        ],
+        "ga": "cuireata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "social gathering"
+        ],
+        "ga": "cóisir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "coasteering"
+        ],
+        "ga": "cóstóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dance"
+        ],
+        "ga": "damhsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "suit"
+        ],
+        "ga": "dath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bishop"
+        ],
+        "ga": "easpag",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "exonumia"
+        ],
+        "ga": "eiseanúime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "kite flying",
+            "kiting"
+        ],
+        "ga": "eitleogaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "territory"
+        ],
+        "ga": "fearann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chasing"
+        ],
+        "ga": "fiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "diagonal"
+        ],
+        "ga": "fiarthrasnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chess"
+        ],
+        "ga": "ficheall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chess player",
+            "player"
+        ],
+        "ga": "ficheallaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pawn"
+        ],
+        "ga": "fichillín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gambit"
+        ],
+        "ga": "fiontar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "counterattack",
+            "counter-attack"
+        ],
+        "ga": "frithionsaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trekking"
+        ],
+        "ga": "fálróid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "festival"
+        ],
+        "ga": "féile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "leisure"
+        ],
+        "ga": "fóillíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fork"
+        ],
+        "ga": "gabhal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "capture"
+        ],
+        "ga": "gabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "scouting"
+        ],
+        "ga": "gasógaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tombstoning"
+        ],
+        "ga": "guaisléimneach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "game angling"
+        ],
+        "ga": "géimiascaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hulahoop",
+            "hula hoop"
+        ],
+        "ga": "húlahúp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fishkeeper"
+        ],
+        "ga": "iascóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fishkeeping"
+        ],
+        "ga": "iascóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "play"
+        ],
+        "ga": "imirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "playing"
+        ],
+        "ga": "imirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "playing"
+        ],
+        "ga": "imirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "circumambulation"
+        ],
+        "ga": "imshiúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "venue"
+        ],
+        "ga": "ionad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "yoga"
+        ],
+        "ga": "ióga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "roller-blading",
+            "in-line skating"
+        ],
+        "ga": "lannrolláil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lotto"
+        ],
+        "ga": "lató",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stand-off"
+        ],
+        "ga": "leamhsháinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stalemate"
+        ],
+        "ga": "leamhsháinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "counter"
+        ],
+        "ga": "licín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "springer"
+        ],
+        "ga": "lingeadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "streaker"
+        ],
+        "ga": "lomnochtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mobility"
+        ],
+        "ga": "luaineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "swing"
+        ],
+        "ga": "luascán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hand"
+        ],
+        "ga": "lámh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "woggle"
+        ],
+        "ga": "lúbán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cub"
+        ],
+        "ga": "macaomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "meditation",
+            "pensée",
+            "contemplation",
+            "thinking"
+        ],
+        "ga": "machnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "material"
+        ],
+        "ga": "maoin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "checkmate"
+        ],
+        "ga": "marbhsháinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ride"
+        ],
+        "ga": "marcaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minor piece"
+        ],
+        "ga": "mionfhear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "numismatics"
+        ],
+        "ga": "moneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "major piece"
+        ],
+        "ga": "mórfhear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "enemy"
+        ],
+        "ga": "namhaid",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "eight"
+        ],
+        "ga": "ocht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "parascending"
+        ],
+        "ga": "paraisheoltóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "picnic"
+        ],
+        "ga": "picnic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pyrotechnics"
+        ],
+        "ga": "piriteicnic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "banger"
+        ],
+        "ga": "pléascóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bouncer"
+        ],
+        "ga": "preabadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bouncy castle"
+        ],
+        "ga": "preabchaisleán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "promenade"
+        ],
+        "ga": "promanáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "puppetry"
+        ],
+        "ga": "puipéadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "puzzle"
+        ],
+        "ga": "puzal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pair"
+        ],
+        "ga": "péire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quiz book"
+        ],
+        "ga": "quizleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rank"
+        ],
+        "ga": "rang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spread betting"
+        ],
+        "ga": "raonghealltóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "knight"
+        ],
+        "ga": "ridire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rollercoaster",
+            "roller coaster"
+        ],
+        "ga": "rollchóstóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cyclist"
+        ],
+        "ga": "rothaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tyre-spin"
+        ],
+        "ga": "rothlamán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "star sign"
+        ],
+        "ga": "réaltchomhartha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "king"
+        ],
+        "ga": "rí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "electronic game"
+        ],
+        "ga": "ríomhchluiche",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "roulette"
+        ],
+        "ga": "rúiléid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "arcanum"
+        ],
+        "ga": "rúnchárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "special interest"
+        ],
+        "ga": "sainspéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "free pass into club",
+            "pass"
+        ],
+        "ga": "saorchead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "jetskiing"
+        ],
+        "ga": "scairdsciáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "skidooing"
+        ],
+        "ga": "sciodúáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slate"
+        ],
+        "ga": "scláta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "crowd event"
+        ],
+        "ga": "slua-imeacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bathing establishment",
+            "spa"
+        ],
+        "ga": "spá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spade"
+        ],
+        "ga": "spéireata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "straight"
+        ],
+        "ga": "sraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "streamer"
+        ],
+        "ga": "sraoilleán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "strategy"
+        ],
+        "ga": "straitéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "check"
+        ],
+        "ga": "sáinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "perpetual check"
+        ],
+        "ga": "síorsháinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bid"
+        ],
+        "ga": "tairiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "amenity"
+        ],
+        "ga": "taitneamhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tangram"
+        ],
+        "ga": "tangram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bullfight"
+        ],
+        "ga": "tarbhchomhrac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bullfighting"
+        ],
+        "ga": "tarbhchomhrac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pin"
+        ],
+        "ga": "teannta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guy rope"
+        ],
+        "ga": "teanntán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "opening"
+        ],
+        "ga": "tionscnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trampolining",
+            "trampoline gymnastics"
+        ],
+        "ga": "trampailíneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "file"
+        ],
+        "ga": "treas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wayfinding signage"
+        ],
+        "ga": "treochomharthaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "club"
+        ],
+        "ga": "triuf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "power kite"
+        ],
+        "ga": "tréaneitleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "power kiting"
+        ],
+        "ga": "tréaneitleogaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "power-walking"
+        ],
+        "ga": "tréansiúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "three of a kind"
+        ],
+        "ga": "trí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trike",
+            "tricycle"
+        ],
+        "ga": "trírothach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trip"
+        ],
+        "ga": "trírín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dodgem"
+        ],
+        "ga": "tuairtcharr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thaumatrope"
+        ],
+        "ga": "támatróp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lamping"
+        ],
+        "ga": "tóirseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lamper"
+        ],
+        "ga": "tóirseálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "potholing",
+            "caving"
+        ],
+        "ga": "uaimheadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aquarium"
+        ],
+        "ga": "uisceadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "round of ammunition"
+        ],
+        "ga": "urchar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "yo-yo"
+        ],
+        "ga": "yó-yó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "zipline"
+        ],
+        "ga": "ziplíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "zoetrope"
+        ],
+        "ga": "zótróp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stunt car"
+        ],
+        "ga": "éachtcharr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "escapologist"
+        ],
+        "ga": "éalú-eolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ecotrail"
+        ],
+        "ga": "éiceachonair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sacrifice"
+        ],
+        "ga": "íobairt",
+        "gender": "feminine"
+    }
+]

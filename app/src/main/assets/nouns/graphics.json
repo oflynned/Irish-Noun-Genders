@@ -1,0 +1,220 @@
+[
+    {
+        "declension": 3,
+        "en": [
+            "bow divider"
+        ],
+        "ga": "boghrannadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bow instrument",
+            "bow"
+        ],
+        "ga": "boghuirlis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "base colour"
+        ],
+        "ga": "bonndath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "primary colour"
+        ],
+        "ga": "bundath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "left-side view"
+        ],
+        "ga": "clé-amharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "backing sheet"
+        ],
+        "ga": "cúlpháipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "design"
+        ],
+        "ga": "dearadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "right-side view"
+        ],
+        "ga": "deas-amharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "right pyramid"
+        ],
+        "ga": "dronphirimid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "black burst"
+        ],
+        "ga": "dúrúisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "oblique pyramid"
+        ],
+        "ga": "fiarphirimid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "videographer"
+        ],
+        "ga": "físghrafadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "video field"
+        ],
+        "ga": "físréimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "genlock"
+        ],
+        "ga": "ginghlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "normal view"
+        ],
+        "ga": "gnáthamharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "colour temperature blue"
+        ],
+        "ga": "gormtheocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "kicker"
+        ],
+        "ga": "lonraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "key light"
+        ],
+        "ga": "príomhsholas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "preproduction"
+        ],
+        "ga": "réamhléiriúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "representative fraction",
+            "RF"
+        ],
+        "ga": "sainchodán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "split edit"
+        ],
+        "ga": "scoilteagarthóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shadow"
+        ],
+        "ga": "scáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shade"
+        ],
+        "ga": "scáth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wipe"
+        ],
+        "ga": "síobán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "end view"
+        ],
+        "ga": "taobhchló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "telecine"
+        ],
+        "ga": "teilicine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vectorscope"
+        ],
+        "ga": "veicteoirscóp",
+        "gender": "masculine"
+    }
+]

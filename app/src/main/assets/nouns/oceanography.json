@@ -1,0 +1,280 @@
+[
+    {
+        "declension": 3,
+        "en": [
+            "oceanography"
+        ],
+        "ga": "aigéaneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "oceanite"
+        ],
+        "ga": "aigéinít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "atoll"
+        ],
+        "ga": "atall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bathymeter"
+        ],
+        "ga": "bataiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bathymetry"
+        ],
+        "ga": "bataiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bathyorography"
+        ],
+        "ga": "batoragrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "swelling pressure"
+        ],
+        "ga": "borrbhrú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "swash"
+        ],
+        "ga": "borruisce",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "surf"
+        ],
+        "ga": "bruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "littoral"
+        ],
+        "ga": "cladach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "corallite"
+        ],
+        "ga": "coraillít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ocean deep",
+            "deep"
+        ],
+        "ga": "duibheagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hardhead",
+            "niggerhead",
+            "negro head"
+        ],
+        "ga": "dúcheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "eustasy"
+        ],
+        "ga": "eostatacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gyrocompass",
+            "gyro-compass"
+        ],
+        "ga": "gíreachompás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "isohaline"
+        ],
+        "ga": "iseahailín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sea"
+        ],
+        "ga": "muir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "seaquake"
+        ],
+        "ga": "muirchrith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sea valley"
+        ],
+        "ga": "muirghleann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "seascarp"
+        ],
+        "ga": "muirscairp",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gyre"
+        ],
+        "ga": "mórghuairneán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nekton"
+        ],
+        "ga": "neicteon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeo-oceanography"
+        ],
+        "ga": "pailé-aigéaneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sponge bed"
+        ],
+        "ga": "spúinsechiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "drifter"
+        ],
+        "ga": "síobadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wave height"
+        ],
+        "ga": "tonnairde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wave motion",
+            "wave-motion"
+        ],
+        "ga": "tonnghluaiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wave spectrum"
+        ],
+        "ga": "tonnspeictream",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wave train"
+        ],
+        "ga": "tonnsraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wave period"
+        ],
+        "ga": "tonntréimhse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "wavenumber",
+            "wave number"
+        ],
+        "ga": "tonnuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wavelet"
+        ],
+        "ga": "tonnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "foredeep"
+        ],
+        "ga": "tulduibheagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wavellite"
+        ],
+        "ga": "vaivéillít",
+        "gender": "feminine"
+    }
+]

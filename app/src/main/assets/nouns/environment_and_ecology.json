@@ -1,0 +1,2588 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "Antarctica"
+        ],
+        "ga": "Antartaice",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Directorate General"
+        ],
+        "ga": "Ard-Stiúrthóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "the Burren"
+        ],
+        "ga": "Boirinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Darwinism"
+        ],
+        "ga": "Darwineachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Green"
+        ],
+        "ga": "Glasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mongan Bog"
+        ],
+        "ga": "Mongán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Romanticism"
+        ],
+        "ga": "Rómánsachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "resource"
+        ],
+        "ga": "acmhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "acrotelm"
+        ],
+        "ga": "acraiteilm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "air flotation"
+        ],
+        "ga": "aershnámhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "agroforestry"
+        ],
+        "ga": "agrafhoraoiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "agricultural biological diversity",
+            "agrobiodiversity"
+        ],
+        "ga": "agrai-bhithéagsúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "albedo"
+        ],
+        "ga": "ailbéideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "animal"
+        ],
+        "ga": "ainmhí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "asbestos"
+        ],
+        "ga": "aispeist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "awareness"
+        ],
+        "ga": "aithne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alga"
+        ],
+        "ga": "alga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "anamorphism"
+        ],
+        "ga": "anamorfacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "anthracite",
+            "hard coal"
+        ],
+        "ga": "antraicít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anthropocentrism"
+        ],
+        "ga": "antrapalárnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "emission"
+        ],
+        "ga": "astaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "emission"
+        ],
+        "ga": "astúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "recycling"
+        ],
+        "ga": "athchúrsáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "renaturation"
+        ],
+        "ga": "athnádúrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bacterium"
+        ],
+        "ga": "baictéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "extraction"
+        ],
+        "ga": "baint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "benthos"
+        ],
+        "ga": "beantós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "belt filter"
+        ],
+        "ga": "beiltscagaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "food mile"
+        ],
+        "ga": "bia-aistear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "food web"
+        ],
+        "ga": "bia-eangach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "food chain"
+        ],
+        "ga": "biashlabhra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bio-indicator"
+        ],
+        "ga": "biotáscaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bio-indication",
+            "bioindication"
+        ],
+        "ga": "biotáscaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "biotechnology"
+        ],
+        "ga": "biteicneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bioreactor"
+        ],
+        "ga": "bith-imoibreoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bioeliminability"
+        ],
+        "ga": "bith-indíbearthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "biocapacity"
+        ],
+        "ga": "bithacmhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "biofuel"
+        ],
+        "ga": "bithbhreosla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bio-waste"
+        ],
+        "ga": "bithdhramhaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "biomass"
+        ],
+        "ga": "bithmhais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "biosphere"
+        ],
+        "ga": "bithsféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "biome"
+        ],
+        "ga": "bithóm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flare burner"
+        ],
+        "ga": "bladhmdhóire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "soft engineering"
+        ],
+        "ga": "boginnealtóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "odour"
+        ],
+        "ga": "boladh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "olfactometer"
+        ],
+        "ga": "boltanaimhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fallow"
+        ],
+        "ga": "branar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blanket bog"
+        ],
+        "ga": "bratphortach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "refuse"
+        ],
+        "ga": "bruscar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "litter"
+        ],
+        "ga": "bruscar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "igneous rock"
+        ],
+        "ga": "bruthcharraig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "permanent material"
+        ],
+        "ga": "buanábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bund"
+        ],
+        "ga": "bunda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "initial settlement"
+        ],
+        "ga": "bunlonnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bottom ash"
+        ],
+        "ga": "bunluaith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "primary productivity"
+        ],
+        "ga": "buntáirgiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "death rate"
+        ],
+        "ga": "básráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "caesium-137"
+        ],
+        "ga": "caeisiam-137",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "standard"
+        ],
+        "ga": "caighdeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "capitalism"
+        ],
+        "ga": "caipitleachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "blockage"
+        ],
+        "ga": "calcadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sewage"
+        ],
+        "ga": "camras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "waste",
+            "human waste"
+        ],
+        "ga": "camras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conservationism"
+        ],
+        "ga": "caomhantachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conservation"
+        ],
+        "ga": "caomhantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conservationist"
+        ],
+        "ga": "caomhantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "carcinogen"
+        ],
+        "ga": "carcanaigin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "catalyst"
+        ],
+        "ga": "catalaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "canopy layer"
+        ],
+        "ga": "ceannbhrat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fog"
+        ],
+        "ga": "ceo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aural environment"
+        ],
+        "ga": "clostimpeallacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "assemblage"
+        ],
+        "ga": "cluichreán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fold"
+        ],
+        "ga": "cluipíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "programme manager"
+        ],
+        "ga": "clárbhainisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chlorine"
+        ],
+        "ga": "clóirín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guardianship"
+        ],
+        "ga": "coimirce",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "commons"
+        ],
+        "ga": "coimíneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "succession"
+        ],
+        "ga": "comharbas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "correlation"
+        ],
+        "ga": "comhchoibhneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fusing",
+            "fusion"
+        ],
+        "ga": "comhleá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "environment"
+        ],
+        "ga": "comhshaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "environmentalism"
+        ],
+        "ga": "comhshaolachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "footpath",
+            "pedestrian footpath"
+        ],
+        "ga": "cosán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "maintenance"
+        ],
+        "ga": "cothabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nutrient"
+        ],
+        "ga": "cothaitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "equity"
+        ],
+        "ga": "cothromas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "equilibrium"
+        ],
+        "ga": "cothromaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "screen"
+        ],
+        "ga": "criathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cryptogam"
+        ],
+        "ga": "crioptagam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chrysophyte"
+        ],
+        "ga": "crisifít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vibration"
+        ],
+        "ga": "crith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hard engineering"
+        ],
+        "ga": "crua-innealtóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hardpan"
+        ],
+        "ga": "cruachiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "earthworm",
+            "common earthworm"
+        ],
+        "ga": "cuiteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "culture"
+        ],
+        "ga": "cultúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "court"
+        ],
+        "ga": "cúirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "causality",
+            "causation"
+        ],
+        "ga": "cúisíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dam"
+        ],
+        "ga": "damba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "folk village"
+        ],
+        "ga": "daonbhaile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "folk museum"
+        ],
+        "ga": "daoniarsmalann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "folk park"
+        ],
+        "ga": "daonpháirc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "absolute filter"
+        ],
+        "ga": "dearbhscagaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "segregation"
+        ],
+        "ga": "deighilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dolphin"
+        ],
+        "ga": "deilf",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "decomposer"
+        ],
+        "ga": "dianscaoilteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compaction"
+        ],
+        "ga": "dlúthúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aquaform"
+        ],
+        "ga": "dobharfhoirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "corridor"
+        ],
+        "ga": "dorchla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "drain"
+        ],
+        "ga": "draein",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drainage"
+        ],
+        "ga": "draenáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "waste oil"
+        ],
+        "ga": "dramh-ola",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "waste aerosol"
+        ],
+        "ga": "dramhaerasól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "waste"
+        ],
+        "ga": "dramhaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "waste paper"
+        ],
+        "ga": "dramhpháipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drilling"
+        ],
+        "ga": "druileáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tipping"
+        ],
+        "ga": "dumpáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dumping"
+        ],
+        "ga": "dumpáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dumping"
+        ],
+        "ga": "dumpáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dose"
+        ],
+        "ga": "dáileog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dioxin"
+        ],
+        "ga": "dé-ocsain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "digestate"
+        ],
+        "ga": "díleáiteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "noxiousness",
+            "harmfulness"
+        ],
+        "ga": "díobhálacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "burning"
+        ],
+        "ga": "dó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nature"
+        ],
+        "ga": "dúlra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dispersant"
+        ],
+        "ga": "easróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "epilimnion"
+        ],
+        "ga": "eipilimnian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "effluent"
+        ],
+        "ga": "eisilteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "long-term survival"
+        ],
+        "ga": "fadmharthain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "current"
+        ],
+        "ga": "feacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "literacy"
+        ],
+        "ga": "feasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "farm"
+        ],
+        "ga": "feirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "carnivore"
+        ],
+        "ga": "feoiliteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wildlife",
+            "wild life"
+        ],
+        "ga": "fiadhúlra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subsystem"
+        ],
+        "ga": "fochóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "developer"
+        ],
+        "ga": "forbróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fungicide"
+        ],
+        "ga": "fuingicíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fungus"
+        ],
+        "ga": "fungas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "waste"
+        ],
+        "ga": "fuíollábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "base-material"
+        ],
+        "ga": "fuíollábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "desert"
+        ],
+        "ga": "fásach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tree plantation",
+            "plantation"
+        ],
+        "ga": "fáschoill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spring water"
+        ],
+        "ga": "fíoruisce",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phytoplankton"
+        ],
+        "ga": "fíteaplanctón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phytoremediation"
+        ],
+        "ga": "fítileasúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subsidy"
+        ],
+        "ga": "fóirdheontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "utilitarianism"
+        ],
+        "ga": "fóntachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "photochemistry"
+        ],
+        "ga": "fótaiceimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "photosynthesis"
+        ],
+        "ga": "fótaisintéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sandy desert",
+            "sand desert",
+            "desert"
+        ],
+        "ga": "gaineamhlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "immediate environment"
+        ],
+        "ga": "garthimpeallacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "geophysics"
+        ],
+        "ga": "geoifisic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "geocomputation"
+        ],
+        "ga": "geoiríomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "geotechnics"
+        ],
+        "ga": "geoiteicnic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "geopark"
+        ],
+        "ga": "geopháirc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "reed-bed"
+        ],
+        "ga": "giolcarnach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clamour"
+        ],
+        "ga": "gleo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "habitat"
+        ],
+        "ga": "gnáthóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "solar pond"
+        ],
+        "ga": "grianlinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solar panel"
+        ],
+        "ga": "grianphainéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "floccule"
+        ],
+        "ga": "gruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "grike",
+            "gryke"
+        ],
+        "ga": "gríog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hazard"
+        ],
+        "ga": "guais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "game fishing"
+        ],
+        "ga": "géimiascaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "genus"
+        ],
+        "ga": "géineas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gyre"
+        ],
+        "ga": "gírfheacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "halon"
+        ],
+        "ga": "halón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heterotroph"
+        ],
+        "ga": "heitreatrófach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydrophore"
+        ],
+        "ga": "hidreafór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydroelectricity",
+            "hydro-electricity"
+        ],
+        "ga": "hidrileictreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hedonism"
+        ],
+        "ga": "héadónachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "iodine-129"
+        ],
+        "ga": "iaidín-129",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "application"
+        ],
+        "ga": "iarratas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "applicant"
+        ],
+        "ga": "iarratasóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intercropping"
+        ],
+        "ga": "idirchuraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inter-relationship",
+            "interrelationship"
+        ],
+        "ga": "idirghaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "imperialism"
+        ],
+        "ga": "impiriúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "affordability"
+        ],
+        "ga": "inacmhainneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sustainability"
+        ],
+        "ga": "inbhuanaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "invertebrate"
+        ],
+        "ga": "inveirteabrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pluralism"
+        ],
+        "ga": "iolrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "inner city"
+        ],
+        "ga": "ionchathair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "immission"
+        ],
+        "ga": "iontaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "isotope"
+        ],
+        "ga": "iseatóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hemisphere"
+        ],
+        "ga": "leathsféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "electrochemistry"
+        ],
+        "ga": "leictriceimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "limnograph"
+        ],
+        "ga": "linnghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "limnimeter"
+        ],
+        "ga": "linnmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lithosphere"
+        ],
+        "ga": "litisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "decomposition"
+        ],
+        "ga": "lobhadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "geo-directory"
+        ],
+        "ga": "logeolaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "incinerator"
+        ],
+        "ga": "loisceoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "herbivore"
+        ],
+        "ga": "luibhiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "daughter radionuclide"
+        ],
+        "ga": "mac-radanúiclíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "daughter nuclide"
+        ],
+        "ga": "macnúiclíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "property"
+        ],
+        "ga": "maoin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stewardship"
+        ],
+        "ga": "maoirseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "modifier"
+        ],
+        "ga": "maolaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "marteloscope"
+        ],
+        "ga": "martalascóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "methanogen"
+        ],
+        "ga": "meatánaigin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "microtherm"
+        ],
+        "ga": "micriteirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "microbicide"
+        ],
+        "ga": "miocróibicíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minor road"
+        ],
+        "ga": "mionbhóthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "milling"
+        ],
+        "ga": "muilleoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jetsam"
+        ],
+        "ga": "muirchur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parent population"
+        ],
+        "ga": "máthairphobal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parent material"
+        ],
+        "ga": "máthairábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maerl",
+            "lithothamnion"
+        ],
+        "ga": "méarla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "molecule"
+        ],
+        "ga": "móilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "major road"
+        ],
+        "ga": "mórbhóthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trunk road"
+        ],
+        "ga": "mórbhóthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "motor tax",
+            "motor taxation"
+        ],
+        "ga": "mótarcháin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "composter"
+        ],
+        "ga": "múiríneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "liquid waste"
+        ],
+        "ga": "múnlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "waste",
+            "liquid waste"
+        ],
+        "ga": "múnlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nano filtration",
+            "nanofiltration"
+        ],
+        "ga": "nanascagachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nephelometer"
+        ],
+        "ga": "neifiliméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neutron"
+        ],
+        "ga": "neodrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "niche"
+        ],
+        "ga": "nideog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nucleus"
+        ],
+        "ga": "núicléas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "heritage"
+        ],
+        "ga": "oidhreacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "glacier"
+        ],
+        "ga": "oighearshruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "glaciation"
+        ],
+        "ga": "oighriúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hierarchy"
+        ],
+        "ga": "ordlathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeoecology",
+            "palaeo-ecology"
+        ],
+        "ga": "pailé-éiceolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "palaeoenvironmentalist"
+        ],
+        "ga": "pailéachomhshaolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pantheism"
+        ],
+        "ga": "paindiachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plankton"
+        ],
+        "ga": "planctón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plant"
+        ],
+        "ga": "planda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "green"
+        ],
+        "ga": "plásóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "community"
+        ],
+        "ga": "pobal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "populism"
+        ],
+        "ga": "pobalachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bog"
+        ],
+        "ga": "portach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "primary road"
+        ],
+        "ga": "príomhbhóthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "main drainage"
+        ],
+        "ga": "príomhdhraenáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "proton"
+        ],
+        "ga": "prótón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radioactivity"
+        ],
+        "ga": "radaighníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radiation"
+        ],
+        "ga": "radaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "respiration"
+        ],
+        "ga": "riospráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "kingdom"
+        ],
+        "ga": "ríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overfishing"
+        ],
+        "ga": "ró-iascaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "over-consumption"
+        ],
+        "ga": "ró-thomhaltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "salinity"
+        ],
+        "ga": "salandacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "saprobe"
+        ],
+        "ga": "saprób",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "earth mover"
+        ],
+        "ga": "scartaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ground water",
+            "groundwater",
+            "ground-water",
+            "sub-surface water",
+            "underground water",
+            "subterranean water"
+        ],
+        "ga": "screamhuisce",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "by-pass",
+            "bypass"
+        ],
+        "ga": "seachbhóthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "seismicity"
+        ],
+        "ga": "seismeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "drainage"
+        ],
+        "ga": "siltean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gully"
+        ],
+        "ga": "silteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "slag"
+        ],
+        "ga": "slaig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flotation"
+        ],
+        "ga": "snámhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "settleability"
+        ],
+        "ga": "socracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "species"
+        ],
+        "ga": "speiceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "specialization",
+            "specialisation"
+        ],
+        "ga": "speisialtóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "target rent"
+        ],
+        "ga": "sprioc-chíos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "drift net"
+        ],
+        "ga": "sruthlíon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stock"
+        ],
+        "ga": "stoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stratosphere"
+        ],
+        "ga": "strataisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "structuralism"
+        ],
+        "ga": "struchtúrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "steroidogenesis"
+        ],
+        "ga": "stéaróidigineas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "perfluorocarbon"
+        ],
+        "ga": "sárfhluaracarbón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sewer"
+        ],
+        "ga": "séarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sewerage"
+        ],
+        "ga": "séarachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "socialism"
+        ],
+        "ga": "sóisialachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tsunami"
+        ],
+        "ga": "súnámaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pondage"
+        ],
+        "ga": "taiscumar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reservoir"
+        ],
+        "ga": "taiscumar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "agriculture"
+        ],
+        "ga": "talmhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dwelling"
+        ],
+        "ga": "teaghais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "underdevelopment"
+        ],
+        "ga": "tearcfhorbairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heat engine"
+        ],
+        "ga": "teasinneall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "technocentrism"
+        ],
+        "ga": "teicnealárnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "thermochemistry"
+        ],
+        "ga": "teirmiceimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "limitation"
+        ],
+        "ga": "teorainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "propellant"
+        ],
+        "ga": "tiomántán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "impact"
+        ],
+        "ga": "tionchar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "industrialization",
+            "industrialisation"
+        ],
+        "ga": "tionsclaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "industrialism"
+        ],
+        "ga": "tionsclaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "housing"
+        ],
+        "ga": "tithíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "excavation"
+        ],
+        "ga": "tochailt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "toxico-genomics",
+            "toxicogenomics"
+        ],
+        "ga": "tocsainigéanómaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "smog"
+        ],
+        "ga": "toitcheo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consumerism"
+        ],
+        "ga": "tomhaltachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "noise"
+        ],
+        "ga": "torann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "boom"
+        ],
+        "ga": "tormán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fertility"
+        ],
+        "ga": "torthúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interference"
+        ],
+        "ga": "trasnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "directive"
+        ],
+        "ga": "treoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guide-line",
+            "guide line",
+            "guideline"
+        ],
+        "ga": "treoirlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pollutant"
+        ],
+        "ga": "truailleán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "troposphere"
+        ],
+        "ga": "trópaisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flood"
+        ],
+        "ga": "tuile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flood plain",
+            "floodplain"
+        ],
+        "ga": "tuilemhá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "turbine"
+        ],
+        "ga": "tuirbín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subsidence"
+        ],
+        "ga": "turnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "indicator plant"
+        ],
+        "ga": "táscphlanda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "testing"
+        ],
+        "ga": "tástáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "landscape"
+        ],
+        "ga": "tírdhreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "autotroph"
+        ],
+        "ga": "uatrófach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "urbanism"
+        ],
+        "ga": "uirbeachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aquarium"
+        ],
+        "ga": "uisceadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aqueduct"
+        ],
+        "ga": "uiscerian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aquifer",
+            "aquafer"
+        ],
+        "ga": "uiscíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "occupier"
+        ],
+        "ga": "áititheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "variation"
+        ],
+        "ga": "éagsúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ecotrail"
+        ],
+        "ga": "éiceachonair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ecosystem"
+        ],
+        "ga": "éiceachóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eco-warrior"
+        ],
+        "ga": "éicealaoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ecocentrism"
+        ],
+        "ga": "éicealárnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "eco-innovation"
+        ],
+        "ga": "éiceanuálaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ecotourism"
+        ],
+        "ga": "éiceathurasóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ecologist"
+        ],
+        "ga": "éiceolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ecology"
+        ],
+        "ga": "éiceolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ecophysiology"
+        ],
+        "ga": "éicifiseolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ecolabel"
+        ],
+        "ga": "éicilipéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eco-industry"
+        ],
+        "ga": "éicithionscal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "eco-efficiency"
+        ],
+        "ga": "éicéifeachtúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "downcycling"
+        ],
+        "ga": "íoschúrsáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ozone"
+        ],
+        "ga": "ózón",
+        "gender": "masculine"
+    }
+]

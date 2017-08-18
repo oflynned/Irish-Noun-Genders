@@ -1,0 +1,3137 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Dalit"
+        ],
+        "ga": "Dalatach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Europhile"
+        ],
+        "ga": "Eorabhách",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Irish-American"
+        ],
+        "ga": "Gael-Mheiriceánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Islamification",
+            "Islamisation",
+            "Islamization"
+        ],
+        "ga": "Ioslamúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mexamerica"
+        ],
+        "ga": "Meics-Mheiriceá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Maya"
+        ],
+        "ga": "Máigeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Navajo Indian"
+        ],
+        "ga": "Navachóch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Non-Traveller"
+        ],
+        "ga": "Neamhthaistealaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pastafarian"
+        ],
+        "ga": "Pastafárach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pastafarianism"
+        ],
+        "ga": "Pastafárachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Rom"
+        ],
+        "ga": "Romach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "adultery"
+        ],
+        "ga": "adhaltranas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "class"
+        ],
+        "ga": "aicme",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "licentiousness"
+        ],
+        "ga": "ainriantacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "feedback"
+        ],
+        "ga": "aiseolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alcoholic"
+        ],
+        "ga": "alcólach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alcoholism"
+        ],
+        "ga": "alcólachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "altruism"
+        ],
+        "ga": "altrúchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hooligan"
+        ],
+        "ga": "amhsóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "yob"
+        ],
+        "ga": "amhsóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hooliganism"
+        ],
+        "ga": "amhsóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "soul mate"
+        ],
+        "ga": "anamchara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "adversity"
+        ],
+        "ga": "angar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anthropocentrism"
+        ],
+        "ga": "antrapalárnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "anomie"
+        ],
+        "ga": "anóime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ageism"
+        ],
+        "ga": "aoiseachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "age group"
+        ],
+        "ga": "aoisghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "age-limit"
+        ],
+        "ga": "aoisteorainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "loner"
+        ],
+        "ga": "aonaránach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "individual"
+        ],
+        "ga": "aonán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "adulthood"
+        ],
+        "ga": "aosacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "senescence"
+        ],
+        "ga": "aosúchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aspiration"
+        ],
+        "ga": "ardaidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "general evaluator"
+        ],
+        "ga": "ardmheastóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "high civilisation"
+        ],
+        "ga": "ardsibhialtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "re-emigration"
+        ],
+        "ga": "ath-eisimirce",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paternalism"
+        ],
+        "ga": "atharthaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "revivalist"
+        ],
+        "ga": "athbheochanóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hospitality"
+        ],
+        "ga": "aíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "baby"
+        ],
+        "ga": "babaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "constraint"
+        ],
+        "ga": "bac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "baktun"
+        ],
+        "ga": "bactún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "managerialism"
+        ],
+        "ga": "bainistiúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "embalmer"
+        ],
+        "ga": "balsamóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lady"
+        ],
+        "ga": "bantiarna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "matchmaker"
+        ],
+        "ga": "basadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "food sovereignty"
+        ],
+        "ga": "biafhlaitheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "betrayal"
+        ],
+        "ga": "brath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "birth gender"
+        ],
+        "ga": "breithinscne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bromance"
+        ],
+        "ga": "brómans",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hostel",
+            "youth hostel"
+        ],
+        "ga": "brú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pressure group",
+            "lobby group",
+            "lobby"
+        ],
+        "ga": "brúghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guy"
+        ],
+        "ga": "buachaill",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "boy friend",
+            "boyfriend"
+        ],
+        "ga": "buachaill",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bully"
+        ],
+        "ga": "bulaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bullying"
+        ],
+        "ga": "bulaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core concern"
+        ],
+        "ga": "bunchúram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "inherent quality"
+        ],
+        "ga": "buntréith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fundamentalist"
+        ],
+        "ga": "bunúsaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fundamentalism"
+        ],
+        "ga": "bunúsaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "baby"
+        ],
+        "ga": "bábán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conduct"
+        ],
+        "ga": "béas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "habit"
+        ],
+        "ga": "béas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "etiquette"
+        ],
+        "ga": "béasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interaction"
+        ],
+        "ga": "caidreamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "relations"
+        ],
+        "ga": "caidreamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sociability"
+        ],
+        "ga": "caidreamhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "girl friend",
+            "girlfriend"
+        ],
+        "ga": "cailín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "amity"
+        ],
+        "ga": "cairdeas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "friendship"
+        ],
+        "ga": "cairdeas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "triumphalism"
+        ],
+        "ga": "caithréimeachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "triumphalist"
+        ],
+        "ga": "caithréimiúlaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cannibalism"
+        ],
+        "ga": "canablacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "friend"
+        ],
+        "ga": "cara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "charism",
+            "charisma"
+        ],
+        "ga": "carasma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "charity"
+        ],
+        "ga": "carthanacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "connection"
+        ],
+        "ga": "ceangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "celebrity"
+        ],
+        "ga": "ceiliúrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cyberbullying",
+            "cyber-bullying"
+        ],
+        "ga": "cibearbhulaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dominance"
+        ],
+        "ga": "cinseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "commotion"
+        ],
+        "ga": "clampar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pervert"
+        ],
+        "ga": "claonachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deviant"
+        ],
+        "ga": "claonaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deviance"
+        ],
+        "ga": "claonaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prejudice"
+        ],
+        "ga": "claontacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prearranged/arranged marriage"
+        ],
+        "ga": "cleamhnas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "honey trap"
+        ],
+        "ga": "cluainghaiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "player"
+        ],
+        "ga": "cluanaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fold"
+        ],
+        "ga": "cluipíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "character"
+        ],
+        "ga": "clú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "complex"
+        ],
+        "ga": "coimpléasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "community land"
+        ],
+        "ga": "coimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "date"
+        ],
+        "ga": "coinne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conscience"
+        ],
+        "ga": "coinsias",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "crime"
+        ],
+        "ga": "coireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mutual interdependence",
+            "mutualism"
+        ],
+        "ga": "comh-idirspleáchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "co-operativism"
+        ],
+        "ga": "comharachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "collective"
+        ],
+        "ga": "comharghnó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "co-operative model"
+        ],
+        "ga": "comharshamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fellowship"
+        ],
+        "ga": "comhbhráithreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joint guardianship"
+        ],
+        "ga": "comhchaomhnóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conformity"
+        ],
+        "ga": "comhchosúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mutual masturbation"
+        ],
+        "ga": "comhghlacaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collective action"
+        ],
+        "ga": "comhghníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collective achievement"
+        ],
+        "ga": "comhghnóthachtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "community"
+        ],
+        "ga": "comhluadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "company"
+        ],
+        "ga": "comhluadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consociationalism"
+        ],
+        "ga": "comhshochaíochtúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "common characteristic"
+        ],
+        "ga": "comhthréith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "commensal"
+        ],
+        "ga": "comhthíosach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "collective household"
+        ],
+        "ga": "comháitreabh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "commune"
+        ],
+        "ga": "común",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "agitation"
+        ],
+        "ga": "corraíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fabric"
+        ],
+        "ga": "creatlach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core area"
+        ],
+        "ga": "croí-limistéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hardship"
+        ],
+        "ga": "cruatan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "visit"
+        ],
+        "ga": "cuairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "culture"
+        ],
+        "ga": "cultúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "culturomics"
+        ],
+        "ga": "cultúramaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "society"
+        ],
+        "ga": "cumann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "safeguarding"
+        ],
+        "ga": "cumhdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "caning"
+        ],
+        "ga": "cánáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hierarchy"
+        ],
+        "ga": "céimlathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pecking order"
+        ],
+        "ga": "céimlathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "qi"
+        ],
+        "ga": "cí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "co-existence"
+        ],
+        "ga": "cómhaireachtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "taste"
+        ],
+        "ga": "cúirialtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "courtesan"
+        ],
+        "ga": "cúirtéiseánach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "retreatist"
+        ],
+        "ga": "cúliompaitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "care"
+        ],
+        "ga": "cúram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "benevolence"
+        ],
+        "ga": "dea-mhéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "absolute poverty"
+        ],
+        "ga": "dearbh-bhochtaineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "brother"
+        ],
+        "ga": "deartháir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "segregation"
+        ],
+        "ga": "deighilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "diaspora"
+        ],
+        "ga": "diaspóra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dystopia"
+        ],
+        "ga": "diostóipe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "close encounter"
+        ],
+        "ga": "dlúth-theagmháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "closeness"
+        ],
+        "ga": "dlúthchumann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "solidarity"
+        ],
+        "ga": "dlúthpháirtíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "buzz word"
+        ],
+        "ga": "dordfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bad purpose"
+        ],
+        "ga": "drochaigne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "profane language"
+        ],
+        "ga": "drochbhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bad language"
+        ],
+        "ga": "drochtheanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "draft register"
+        ],
+        "ga": "dréachtchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "being"
+        ],
+        "ga": "duine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "demonym"
+        ],
+        "ga": "déamainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bisexuality"
+        ],
+        "ga": "déghnéasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "alms"
+        ],
+        "ga": "déirc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chugger"
+        ],
+        "ga": "déircínteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "disengagement"
+        ],
+        "ga": "dícheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "refuge",
+            "shelter"
+        ],
+        "ga": "dídean",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "refugee"
+        ],
+        "ga": "dídeanaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "zealot"
+        ],
+        "ga": "díograiseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "arrogance"
+        ],
+        "ga": "díomas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stem family"
+        ],
+        "ga": "dírtheaghlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "catch 22"
+        ],
+        "ga": "dúsháinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "expatriate"
+        ],
+        "ga": "easaoránach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ergonome"
+        ],
+        "ga": "eirgeanóm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "extrovert"
+        ],
+        "ga": "eisdíritheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ethicist"
+        ],
+        "ga": "eiticí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ethnicism"
+        ],
+        "ga": "eitneachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ethnicity"
+        ],
+        "ga": "eitneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "partiality"
+        ],
+        "ga": "fabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "male carer"
+        ],
+        "ga": "fearchúramóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "feminist"
+        ],
+        "ga": "feimineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "formality"
+        ],
+        "ga": "foirmiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "outreach"
+        ],
+        "ga": "for-rochtain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vigilance"
+        ],
+        "ga": "forairdeall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vigilante"
+        ],
+        "ga": "forairdeallaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "supremacist"
+        ],
+        "ga": "forchiníoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "supremacism"
+        ],
+        "ga": "forchiníochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "supremacy"
+        ],
+        "ga": "forlámhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "availer"
+        ],
+        "ga": "fortaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anti-Judaism"
+        ],
+        "ga": "frith-Ghiúdachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anti-natalism"
+        ],
+        "ga": "frithghiniúnaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reactionary"
+        ],
+        "ga": "frithghníomhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vagrant"
+        ],
+        "ga": "fuaidire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vagrancy"
+        ],
+        "ga": "fuaidireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "whipping"
+        ],
+        "ga": "fuipeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "futurology"
+        ],
+        "ga": "fáistineolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nomad"
+        ],
+        "ga": "fánaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "self-sufficiency"
+        ],
+        "ga": "féindóthain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "autoethnology"
+        ],
+        "ga": "féineitneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "identification"
+        ],
+        "ga": "féiniúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "identitarian"
+        ],
+        "ga": "féiniúlaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "identitarianism"
+        ],
+        "ga": "féiniúlaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "extremes of poverty"
+        ],
+        "ga": "fíorbhochtaineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "extremes of wealth"
+        ],
+        "ga": "fíorshaibhreas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "video nasty"
+        ],
+        "ga": "físghránnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "relationship"
+        ],
+        "ga": "gaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "relation"
+        ],
+        "ga": "gaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "close relative"
+        ],
+        "ga": "garghaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "affection"
+        ],
+        "ga": "gean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lineage"
+        ],
+        "ga": "ginealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pro-natalism"
+        ],
+        "ga": "giniúnaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gypsy"
+        ],
+        "ga": "giofóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gypsyism"
+        ],
+        "ga": "giofógachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minion"
+        ],
+        "ga": "giolla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "page boy"
+        ],
+        "ga": "giollán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "day-to-day life"
+        ],
+        "ga": "gnáthshaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sex"
+        ],
+        "ga": "gnéas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sexism"
+        ],
+        "ga": "gnéasachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sexist"
+        ],
+        "ga": "gnéasaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sex role"
+        ],
+        "ga": "gnéasról",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sexting"
+        ],
+        "ga": "gnéastéacsáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "activism"
+        ],
+        "ga": "gníomhaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "graffiti"
+        ],
+        "ga": "graifítí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grooming"
+        ],
+        "ga": "grúmaeireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "witch-hunt"
+        ],
+        "ga": "géarleanúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hermaphroditism"
+        ],
+        "ga": "heirmeafraidíteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hetero-normativity"
+        ],
+        "ga": "heitreanormatacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heterosexual"
+        ],
+        "ga": "heitrighnéasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hipster"
+        ],
+        "ga": "hiopstar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hippy"
+        ],
+        "ga": "hipí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "homosexual"
+        ],
+        "ga": "homaighnéasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "homosexuality"
+        ],
+        "ga": "homaighnéasachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hedonism"
+        ],
+        "ga": "héadónachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interculturalism"
+        ],
+        "ga": "idirchultúrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interactionist"
+        ],
+        "ga": "idirghníomhaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "polyamory"
+        ],
+        "ga": "il-leannánacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "multiple discrimination"
+        ],
+        "ga": "il-leithcheal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "multiracialism"
+        ],
+        "ga": "ilchiníochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "promiscuity"
+        ],
+        "ga": "ilchumasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "affordability"
+        ],
+        "ga": "inacmhainneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gender"
+        ],
+        "ga": "inscne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "genderism"
+        ],
+        "ga": "inscníochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "institutionalism"
+        ],
+        "ga": "institiúideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "institutionalist"
+        ],
+        "ga": "institiúidí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "intent"
+        ],
+        "ga": "intinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intellectual"
+        ],
+        "ga": "intleachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pluralism"
+        ],
+        "ga": "iolrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plurality"
+        ],
+        "ga": "iolracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "behaviour"
+        ],
+        "ga": "iompraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "initiation"
+        ],
+        "ga": "ionadacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inclusiveness"
+        ],
+        "ga": "ionchuimsitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "in-group"
+        ],
+        "ga": "ionghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jarvey"
+        ],
+        "ga": "járbhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "welfare"
+        ],
+        "ga": "leas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "stepbrother"
+        ],
+        "ga": "leasdeartháir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "half-caste"
+        ],
+        "ga": "leathcheast",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "twin"
+        ],
+        "ga": "leathchúpla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "half-brother"
+        ],
+        "ga": "leathdheartháir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flexitarian"
+        ],
+        "ga": "leathveigeatóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lesbian"
+        ],
+        "ga": "leispiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "discrimination"
+        ],
+        "ga": "leithcheal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vanity"
+        ],
+        "ga": "leitheadas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "laker"
+        ],
+        "ga": "lochaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mobility"
+        ],
+        "ga": "luaineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "early adulthood"
+        ],
+        "ga": "luath-aosacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "early retirement"
+        ],
+        "ga": "luathscor",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "early life"
+        ],
+        "ga": "luathshaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "the age of majority"
+        ],
+        "ga": "lán-aois",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lodging"
+        ],
+        "ga": "lóistín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mobbing"
+        ],
+        "ga": "mabáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "virgin"
+        ],
+        "ga": "maighdean",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "survivalist"
+        ],
+        "ga": "marthanaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "metrosexual"
+        ],
+        "ga": "meitrighnéasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "middle adulthood"
+        ],
+        "ga": "meánaosacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mission"
+        ],
+        "ga": "misean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mission"
+        ],
+        "ga": "misean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "infidelity"
+        ],
+        "ga": "mídhílseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "disaffection"
+        ],
+        "ga": "míshástacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dinner party"
+        ],
+        "ga": "mórdhinnéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nursery",
+            "crèche",
+            "creche",
+            "day nursery"
+        ],
+        "ga": "naíolann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "insecurity"
+        ],
+        "ga": "neamhdhiongbháilteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inequality"
+        ],
+        "ga": "neamhionannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "non-national"
+        ],
+        "ga": "neamhnáisiúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ignominy"
+        ],
+        "ga": "náire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neophyte"
+        ],
+        "ga": "núíosach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hungry person"
+        ],
+        "ga": "ocrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "labour"
+        ],
+        "ga": "oibreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "oligarch"
+        ],
+        "ga": "olagarc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palimony"
+        ],
+        "ga": "pailiúnas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "role model"
+        ],
+        "ga": "patrún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "peer pressure",
+            "peer-group pressure"
+        ],
+        "ga": "piarbhrú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "advocate"
+        ],
+        "ga": "pléadálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "population"
+        ],
+        "ga": "pobal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "community"
+        ],
+        "ga": "pobal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "populism"
+        ],
+        "ga": "pobalachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "communalism"
+        ],
+        "ga": "pobaldachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polygyny"
+        ],
+        "ga": "polaigíneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "polity"
+        ],
+        "ga": "polaití",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "primary caregiver"
+        ],
+        "ga": "príomhchúramóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "partner"
+        ],
+        "ga": "páirtí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "partner"
+        ],
+        "ga": "páirtí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "partnership"
+        ],
+        "ga": "páirtíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "socialite"
+        ],
+        "ga": "péiceallán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paederast",
+            "pederast"
+        ],
+        "ga": "péidearastach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "paederasty",
+            "pederasty"
+        ],
+        "ga": "péidearastacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paedophile"
+        ],
+        "ga": "péidifileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "paedophilia"
+        ],
+        "ga": "péidifilia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "page"
+        ],
+        "ga": "péitse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kiss"
+        ],
+        "ga": "póg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rocker"
+        ],
+        "ga": "racaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "urge"
+        ],
+        "ga": "ragús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rimming"
+        ],
+        "ga": "rimeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "e-quaintance"
+        ],
+        "ga": "ríomhaitheantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "e-quaintance"
+        ],
+        "ga": "ríomhaithne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "overpopulation"
+        ],
+        "ga": "ródhaonra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "typology"
+        ],
+        "ga": "saintréitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "secularism"
+        ],
+        "ga": "saoltachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "free-zone"
+        ],
+        "ga": "saorlimistéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "volunteer"
+        ],
+        "ga": "saorálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "volunteerism"
+        ],
+        "ga": "saorálaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "citizen"
+        ],
+        "ga": "saoránach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "citizenship"
+        ],
+        "ga": "saoránacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "squire"
+        ],
+        "ga": "scuibhéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "late adulthood"
+        ],
+        "ga": "seanaosacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "senior citizen"
+        ],
+        "ga": "seanóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bitterness"
+        ],
+        "ga": "searbhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chauvinism"
+        ],
+        "ga": "seobhaineachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sibling"
+        ],
+        "ga": "siblín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "descendant"
+        ],
+        "ga": "sliochtach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prolificity",
+            "prolificacy"
+        ],
+        "ga": "sliochtmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "way"
+        ],
+        "ga": "slí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "slicker"
+        ],
+        "ga": "slíomadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stigma"
+        ],
+        "ga": "smál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sociopath"
+        ],
+        "ga": "sochapatach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "society"
+        ],
+        "ga": "sochaí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "socio-drama"
+        ],
+        "ga": "sochdhráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sociology"
+        ],
+        "ga": "socheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "placement"
+        ],
+        "ga": "socrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sonder"
+        ],
+        "ga": "sondráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joyriding",
+            "joy-riding"
+        ],
+        "ga": "spraoithiomáint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "targeted measure"
+        ],
+        "ga": "spriocbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dowry"
+        ],
+        "ga": "spré",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stereotype"
+        ],
+        "ga": "steiréitíopa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "whore",
+            "prostitute"
+        ],
+        "ga": "striapach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stalker"
+        ],
+        "ga": "stácálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "poise"
+        ],
+        "ga": "stáidiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "yuppie"
+        ],
+        "ga": "suasóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "love-making"
+        ],
+        "ga": "suirí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "suitor"
+        ],
+        "ga": "suiríoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "blowjob"
+        ],
+        "ga": "séideog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "peacemaking"
+        ],
+        "ga": "síochánaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "freeloader"
+        ],
+        "ga": "súmaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gift"
+        ],
+        "ga": "tabhartas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "advocate"
+        ],
+        "ga": "tacadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gain"
+        ],
+        "ga": "tairbhe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "traveller"
+        ],
+        "ga": "taistealaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chief"
+        ],
+        "ga": "taoiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "familism"
+        ],
+        "ga": "teaghlaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "encounter"
+        ],
+        "ga": "teagmháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "technostructure"
+        ],
+        "ga": "teicneastruchtúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lord"
+        ],
+        "ga": "tiarna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "environment"
+        ],
+        "ga": "timpeallacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "commitment"
+        ],
+        "ga": "tiomantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "impact"
+        ],
+        "ga": "tionchar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pop-up restaurant"
+        ],
+        "ga": "tob-bhialann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "knee jerk reaction"
+        ],
+        "ga": "tobfhreagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flashmob",
+            "flash mob"
+        ],
+        "ga": "tobshlua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lightning strike"
+        ],
+        "ga": "tobstailc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consumerism"
+        ],
+        "ga": "tomhaltachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fruitarian"
+        ],
+        "ga": "toraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transvestism"
+        ],
+        "ga": "trasfheisteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cross-dresser",
+            "transvestite"
+        ],
+        "ga": "trasfheisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transexual"
+        ],
+        "ga": "trasghnéasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transexualism"
+        ],
+        "ga": "trasghnéasachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "intersectionality"
+        ],
+        "ga": "trasnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trend"
+        ],
+        "ga": "treocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guiding principle"
+        ],
+        "ga": "treoirphrionsabal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tripping"
+        ],
+        "ga": "truipéireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "triplet"
+        ],
+        "ga": "trírín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "meritocracy"
+        ],
+        "ga": "tuilleamhlathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "degrading treatment"
+        ],
+        "ga": "táiríde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "indicator"
+        ],
+        "ga": "táscaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "text speak"
+        ],
+        "ga": "téacsais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chi"
+        ],
+        "ga": "tí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "initiation"
+        ],
+        "ga": "túsghabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "outrage"
+        ],
+        "ga": "uafás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "loneliness"
+        ],
+        "ga": "uaigneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aristocracy"
+        ],
+        "ga": "uaslathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "iniquity"
+        ],
+        "ga": "urchóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sponsor"
+        ],
+        "ga": "urraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "zombie"
+        ],
+        "ga": "zombaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Youthreach"
+        ],
+        "ga": "Ógtheagmháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inequity"
+        ],
+        "ga": "éagothromas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "élitism",
+            "elitism"
+        ],
+        "ga": "éilíteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "audience"
+        ],
+        "ga": "éisteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inferior"
+        ],
+        "ga": "íochtarán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "victimisation"
+        ],
+        "ga": "íospairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "victim"
+        ],
+        "ga": "íospartach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "function"
+        ],
+        "ga": "ócáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "juvenile delinquency"
+        ],
+        "ga": "ógchiontacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "youth"
+        ],
+        "ga": "ógra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "juvenile"
+        ],
+        "ga": "ógánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "appreciation"
+        ],
+        "ga": "ómós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "authoritarianism"
+        ],
+        "ga": "údarásaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "urolagnia"
+        ],
+        "ga": "úraláine",
+        "gender": "feminine"
+    }
+]

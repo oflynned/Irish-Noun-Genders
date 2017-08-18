@@ -1,0 +1,415 @@
+[
+    {
+        "declension": 3,
+        "en": [
+            "aerial photography"
+        ],
+        "ga": "aer-ghrianghrafadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aerial photograph",
+            "air photograph"
+        ],
+        "ga": "aerfótagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ambrotype"
+        ],
+        "ga": "ambraitíopa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "anaglyph"
+        ],
+        "ga": "anaiglif",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "camcorder"
+        ],
+        "ga": "ceamthaifeadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cibachrome"
+        ],
+        "ga": "cibeacróm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "negative"
+        ],
+        "ga": "claonchló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "printing frame"
+        ],
+        "ga": "cló-fhráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "positive"
+        ],
+        "ga": "dearbhchló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "episcope"
+        ],
+        "ga": "eipeascóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "anti-shake"
+        ],
+        "ga": "frithchrith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photo-journalism"
+        ],
+        "ga": "fóta-iriseoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "photo-gift"
+        ],
+        "ga": "fótabhronntanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "photograph"
+        ],
+        "ga": "fótagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photogrammetry"
+        ],
+        "ga": "fótagraiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "photogram",
+            "rayograph"
+        ],
+        "ga": "fótagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photogeology"
+        ],
+        "ga": "fótaigeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "photomap"
+        ],
+        "ga": "fótailéarscáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photofit"
+        ],
+        "ga": "fótashamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "slave flash"
+        ],
+        "ga": "giollasplanc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "still photograph",
+            "still",
+            "image"
+        ],
+        "ga": "grianghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "snapshot"
+        ],
+        "ga": "grianghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photographer"
+        ],
+        "ga": "grianghrafadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "holography"
+        ],
+        "ga": "holagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hologram"
+        ],
+        "ga": "holagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ilfochrome"
+        ],
+        "ga": "ilfeacróm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lenticule"
+        ],
+        "ga": "lionsán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "magazine"
+        ],
+        "ga": "meagaisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "microphotograph"
+        ],
+        "ga": "micreafótagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "microphotography"
+        ],
+        "ga": "micreafótagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "minilab"
+        ],
+        "ga": "mionsaotharlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "master flash"
+        ],
+        "ga": "máistirsplanc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fine chemical"
+        ],
+        "ga": "míncheimiceán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "exposure mode"
+        ],
+        "ga": "nochtmhód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aperture"
+        ],
+        "ga": "oscailt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pictorialism"
+        ],
+        "ga": "pictiúrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "print"
+        ],
+        "ga": "prionta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "developer"
+        ],
+        "ga": "réalóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "iris diaphragm",
+            "iris"
+        ],
+        "ga": "seallspiara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shoot"
+        ],
+        "ga": "siútáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "slide"
+        ],
+        "ga": "sleamhnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "diaphragm"
+        ],
+        "ga": "spiara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "still photograph"
+        ],
+        "ga": "stadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stereoscope"
+        ],
+        "ga": "steiréascóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "schlieren photography"
+        ],
+        "ga": "stiallfhótagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "strobe light"
+        ],
+        "ga": "stróbsholas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "telephoto"
+        ],
+        "ga": "teileafóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "telephotography"
+        ],
+        "ga": "teileafótagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wind-on lever"
+        ],
+        "ga": "tochrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transparency"
+        ],
+        "ga": "tréshoilseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vidicon"
+        ],
+        "ga": "vidíocón",
+        "gender": "masculine"
+    }
+]

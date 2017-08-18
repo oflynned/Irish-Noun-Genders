@@ -1,0 +1,6048 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "Abkhazian"
+        ],
+        "ga": "Abcáisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Acadian"
+        ],
+        "ga": "Acaidis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Accadian",
+            "Akkadian"
+        ],
+        "ga": "Acáidis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Akan"
+        ],
+        "ga": "Acáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ethiopic",
+            "Ethopian",
+            "Ethiopian Semitic",
+            "Ethiosemitic"
+        ],
+        "ga": "Aetóipic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Geez",
+            "Ethiopic"
+        ],
+        "ga": "Aetóipis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Afro-Asiatic"
+        ],
+        "ga": "Afra-Áisic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Afrikaans"
+        ],
+        "ga": "Afracáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Afar"
+        ],
+        "ga": "Afáiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Aymara"
+        ],
+        "ga": "Aidhmiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ainu"
+        ],
+        "ga": "Aidhniúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Algic"
+        ],
+        "ga": "Ailgis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Armenian"
+        ],
+        "ga": "Airméinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Avestan",
+            "Avestic"
+        ],
+        "ga": "Aivéistis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Albanian"
+        ],
+        "ga": "Albáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Alsatian"
+        ],
+        "ga": "Alsáisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Altaic"
+        ],
+        "ga": "Altaeis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Amharic"
+        ],
+        "ga": "Amáiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Anglo-Saxon"
+        ],
+        "ga": "Angla-Shacsainis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Apache"
+        ],
+        "ga": "Apáitsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Arikara"
+        ],
+        "ga": "Aracarais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Aragonese"
+        ],
+        "ga": "Aragóinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Arabic"
+        ],
+        "ga": "Araibis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Maxubí",
+            "Arikapu"
+        ],
+        "ga": "Araiceapúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Aramaic"
+        ],
+        "ga": "Aramais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Aristarchus",
+            "Aristarchus of Samothrace"
+        ],
+        "ga": "Arastarchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Aromanian"
+        ],
+        "ga": "Arómáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Assamese"
+        ],
+        "ga": "Asaimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Azeri"
+        ],
+        "ga": "Asairis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Azerbaijani"
+        ],
+        "ga": "Asarbaiseáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Asturian"
+        ],
+        "ga": "Astúiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Astur-Leonese"
+        ],
+        "ga": "Astúr-Léónais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Avar",
+            "Avaric"
+        ],
+        "ga": "Aváiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Babylonian"
+        ],
+        "ga": "Bablóinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Bable"
+        ],
+        "ga": "Baiblis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Baltic"
+        ],
+        "ga": "Bailtis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Balinese"
+        ],
+        "ga": "Bailís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Bashkirian",
+            "Bashkir"
+        ],
+        "ga": "Baiscíris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Balanta-Ganja",
+            "Alante",
+            "Balanda",
+            "Balant",
+            "Ballante",
+            "Belante",
+            "Brassa",
+            "Bulanda",
+            "Fjaa",
+            "Fraasse"
+        ],
+        "ga": "Balanta-Gainsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Balante"
+        ],
+        "ga": "Balantais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Basque",
+            "Euskara"
+        ],
+        "ga": "Bascais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Batak"
+        ],
+        "ga": "Bataicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Belarusian"
+        ],
+        "ga": "Bealarúisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Bengali"
+        ],
+        "ga": "Beangáilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Bangla",
+            "Banga-Bhasa",
+            "Bangala",
+            "Bangla"
+        ],
+        "ga": "Beangáilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Bemba",
+            "ChiBemba",
+            "Cibemba",
+            "Ichibemba",
+            "Icibemba",
+            "Chiwemba",
+            "Wemba"
+        ],
+        "ga": "Beimbis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Bihari"
+        ],
+        "ga": "Biheáiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Bislama"
+        ],
+        "ga": "Bioslaimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bokmal"
+        ],
+        "ga": "Bocmál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Bosnian"
+        ],
+        "ga": "Boisnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Welsh"
+        ],
+        "ga": "Breatnais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Brythonic"
+        ],
+        "ga": "Briotainis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Bravanese"
+        ],
+        "ga": "Brávais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Buginese"
+        ],
+        "ga": "Buiginis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Bulgarian"
+        ],
+        "ga": "Bulgáiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Burushaski"
+        ],
+        "ga": "Buraiseascais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Burmese"
+        ],
+        "ga": "Burmais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Buhid"
+        ],
+        "ga": "Buthaideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Buhid"
+        ],
+        "ga": "Buthaidis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "English"
+        ],
+        "ga": "Béarla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kawaiisu"
+        ],
+        "ga": "Cabhaísis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kalmyk"
+        ],
+        "ga": "Cailmícis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Cant"
+        ],
+        "ga": "Caintis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Karelian"
+        ],
+        "ga": "Cairéilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kashubian"
+        ],
+        "ga": "Caisiúibis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kashmiri"
+        ],
+        "ga": "Caismíris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Castilian"
+        ],
+        "ga": "Caistílis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kannada"
+        ],
+        "ga": "Cannadais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Cantonese"
+        ],
+        "ga": "Cantainis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kanuri"
+        ],
+        "ga": "Canúiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Carrier",
+            "Central Carrier",
+            "Southern Carrier"
+        ],
+        "ga": "Carrairis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Karo",
+            "Itanga",
+            "Itogapúk",
+            "Ntogapid",
+            "Ntogapig",
+            "Ramarama"
+        ],
+        "ga": "Caróis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kazakh"
+        ],
+        "ga": "Casaicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Catalan"
+        ],
+        "ga": "Catalóinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Quechua"
+        ],
+        "ga": "Ceatsuais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Celtic"
+        ],
+        "ga": "Ceiltis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Khmer"
+        ],
+        "ga": "Ciméiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kinyarwanda",
+            "Rwanda"
+        ],
+        "ga": "Ciniaruaindis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kikuyu"
+        ],
+        "ga": "Ciocúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kiswahili"
+        ],
+        "ga": "Ciosvahaílis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kyrgyz",
+            "Khirgese",
+            "Kirghis",
+            "Kirghiz",
+            "Kirgiz"
+        ],
+        "ga": "Cirgisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kiowa-Tanoan"
+        ],
+        "ga": "Cióbha-Tanóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Klamath"
+        ],
+        "ga": "Clamatais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Cockney"
+        ],
+        "ga": "Cocnais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Komi"
+        ],
+        "ga": "Coimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kurdish"
+        ],
+        "ga": "Coirdis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Cornish"
+        ],
+        "ga": "Coirnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Cholón",
+            "Seeptsá",
+            "Tsinganeses"
+        ],
+        "ga": "Colóinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Konkani"
+        ],
+        "ga": "Concáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Koongo",
+            "Kikongo",
+            "Kongo",
+            "Congo",
+            "Kikoongo"
+        ],
+        "ga": "Congóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Coptic"
+        ],
+        "ga": "Coptais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Corsican"
+        ],
+        "ga": "Corsaicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Cree"
+        ],
+        "ga": "Craís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Creole"
+        ],
+        "ga": "Criól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Croatian"
+        ],
+        "ga": "Cróitis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kuanyama"
+        ],
+        "ga": "Cuainiáimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "K’iche’",
+            "Quiché",
+            "Qatzijob’al",
+            "Cachabel",
+            "Central Quiché",
+            "Chiquel"
+        ],
+        "ga": "Cuitséis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kurmanji",
+            "Kurmancî",
+            "Northern Kurdish",
+            "Kirmanji",
+            "Kurmangi",
+            "Kermanji",
+            "Kermancî",
+            "Kirmancî",
+            "Kurdi",
+            "Kurdî"
+        ],
+        "ga": "Curmainsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kurux",
+            "Kurukh",
+            "Kurux",
+            "Oraon",
+            "Uraon",
+            "Kunrukh",
+            "Kadukali",
+            "Kurka",
+            "Urang",
+            "Kisan",
+            "Kunha",
+            "Kunhar",
+            "Kunuk",
+            "Kunna",
+            "Kuda",
+            "Kora",
+            "Koda",
+            "Kola",
+            "Morva",
+            "Birhor"
+        ],
+        "ga": "Curúicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Karok",
+            "Karuk"
+        ],
+        "ga": "Cáróicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Keres"
+        ],
+        "ga": "Céiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Korean"
+        ],
+        "ga": "Cóiréis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Xhosa"
+        ],
+        "ga": "Cóisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Komo",
+            "Madiin",
+            "Koma",
+            "South Koma",
+            "Central Koma",
+            "Hayahaya",
+            "Komo of Daga",
+            "Como",
+            "Gokwom"
+        ],
+        "ga": "Cómóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Kui",
+            "Kandh",
+            "Khondi",
+            "Khond",
+            "Khondo",
+            "Kanda",
+            "Kodu",
+            "Kōdu",
+            "Kodulu",
+            "Kuinga",
+            "Kūinga",
+            "Kuy",
+            "Kandh"
+        ],
+        "ga": "Cúivis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Curonian"
+        ],
+        "ga": "Cúróinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Dari",
+            "Persian"
+        ],
+        "ga": "Dairis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Danish"
+        ],
+        "ga": "Danmhairgis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Dehong Dai",
+            "Chinese Shan",
+            "Chinese Tai",
+            "Dai Kong",
+            "Dai Na",
+            "Dai Nuea",
+            "Dehong",
+            "Tai Dehong",
+            "Tai Le",
+            "Tai Mao",
+            "Tai Neua",
+            "Tai Nü",
+            "Tai Nue",
+            "Tai-Kong",
+            "Tai-Le",
+            "Yunannese Shan",
+            "Yunnan Shant’ou"
+        ],
+        "ga": "Deiheoingis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Divehi"
+        ],
+        "ga": "Divéihis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Devanagari"
+        ],
+        "ga": "Déiveanágraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hebrew"
+        ],
+        "ga": "Eabhrais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ndonga"
+        ],
+        "ga": "Eandongais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Esperantist"
+        ],
+        "ga": "Easparantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hispanic"
+        ],
+        "ga": "Easpáinnic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Estonian"
+        ],
+        "ga": "Eastóinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Eskimo"
+        ],
+        "ga": "Eiscimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Farsi"
+        ],
+        "ga": "Fairsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Falam Chin",
+            "Falam",
+            "Fallam",
+            "Halam",
+            "Hallam Chin",
+            "Falam Lai",
+            "Zahau",
+            "Laiţawng"
+        ],
+        "ga": "Falaimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Faroese"
+        ],
+        "ga": "Faróis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Fijian"
+        ],
+        "ga": "Fidsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Filipino"
+        ],
+        "ga": "Filipínis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Finno-Permic",
+            "Finno-Permic family"
+        ],
+        "ga": "Fion-Pheirmic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Finnish",
+            "Suomi"
+        ],
+        "ga": "Fionlainnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "French"
+        ],
+        "ga": "Fraincis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Francophone"
+        ],
+        "ga": "Frainciseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Franco-Provençal"
+        ],
+        "ga": "Franc-Phroibhinsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Frisian"
+        ],
+        "ga": "Freaslainnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Friulian"
+        ],
+        "ga": "Friúilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Fulfulde"
+        ],
+        "ga": "Fulfuildis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Fulah",
+            "Fulani",
+            "Fufulde",
+            "Pulaar",
+            "Pular",
+            "Peul"
+        ],
+        "ga": "Fuláinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Irish"
+        ],
+        "ga": "Gaeilge",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Goidelic"
+        ],
+        "ga": "Gaeilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Gaulish"
+        ],
+        "ga": "Gaillis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Galician"
+        ],
+        "ga": "Gailísis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Gammon"
+        ],
+        "ga": "Gaimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Gallo"
+        ],
+        "ga": "Gallóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Germanic"
+        ],
+        "ga": "Gearmáinic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "German"
+        ],
+        "ga": "Gearmáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Yiddish"
+        ],
+        "ga": "Giúdais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Gutnish"
+        ],
+        "ga": "Gotlainnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Greenlandic"
+        ],
+        "ga": "Graonlainnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Greek"
+        ],
+        "ga": "Gréigis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Guarani"
+        ],
+        "ga": "Guaráinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gurmukhi"
+        ],
+        "ga": "Gurmúcaí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Gujarati"
+        ],
+        "ga": "Gúisearáitis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hakka"
+        ],
+        "ga": "Haicéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hanunoo"
+        ],
+        "ga": "Hananúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Havasupai"
+        ],
+        "ga": "Havasúpais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hawaiian"
+        ],
+        "ga": "Haváis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hellenic"
+        ],
+        "ga": "Heilléinic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Herero"
+        ],
+        "ga": "Heiréiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hiligaynon",
+            "Illogo",
+            "Illongo"
+        ],
+        "ga": "Hilgeanóinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hindi",
+            "Hindî"
+        ],
+        "ga": "Hiondúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hindustani"
+        ],
+        "ga": "Hiondústáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hittite"
+        ],
+        "ga": "Hitis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hausa"
+        ],
+        "ga": "Hásais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hokan"
+        ],
+        "ga": "Hócainis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hopi"
+        ],
+        "ga": "Hóipis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hupa"
+        ],
+        "ga": "Húipis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Yanomami"
+        ],
+        "ga": "Ianómáimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Yoruba"
+        ],
+        "ga": "Iarúibis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Yavapai"
+        ],
+        "ga": "Iavapais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ivernic"
+        ],
+        "ga": "Ibheirnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ibibio"
+        ],
+        "ga": "Ibibis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Indo-European"
+        ],
+        "ga": "Ind-Eorpais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Indo-Iranian"
+        ],
+        "ga": "Ind-Iaráinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Indonesian"
+        ],
+        "ga": "Indinéisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Inupiaq"
+        ],
+        "ga": "Iniúipiaicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Italic"
+        ],
+        "ga": "Iodáilic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Italian"
+        ],
+        "ga": "Iodáilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Inuktitut",
+            "Inuktituk"
+        ],
+        "ga": "Ionúitis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Norwegian"
+        ],
+        "ga": "Ioruais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Yahi"
+        ],
+        "ga": "Iáihis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Javanese"
+        ],
+        "ga": "Iáivis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Yurok"
+        ],
+        "ga": "Iúróicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Judezmo",
+            "Ladino"
+        ],
+        "ga": "Laideanóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Latin"
+        ],
+        "ga": "Laidin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ladin"
+        ],
+        "ga": "Laidinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ladino"
+        ],
+        "ga": "Laidínis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Latvian"
+        ],
+        "ga": "Laitvis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Lao"
+        ],
+        "ga": "Laoisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Latgalian"
+        ],
+        "ga": "Latgalais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Lydian"
+        ],
+        "ga": "Lidis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Limburgish"
+        ],
+        "ga": "Liombuirgis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Limbu"
+        ],
+        "ga": "Liombúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Lingala"
+        ],
+        "ga": "Liongáilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Lithuanian"
+        ],
+        "ga": "Liotuáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Livonian"
+        ],
+        "ga": "Liovóinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Norse"
+        ],
+        "ga": "Lochlainnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Lombard",
+            "Lombardo"
+        ],
+        "ga": "Lombairdis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Luxemburgish",
+            "Luxembourgish"
+        ],
+        "ga": "Lucsambuirgis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Luganda"
+        ],
+        "ga": "Lugandais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Luba-Kasai",
+            "Chiluba"
+        ],
+        "ga": "Lúba-Casais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Luba-Katanga",
+            "Luba-Shaba",
+            "Kiluba"
+        ],
+        "ga": "Lúba-Cataingis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Macedonian",
+            "Macedonian language"
+        ],
+        "ga": "Macadóinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Magyar"
+        ],
+        "ga": "Maigiairis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Male",
+            "Maale"
+        ],
+        "ga": "Mailis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Maliseet",
+            "Malecite"
+        ],
+        "ga": "Mailisítis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Malayalam"
+        ],
+        "ga": "Mailéalaimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Mari"
+        ],
+        "ga": "Mairis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Marshallese"
+        ],
+        "ga": "Mairsillis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Malay"
+        ],
+        "ga": "Malaeis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Malagasy"
+        ],
+        "ga": "Malagáisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Manipuri"
+        ],
+        "ga": "Manapúiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Mandarin"
+        ],
+        "ga": "Mandairínis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Maori"
+        ],
+        "ga": "Maorais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Mapudungun",
+            "Mapuche"
+        ],
+        "ga": "Mapúitsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Marathi"
+        ],
+        "ga": "Maraitis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Marwari",
+            "Marvari",
+            "Marwadi",
+            "Marvadi",
+            "Jaiselmer",
+            "Marawar",
+            "Marwari Bhil",
+            "Marwari Meghwar",
+            "Merwari",
+            "Rajasthan",
+            "Mārwāṛī"
+        ],
+        "ga": "Marmhairis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Mende",
+            "Mɛnde yia",
+            "Boumpe",
+            "Hulo",
+            "Kossa",
+            "Kosso"
+        ],
+        "ga": "Meindis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Mehri"
+        ],
+        "ga": "Meiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Middle Irish"
+        ],
+        "ga": "Meán-Ghaeilge",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Min",
+            "Min Chinese"
+        ],
+        "ga": "Minis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Mirandese"
+        ],
+        "ga": "Mioraindéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Miami-Peoria"
+        ],
+        "ga": "Miáimí-Péóiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Molof",
+            "Ampas",
+            "Poule"
+        ],
+        "ga": "Molaifis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Moldavian"
+        ],
+        "ga": "Moldáivis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hmong Daw",
+            "Miao",
+            "Bai Miao",
+            "Branded Arm Hmong",
+            "Hmong Dleu",
+            "Hmong Qua Mpa",
+            "Meo Do",
+            "Meo Kao",
+            "Mong Do",
+            "Mong Trang",
+            "Pe Miao",
+            "Peh Miao",
+            "Striped Arm Hmong",
+            "Striped Hmong",
+            "White Hmong",
+            "White Lum",
+            "White Meo"
+        ],
+        "ga": "Mongais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Montenegrin"
+        ],
+        "ga": "Montainéigris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Mos",
+            "Tonga"
+        ],
+        "ga": "Mosais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Munduruku"
+        ],
+        "ga": "Mundaracúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Maltese"
+        ],
+        "ga": "Máltais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Mewari",
+            "Mewadi"
+        ],
+        "ga": "Méamharais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Mohawk"
+        ],
+        "ga": "Móháicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Nahuatl"
+        ],
+        "ga": "Nachuáitlis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Namo",
+            "Dorro",
+            "Mari"
+        ],
+        "ga": "Namóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Nanubae"
+        ],
+        "ga": "Nanúibéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Navajo"
+        ],
+        "ga": "Navachóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ndonga"
+        ],
+        "ga": "Ndongais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Nepali"
+        ],
+        "ga": "Neipeailis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Nihali"
+        ],
+        "ga": "Nihealais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Nyanga"
+        ],
+        "ga": "Niáinsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Nostratic"
+        ],
+        "ga": "Nostraitic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Modern Irish"
+        ],
+        "ga": "Nua-Ghaeilge",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Norwegian Norsk",
+            "Nynorsk"
+        ],
+        "ga": "Nua-Ioruais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Nauru"
+        ],
+        "ga": "Nárúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Niue",
+            "Niuean",
+            "Niuean language",
+            "Niue language"
+        ],
+        "ga": "Níobhais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Occitan"
+        ],
+        "ga": "Ocsatáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Oriya"
+        ],
+        "ga": "Oirísis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ossetian",
+            "Ossetic",
+            "Ossete"
+        ],
+        "ga": "Oiséitis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Dutch"
+        ],
+        "ga": "Ollainnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Oromo"
+        ],
+        "ga": "Oraimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Oscan"
+        ],
+        "ga": "Oscais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Pai"
+        ],
+        "ga": "Paidhis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Papiamentu"
+        ],
+        "ga": "Paipeamaintis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Pashto"
+        ],
+        "ga": "Paistis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Penutian"
+        ],
+        "ga": "Peanúitis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Persian"
+        ],
+        "ga": "Peirsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Flemish"
+        ],
+        "ga": "Pléimeannais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Polish"
+        ],
+        "ga": "Polainnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Portuguese"
+        ],
+        "ga": "Portaingéilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Punjabi"
+        ],
+        "ga": "Puinseáibis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Pushtu"
+        ],
+        "ga": "Puistis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Pali"
+        ],
+        "ga": "Páilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Rhaeto-Romanic"
+        ],
+        "ga": "Raeta-Rómáinsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Riang",
+            "Yinnet",
+            "Black Riang",
+            "Black Karen",
+            "Yanglam",
+            "Black Yang",
+            "Riang-Lang",
+            "Yin",
+            "Yang",
+            "Liang Sek",
+            "Yang Wan Kun"
+        ],
+        "ga": "Riangais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Roma"
+        ],
+        "ga": "Roimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Romani"
+        ],
+        "ga": "Romainis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Romansch"
+        ],
+        "ga": "Rómainis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Romanian"
+        ],
+        "ga": "Rómáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Rundi"
+        ],
+        "ga": "Rúindis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Russian"
+        ],
+        "ga": "Rúisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Rusyn"
+        ],
+        "ga": "Rúiséinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sakha",
+            "Yakut"
+        ],
+        "ga": "Sachais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sardinian"
+        ],
+        "ga": "Sairdínis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Samogitian"
+        ],
+        "ga": "Samaigítis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Samoyed"
+        ],
+        "ga": "Samóidis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Samoan"
+        ],
+        "ga": "Samóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sango"
+        ],
+        "ga": "Sangóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sanskrit"
+        ],
+        "ga": "Sanscrait",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Santali",
+            "Har",
+            "Hor",
+            "Samtali",
+            "Sandal",
+            "Sangtal",
+            "Santal",
+            "Santhali",
+            "Santhiali",
+            "Satar",
+            "Sentali",
+            "Sonthal"
+        ],
+        "ga": "Santáilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Skalvian"
+        ],
+        "ga": "Scalvais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Scythian"
+        ],
+        "ga": "Scitis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Cebuano",
+            "Binisaya",
+            "Sebuano",
+            "Bisayan",
+            "Sugbuanon",
+            "Sugbuhanon",
+            "Visayan"
+        ],
+        "ga": "Seabúáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Selonian"
+        ],
+        "ga": "Sealóinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Chamorro"
+        ],
+        "ga": "Seamóiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Old Irish"
+        ],
+        "ga": "Sean-Ghaeilge",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Old Norse"
+        ],
+        "ga": "Sean-Lochlainnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Shangainese"
+        ],
+        "ga": "Seangaidhnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Japanese"
+        ],
+        "ga": "Seapáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sesotho"
+        ],
+        "ga": "Seasóitis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Czech"
+        ],
+        "ga": "Seicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Shelta"
+        ],
+        "ga": "Seiltis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sepedi"
+        ],
+        "ga": "Seipidis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Serbo-Croat",
+            "Serbo-Croatian"
+        ],
+        "ga": "Seirbea-Chróitis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Serb",
+            "Serbian"
+        ],
+        "ga": "Seirbis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Cherokee"
+        ],
+        "ga": "Seiricis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Chechen"
+        ],
+        "ga": "Seisnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Chochenyo",
+            "Chocenyo"
+        ],
+        "ga": "Seoichéinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Dzongkha"
+        ],
+        "ga": "Seoinicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Shona"
+        ],
+        "ga": "Seoinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Georgian language",
+            "Georgian"
+        ],
+        "ga": "Seoirsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Shawnee"
+        ],
+        "ga": "Seáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Siar-Lak",
+            "Lak",
+            "Lamassa",
+            "Lambom",
+            "Siar"
+        ],
+        "ga": "Siarlacais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sylheti"
+        ],
+        "ga": "Siléitis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sindhi"
+        ],
+        "ga": "Sindis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sinti"
+        ],
+        "ga": "Sintis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sinhalese"
+        ],
+        "ga": "Siolóinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Circassian"
+        ],
+        "ga": "Siorcáisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Syriac"
+        ],
+        "ga": "Siricis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Syrian"
+        ],
+        "ga": "Siris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Chichewa",
+            "Chewa",
+            "Chinyanja",
+            "Nyanja"
+        ],
+        "ga": "Siséivis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Zhuang"
+        ],
+        "ga": "Siuáingis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Slavic",
+            "Slavonic"
+        ],
+        "ga": "Slavais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Slovenian"
+        ],
+        "ga": "Slóivéinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Slovak"
+        ],
+        "ga": "Slóvaicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Socotri",
+            "Soqotri"
+        ],
+        "ga": "Socatrais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Somali"
+        ],
+        "ga": "Somáilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Songhay",
+            "Songhai"
+        ],
+        "ga": "Songais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tsonga"
+        ],
+        "ga": "Songais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sorbian"
+        ],
+        "ga": "Sorbais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Spanish"
+        ],
+        "ga": "Spáinnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Swazi",
+            "Siswati",
+            "Swati"
+        ],
+        "ga": "Suaisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Swedish"
+        ],
+        "ga": "Sualainnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sumerian"
+        ],
+        "ga": "Suiméiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Chuvash"
+        ],
+        "ga": "Suvaisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tswana"
+        ],
+        "ga": "Suáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Swahili"
+        ],
+        "ga": "Svahaílis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sauk"
+        ],
+        "ga": "Sácais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sami",
+            "Saami"
+        ],
+        "ga": "Sáimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Chinese"
+        ],
+        "ga": "Sínis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sudanese"
+        ],
+        "ga": "Súdáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Zulu"
+        ],
+        "ga": "Súlúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sutu"
+        ],
+        "ga": "Sútais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tagalog"
+        ],
+        "ga": "Tagálaigis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tahitian"
+        ],
+        "ga": "Taihítis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tamil"
+        ],
+        "ga": "Tamailis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tamazight"
+        ],
+        "ga": "Tamaisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tatar"
+        ],
+        "ga": "Tatairis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Telugu"
+        ],
+        "ga": "Teileagúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tibetan"
+        ],
+        "ga": "Tibéidis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tigrinya"
+        ],
+        "ga": "Tigrinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tigrigna"
+        ],
+        "ga": "Tigrínis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tocharian"
+        ],
+        "ga": "Tocáiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tonga",
+            "Thonga",
+            "Tsonga"
+        ],
+        "ga": "Tongais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Chitonga",
+            "Western Nyasa"
+        ],
+        "ga": "Tongais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Chitonga",
+            "Zambezi",
+            "Plateau Tonga"
+        ],
+        "ga": "Tongais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Turkic"
+        ],
+        "ga": "Tuircic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Turkish"
+        ],
+        "ga": "Tuircis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Turkmen"
+        ],
+        "ga": "Tuircméinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tajik"
+        ],
+        "ga": "Táidsícis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Thai"
+        ],
+        "ga": "Téalainnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tewa"
+        ],
+        "ga": "Téibhis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Tiwa"
+        ],
+        "ga": "Tíbhis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Twi",
+            "Tshi"
+        ],
+        "ga": "Tíbhis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Towa"
+        ],
+        "ga": "Tóibhis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hualapai"
+        ],
+        "ga": "Ualapais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Wappo"
+        ],
+        "ga": "Uapóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Wari",
+            "Huari"
+        ],
+        "ga": "Uarais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Wayuu",
+            "Guajiro",
+            "Goajiro",
+            "Guajira",
+            "Wayu",
+            "Uáira",
+            "Waiu",
+            "Wayúu",
+            "Wayuunaiki"
+        ],
+        "ga": "Uaúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Uighur",
+            "Uyghur"
+        ],
+        "ga": "Uigiúiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ulster-Scots"
+        ],
+        "ga": "Ultais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Umbrian"
+        ],
+        "ga": "Umbairis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Hungarian"
+        ],
+        "ga": "Ungáiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Urdû",
+            "Urdu"
+        ],
+        "ga": "Urdúis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Waddar",
+            "Od",
+            "Orh",
+            "Vadari",
+            "Vadda Beldar",
+            "Werders",
+            "Wodde"
+        ],
+        "ga": "Vadarais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Valencian"
+        ],
+        "ga": "Vaileinsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Vedda"
+        ],
+        "ga": "Veidis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Venda"
+        ],
+        "ga": "Veindis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Wolof"
+        ],
+        "ga": "Volaifis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Vedic"
+        ],
+        "ga": "Véidis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Vietnamese"
+        ],
+        "ga": "Vítneaimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Yola"
+        ],
+        "ga": "Yólais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Zarma"
+        ],
+        "ga": "Zarmais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Zuni"
+        ],
+        "ga": "Zúinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sentence"
+        ],
+        "ga": "abairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "adequacy"
+        ],
+        "ga": "acmhainneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "acronym"
+        ],
+        "ga": "acrainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "alphabet"
+        ],
+        "ga": "aibítir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alphabetism"
+        ],
+        "ga": "aibítreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "alphabetics"
+        ],
+        "ga": "aibítric",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "accent"
+        ],
+        "ga": "aiceann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stress"
+        ],
+        "ga": "aiceann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "class"
+        ],
+        "ga": "aicme",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "purposive"
+        ],
+        "ga": "aidhmeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "adjective"
+        ],
+        "ga": "aidiacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aphaeresis"
+        ],
+        "ga": "aifiréis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "affricate"
+        ],
+        "ga": "aifricéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tense"
+        ],
+        "ga": "aimsir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "noun"
+        ],
+        "ga": "ainmfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subject"
+        ],
+        "ga": "ainmní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alpha"
+        ],
+        "ga": "alfa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "abugida"
+        ],
+        "ga": "alfa-shiollabra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "allograph"
+        ],
+        "ga": "allagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "allography"
+        ],
+        "ga": "allagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monosemy"
+        ],
+        "ga": "aonchiallachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "univocity"
+        ],
+        "ga": "aonghuthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monotone"
+        ],
+        "ga": "aonton",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "interpreter"
+        ],
+        "ga": "ateangaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interpreting",
+            "interpretation"
+        ],
+        "ga": "ateangaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reviser"
+        ],
+        "ga": "athbhreithneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "relexification"
+        ],
+        "ga": "athfhoclaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "paraphrase"
+        ],
+        "ga": "athinsint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "obstruent"
+        ],
+        "ga": "bac-chonsan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "feminine"
+        ],
+        "ga": "baininscne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "comparative"
+        ],
+        "ga": "breischéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "multilingualism"
+        ],
+        "ga": "breisteangachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "verb",
+            "logos",
+            "word"
+        ],
+        "ga": "briathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "original consonant"
+        ],
+        "ga": "bunchonsan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "positive"
+        ],
+        "ga": "bunchéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "original vowel"
+        ],
+        "ga": "bunghuta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "source term"
+        ],
+        "ga": "buntéarma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "cardinal number",
+            "cardinal"
+        ],
+        "ga": "bunuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "elision"
+        ],
+        "ga": "bá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "anglophone"
+        ],
+        "ga": "béarlóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "beta"
+        ],
+        "ga": "béite",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "standard"
+        ],
+        "ga": "caighdeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "quantity"
+        ],
+        "ga": "cainníocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dialectometry",
+            "dialectometrics"
+        ],
+        "ga": "canúinmhéadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dialect"
+        ],
+        "ga": "canúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "palatalized quality",
+            "slender quality"
+        ],
+        "ga": "caoile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kappa"
+        ],
+        "ga": "capa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chi"
+        ],
+        "ga": "chí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cube pruning"
+        ],
+        "ga": "ciúbphrúnáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "indirect speech",
+            "indirect discourse"
+        ],
+        "ga": "claoninsint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oblique case"
+        ],
+        "ga": "claontuiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clause"
+        ],
+        "ga": "clásal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tap"
+        ],
+        "ga": "cnagchonsan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "collective noun"
+        ],
+        "ga": "cnuasainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fraction"
+        ],
+        "ga": "codán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cognition"
+        ],
+        "ga": "cognaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "codicology"
+        ],
+        "ga": "coidéacseolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conditional"
+        ],
+        "ga": "coinníollach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "homonym"
+        ],
+        "ga": "comhainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "homonymy"
+        ],
+        "ga": "comhainmneachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "apposition"
+        ],
+        "ga": "comhaisnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joint translator",
+            "fellow translator"
+        ],
+        "ga": "comhaistritheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joint translation",
+            "collective translation"
+        ],
+        "ga": "comhaistriúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sign"
+        ],
+        "ga": "comhartha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "signifier"
+        ],
+        "ga": "comharthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "signer"
+        ],
+        "ga": "comharthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "synonymy"
+        ],
+        "ga": "comhchiallachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "homophony"
+        ],
+        "ga": "comhfhuaimneachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "homograph"
+        ],
+        "ga": "comhghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "homography"
+        ],
+        "ga": "comhghrafachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "equivalence"
+        ],
+        "ga": "comhionannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "collocate"
+        ],
+        "ga": "comhlogach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collocation"
+        ],
+        "ga": "comhlogaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collocation"
+        ],
+        "ga": "comhlogaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collocationer"
+        ],
+        "ga": "comhlogóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "syntax"
+        ],
+        "ga": "comhréir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ambilingualism"
+        ],
+        "ga": "comhtheangachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "path"
+        ],
+        "ga": "conair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consonant"
+        ],
+        "ga": "consan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "copula"
+        ],
+        "ga": "copail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "corpus"
+        ],
+        "ga": "corpas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "constraint"
+        ],
+        "ga": "cosc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "resultative"
+        ],
+        "ga": "críochnaitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "objective",
+            "purpose",
+            "intention",
+            "object",
+            "end"
+        ],
+        "ga": "cuspóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "object"
+        ],
+        "ga": "cuspóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conjunction"
+        ],
+        "ga": "cónasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "causative"
+        ],
+        "ga": "cúisíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dactylology"
+        ],
+        "ga": "dachtaileolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "articulacy"
+        ],
+        "ga": "deaslabhairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deixis"
+        ],
+        "ga": "deicseas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "morphology"
+        ],
+        "ga": "deilbhíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "accidence"
+        ],
+        "ga": "deilbhíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "delta"
+        ],
+        "ga": "deilte",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "citation"
+        ],
+        "ga": "deismireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "theolinguistics"
+        ],
+        "ga": "diatheangeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dimension"
+        ],
+        "ga": "diminsean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dittograph"
+        ],
+        "ga": "diotagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dittography"
+        ],
+        "ga": "diotagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dittogram"
+        ],
+        "ga": "diotagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lawyer-linguist"
+        ],
+        "ga": "dlítheangeolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "adverb"
+        ],
+        "ga": "dobhriathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bilingualism"
+        ],
+        "ga": "dátheangachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "factitive"
+        ],
+        "ga": "déanmhach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "formation"
+        ],
+        "ga": "déanmhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "diphthong"
+        ],
+        "ga": "défhoghar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "digraph"
+        ],
+        "ga": "déghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bigram"
+        ],
+        "ga": "déghram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "diaeresis"
+        ],
+        "ga": "déiréis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "digraph"
+        ],
+        "ga": "délitir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "decausative"
+        ],
+        "ga": "díchúisíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "direct case"
+        ],
+        "ga": "dírthuiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "eponym"
+        ],
+        "ga": "eapainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "exonym"
+        ],
+        "ga": "easainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "epenthesis"
+        ],
+        "ga": "eipintéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "epsilon"
+        ],
+        "ga": "eipsealón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "exoglossia"
+        ],
+        "ga": "eisbhéascna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ethnolect"
+        ],
+        "ga": "eitneachanúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "length"
+        ],
+        "ga": "fad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "predicate"
+        ],
+        "ga": "faisnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "voice"
+        ],
+        "ga": "faí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "philology"
+        ],
+        "ga": "fileolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "masculinity"
+        ],
+        "ga": "fireannacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "masculine"
+        ],
+        "ga": "firinscne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dash"
+        ],
+        "ga": "fleasc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "word",
+            "expression"
+        ],
+        "ga": "focal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subordinate clause",
+            "dependent clause"
+        ],
+        "ga": "fochlásal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subordinate concept"
+        ],
+        "ga": "fochoincheap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lexicology"
+        ],
+        "ga": "focleolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dictionary",
+            "lexicon"
+        ],
+        "ga": "foclóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sub-predicate"
+        ],
+        "ga": "fofhaisnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subfamily",
+            "sub-family"
+        ],
+        "ga": "fofhine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phone"
+        ],
+        "ga": "foghar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "phonology"
+        ],
+        "ga": "foghareolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "phonetics"
+        ],
+        "ga": "foghraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ending",
+            "termination"
+        ],
+        "ga": "foirceann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "terminative"
+        ],
+        "ga": "foirceantach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "perfectivity"
+        ],
+        "ga": "foirfeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "form"
+        ],
+        "ga": "foirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pronoun"
+        ],
+        "ga": "forainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "superordinate concept"
+        ],
+        "ga": "forchoincheap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "superordinate"
+        ],
+        "ga": "forordanáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "substrate"
+        ],
+        "ga": "foshraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "substrate"
+        ],
+        "ga": "foshraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "phrase"
+        ],
+        "ga": "frása",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "phraseme"
+        ],
+        "ga": "frásaeim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "radical"
+        ],
+        "ga": "fréamh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "root"
+        ],
+        "ga": "fréamh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "root noun"
+        ],
+        "ga": "fréamhainmfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sound"
+        ],
+        "ga": "fuaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "furigana"
+        ],
+        "ga": "fuirigeánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "undergoer"
+        ],
+        "ga": "fulangach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "phi"
+        ],
+        "ga": "fí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "factoid"
+        ],
+        "ga": "fíoróid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "phoneme"
+        ],
+        "ga": "fóinéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "phonemics"
+        ],
+        "ga": "fóinéimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "verbal of necessity"
+        ],
+        "ga": "geireannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "generativity"
+        ],
+        "ga": "giniúnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shortness"
+        ],
+        "ga": "giorra",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "general language",
+            "general purpose language"
+        ],
+        "ga": "gnáth-theanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "common name"
+        ],
+        "ga": "gnáthainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "familiar usage"
+        ],
+        "ga": "gnáthchaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aspect"
+        ],
+        "ga": "gné",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "agent noun"
+        ],
+        "ga": "gníomhainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "agent"
+        ],
+        "ga": "gníomhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grammar",
+            "grammar book"
+        ],
+        "ga": "graiméar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "science of grammar",
+            "grammar"
+        ],
+        "ga": "gramadach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "graduation"
+        ],
+        "ga": "grádaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vowel"
+        ],
+        "ga": "guta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gamma"
+        ],
+        "ga": "gáma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heteroclite",
+            "heteroclitic"
+        ],
+        "ga": "heitreachlaonán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hyponym"
+        ],
+        "ga": "hiopainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "holonym"
+        ],
+        "ga": "holainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "postposition"
+        ],
+        "ga": "iarfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "suffix"
+        ],
+        "ga": "iarmhír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "off-glide"
+        ],
+        "ga": "iarshleamhnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "anaphora"
+        ],
+        "ga": "iarthagra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "anaphor"
+        ],
+        "ga": "iarthagraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "antecedent"
+        ],
+        "ga": "iartheachtaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "diacritic"
+        ],
+        "ga": "idirdhealaitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polysemy"
+        ],
+        "ga": "ilchiallachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "suppletion"
+        ],
+        "ga": "ilfhréamhachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plurilingualism"
+        ],
+        "ga": "ilteangachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "polylinguist"
+        ],
+        "ga": "ilteangeolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "endoglossia"
+        ],
+        "ga": "inbhéascna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inflection"
+        ],
+        "ga": "infhilleadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inflexion"
+        ],
+        "ga": "infhilleadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "infinitive"
+        ],
+        "ga": "infinideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "initialism"
+        ],
+        "ga": "inisealachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "infix"
+        ],
+        "ga": "inmhír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "optionality"
+        ],
+        "ga": "inroghnaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gender"
+        ],
+        "ga": "inscne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interjection"
+        ],
+        "ga": "intriacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "patient"
+        ],
+        "ga": "iomfhulangach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "isophone"
+        ],
+        "ga": "iseafón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "iota"
+        ],
+        "ga": "ióta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "weak verb"
+        ],
+        "ga": "lagbhriathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lambda"
+        ],
+        "ga": "lambda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "variant"
+        ],
+        "ga": "leagan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "progressive"
+        ],
+        "ga": "leanúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "semivowel"
+        ],
+        "ga": "leathghuta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "semi-idiom"
+        ],
+        "ga": "leathnath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "partial parsing"
+        ],
+        "ga": "leathpharsáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lemmatizer",
+            "lemmatiser"
+        ],
+        "ga": "leimeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "neutral quality"
+        ],
+        "ga": "leithne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lipogram"
+        ],
+        "ga": "lipeagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "letter",
+            "character"
+        ],
+        "ga": "litir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "logograph"
+        ],
+        "ga": "logagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "logogram"
+        ],
+        "ga": "logagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "calque"
+        ],
+        "ga": "lomaistriúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "value type"
+        ],
+        "ga": "luach-chineál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "full homonymy"
+        ],
+        "ga": "lán-chomhainmneachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lexicogrammar"
+        ],
+        "ga": "léacsagramadach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lexis"
+        ],
+        "ga": "léacsas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lexon"
+        ],
+        "ga": "léacsón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lexeme"
+        ],
+        "ga": "léicséim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "logo",
+            "logotype"
+        ],
+        "ga": "lógó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "daughter language"
+        ],
+        "ga": "mactheanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "variable"
+        ],
+        "ga": "malartán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "metonymy"
+        ],
+        "ga": "meatonaime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "metaphrase"
+        ],
+        "ga": "meiteafrása",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "meta-language",
+            "metalanguage"
+        ],
+        "ga": "meititheanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "metathesis"
+        ],
+        "ga": "meititéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mood"
+        ],
+        "ga": "modh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "morpheme"
+        ],
+        "ga": "moirféim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "morph"
+        ],
+        "ga": "morf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mistranslation"
+        ],
+        "ga": "mí-aistriúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "augment",
+            "particle"
+        ],
+        "ga": "mír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mu"
+        ],
+        "ga": "mú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "n-gram"
+        ],
+        "ga": "n-gram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "connective"
+        ],
+        "ga": "nascfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "non-word"
+        ],
+        "ga": "neamhfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "approximant"
+        ],
+        "ga": "neasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neuter"
+        ],
+        "ga": "neodar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "modern language"
+        ],
+        "ga": "nuatheanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "neurolinguistics"
+        ],
+        "ga": "néaraitheangeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nu"
+        ],
+        "ga": "nú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ogam",
+            "ogham"
+        ],
+        "ga": "ogham",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "actor"
+        ],
+        "ga": "oibreoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "omicron"
+        ],
+        "ga": "oimiocrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "onomasiology"
+        ],
+        "ga": "onamaiseolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "ordinal"
+        ],
+        "ga": "orduimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "orthoepy"
+        ],
+        "ga": "orta-eipe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "paremiography"
+        ],
+        "ga": "pairéimeagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "paradigm"
+        ],
+        "ga": "paraidím",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "person"
+        ],
+        "ga": "pearsa",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "picogram"
+        ],
+        "ga": "piceagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pidgin"
+        ],
+        "ga": "pidsean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pragmalinguistics"
+        ],
+        "ga": "pragmaitheangeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pragmatics"
+        ],
+        "ga": "pragmataic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chief translator"
+        ],
+        "ga": "príomh-aistritheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "primary tense"
+        ],
+        "ga": "príomhaimsir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "main clause"
+        ],
+        "ga": "príomhchlásal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "prothesis",
+            "prosthesis"
+        ],
+        "ga": "próistéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "proto-language"
+        ],
+        "ga": "prótaitheanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pi"
+        ],
+        "ga": "pí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "participle"
+        ],
+        "ga": "rangabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "participative"
+        ],
+        "ga": "rannpháirteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pick list"
+        ],
+        "ga": "roghliosta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "preverb"
+        ],
+        "ga": "réamhbhriathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "preposition"
+        ],
+        "ga": "réamhfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "on-glide"
+        ],
+        "ga": "réamhshleamhnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cataphora",
+            "prolepsis"
+        ],
+        "ga": "réamhthagra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cataphor",
+            "proleptic pronoun"
+        ],
+        "ga": "réamhthagraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "antecedent"
+        ],
+        "ga": "réamhtheachtaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "domain"
+        ],
+        "ga": "réimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "range"
+        ],
+        "ga": "réimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "prefix"
+        ],
+        "ga": "réimír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "computational linguistics"
+        ],
+        "ga": "ríomhtheangeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rho"
+        ],
+        "ga": "ró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "role relation"
+        ],
+        "ga": "rólghaolmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rhoticity"
+        ],
+        "ga": "rótacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "specific language"
+        ],
+        "ga": "sainteanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prescriptivism"
+        ],
+        "ga": "saintreorachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "typology"
+        ],
+        "ga": "saintréitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "etymology"
+        ],
+        "ga": "sanasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "freelance translator"
+        ],
+        "ga": "saoraistritheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "extraposition"
+        ],
+        "ga": "seachshuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "old English"
+        ],
+        "ga": "sean-Bhéarla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sigma"
+        ],
+        "ga": "sigme",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "syllepsis"
+        ],
+        "ga": "silléipsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shibboleth"
+        ],
+        "ga": "siobaileat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "syllable"
+        ],
+        "ga": "siolla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "syllabary"
+        ],
+        "ga": "siollabra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "syllabogram"
+        ],
+        "ga": "siollagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "glide"
+        ],
+        "ga": "sleamhnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crowd translation"
+        ],
+        "ga": "slua-aistriúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sonorant"
+        ],
+        "ga": "sondach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "goal"
+        ],
+        "ga": "sprioc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "object language",
+            "target language"
+        ],
+        "ga": "sprioctheanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "phonetic nasalisation",
+            "nasalisation",
+            "nasalization"
+        ],
+        "ga": "srónaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stop"
+        ],
+        "ga": "stop",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cedilla"
+        ],
+        "ga": "straithín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "construction"
+        ],
+        "ga": "struchtúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "position"
+        ],
+        "ga": "suíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "superlative"
+        ],
+        "ga": "sárchéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hiatus"
+        ],
+        "ga": "séanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "semiotics"
+        ],
+        "ga": "séimeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "semasiology"
+        ],
+        "ga": "séimiseolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sememe"
+        ],
+        "ga": "séiméim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "psi"
+        ],
+        "ga": "sí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reference"
+        ],
+        "ga": "tagra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "analysis"
+        ],
+        "ga": "taifeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stem"
+        ],
+        "ga": "tamhan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flap"
+        ],
+        "ga": "tapchonsan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "language"
+        ],
+        "ga": "teanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "linguistics"
+        ],
+        "ga": "teangeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tectal"
+        ],
+        "ga": "teicteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "isogloss"
+        ],
+        "ga": "teoirlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "periphrasis"
+        ],
+        "ga": "timchaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tmesis"
+        ],
+        "ga": "timéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inchoative"
+        ],
+        "ga": "tionscantach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guesser"
+        ],
+        "ga": "tomhaiseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "measure"
+        ],
+        "ga": "tomhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trill"
+        ],
+        "ga": "tonnchrith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transposition"
+        ],
+        "ga": "trasuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "strong verb"
+        ],
+        "ga": "tréanbhriathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trigram"
+        ],
+        "ga": "tríghram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mode of pronounciation",
+            "accent"
+        ],
+        "ga": "tuin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "case"
+        ],
+        "ga": "tuiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "paradigm"
+        ],
+        "ga": "tábla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "term"
+        ],
+        "ga": "téarma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "terminology"
+        ],
+        "ga": "téarmaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "terminologist"
+        ],
+        "ga": "téarmeolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "terminology"
+        ],
+        "ga": "téarmeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "theta"
+        ],
+        "ga": "téite",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tau"
+        ],
+        "ga": "tó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "u-quality"
+        ],
+        "ga": "u-cháilíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "number"
+        ],
+        "ga": "uimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "numeronym"
+        ],
+        "ga": "uimhirainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "upsilon"
+        ],
+        "ga": "upsalón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "xi"
+        ],
+        "ga": "xí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "zeta"
+        ],
+        "ga": "zéite",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Aukstaitian"
+        ],
+        "ga": "Ácstáitis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Arhuaco"
+        ],
+        "ga": "Árhuacais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Edo"
+        ],
+        "ga": "Éadóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Egyptian"
+        ],
+        "ga": "Éigiptis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Eteocypriot"
+        ],
+        "ga": "Éiti-Chipiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Igbo"
+        ],
+        "ga": "Íogbóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Icelandic"
+        ],
+        "ga": "Íoslainnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Yi"
+        ],
+        "ga": "Ís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Nederlands"
+        ],
+        "ga": "Ísiltíris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ojibwe",
+            "Ojibwa"
+        ],
+        "ga": "Óisibis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ohlone"
+        ],
+        "ga": "Ólóinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ukrainian"
+        ],
+        "ga": "Úcráinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ugric"
+        ],
+        "ga": "Úgrais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Uzbek"
+        ],
+        "ga": "Úisbéiceastáinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Uralic"
+        ],
+        "ga": "Úrailis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Uto-Aztecan"
+        ],
+        "ga": "Útó-Astaicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "application"
+        ],
+        "ga": "ábharthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "eta"
+        ],
+        "ga": "éite",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "minimal form"
+        ],
+        "ga": "íosfhoirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "omega"
+        ],
+        "ga": "óimige",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "usage"
+        ],
+        "ga": "úsáid",
+        "gender": "feminine"
+    }
+]

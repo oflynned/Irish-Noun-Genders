@@ -1,0 +1,1960 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Chief Superintendent"
+        ],
+        "ga": "Ard-Cheannfort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Superintendent"
+        ],
+        "ga": "Ceannfort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Inspector"
+        ],
+        "ga": "Cigire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Commissioner"
+        ],
+        "ga": "Coimisinéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Guard"
+        ],
+        "ga": "Garda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "L-Plate"
+        ],
+        "ga": "L-Phláta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Deputy Commissioner"
+        ],
+        "ga": "Leas-Choimisinéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mountie"
+        ],
+        "ga": "Marcphóilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "facial recognition"
+        ],
+        "ga": "aghaidh-aithint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "identity"
+        ],
+        "ga": "aitheantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alcometer"
+        ],
+        "ga": "alcólaiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alcoholometer"
+        ],
+        "ga": "alcólaiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "muscle"
+        ],
+        "ga": "amhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "suspicion"
+        ],
+        "ga": "amhras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "suspect"
+        ],
+        "ga": "amhrastach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "addict"
+        ],
+        "ga": "andúileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "breathalyser"
+        ],
+        "ga": "anáileadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "age-limit"
+        ],
+        "ga": "aoisteorainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "high visibility"
+        ],
+        "ga": "ard-infheictheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "repeated offence"
+        ],
+        "ga": "athchion",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "repeat offender"
+        ],
+        "ga": "athchiontaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "repeat victimisation"
+        ],
+        "ga": "athíospairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "recidivism"
+        ],
+        "ga": "atitimeachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "obstruction"
+        ],
+        "ga": "bac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "member state",
+            "member-state"
+        ],
+        "ga": "ballstát",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "female offender"
+        ],
+        "ga": "banchiontóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bonder"
+        ],
+        "ga": "bandaeir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "observation"
+        ],
+        "ga": "barúil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scoundrel"
+        ],
+        "ga": "bithiúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "distraction burglar"
+        ],
+        "ga": "bob-bhuirgléir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "distraction burglary"
+        ],
+        "ga": "bob-bhuirgléireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "boyracer"
+        ],
+        "ga": "bocrásaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palm-print"
+        ],
+        "ga": "boslorg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "detection"
+        ],
+        "ga": "brath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bribe"
+        ],
+        "ga": "breab",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consideration"
+        ],
+        "ga": "breithniúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "falsity"
+        ],
+        "ga": "bréige",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bomber"
+        ],
+        "ga": "buamadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "permanent checkpoint"
+        ],
+        "ga": "buan-seicphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "buggery"
+        ],
+        "ga": "bugaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "burglary"
+        ],
+        "ga": "buirgléireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core concern"
+        ],
+        "ga": "bunchúram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "essential ingredient"
+        ],
+        "ga": "bunghnéith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "malefactor"
+        ],
+        "ga": "bíobha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "graft"
+        ],
+        "ga": "caimiléireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dishonesty"
+        ],
+        "ga": "caimiléireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "capitalism"
+        ],
+        "ga": "caipitleachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fraudster"
+        ],
+        "ga": "calaoiseoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "racketeer"
+        ],
+        "ga": "cambheartaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "racketeering"
+        ],
+        "ga": "cambheartaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "opportunity"
+        ],
+        "ga": "caoi",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "magazine"
+        ],
+        "ga": "cartúslann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intricacy",
+            "complexity"
+        ],
+        "ga": "castacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "remote centre"
+        ],
+        "ga": "cianionad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cyberterrorism"
+        ],
+        "ga": "cibear-sceimhlitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cyber crime"
+        ],
+        "ga": "cibearchoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "offence"
+        ],
+        "ga": "cion",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "offence group"
+        ],
+        "ga": "cionghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "culpability"
+        ],
+        "ga": "ciontaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "delinquency"
+        ],
+        "ga": "ciontóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "troublemaker"
+        ],
+        "ga": "clampróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "clamping"
+        ],
+        "ga": "clampáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crack cocaine"
+        ],
+        "ga": "cnagchócaon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "crackdown"
+        ],
+        "ga": "cniogbheartaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crime"
+        ],
+        "ga": "coir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "crime"
+        ],
+        "ga": "coireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "criminality"
+        ],
+        "ga": "coiriúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "criminal"
+        ],
+        "ga": "coirpeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pedestrian"
+        ],
+        "ga": "coisí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "council"
+        ],
+        "ga": "comhairle",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joint indictment"
+        ],
+        "ga": "comhdhíotáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collective responsibility"
+        ],
+        "ga": "comhfhreagracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joint action"
+        ],
+        "ga": "comhghníomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "complicity"
+        ],
+        "ga": "comhpháirteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joint policing"
+        ],
+        "ga": "comhphóilíneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "track"
+        ],
+        "ga": "conair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "body search"
+        ],
+        "ga": "corpchuardach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "safeguard"
+        ],
+        "ga": "cosaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core ethos"
+        ],
+        "ga": "croí-éiteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "case"
+        ],
+        "ga": "cás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "case manager"
+        ],
+        "ga": "cásbhainisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "identity"
+        ],
+        "ga": "céannacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rioter"
+        ],
+        "ga": "círéibeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "circumstance"
+        ],
+        "ga": "cúinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bail bond",
+            "recognisance"
+        ],
+        "ga": "cúirtbhanna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "charge"
+        ],
+        "ga": "cúiseamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stake-out"
+        ],
+        "ga": "cúlchoimhéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wiretapping"
+        ],
+        "ga": "cúléisteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deception"
+        ],
+        "ga": "dallamullóg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "good conduct"
+        ],
+        "ga": "dea-iompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "good behaviour"
+        ],
+        "ga": "dea-iompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clampdown"
+        ],
+        "ga": "dianteannadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "litigiousness"
+        ],
+        "ga": "dlíthíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "litigation"
+        ],
+        "ga": "dlíthíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "abuse"
+        ],
+        "ga": "drochíde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "endorsement"
+        ],
+        "ga": "droimscríobh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mob"
+        ],
+        "ga": "drong",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mobster"
+        ],
+        "ga": "drongadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "drug"
+        ],
+        "ga": "druga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "whorl"
+        ],
+        "ga": "dual",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "duty"
+        ],
+        "ga": "dualgas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "refugee"
+        ],
+        "ga": "dídeanaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "decoy"
+        ],
+        "ga": "díthreoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "decoy"
+        ],
+        "ga": "díthreoraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "challenge"
+        ],
+        "ga": "dúshlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dissident"
+        ],
+        "ga": "easaontach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "existentialist"
+        ],
+        "ga": "eisí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "opportunity"
+        ],
+        "ga": "faill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "surveillance"
+        ],
+        "ga": "faireachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grasser"
+        ],
+        "ga": "faisnéiseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "diffusion"
+        ],
+        "ga": "feasachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "evidence",
+            "testimony",
+            "witness"
+        ],
+        "ga": "fianaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "witness"
+        ],
+        "ga": "finné",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "suspension"
+        ],
+        "ga": "fionraí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vigilance"
+        ],
+        "ga": "forairdeall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "usurpation"
+        ],
+        "ga": "forghabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aggression"
+        ],
+        "ga": "forrántacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "responsiveness"
+        ],
+        "ga": "freagrúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "countermeasure"
+        ],
+        "ga": "frithbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "retaliation"
+        ],
+        "ga": "frithbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "retaliation"
+        ],
+        "ga": "frithbheartaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "counterterrorism"
+        ],
+        "ga": "frithsceimhlitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hijacking"
+        ],
+        "ga": "fuadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hijacker"
+        ],
+        "ga": "fuadaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "abductor"
+        ],
+        "ga": "fuadaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fine"
+        ],
+        "ga": "fíneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "forensics"
+        ],
+        "ga": "fóiréinsic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photofit"
+        ],
+        "ga": "fótashamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "haul"
+        ],
+        "ga": "gabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "apprehension"
+        ],
+        "ga": "gabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stinger"
+        ],
+        "ga": "gathachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "complaint"
+        ],
+        "ga": "gearán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hostage"
+        ],
+        "ga": "giall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ordinary crime"
+        ],
+        "ga": "gnáthchoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "usual job"
+        ],
+        "ga": "gnáthphost",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gag"
+        ],
+        "ga": "gobán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stealing"
+        ],
+        "ga": "goid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "graphologist"
+        ],
+        "ga": "grafeolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trafficking"
+        ],
+        "ga": "gáinneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trafficker"
+        ],
+        "ga": "gáinneálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grievous wound"
+        ],
+        "ga": "géarghoin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "former commander in chief"
+        ],
+        "ga": "iar-ardcheannasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "effort"
+        ],
+        "ga": "iarracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "investigator"
+        ],
+        "ga": "imscrúdaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deterrent"
+        ],
+        "ga": "iombhagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intruder"
+        ],
+        "ga": "ionróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "junkie"
+        ],
+        "ga": "juncaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "half-caste"
+        ],
+        "ga": "leathcheast",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sufficient evidence"
+        ],
+        "ga": "leorfhianaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vandal"
+        ],
+        "ga": "loitiméir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "speedometer",
+            "speed meter"
+        ],
+        "ga": "luasmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "speed"
+        ],
+        "ga": "luasóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reward"
+        ],
+        "ga": "luaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "embargo"
+        ],
+        "ga": "lánchosc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "centre"
+        ],
+        "ga": "lárionad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "precinct"
+        ],
+        "ga": "maighean",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "survivor"
+        ],
+        "ga": "marthanóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "evaluation"
+        ],
+        "ga": "meastóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "intoxication"
+        ],
+        "ga": "meisce",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "intoxilizer"
+        ],
+        "ga": "meiscmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "detail"
+        ],
+        "ga": "mionbhuíon",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "precision"
+        ],
+        "ga": "mionchruinneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "means"
+        ],
+        "ga": "modh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mugging"
+        ],
+        "ga": "mugáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "finger print"
+        ],
+        "ga": "méarlorg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dactylogram"
+        ],
+        "ga": "méarlorg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "disposition"
+        ],
+        "ga": "méin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "misconduct"
+        ],
+        "ga": "mí-iompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "discourtesy"
+        ],
+        "ga": "míchúirtéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "truancy",
+            "mitching"
+        ],
+        "ga": "múitseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "narcodollar"
+        ],
+        "ga": "narcadhollar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "narco-state"
+        ],
+        "ga": "narcastát",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "illegality"
+        ],
+        "ga": "neamhdhleathacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "absence"
+        ],
+        "ga": "neamhláithreacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "non-national"
+        ],
+        "ga": "neamhnáisiúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "strip-searching"
+        ],
+        "ga": "nochtchuardach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "supergrass"
+        ],
+        "ga": "ollbhrathadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pickpocket"
+        ],
+        "ga": "peasghadaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "penology",
+            "poenology"
+        ],
+        "ga": "pionóseolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pornography"
+        ],
+        "ga": "pornagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "emergency response"
+        ],
+        "ga": "práinnfhreagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "leading negotiations"
+        ],
+        "ga": "príomh-idirbheartaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prisoner"
+        ],
+        "ga": "príosúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "portfolio"
+        ],
+        "ga": "punann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paedophile"
+        ],
+        "ga": "péidifileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "paedophilia"
+        ],
+        "ga": "péidifilia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "constable",
+            "police officer",
+            "policeman"
+        ],
+        "ga": "póilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "policewoman",
+            "constable",
+            "police officer"
+        ],
+        "ga": "póilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "policing"
+        ],
+        "ga": "póilíneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cautioning"
+        ],
+        "ga": "rabhadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "governor"
+        ],
+        "ga": "rialtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "track"
+        ],
+        "ga": "rian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bandit"
+        ],
+        "ga": "ropaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pedal cyclist"
+        ],
+        "ga": "rothaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hoodlum"
+        ],
+        "ga": "ruifíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "preliminary analysis"
+        ],
+        "ga": "réamhanailís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "advance team"
+        ],
+        "ga": "réamhfhoireann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "e-vetting"
+        ],
+        "ga": "ríomh-ghrinnfhiosrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "e-crime"
+        ],
+        "ga": "ríomhchoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "computer forensics"
+        ],
+        "ga": "ríomhfhóiréinsic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "confidentiality"
+        ],
+        "ga": "rúndacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dossier"
+        ],
+        "ga": "sainchomhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "specialist vehicle"
+        ],
+        "ga": "sainfheithicil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "specialist equipment"
+        ],
+        "ga": "saintrealamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "freephone"
+        ],
+        "ga": "saorghlao",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "free-zone"
+        ],
+        "ga": "saorlimistéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "citizen"
+        ],
+        "ga": "saoránach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "terrorism"
+        ],
+        "ga": "sceimhlitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "strangle"
+        ],
+        "ga": "sciúchaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shadow escort"
+        ],
+        "ga": "scáth-thionlacan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prowling"
+        ],
+        "ga": "sirtheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mass murderer"
+        ],
+        "ga": "sladmharfóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "swallower"
+        ],
+        "ga": "slogaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sociopath"
+        ],
+        "ga": "sochapatach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stash"
+        ],
+        "ga": "soláthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joyriding",
+            "joy-riding"
+        ],
+        "ga": "spraoithiomáint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "target"
+        ],
+        "ga": "sprioc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deadline"
+        ],
+        "ga": "sprioc-am",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spiking"
+        ],
+        "ga": "spíceáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stalking"
+        ],
+        "ga": "stalcaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stun baton"
+        ],
+        "ga": "stiúdsmachtín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stalker"
+        ],
+        "ga": "stácálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "poise"
+        ],
+        "ga": "stáidiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "loitering"
+        ],
+        "ga": "síománaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "persistent truancy"
+        ],
+        "ga": "síormhaidhtseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "repute"
+        ],
+        "ga": "teist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collator"
+        ],
+        "ga": "tiomsaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stupor"
+        ],
+        "ga": "toirchim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prohibition"
+        ],
+        "ga": "toirmeasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "instruction"
+        ],
+        "ga": "treoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "trial"
+        ],
+        "ga": "triail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trip"
+        ],
+        "ga": "truip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hold-up"
+        ],
+        "ga": "tulrobáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hold-up man"
+        ],
+        "ga": "tulrobálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tablet"
+        ],
+        "ga": "táibléad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gateway drug"
+        ],
+        "ga": "túsdruga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "timer"
+        ],
+        "ga": "uaineadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "automatism"
+        ],
+        "ga": "uathoibreánachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "victimology"
+        ],
+        "ga": "íospairteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "victim"
+        ],
+        "ga": "íospartach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "juvenile delinquency"
+        ],
+        "ga": "ógchiontacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "juvenile delinquent",
+            "young offender"
+        ],
+        "ga": "ógchiontóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "juvenile crime"
+        ],
+        "ga": "ógchoireacht",
+        "gender": "feminine"
+    }
+]

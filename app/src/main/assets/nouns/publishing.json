@@ -1,0 +1,242 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "Odyssey"
+        ],
+        "ga": "Odaisé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "summary"
+        ],
+        "ga": "achoimre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "appendix",
+            "addendum",
+            "addition"
+        ],
+        "ga": "aguisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "annual"
+        ],
+        "ga": "bliainiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bulletin"
+        ],
+        "ga": "bullaitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joint editor",
+            "co-editor"
+        ],
+        "ga": "comheagarthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "comb binding"
+        ],
+        "ga": "cíorcheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "copywriter"
+        ],
+        "ga": "cóipscríbhneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "copywriting"
+        ],
+        "ga": "cóipscríbhneoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "digest book"
+        ],
+        "ga": "dlútheagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "editor",
+            "redactor"
+        ],
+        "ga": "eagarthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "editing"
+        ],
+        "ga": "eagarthóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "endnote",
+            "end-note"
+        ],
+        "ga": "fonóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "visual"
+        ],
+        "ga": "físeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grammage"
+        ],
+        "ga": "gramacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "index"
+        ],
+        "ga": "innéacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "booklet"
+        ],
+        "ga": "leabhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "biannual"
+        ],
+        "ga": "leathbhliantán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "electrotyper"
+        ],
+        "ga": "leictreachlódóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "master copy"
+        ],
+        "ga": "máistirchóip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flicker book"
+        ],
+        "ga": "prapleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pop-up book"
+        ],
+        "ga": "preableabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "proof reader",
+            "proof-reader",
+            "proofreader"
+        ],
+        "ga": "profléitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "introduction"
+        ],
+        "ga": "réamhrá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "preliminary matter",
+            "prelims"
+        ],
+        "ga": "réamhábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mock-up"
+        ],
+        "ga": "samhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "specifier"
+        ],
+        "ga": "sonraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caption"
+        ],
+        "ga": "teideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "minimum spec"
+        ],
+        "ga": "íos-sonraíocht",
+        "gender": "feminine"
+    }
+]

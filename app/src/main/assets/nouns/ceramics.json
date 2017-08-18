@@ -1,0 +1,729 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "air-set",
+            "air-setting"
+        ],
+        "ga": "aerchruachan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "air-floating"
+        ],
+        "ga": "aerfholuain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aventurine"
+        ],
+        "ga": "aibhiontairín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acid"
+        ],
+        "ga": "aigéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "argil"
+        ],
+        "ga": "airgil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bisque-firing"
+        ],
+        "ga": "brioscbhácáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "primary clay"
+        ],
+        "ga": "bunchré",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "firing"
+        ],
+        "ga": "bácáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "whiting"
+        ],
+        "ga": "bánlí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "borate"
+        ],
+        "ga": "bóráit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "calcium"
+        ],
+        "ga": "cailciam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "carbonate"
+        ],
+        "ga": "carbónáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "celadon"
+        ],
+        "ga": "ceileadón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "celadon"
+        ],
+        "ga": "ceileadón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ceramic"
+        ],
+        "ga": "ceirmeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ceramics"
+        ],
+        "ga": "ceirmeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bone china"
+        ],
+        "ga": "cnámhphoirceallán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cowl"
+        ],
+        "ga": "cochall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coggle",
+            "roulette"
+        ],
+        "ga": "cogaltán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stoneware clay"
+        ],
+        "ga": "cruachré",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "enamel"
+        ],
+        "ga": "cruan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clay"
+        ],
+        "ga": "cré",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "body"
+        ],
+        "ga": "cré-ábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cristobalite"
+        ],
+        "ga": "críostabailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chrome"
+        ],
+        "ga": "cróm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cobalt"
+        ],
+        "ga": "cóbalt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "back-burning"
+        ],
+        "ga": "cúldó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "encaustic"
+        ],
+        "ga": "dathdhó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "delft"
+        ],
+        "ga": "deilf",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drill-mixer"
+        ],
+        "ga": "druilmheascthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reducing agent"
+        ],
+        "ga": "dí-ocsaídeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rib"
+        ],
+        "ga": "easna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "faience"
+        ],
+        "ga": "faensa",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flux"
+        ],
+        "ga": "flosc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fluor",
+            "fluorite",
+            "fluorspar",
+            "fluor-spar"
+        ],
+        "ga": "fluar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "underglaze"
+        ],
+        "ga": "fo-ghlónra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "overglaze"
+        ],
+        "ga": "forghlónra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "frit"
+        ],
+        "ga": "friot",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reflet"
+        ],
+        "ga": "frithchaitheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sand"
+        ],
+        "ga": "gaineamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "glass"
+        ],
+        "ga": "gloine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "glaze"
+        ],
+        "ga": "glónra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spout"
+        ],
+        "ga": "gob",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "faceting"
+        ],
+        "ga": "gruáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "absorption"
+        ],
+        "ga": "ionsú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elasticity"
+        ],
+        "ga": "leaisteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "litharge"
+        ],
+        "ga": "liotáirse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lithophane"
+        ],
+        "ga": "liteafán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lithophane"
+        ],
+        "ga": "liteafán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lithium"
+        ],
+        "ga": "litiam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "lustre"
+        ],
+        "ga": "loinnir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maiolica"
+        ],
+        "ga": "maisealaca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "damper"
+        ],
+        "ga": "maolaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fat clay",
+            "soft clay",
+            "kaolinitic clay",
+            "plastic clay",
+            "ball clay"
+        ],
+        "ga": "meallchré",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ball mill"
+        ],
+        "ga": "meallmhuileann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mid-range"
+        ],
+        "ga": "meán-raon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minium",
+            "red lead"
+        ],
+        "ga": "miniam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "muffle kiln",
+            "muffel kiln"
+        ],
+        "ga": "mufal-áith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fettler",
+            "fetteler"
+        ],
+        "ga": "mínghlantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mould",
+            "mold"
+        ],
+        "ga": "múnla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "oxide"
+        ],
+        "ga": "ocsaíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orthoclase"
+        ],
+        "ga": "ortaclás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "patina"
+        ],
+        "ga": "paitean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "petuntse"
+        ],
+        "ga": "peatuinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pyrometer"
+        ],
+        "ga": "piriméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plasticity"
+        ],
+        "ga": "plaisteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pugging"
+        ],
+        "ga": "plodráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "porcelain"
+        ],
+        "ga": "poirceallán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "china"
+        ],
+        "ga": "poirceallán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "potter"
+        ],
+        "ga": "potadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pottery"
+        ],
+        "ga": "potaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "porosity"
+        ],
+        "ga": "póiriúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "screen printing",
+            "screenprinting",
+            "screen-printing"
+        ],
+        "ga": "scagphriontáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chamois"
+        ],
+        "ga": "seamaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chimney"
+        ],
+        "ga": "simléar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slip"
+        ],
+        "ga": "sliopa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chuck"
+        ],
+        "ga": "smután",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "crawl"
+        ],
+        "ga": "snámh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spall"
+        ],
+        "ga": "spalla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sprig"
+        ],
+        "ga": "spruig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tin"
+        ],
+        "ga": "stán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paste"
+        ],
+        "ga": "taos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "refractory"
+        ],
+        "ga": "teasfhulangach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cast"
+        ],
+        "ga": "teilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "opacifier"
+        ],
+        "ga": "teimhneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lute"
+        ],
+        "ga": "táthán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "copper"
+        ],
+        "ga": "umha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kiln"
+        ],
+        "ga": "áith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ocarina"
+        ],
+        "ga": "ócairín",
+        "gender": "masculine"
+    }
+]

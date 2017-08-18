@@ -1,0 +1,3290 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Abkhazian"
+        ],
+        "ga": "Abcásach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Acadian"
+        ],
+        "ga": "Acadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Accadian",
+            "Akkadian"
+        ],
+        "ga": "Acádach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Adygean"
+        ],
+        "ga": "Adaigéach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Aetolian"
+        ],
+        "ga": "Aetólach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Ethiopian"
+        ],
+        "ga": "Aetópach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Afghan"
+        ],
+        "ga": "Afganastánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "African"
+        ],
+        "ga": "Afracach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Africander",
+            "Afrikaner",
+            "Afrikander",
+            "Afrikaans"
+        ],
+        "ga": "Afracánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Afro-American"
+        ],
+        "ga": "Afrai-Mheiriceánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Agagite"
+        ],
+        "ga": "Agagach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Agrigentian"
+        ],
+        "ga": "Agragantach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Abyssinian"
+        ],
+        "ga": "Aibisíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Aymara"
+        ],
+        "ga": "Aidhmearach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Ainu"
+        ],
+        "ga": "Aidhniúch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Oceanian"
+        ],
+        "ga": "Aigéineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Algerian"
+        ],
+        "ga": "Ailgéarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Antillean"
+        ],
+        "ga": "Aintillíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Argentinian"
+        ],
+        "ga": "Airgintíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Armenian"
+        ],
+        "ga": "Airméanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Areopagite"
+        ],
+        "ga": "Airéapagach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Ashkali"
+        ],
+        "ga": "Aisceailíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Assyrian"
+        ],
+        "ga": "Aisiriach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Athenian"
+        ],
+        "ga": "Aithneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Alaskan"
+        ],
+        "ga": "Alascach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Scot",
+            "Scotch",
+            "Scottish",
+            "Scotsman"
+        ],
+        "ga": "Albanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Albanian"
+        ],
+        "ga": "Albánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Altai"
+        ],
+        "ga": "Altáíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Amazigh"
+        ],
+        "ga": "Amaiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Andorran"
+        ],
+        "ga": "Andórach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Angolan"
+        ],
+        "ga": "Angólach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Angolese"
+        ],
+        "ga": "Angólach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Apache"
+        ],
+        "ga": "Apáitseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Arab",
+            "Arabian"
+        ],
+        "ga": "Arabach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Aramean"
+        ],
+        "ga": "Aramach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Arawak"
+        ],
+        "ga": "Aruacach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Asante"
+        ],
+        "ga": "Asantaech",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Azerbaijani"
+        ],
+        "ga": "Asarbaiseánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Australasian"
+        ],
+        "ga": "Astraláiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Australian"
+        ],
+        "ga": "Astrálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Babylonian"
+        ],
+        "ga": "Bablónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bahamian"
+        ],
+        "ga": "Bahámaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Balearic"
+        ],
+        "ga": "Bailéarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bahraini"
+        ],
+        "ga": "Bairéanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Balkan"
+        ],
+        "ga": "Balcánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bangladeshi"
+        ],
+        "ga": "Banglaidéiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bantu"
+        ],
+        "ga": "Bantúch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Barbadian"
+        ],
+        "ga": "Barbadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Antiguan",
+            "Barbudian"
+        ],
+        "ga": "Barbúdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bartian"
+        ],
+        "ga": "Bartaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Basque"
+        ],
+        "ga": "Bascach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Basuto"
+        ],
+        "ga": "Basútach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Batak"
+        ],
+        "ga": "Batacach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bavarian"
+        ],
+        "ga": "Bavárach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Byelorussian",
+            "Bielorussian",
+            "White Russian",
+            "Belorussian",
+            "Belarusian"
+        ],
+        "ga": "Bealarúiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bengalese",
+            "Bengali"
+        ],
+        "ga": "Beangálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bedouin"
+        ],
+        "ga": "Beidiúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Belgian"
+        ],
+        "ga": "Beilgeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Belizean"
+        ],
+        "ga": "Beilíseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Beninese"
+        ],
+        "ga": "Beinineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Berber"
+        ],
+        "ga": "Beirbeireach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bermudan",
+            "Bermudian"
+        ],
+        "ga": "Beirmiúdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Biafran"
+        ],
+        "ga": "Biafrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Byzantian",
+            "Byzantine"
+        ],
+        "ga": "Biosántach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bohemian"
+        ],
+        "ga": "Boihéamach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bornean"
+        ],
+        "ga": "Boirneoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bosnian",
+            "Herzegovinian"
+        ],
+        "ga": "Boisniach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bolivian"
+        ],
+        "ga": "Bolavach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Botswanan"
+        ],
+        "ga": "Botsuánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Brazilian"
+        ],
+        "ga": "Brasaíleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Welsh"
+        ],
+        "ga": "Breatnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Briton"
+        ],
+        "ga": "Briotanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Breton"
+        ],
+        "ga": "Briotánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bruneian"
+        ],
+        "ga": "Brúinéach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bulgarian"
+        ],
+        "ga": "Bulgárach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Burgundian"
+        ],
+        "ga": "Burgúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Burman",
+            "Burmese"
+        ],
+        "ga": "Burmach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Burundian"
+        ],
+        "ga": "Burúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Boeotian"
+        ],
+        "ga": "Béóitiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Borana"
+        ],
+        "ga": "Bóránach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bhutani",
+            "Bhutanese"
+        ],
+        "ga": "Bútánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Chaldean"
+        ],
+        "ga": "Caildéach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Carib"
+        ],
+        "ga": "Cairibeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Kashubian"
+        ],
+        "ga": "Caisiúibiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Kashmirian",
+            "Kashmiri"
+        ],
+        "ga": "Caismíreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Castilian"
+        ],
+        "ga": "Caistíleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cameroonian"
+        ],
+        "ga": "Camarúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cambodian"
+        ],
+        "ga": "Cambódach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cananaean"
+        ],
+        "ga": "Cananáiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cantabrian"
+        ],
+        "ga": "Cantabrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Khanty"
+        ],
+        "ga": "Cantaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Canaanite"
+        ],
+        "ga": "Canánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Canarian"
+        ],
+        "ga": "Canárach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Carthaginian"
+        ],
+        "ga": "Cartagach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Kazakhstani"
+        ],
+        "ga": "Casacstánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Catalan"
+        ],
+        "ga": "Catalónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Qatari"
+        ],
+        "ga": "Catarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Canadian"
+        ],
+        "ga": "Ceanadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Celtiberian"
+        ],
+        "ga": "Ceiltibéarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cyprian",
+            "Cypriot"
+        ],
+        "ga": "Cipireach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Kiribatian"
+        ],
+        "ga": "Cireabaitíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Kyrgyz"
+        ],
+        "ga": "Cirgeasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Klamath"
+        ],
+        "ga": "Clamatach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Komi"
+        ],
+        "ga": "Coimíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Kurd",
+            "Kurdish"
+        ],
+        "ga": "Coirdíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Colombian"
+        ],
+        "ga": "Colómach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Comorian"
+        ],
+        "ga": "Comórach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Congolese"
+        ],
+        "ga": "Congólach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Corinthian"
+        ],
+        "ga": "Corantach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Corinthians"
+        ],
+        "ga": "Corantaigh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Corsican"
+        ],
+        "ga": "Corsacach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cree"
+        ],
+        "ga": "Craíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Crimean"
+        ],
+        "ga": "Criméach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cretan"
+        ],
+        "ga": "Créatach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Croat",
+            "Croatian"
+        ],
+        "ga": "Crótach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Kuwaiti"
+        ],
+        "ga": "Cuátach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Khalistani"
+        ],
+        "ga": "Cálastáineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Kenyan"
+        ],
+        "ga": "Céiniach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cyrenian"
+        ],
+        "ga": "Círéinéach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Korean"
+        ],
+        "ga": "Cóiréach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cochiti Keres"
+        ],
+        "ga": "Cóisitíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cuban"
+        ],
+        "ga": "Cúbach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Curonian"
+        ],
+        "ga": "Cúrónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Dalit"
+        ],
+        "ga": "Dalatach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Dane"
+        ],
+        "ga": "Danmhargach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Dominican"
+        ],
+        "ga": "Doiminiceach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Dacian"
+        ],
+        "ga": "Dáiciach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Dorian"
+        ],
+        "ga": "Dórach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Dutch"
+        ],
+        "ga": "Dúitseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Ecuadorian",
+            "Ecuadoran"
+        ],
+        "ga": "Eacuadórach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Edo"
+        ],
+        "ga": "Eadóch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Estonian"
+        ],
+        "ga": "Eastónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Efe"
+        ],
+        "ga": "Eifeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Swiss"
+        ],
+        "ga": "Eilvéiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Epicurean"
+        ],
+        "ga": "Eipiciúrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Eritrean"
+        ],
+        "ga": "Eiritréach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Eskimo"
+        ],
+        "ga": "Eiscimeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Essene"
+        ],
+        "ga": "Eiséanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "European"
+        ],
+        "ga": "Eorpach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Eurasian"
+        ],
+        "ga": "Eoráiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pharisee"
+        ],
+        "ga": "Fairisíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Faeroese",
+            "Faroese"
+        ],
+        "ga": "Faróch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Fijian",
+            "Fiji Islander"
+        ],
+        "ga": "Fidsíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Filipino"
+        ],
+        "ga": "Filipíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Finn",
+            "Finnish person"
+        ],
+        "ga": "Fionlannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Formosan"
+        ],
+        "ga": "Formósach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Frenchman",
+            "French person",
+            "Frenchwoman"
+        ],
+        "ga": "Francach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Frisian",
+            "Friesian"
+        ],
+        "ga": "Freaslannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Falklander"
+        ],
+        "ga": "Fáclannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Phoenician"
+        ],
+        "ga": "Féiníceach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Gabonese"
+        ],
+        "ga": "Gabúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Galindian"
+        ],
+        "ga": "Gailindiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Galilean"
+        ],
+        "ga": "Gailíleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Gambian"
+        ],
+        "ga": "Gaimbiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Gaul",
+            "Gallic"
+        ],
+        "ga": "Gallach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Galatian"
+        ],
+        "ga": "Galátach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "German",
+            "Germanic"
+        ],
+        "ga": "Gearmánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gentile"
+        ],
+        "ga": "Gintlí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Jew"
+        ],
+        "ga": "Giúdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Greenlander",
+            "Greenlandic"
+        ],
+        "ga": "Graonlannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Grenadian"
+        ],
+        "ga": "Greanádach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Greek"
+        ],
+        "ga": "Gréagach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Guadelupian"
+        ],
+        "ga": "Guadalúpach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Guamanian"
+        ],
+        "ga": "Guamach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Guatemalan"
+        ],
+        "ga": "Guatamalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Guinean"
+        ],
+        "ga": "Guineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Guyanese"
+        ],
+        "ga": "Guánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Ghanaian",
+            "Ghanian"
+        ],
+        "ga": "Gánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Hazara"
+        ],
+        "ga": "Hasárach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Havasupai"
+        ],
+        "ga": "Havasúpach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Hawaian"
+        ],
+        "ga": "Haváíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Haida",
+            "Hydah"
+        ],
+        "ga": "Haídeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Hellene",
+            "Hellenist"
+        ],
+        "ga": "Heilléanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Hindustani"
+        ],
+        "ga": "Hiondústánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Honduran"
+        ],
+        "ga": "Hondúrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Hurrian"
+        ],
+        "ga": "Hurrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Haitian"
+        ],
+        "ga": "Háítíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Hopi"
+        ],
+        "ga": "Hóipeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Jamaican"
+        ],
+        "ga": "Iamácach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Yanomami"
+        ],
+        "ga": "Ianómámach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "West Indian"
+        ],
+        "ga": "Iar-Indiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Iraqi",
+            "Iraquian"
+        ],
+        "ga": "Iarácach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Iranian"
+        ],
+        "ga": "Iaránach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Yazidi"
+        ],
+        "ga": "Iasaídeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Yavapai"
+        ],
+        "ga": "Iavapach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Iberian"
+        ],
+        "ga": "Ibéarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Indo-European"
+        ],
+        "ga": "Ind-Eorpach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Indo-Chinese"
+        ],
+        "ga": "Ind-Síneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Indonesian"
+        ],
+        "ga": "Indinéiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Italian"
+        ],
+        "ga": "Iodálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Jordanian"
+        ],
+        "ga": "Iordánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Norwegian"
+        ],
+        "ga": "Ioruach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Israelite"
+        ],
+        "ga": "Iosraeilíteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Israeli",
+            "Israelian"
+        ],
+        "ga": "Iosraelach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Yotvingian"
+        ],
+        "ga": "Iotvaínseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Yahi"
+        ],
+        "ga": "Iáiheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Javan",
+            "Javanese"
+        ],
+        "ga": "Iávach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Jugoslavian",
+            "Yugoslavian",
+            "Yugoslav",
+            "Yugoslavic"
+        ],
+        "ga": "Iúgslavach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Jutlandic",
+            "Jute"
+        ],
+        "ga": "Iútlannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Labradorean"
+        ],
+        "ga": "Labradarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Latvian"
+        ],
+        "ga": "Laitviach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Laotian",
+            "Lao"
+        ],
+        "ga": "Laosach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Laplander",
+            "Lapp",
+            "Lappic"
+        ],
+        "ga": "Laplannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Latgalian"
+        ],
+        "ga": "Latgalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Levantine"
+        ],
+        "ga": "Leiveantach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Lesothan"
+        ],
+        "ga": "Leosótach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Libyan"
+        ],
+        "ga": "Libiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Liberian"
+        ],
+        "ga": "Libéarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Liechtensteiner"
+        ],
+        "ga": "Lichtinstéanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Lebanese"
+        ],
+        "ga": "Liobánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Lithuanian"
+        ],
+        "ga": "Liotuánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Scandinavian"
+        ],
+        "ga": "Lochlannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Luxembourger",
+            "Luxembourgian"
+        ],
+        "ga": "Lucsamburgach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Levite"
+        ],
+        "ga": "Léivíteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Lusatian"
+        ],
+        "ga": "Lúsátach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Madeiran"
+        ],
+        "ga": "Maidéarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Magyar"
+        ],
+        "ga": "Maigiarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Maldivian"
+        ],
+        "ga": "Maildíveach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Malian"
+        ],
+        "ga": "Mailíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Marshallese"
+        ],
+        "ga": "Mairseallach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Malayan"
+        ],
+        "ga": "Malaech",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Malaysian"
+        ],
+        "ga": "Malaeisiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Malagasy"
+        ],
+        "ga": "Malagásach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Majorcan"
+        ],
+        "ga": "Mallarcach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Malawi",
+            "Malawian"
+        ],
+        "ga": "Malávach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Manx",
+            "Manxman"
+        ],
+        "ga": "Manannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Manchurian"
+        ],
+        "ga": "Manchúrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Manouche"
+        ],
+        "ga": "Manúiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Maori"
+        ],
+        "ga": "Maorach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Moroccan"
+        ],
+        "ga": "Maracach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Maratha"
+        ],
+        "ga": "Maratach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mexican"
+        ],
+        "ga": "Meicsiceach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Amerindian"
+        ],
+        "ga": "Meir-Indiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mehri"
+        ],
+        "ga": "Meireach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "American",
+            "US citizen"
+        ],
+        "ga": "Meiriceánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Micronesian"
+        ],
+        "ga": "Micrinéiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Minorcan"
+        ],
+        "ga": "Mionarcach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Moluccan",
+            "Molucca"
+        ],
+        "ga": "Molacaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Moldavian"
+        ],
+        "ga": "Moldávach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Moldovan"
+        ],
+        "ga": "Moldóvach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Monacan",
+            "Monegasque"
+        ],
+        "ga": "Monacach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mongol",
+            "Mongolian"
+        ],
+        "ga": "Mongólach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Montenegrin"
+        ],
+        "ga": "Montainéagróch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mozarab"
+        ],
+        "ga": "Mosarabach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mauritian"
+        ],
+        "ga": "Muiríseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Munduruku"
+        ],
+        "ga": "Mundaracúch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mayan"
+        ],
+        "ga": "Máigheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Maltese"
+        ],
+        "ga": "Máltach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mauritanian"
+        ],
+        "ga": "Máratánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mede"
+        ],
+        "ga": "Méideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mughal",
+            "Mogul",
+            "Moghul"
+        ],
+        "ga": "Mógal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mughal"
+        ],
+        "ga": "Mógalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Nadruvian"
+        ],
+        "ga": "Nadrúvach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Namibian"
+        ],
+        "ga": "Namabach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Nanubae"
+        ],
+        "ga": "Nanúibéach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Natalian",
+            "Natal"
+        ],
+        "ga": "Natalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Nazarene"
+        ],
+        "ga": "Nazairéanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Nazarean",
+            "Nazorean"
+        ],
+        "ga": "Nazórach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Nepalese",
+            "Nepali"
+        ],
+        "ga": "Neipealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Nicaraguan"
+        ],
+        "ga": "Nicearaguach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Nigerian"
+        ],
+        "ga": "Nigéarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Norman"
+        ],
+        "ga": "Normannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "New Caledonian"
+        ],
+        "ga": "Nua-Chaladónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "New Guinean"
+        ],
+        "ga": "Nua-Ghuineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "New Zealander"
+        ],
+        "ga": "Nua-Shéalannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Nauruan"
+        ],
+        "ga": "Nárúch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Nigerien"
+        ],
+        "ga": "Nígireach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Nubian"
+        ],
+        "ga": "Núibiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "East Indian"
+        ],
+        "ga": "Oir-lndiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Hollander"
+        ],
+        "ga": "Ollannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Oromo"
+        ],
+        "ga": "Oramach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Austrian"
+        ],
+        "ga": "Ostarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Ostyak-Samoyed"
+        ],
+        "ga": "Ostiaca-Shamóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pakistani"
+        ],
+        "ga": "Pacastánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pashtun"
+        ],
+        "ga": "Paistiúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Palestinian"
+        ],
+        "ga": "Palaistíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Panamanian"
+        ],
+        "ga": "Panamach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Papuan"
+        ],
+        "ga": "Papuach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Paraguayan"
+        ],
+        "ga": "Paraguach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Patagonian"
+        ],
+        "ga": "Patagónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Peruvian"
+        ],
+        "ga": "Peiriúch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Persian"
+        ],
+        "ga": "Peirseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Fleming",
+            "Flemish"
+        ],
+        "ga": "Pléimeannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pogesanian"
+        ],
+        "ga": "Pogasánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Polynesian"
+        ],
+        "ga": "Polainéiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pole"
+        ],
+        "ga": "Polannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pomesanian"
+        ],
+        "ga": "Pomasánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Portuguese"
+        ],
+        "ga": "Portaingéalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Prussian"
+        ],
+        "ga": "Prúiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Roma"
+        ],
+        "ga": "Romach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Rwandan",
+            "Rwandese"
+        ],
+        "ga": "Ruandach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Rhodian"
+        ],
+        "ga": "Ródasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Rhodesian"
+        ],
+        "ga": "Róidéiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Roman"
+        ],
+        "ga": "Rómhánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Rumanian",
+            "Romanian"
+        ],
+        "ga": "Rómánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Russian"
+        ],
+        "ga": "Rúiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Rusyn"
+        ],
+        "ga": "Rúiséineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Saxon",
+            "Saxonian"
+        ],
+        "ga": "Sacsanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Székely"
+        ],
+        "ga": "Saecal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Zambian"
+        ],
+        "ga": "Saimbiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Zambesian"
+        ],
+        "ga": "Saimbéiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Sardinian"
+        ],
+        "ga": "Sairdíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Salvadoran",
+            "Salvadorian"
+        ],
+        "ga": "Salvadórach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Samogitian"
+        ],
+        "ga": "Samaigítíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Sambian"
+        ],
+        "ga": "Sambaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Samaritan"
+        ],
+        "ga": "Samárach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Samoan"
+        ],
+        "ga": "Samóch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "San"
+        ],
+        "ga": "Sanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "English person"
+        ],
+        "ga": "Sasanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Englishman"
+        ],
+        "ga": "Sasanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Skalvian",
+            "Schalauer",
+            "Skalviai"
+        ],
+        "ga": "Scalvaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Scythian"
+        ],
+        "ga": "Scitiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Chadian"
+        ],
+        "ga": "Seadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Selonian"
+        ],
+        "ga": "Sealónaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Semigallian"
+        ],
+        "ga": "Seamagallaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Chamorro"
+        ],
+        "ga": "Seamórach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Japanese"
+        ],
+        "ga": "Seapánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Czech"
+        ],
+        "ga": "Seiceach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Czechoslovakian"
+        ],
+        "ga": "Seicslóvacach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Seminole"
+        ],
+        "ga": "Seimeanólach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Senegalese"
+        ],
+        "ga": "Seineagálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Serbo-Croat"
+        ],
+        "ga": "Seirbea-Chrótach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Serb"
+        ],
+        "ga": "Seirbiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Chechen"
+        ],
+        "ga": "Seisniach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Georgian"
+        ],
+        "ga": "Seoirseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Shawnee"
+        ],
+        "ga": "Seánaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Siamese"
+        ],
+        "ga": "Siamach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Siberian"
+        ],
+        "ga": "Sibéarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Sicilian"
+        ],
+        "ga": "Sicileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Chilean"
+        ],
+        "ga": "Sileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Silesian"
+        ],
+        "ga": "Siléiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Sindhi"
+        ],
+        "ga": "Sindeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Singaporean"
+        ],
+        "ga": "Singeapórach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Sinti"
+        ],
+        "ga": "Sintíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Ceylonese",
+            "Cingalese",
+            "Sinhalese",
+            "Singhalese",
+            "Singalese"
+        ],
+        "ga": "Siolónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Zimbabwean"
+        ],
+        "ga": "Siombábach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Circassian"
+        ],
+        "ga": "Siorcásach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Syrophoenician"
+        ],
+        "ga": "Sirifhéiníceach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Slav",
+            "Slavic",
+            "Slavonic"
+        ],
+        "ga": "Slavach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Slovene"
+        ],
+        "ga": "Slóivéanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Slovak"
+        ],
+        "ga": "Slóvacach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Somali"
+        ],
+        "ga": "Somálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Sorb"
+        ],
+        "ga": "Sorbach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Spaniard"
+        ],
+        "ga": "Spáinneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Swede"
+        ],
+        "ga": "Sualannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Swati",
+            "Siswati",
+            "Swazi"
+        ],
+        "ga": "Suasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Surinamer"
+        ],
+        "ga": "Suranamach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Sioux"
+        ],
+        "ga": "Suíúch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Sauk"
+        ],
+        "ga": "Sácach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Saarlander"
+        ],
+        "ga": "Sárlannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Zairean"
+        ],
+        "ga": "Sáíreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Zealander",
+            "Zeelander"
+        ],
+        "ga": "Séalannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Seychellois"
+        ],
+        "ga": "Séiséalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Chinese"
+        ],
+        "ga": "Síneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Sudanese"
+        ],
+        "ga": "Súdánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Sudovian"
+        ],
+        "ga": "Súdóvaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Tahitian"
+        ],
+        "ga": "Taihítíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Tanzanian"
+        ],
+        "ga": "Tansánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Tasmanian"
+        ],
+        "ga": "Tasmánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Thessalonian"
+        ],
+        "ga": "Teasalónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Thessalian"
+        ],
+        "ga": "Teasálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Tibetan"
+        ],
+        "ga": "Tibéadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Tyrolese",
+            "Tyrolean"
+        ],
+        "ga": "Tiorólach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Tongan"
+        ],
+        "ga": "Tongach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Transdniestrian"
+        ],
+        "ga": "Tras-dnístriach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Turkmen"
+        ],
+        "ga": "Tuircméanastánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Tungusic"
+        ],
+        "ga": "Tungusach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Turk"
+        ],
+        "ga": "Turcach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Turkoman",
+            "Turcoman"
+        ],
+        "ga": "Turcamánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Tuscan"
+        ],
+        "ga": "Tuscánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Tajik"
+        ],
+        "ga": "Táidsíceastánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Thailander",
+            "Thai"
+        ],
+        "ga": "Téalannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Togolander",
+            "Togolese"
+        ],
+        "ga": "Tógalannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Tunisian"
+        ],
+        "ga": "Túinéiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Hualapai"
+        ],
+        "ga": "Ualapach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Ugandan"
+        ],
+        "ga": "Ugandach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Uighur",
+            "Uyghur"
+        ],
+        "ga": "Uigiúrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Hungarian"
+        ],
+        "ga": "Ungárach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Uruguayan"
+        ],
+        "ga": "Uraguach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Wallon",
+            "Walloon"
+        ],
+        "ga": "Vallúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Vanuatuan"
+        ],
+        "ga": "Vanuatúach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Vedda"
+        ],
+        "ga": "Veideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Wend"
+        ],
+        "ga": "Veindeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Venezuelan"
+        ],
+        "ga": "Veiniséalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Venetian"
+        ],
+        "ga": "Veinéiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Voltaic"
+        ],
+        "ga": "Voltach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Warmian"
+        ],
+        "ga": "Vármaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Viennese"
+        ],
+        "ga": "Víneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Vietnamese"
+        ],
+        "ga": "Vítneamach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Aukstaitian",
+            "Aukstaitijan"
+        ],
+        "ga": "Ácstáitíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Asian",
+            "Asiatic"
+        ],
+        "ga": "Áiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Aymāq",
+            "Aimak",
+            "Aimaq"
+        ],
+        "ga": "Ámácach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Etruscan"
+        ],
+        "ga": "Éatrúscach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Yemeni",
+            "Yemenite"
+        ],
+        "ga": "Éimineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Irishman",
+            "Irishwoman"
+        ],
+        "ga": "Éireannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Icelander"
+        ],
+        "ga": "Íoslannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Netherlander",
+            "Dutchman",
+            "Dutchwoman"
+        ],
+        "ga": "Ísiltíreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Omani"
+        ],
+        "ga": "Ómanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Ukrainian"
+        ],
+        "ga": "Úcránach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Uzbek"
+        ],
+        "ga": "Úisbéiceastánach",
+        "gender": "masculine"
+    }
+]

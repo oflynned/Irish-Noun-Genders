@@ -1,0 +1,42 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "outstroke"
+        ],
+        "ga": "asbhuille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cupola"
+        ],
+        "ga": "cúpóla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "steerability"
+        ],
+        "ga": "instiúrthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "instroke"
+        ],
+        "ga": "ionbhuille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "limitation"
+        ],
+        "ga": "teorainn",
+        "gender": "feminine"
+    }
+]

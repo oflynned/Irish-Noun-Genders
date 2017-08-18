@@ -1,0 +1,552 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "Kanji",
+            "Kanzi"
+        ],
+        "ga": "Ceansaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hanja"
+        ],
+        "ga": "Hanaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hanzi"
+        ],
+        "ga": "Hansaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "xylography"
+        ],
+        "ga": "adhmadghrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "appendix",
+            "addendum",
+            "addition"
+        ],
+        "ga": "aguisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "accent"
+        ],
+        "ga": "aiceann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "offset printing"
+        ],
+        "ga": "aischlódóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "return"
+        ],
+        "ga": "aisfhilleadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "reprographics"
+        ],
+        "ga": "athghrafaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "block capital"
+        ],
+        "ga": "bloclitir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "originator"
+        ],
+        "ga": "bunsamhaltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "margin"
+        ],
+        "ga": "ciumhais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "paper bail",
+            "bail"
+        ],
+        "ga": "clampóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "type"
+        ],
+        "ga": "cló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "impression number"
+        ],
+        "ga": "cló-uimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "printing blanket"
+        ],
+        "ga": "clóbhrat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "font",
+            "fount"
+        ],
+        "ga": "clófhoireann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "typography"
+        ],
+        "ga": "clóghrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "typographer"
+        ],
+        "ga": "clóghrafóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "printer"
+        ],
+        "ga": "clóire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "printing plate"
+        ],
+        "ga": "clóphláta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "printing paper"
+        ],
+        "ga": "clópháipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "typist"
+        ],
+        "ga": "clóscríobhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fuser"
+        ],
+        "ga": "comhleáiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "body type"
+        ],
+        "ga": "corpchló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "swung dash"
+        ],
+        "ga": "corrfhleasc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "backspacing"
+        ],
+        "ga": "cúlspásáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colour mark"
+        ],
+        "ga": "dathmharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "de-inking"
+        ],
+        "ga": "dídhúchan",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flexography"
+        ],
+        "ga": "fleisceagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hyphen"
+        ],
+        "ga": "fleiscín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overprinting",
+            "over-printing"
+        ],
+        "ga": "forphriontáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "substrate"
+        ],
+        "ga": "foshraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "phototype"
+        ],
+        "ga": "fótachló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photocomposition",
+            "phototypesetting"
+        ],
+        "ga": "fótachlóchuradóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "phototypography"
+        ],
+        "ga": "fótachlóghrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gravure printing"
+        ],
+        "ga": "greanphriontáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "margin"
+        ],
+        "ga": "imeall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "inset"
+        ],
+        "ga": "intlis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "booklet"
+        ],
+        "ga": "leabhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "electrotype"
+        ],
+        "ga": "leictreachló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "electrotyping"
+        ],
+        "ga": "leictreachlódóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lithographer"
+        ],
+        "ga": "liteagrafaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lithography"
+        ],
+        "ga": "liteagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "letter",
+            "character"
+        ],
+        "ga": "litir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "letterpress"
+        ],
+        "ga": "litirphreas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "full stop",
+            "period"
+        ],
+        "ga": "lánstad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "saddle stitching"
+        ],
+        "ga": "lárfhuáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "linotype",
+            "lino-type"
+        ],
+        "ga": "línechló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "parenthesis",
+            "bracket"
+        ],
+        "ga": "lúibín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "micro-printing",
+            "microtext"
+        ],
+        "ga": "micriphriontáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mini-printing",
+            "minitext"
+        ],
+        "ga": "mionphriontáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "refining"
+        ],
+        "ga": "mínchóireáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ozalid"
+        ],
+        "ga": "osailid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reprography"
+        ],
+        "ga": "reipreagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inkjet printing"
+        ],
+        "ga": "scairdphriontáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "offset lithography"
+        ],
+        "ga": "seachliteagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "slash mark"
+        ],
+        "ga": "slais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "needleprinting"
+        ],
+        "ga": "snáthaidphriontáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "separatrix"
+        ],
+        "ga": "soladas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stock"
+        ],
+        "ga": "stoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "imposition"
+        ],
+        "ga": "suíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "catchword"
+        ],
+        "ga": "treoirfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transparency"
+        ],
+        "ga": "trédhearcacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "forward slash",
+            "slash"
+        ],
+        "ga": "tulslais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "automatic font"
+        ],
+        "ga": "uathchló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "x-height"
+        ],
+        "ga": "x-airde",
+        "gender": "feminine"
+    }
+]

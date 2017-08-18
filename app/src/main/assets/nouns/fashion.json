@@ -1,0 +1,2290 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "A-line"
+        ],
+        "ga": "A-líne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "T-shirt"
+        ],
+        "ga": "T-léine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "U-neckline"
+        ],
+        "ga": "U-mhuineál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "V-neckline"
+        ],
+        "ga": "V-mhuineál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anorak"
+        ],
+        "ga": "anorac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "high fashion"
+        ],
+        "ga": "ardfhaisean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "raised shoulder"
+        ],
+        "ga": "ardghualainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ascot"
+        ],
+        "ga": "ascat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "babushka"
+        ],
+        "ga": "babúisce",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bobbin",
+            "bobble"
+        ],
+        "ga": "baibín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bactericide"
+        ],
+        "ga": "baictéiricíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "balaclava"
+        ],
+        "ga": "balacláva",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stand"
+        ],
+        "ga": "banda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bandana"
+        ],
+        "ga": "bandána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overlocker"
+        ],
+        "ga": "barrchríochnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "top"
+        ],
+        "ga": "barrchóir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "top"
+        ],
+        "ga": "barréide",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "belt"
+        ],
+        "ga": "beilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bikini"
+        ],
+        "ga": "bicíní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blouse"
+        ],
+        "ga": "blús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shirt blouse",
+            "shirtblouse"
+        ],
+        "ga": "blúsléine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bobble"
+        ],
+        "ga": "bobailín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brocade"
+        ],
+        "ga": "broicéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "nap"
+        ],
+        "ga": "bruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "togs"
+        ],
+        "ga": "bríste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "breechclout",
+            "loincloth"
+        ],
+        "ga": "brísteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shoe"
+        ],
+        "ga": "bróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pressure foot"
+        ],
+        "ga": "brúchos",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "perm"
+        ],
+        "ga": "buantonn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "buff"
+        ],
+        "ga": "bufa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basic wardrobe"
+        ],
+        "ga": "bunfheisteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "construction seam"
+        ],
+        "ga": "bunuaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "waistcoat"
+        ],
+        "ga": "bástchóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "burqa",
+            "burca"
+        ],
+        "ga": "búrca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "bodice"
+        ],
+        "ga": "cabhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gilet"
+        ],
+        "ga": "cabhaileog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cotton"
+        ],
+        "ga": "cadás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caftan"
+        ],
+        "ga": "caftán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "khaki"
+        ],
+        "ga": "caicí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chemise"
+        ],
+        "ga": "caimse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cap"
+        ],
+        "ga": "caipín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cardigan"
+        ],
+        "ga": "cairdeagan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pile"
+        ],
+        "ga": "caitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kamilavkion",
+            "kamilavka"
+        ],
+        "ga": "camalávcian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bow"
+        ],
+        "ga": "carbhat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "headwear"
+        ],
+        "ga": "ceannbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "quarter back stitch"
+        ],
+        "ga": "ceathrú-chúlghreim",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "handkerchief"
+        ],
+        "ga": "ciarsúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kick pleat"
+        ],
+        "ga": "cicphléata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kimono"
+        ],
+        "ga": "cimeonó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kirtle"
+        ],
+        "ga": "ciortal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bead"
+        ],
+        "ga": "cloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bell sleeve"
+        ],
+        "ga": "clogmhuinchille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pilling"
+        ],
+        "ga": "clúmhach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seersucker"
+        ],
+        "ga": "cnapéadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bun"
+        ],
+        "ga": "cocán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cone"
+        ],
+        "ga": "coirceog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "footwear"
+        ],
+        "ga": "coisbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "combination facing"
+        ],
+        "ga": "comhfhásáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "combination wardrobe"
+        ],
+        "ga": "comhvardrús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "throwing"
+        ],
+        "ga": "cornáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bolt"
+        ],
+        "ga": "cornán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "twill"
+        ],
+        "ga": "corrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "crown"
+        ],
+        "ga": "coróin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cosmetic"
+        ],
+        "ga": "cosmaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "couture"
+        ],
+        "ga": "couture",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crewel"
+        ],
+        "ga": "criúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hanger"
+        ],
+        "ga": "crochadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "crosstack"
+        ],
+        "ga": "croschreimneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "crosstacking"
+        ],
+        "ga": "croschreimneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crêpe"
+        ],
+        "ga": "créip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pussycat bow",
+            "bow"
+        ],
+        "ga": "cuachóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "circular knit"
+        ],
+        "ga": "cuarchniotáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sandal"
+        ],
+        "ga": "cuarán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cuff"
+        ],
+        "ga": "cufa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fascinator"
+        ],
+        "ga": "cuircín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "suit"
+        ],
+        "ga": "culaith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "perfume"
+        ],
+        "ga": "cumhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "casing"
+        ],
+        "ga": "cásáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wrap"
+        ],
+        "ga": "cídeog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "corah"
+        ],
+        "ga": "córa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coat"
+        ],
+        "ga": "cóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scooped at the back"
+        ],
+        "ga": "cúlscúp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mounting"
+        ],
+        "ga": "cúláil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "foam"
+        ],
+        "ga": "cúrphlaisteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "darner"
+        ],
+        "ga": "dearnálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clippers"
+        ],
+        "ga": "deimheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "denim"
+        ],
+        "ga": "deinim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dicky"
+        ],
+        "ga": "dicí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "drill"
+        ],
+        "ga": "drilic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dirndl"
+        ],
+        "ga": "drindil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "long johns"
+        ],
+        "ga": "drár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "degras"
+        ],
+        "ga": "déigreás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "defluffer"
+        ],
+        "ga": "díchlúmhaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "groove"
+        ],
+        "ga": "eitre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "faggoting"
+        ],
+        "ga": "fagóideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fashion"
+        ],
+        "ga": "faisean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "robe"
+        ],
+        "ga": "fallaing",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mantle"
+        ],
+        "ga": "fallaing",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cloak"
+        ],
+        "ga": "fallaing",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fedora"
+        ],
+        "ga": "feadóra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "garb"
+        ],
+        "ga": "feisteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tulle"
+        ],
+        "ga": "fialsíoda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rucking"
+        ],
+        "ga": "filltín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "furskin",
+            "fur skin"
+        ],
+        "ga": "fionnadhsheithe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flannelette"
+        ],
+        "ga": "flainíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slip"
+        ],
+        "ga": "fo-ghúna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "overblouse"
+        ],
+        "ga": "forbhlús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "overdress"
+        ],
+        "ga": "forghúna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "overskirt"
+        ],
+        "ga": "forsciorta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fringe"
+        ],
+        "ga": "frainse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fringing"
+        ],
+        "ga": "frainseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "frog"
+        ],
+        "ga": "froga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clip-on"
+        ],
+        "ga": "fáiscín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "selfbinding"
+        ],
+        "ga": "féinchumhdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self fringe"
+        ],
+        "ga": "féinfhrainseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-lining"
+        ],
+        "ga": "féinlíneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pure silk"
+        ],
+        "ga": "fíorshíoda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "photoshoot"
+        ],
+        "ga": "fótaisheisiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "steam-pressing"
+        ],
+        "ga": "galphreasáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stem stitch"
+        ],
+        "ga": "gasghreim",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jersey",
+            "sweater"
+        ],
+        "ga": "geansaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jersey"
+        ],
+        "ga": "geirsí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "knitted lockstitch"
+        ],
+        "ga": "glaslúb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fringe"
+        ],
+        "ga": "glib",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shininess"
+        ],
+        "ga": "gléas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "elegance"
+        ],
+        "ga": "gléastacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "grosgrain"
+        ],
+        "ga": "grosgrain",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hairdressing"
+        ],
+        "ga": "gruagaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shoemaking"
+        ],
+        "ga": "gréasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "design line"
+        ],
+        "ga": "gréaslíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shrug"
+        ],
+        "ga": "guailleoigín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gingham"
+        ],
+        "ga": "guingeám",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "godet"
+        ],
+        "ga": "góidéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hosiery"
+        ],
+        "ga": "góiséireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dress"
+        ],
+        "ga": "gúna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "milliner"
+        ],
+        "ga": "haitéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "honan"
+        ],
+        "ga": "hanán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hat"
+        ],
+        "ga": "hata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "habutai"
+        ],
+        "ga": "heabútáí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hoodie"
+        ],
+        "ga": "húdaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interfacing"
+        ],
+        "ga": "idirfhásáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interlining"
+        ],
+        "ga": "idirlíneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flammability"
+        ],
+        "ga": "inadhainteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "absorbency"
+        ],
+        "ga": "ionsúiteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jilbab"
+        ],
+        "ga": "jilbeab",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jeans"
+        ],
+        "ga": "jíons",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elastane"
+        ],
+        "ga": "leaisteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "elastic"
+        ],
+        "ga": "leaistic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "elastomer"
+        ],
+        "ga": "leaistiméir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "half backstitch"
+        ],
+        "ga": "leath-chúlghreim",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leatherette"
+        ],
+        "ga": "leathairéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leather"
+        ],
+        "ga": "leathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "half-lining"
+        ],
+        "ga": "leathlíneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "half-size"
+        ],
+        "ga": "leathmhéid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lapel"
+        ],
+        "ga": "liopa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "glove"
+        ],
+        "ga": "lámhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hand embroidery"
+        ],
+        "ga": "lámhbhróidnéireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lace"
+        ],
+        "ga": "lása",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shirt"
+        ],
+        "ga": "léine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shirtmaking"
+        ],
+        "ga": "léinteoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lycra"
+        ],
+        "ga": "líocra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lint"
+        ],
+        "ga": "líonolann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "loafer"
+        ],
+        "ga": "lófaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scrunchie"
+        ],
+        "ga": "lúbán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "woggle"
+        ],
+        "ga": "lúbán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lurex"
+        ],
+        "ga": "lúiréacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "model"
+        ],
+        "ga": "mainicín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mannequin"
+        ],
+        "ga": "mainicín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "medallion"
+        ],
+        "ga": "meadáille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Lazy Daisy"
+        ],
+        "ga": "mearnóinín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "microskirt",
+            "micro"
+        ],
+        "ga": "micrisciorta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "middy"
+        ],
+        "ga": "midí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pin-tuck"
+        ],
+        "ga": "mionfhilltín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mini-skirt"
+        ],
+        "ga": "mionsciorta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "measuring tape"
+        ],
+        "ga": "miosúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "modacrylic"
+        ],
+        "ga": "modaicrileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "monomer"
+        ],
+        "ga": "monaiméir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neckline"
+        ],
+        "ga": "muinéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "muslin"
+        ],
+        "ga": "muislín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mutton cloth"
+        ],
+        "ga": "muitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "worsted"
+        ],
+        "ga": "mustairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bag"
+        ],
+        "ga": "mála",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "outsize"
+        ],
+        "ga": "mórthomhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "babygro"
+        ],
+        "ga": "naíbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "niqab"
+        ],
+        "ga": "niceab",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "accessory"
+        ],
+        "ga": "oiriúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trimming"
+        ],
+        "ga": "oiriúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "organza"
+        ],
+        "ga": "organsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orlon",
+            "Orlon"
+        ],
+        "ga": "orlón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pallium"
+        ],
+        "ga": "pailliam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pongee"
+        ],
+        "ga": "painsí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parasol"
+        ],
+        "ga": "parasól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "parka"
+        ],
+        "ga": "parca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pad"
+        ],
+        "ga": "pardóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "peplum"
+        ],
+        "ga": "peipleam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pinafore"
+        ],
+        "ga": "pilirín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pick stitching"
+        ],
+        "ga": "piocfhuáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pick stitch"
+        ],
+        "ga": "piocghreim",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pin basting"
+        ],
+        "ga": "pionnabhástáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polka dot"
+        ],
+        "ga": "polcaphonc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pop-sock",
+            "pop sock"
+        ],
+        "ga": "popstoca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bib"
+        ],
+        "ga": "prioslóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pearl"
+        ],
+        "ga": "péarla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lawn"
+        ],
+        "ga": "péirlín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ponytail"
+        ],
+        "ga": "pónaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "poodle skirt"
+        ],
+        "ga": "púdalsciorta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "edging",
+            "welt",
+            "border"
+        ],
+        "ga": "reanga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trace tacking"
+        ],
+        "ga": "rianchreimneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "delineator"
+        ],
+        "ga": "rianóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ribbon"
+        ],
+        "ga": "ribín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wristband"
+        ],
+        "ga": "rostbhanda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dye remover"
+        ],
+        "ga": "ruaimghlantóir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ruche"
+        ],
+        "ga": "rúise",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hopsack"
+        ],
+        "ga": "sacannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "free embroidery"
+        ],
+        "ga": "saorbhróidnéireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "serge"
+        ],
+        "ga": "saraiste",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "scarf"
+        ],
+        "ga": "scaif",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "skirt"
+        ],
+        "ga": "sciorta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "parting"
+        ],
+        "ga": "scoilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "slit opening"
+        ],
+        "ga": "scoiltoscailt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shell"
+        ],
+        "ga": "scolb",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "slashed opening"
+        ],
+        "ga": "scoroscailt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "noil"
+        ],
+        "ga": "scoth",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "skort"
+        ],
+        "ga": "scórta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "skip"
+        ],
+        "ga": "seachlúb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jacket"
+        ],
+        "ga": "seaicéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shantung"
+        ],
+        "ga": "seantúng",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "keeping"
+        ],
+        "ga": "seasamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jewellery"
+        ],
+        "ga": "seodra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chador"
+        ],
+        "ga": "seádar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shift"
+        ],
+        "ga": "sifte",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fob"
+        ],
+        "ga": "siogairlín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joining"
+        ],
+        "ga": "siúntáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "slipper"
+        ],
+        "ga": "slipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "press stud"
+        ],
+        "ga": "smeachstoda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "thread"
+        ],
+        "ga": "snáithe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "thread-cutting"
+        ],
+        "ga": "snáithireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "needle"
+        ],
+        "ga": "snáthaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spinneret"
+        ],
+        "ga": "sníomhadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spot tacker"
+        ],
+        "ga": "spotchreimneálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fusset collar"
+        ],
+        "ga": "sprébhóna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chiffon"
+        ],
+        "ga": "sreabhann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tie-tite"
+        ],
+        "ga": "sreangóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stocking",
+            "sock"
+        ],
+        "ga": "stoca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stud"
+        ],
+        "ga": "stoda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stuffing"
+        ],
+        "ga": "stuáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "poise"
+        ],
+        "ga": "stáidiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "starching"
+        ],
+        "ga": "stáirsín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "style"
+        ],
+        "ga": "stíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stiletto"
+        ],
+        "ga": "stílín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "girdle"
+        ],
+        "ga": "sursaing",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "suede"
+        ],
+        "ga": "svaeid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prick stitch",
+            "stabstitch"
+        ],
+        "ga": "sághreim",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sari"
+        ],
+        "ga": "sáirí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "supermodel"
+        ],
+        "ga": "sármhainicín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "junior"
+        ],
+        "ga": "sóisear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tassel"
+        ],
+        "ga": "tacailín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "set"
+        ],
+        "ga": "tacar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tankini"
+        ],
+        "ga": "taincíní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overlocking"
+        ],
+        "ga": "targhlasáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "overlocker"
+        ],
+        "ga": "targhlasálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tog"
+        ],
+        "ga": "toga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "taste"
+        ],
+        "ga": "toighis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "crosstack"
+        ],
+        "ga": "traschreimneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "slacks"
+        ],
+        "ga": "treabhsar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trousers",
+            "trouser"
+        ],
+        "ga": "treabhsar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tricel"
+        ],
+        "ga": "tricel",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trilby"
+        ],
+        "ga": "triolbaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pantskirt"
+        ],
+        "ga": "triús-sciorta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sheath"
+        ],
+        "ga": "truaill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bleacher"
+        ],
+        "ga": "tuaraire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "terrycloth"
+        ],
+        "ga": "tuáilléadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "straw cloth"
+        ],
+        "ga": "tuí-éadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "in-thing"
+        ],
+        "ga": "tóir-rud",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seambound"
+        ],
+        "ga": "uaimchumhdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "upcycling"
+        ],
+        "ga": "uaschúrsáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "velveteen"
+        ],
+        "ga": "veilbhitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vest"
+        ],
+        "ga": "veist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tank-top"
+        ],
+        "ga": "veistbharr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "zip"
+        ],
+        "ga": "zip",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drapery"
+        ],
+        "ga": "éadaitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ikat"
+        ],
+        "ga": "ícat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "obi"
+        ],
+        "ga": "óibí",
+        "gender": "masculine"
+    }
+]

@@ -1,24 +1,29 @@
 package com.syzible.irishnoungenders.fragments;
 
-import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ProgressBar;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.Spinner;
 import android.widget.TextView;
 
-import com.syzible.irishnoungenders.utils.LocalStorage;
 import com.syzible.irishnoungenders.MainActivity;
-import com.syzible.irishnoungenders.objects.Noun;
 import com.syzible.irishnoungenders.R;
+import com.syzible.irishnoungenders.utils.LocalStorage;
 import com.syzible.irishnoungenders.utils.PulseAnimation;
 import com.syzible.irishnoungenders.utils.Utils;
 
 import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Random;
 
 import static com.syzible.irishnoungenders.MainActivity.currentNoun;
 
@@ -27,13 +32,16 @@ import static com.syzible.irishnoungenders.MainActivity.currentNoun;
  */
 
 public class MainFrag extends Fragment {
-    private JSONArray nouns;
+    private JSONArray nouns, domains;
     private JSONObject hints;
     private TextView gaNounTV, gaNounHintTV, gaNounOtherTV, enTranslationTV, highScoreTV;
 
     private boolean hasAnimatedNewHighScore = false;
 
     public static int currentScore = 0;
+    public static int currentIteration = 0;
+
+    private Spinner categoryList;
 
     @Nullable
     @Override
@@ -46,14 +54,50 @@ public class MainFrag extends Fragment {
         enTranslationTV = (TextView) view.findViewById(R.id.en_translation);
         highScoreTV = (TextView) view.findViewById(R.id.high_score);
 
-        nouns = Utils.loadNounList(getActivity());
         hints = Utils.loadNounHints(getActivity());
+        domains = Utils.loadDomainCategories(getActivity());
+
+        categoryList = (Spinner) view.findViewById(R.id.current_category);
+        final ArrayList<String> adapterDomains = new ArrayList<>();
+        adapterDomains.add("All Categories");
+        for (int i = 0; i < domains.length(); i++) {
+            try {
+                adapterDomains.add(domains.getString(i));
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+        }
+
+        Collections.sort(adapterDomains);
+
+        ArrayAdapter<String> categoryAdapter = new ArrayAdapter<>(getActivity(),
+                android.R.layout.simple_dropdown_item_1line, adapterDomains);
+        categoryList.setAdapter(categoryAdapter);
+        categoryList.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                String category = adapterDomains.get(position);
+                if (category.equals("All Categories"))
+                    category = "*";
+
+                category = Utils.getFileName(category);
+                generateNewNoun(category, true);
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+
+            }
+        });
+
+        generateNewNoun("*", false);
+        resetScore();
 
         MainActivity.answer = new IAnswer() {
             @Override
             public void onCorrectAnswer() {
                 Utils.delay(getActivity());
-                generateNewNoun();
+                generateNewNoun("*", false);
                 incrementScore();
             }
 
@@ -64,13 +108,29 @@ public class MainFrag extends Fragment {
             }
         };
 
-        generateNewNoun();
-        resetScore();
-
         return view;
     }
 
-    private void generateNewNoun() {
+    private void generateNewNoun(String domain, boolean wasCategoryChanged) {
+        if (domain.equals("*")) {
+            System.out.println(currentIteration);
+            if (currentIteration % 5 == 0) {
+                try {
+                    int randomIndex = new Random().nextInt(domains.length());
+                    String newDomain = domains.getString(randomIndex);
+                    System.out.println(newDomain);
+                    nouns = Utils.loadNounList(getActivity(), newDomain);
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+            }
+        } else {
+            nouns = Utils.loadNounList(getActivity(), Utils.getFileName(domain));
+        }
+
+        if (!wasCategoryChanged)
+            currentIteration++;
+
         currentNoun = Utils.getRandomNoun(nouns);
         boolean shouldShowHints = Utils.shouldShowNounHint(currentNoun, hints);
 

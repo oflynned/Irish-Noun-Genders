@@ -1,0 +1,236 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "Adar"
+        ],
+        "ga": "Adár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "April"
+        ],
+        "ga": "Aibreán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Advent"
+        ],
+        "ga": "Aidbhint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "May"
+        ],
+        "ga": "Bealtaine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Lent"
+        ],
+        "ga": "Carghas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Kislev"
+        ],
+        "ga": "Cisléiv",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Sunday"
+        ],
+        "ga": "Domhnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "January"
+        ],
+        "ga": "Eanáir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Eurovision"
+        ],
+        "ga": "Eoraifís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "February"
+        ],
+        "ga": "Feabhra",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Imbolc"
+        ],
+        "ga": "Imbolc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "July"
+        ],
+        "ga": "Iúil",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "August"
+        ],
+        "ga": "Lúnasa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "June"
+        ],
+        "ga": "Meitheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "March"
+        ],
+        "ga": "Márta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "Christmas",
+            "Yule"
+        ],
+        "ga": "Nollaig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "December"
+        ],
+        "ga": "Nollaig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Nisan"
+        ],
+        "ga": "Níosán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Purim"
+        ],
+        "ga": "Púirím",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Sabbath"
+        ],
+        "ga": "Sabóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "November"
+        ],
+        "ga": "Samhain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Shaban"
+        ],
+        "ga": "Shaban",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Shavuot"
+        ],
+        "ga": "Shavuot",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Sivan"
+        ],
+        "ga": "Síveán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tishri"
+        ],
+        "ga": "Tisrí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acknowledgement",
+            "acknowledgment"
+        ],
+        "ga": "aitheantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "year"
+        ],
+        "ga": "bliain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "calendar"
+        ],
+        "ga": "féilire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Abib"
+        ],
+        "ga": "Áibíb",
+        "gender": "feminine"
+    }
+]

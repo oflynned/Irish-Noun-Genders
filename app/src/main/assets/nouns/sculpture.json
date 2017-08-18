@@ -1,0 +1,2963 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Dadaism"
+        ],
+        "ga": "Dadachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hermaic pillar",
+            "Herm"
+        ],
+        "ga": "Heirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "acrolith"
+        ],
+        "ga": "acrailit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "acroterium"
+        ],
+        "ga": "acraitéiriam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wood"
+        ],
+        "ga": "adhmad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "air compressor"
+        ],
+        "ga": "aer-chomhbhrúiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acetone"
+        ],
+        "ga": "aicéatón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "acetylene"
+        ],
+        "ga": "aicéitiléin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acid"
+        ],
+        "ga": "aigéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "alginate"
+        ],
+        "ga": "ailgionáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "andrias"
+        ],
+        "ga": "aindrias",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "animalier"
+        ],
+        "ga": "ainmhítheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "property",
+            "attribute",
+            "characteristic"
+        ],
+        "ga": "airí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alabaster"
+        ],
+        "ga": "albastar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "niche"
+        ],
+        "ga": "almóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joint"
+        ],
+        "ga": "alt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alumina"
+        ],
+        "ga": "alúmana",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aluminium"
+        ],
+        "ga": "alúmanam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "limestone"
+        ],
+        "ga": "aolchloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "arcosolium"
+        ],
+        "ga": "arcasoiliam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "riser"
+        ],
+        "ga": "ardúch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "armature"
+        ],
+        "ga": "armatúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "repeat casting"
+        ],
+        "ga": "ateilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "finish"
+        ],
+        "ga": "bailchríoch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basalt"
+        ],
+        "ga": "basalt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bentonite"
+        ],
+        "ga": "beintinít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "life cast"
+        ],
+        "ga": "beotheilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "point"
+        ],
+        "ga": "bior",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "softwood",
+            "soft-wood",
+            "soft wood"
+        ],
+        "ga": "bogadhmad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bow saw",
+            "bow-saw"
+        ],
+        "ga": "boghshábh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bolt"
+        ],
+        "ga": "bolta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "patting"
+        ],
+        "ga": "bosaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "boxwood"
+        ],
+        "ga": "boscadhmad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crucible"
+        ],
+        "ga": "breogán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flashing"
+        ],
+        "ga": "buinne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "butt-joint",
+            "butt joint",
+            "butt"
+        ],
+        "ga": "bunalt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "baking"
+        ],
+        "ga": "bácáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "firing"
+        ],
+        "ga": "bácáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bauxite"
+        ],
+        "ga": "báicsít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bole"
+        ],
+        "ga": "ból",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "boss"
+        ],
+        "ga": "cabhradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chalk"
+        ],
+        "ga": "cailc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "calcite"
+        ],
+        "ga": "cailcít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "runner"
+        ],
+        "ga": "cainéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "caryatid"
+        ],
+        "ga": "cairiaitid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "roving"
+        ],
+        "ga": "caisirnín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kaolin",
+            "china clay"
+        ],
+        "ga": "caoilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cartouche"
+        ],
+        "ga": "cartús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chestnut"
+        ],
+        "ga": "castán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hammer"
+        ],
+        "ga": "casúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "catalyst"
+        ],
+        "ga": "catalaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fastening"
+        ],
+        "ga": "ceangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ceramist",
+            "ceramicist"
+        ],
+        "ga": "ceirmeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "forge"
+        ],
+        "ga": "ceárta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cyanoacrylate"
+        ],
+        "ga": "cianaicrioláit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cubism"
+        ],
+        "ga": "ciúbachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "negative space"
+        ],
+        "ga": "claonspás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stone"
+        ],
+        "ga": "cloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lump hammer",
+            "club hammer"
+        ],
+        "ga": "cnapchasúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "proportion"
+        ],
+        "ga": "coibhneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "curation"
+        ],
+        "ga": "coimeádaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conceptualism"
+        ],
+        "ga": "coincheapachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "concrete"
+        ],
+        "ga": "coincréit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "colonnette"
+        ],
+        "ga": "colúinín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joining"
+        ],
+        "ga": "comhcheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "copper"
+        ],
+        "ga": "copar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coil"
+        ],
+        "ga": "corna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "thaw"
+        ],
+        "ga": "coscairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fret pattern"
+        ],
+        "ga": "crinnphatrún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fretsaw",
+            "fret saw",
+            "fret-saw"
+        ],
+        "ga": "crinnsábh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "band-saw"
+        ],
+        "ga": "crios-sábh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cross-cut saw",
+            "crosscut saw"
+        ],
+        "ga": "cros-sábh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "interlace"
+        ],
+        "ga": "crosfhí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "core"
+        ],
+        "ga": "croí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "core vent"
+        ],
+        "ga": "croíghaothaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "core pin"
+        ],
+        "ga": "croíphionna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hardwood"
+        ],
+        "ga": "crua-adhmad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hardening"
+        ],
+        "ga": "cruachan",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shape"
+        ],
+        "ga": "cruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clay"
+        ],
+        "ga": "cré",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bronze"
+        ],
+        "ga": "cré-umha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blending"
+        ],
+        "ga": "cumasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compositing"
+        ],
+        "ga": "cumasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aggregate"
+        ],
+        "ga": "cumascghrean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aggregate",
+            "aggregate mix"
+        ],
+        "ga": "cumascán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shuttering"
+        ],
+        "ga": "cásáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cedar"
+        ],
+        "ga": "céadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "wax"
+        ],
+        "ga": "céir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "assemblage"
+        ],
+        "ga": "cóimeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "back-iron",
+            "back iron"
+        ],
+        "ga": "cúliarann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "foamed plastic"
+        ],
+        "ga": "cúrphlaisteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fixing"
+        ],
+        "ga": "daingnitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "oak"
+        ],
+        "ga": "dair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plug"
+        ],
+        "ga": "dallán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "colour"
+        ],
+        "ga": "dath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "encaustic"
+        ],
+        "ga": "dathdhó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colouring"
+        ],
+        "ga": "dathúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sculpture"
+        ],
+        "ga": "dealbh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "statue"
+        ],
+        "ga": "dealbh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "statuary"
+        ],
+        "ga": "dealbhadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sculptor"
+        ],
+        "ga": "dealbhóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sculpture"
+        ],
+        "ga": "dealbhóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lathe"
+        ],
+        "ga": "deil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "figurine",
+            "statuette"
+        ],
+        "ga": "deilbhín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wedge"
+        ],
+        "ga": "ding",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "illusionism"
+        ],
+        "ga": "doilfeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dolomite"
+        ],
+        "ga": "dolaimít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "waste mold",
+            "waste-mould"
+        ],
+        "ga": "dramh-mhúnla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "junk art"
+        ],
+        "ga": "dramhealaín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dross"
+        ],
+        "ga": "dras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "surface"
+        ],
+        "ga": "dromchla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drilling"
+        ],
+        "ga": "druileáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dado"
+        ],
+        "ga": "dádó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dovetail joint",
+            "dove-tailed joint"
+        ],
+        "ga": "déadalt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fabrication"
+        ],
+        "ga": "déanamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jig"
+        ],
+        "ga": "díreog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "direct carving"
+        ],
+        "ga": "dírshnoiteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "direct carving"
+        ],
+        "ga": "dírshnoíodóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ivory"
+        ],
+        "ga": "eabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "editing"
+        ],
+        "ga": "eagarthóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "edition"
+        ],
+        "ga": "eagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "extrusion"
+        ],
+        "ga": "easbhrú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rib"
+        ],
+        "ga": "easna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "exporting"
+        ],
+        "ga": "easpórtáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "granite"
+        ],
+        "ga": "eibhear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "exotherm"
+        ],
+        "ga": "eisiteirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "expressionism"
+        ],
+        "ga": "eispriseanachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "key pattern"
+        ],
+        "ga": "eochairphatrún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tempering"
+        ],
+        "ga": "faghairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gigantism"
+        ],
+        "ga": "fathachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tubing"
+        ],
+        "ga": "feadánra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flux"
+        ],
+        "ga": "flosc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "formalism"
+        ],
+        "ga": "foirmiúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "furnace"
+        ],
+        "ga": "foirnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "formaldehyde",
+            "methanal",
+            "formol"
+        ],
+        "ga": "formaildéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "outer mould"
+        ],
+        "ga": "formhúnla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "frit"
+        ],
+        "ga": "friot",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "frieze"
+        ],
+        "ga": "fríos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "squeezing"
+        ],
+        "ga": "fáscadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "butterfly",
+            "butterfly support"
+        ],
+        "ga": "féileacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "veiner"
+        ],
+        "ga": "féitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sand"
+        ],
+        "ga": "gaineamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sandstone"
+        ],
+        "ga": "gaineamhchloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ganosis"
+        ],
+        "ga": "ganóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "scab"
+        ],
+        "ga": "gearb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cutting tool"
+        ],
+        "ga": "gearrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guillotine"
+        ],
+        "ga": "gilitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gypsum"
+        ],
+        "ga": "gipseam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "glycol"
+        ],
+        "ga": "gliocól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "glue"
+        ],
+        "ga": "gliú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "movement"
+        ],
+        "ga": "gluaiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "glaze"
+        ],
+        "ga": "glónra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "graphite"
+        ],
+        "ga": "graifít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "adhesive"
+        ],
+        "ga": "greamachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "grit",
+            "gritstone"
+        ],
+        "ga": "greanchloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sand-casting",
+            "sand casting"
+        ],
+        "ga": "greanteilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sand cast"
+        ],
+        "ga": "greanteilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sanding"
+        ],
+        "ga": "greanáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "quartz"
+        ],
+        "ga": "grianchloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shot"
+        ],
+        "ga": "grán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "goo"
+        ],
+        "ga": "gú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gouge"
+        ],
+        "ga": "gúiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hieroglyph"
+        ],
+        "ga": "iairiglif",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "postmodernism",
+            "post-modernism"
+        ],
+        "ga": "iar-nua-aoiseachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aftercast"
+        ],
+        "ga": "iartheilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "feldspar",
+            "felspar"
+        ],
+        "ga": "iathchloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "multiple view"
+        ],
+        "ga": "ilradharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "investment"
+        ],
+        "ga": "imchlúdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inlay"
+        ],
+        "ga": "inleagan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "inscription"
+        ],
+        "ga": "inscríbhinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lacquer"
+        ],
+        "ga": "laicear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "latex"
+        ],
+        "ga": "laitéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "blade"
+        ],
+        "ga": "lann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lance"
+        ],
+        "ga": "lansa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pulp"
+        ],
+        "ga": "laíon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "beater"
+        ],
+        "ga": "laíonóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "monumentalism"
+        ],
+        "ga": "leachtmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elm",
+            "elmwood"
+        ],
+        "ga": "leamhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "middle-relief",
+            "middle relief",
+            "mezzo-relievo"
+        ],
+        "ga": "leathrilíf",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sheeting"
+        ],
+        "ga": "leathánra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "electrotype"
+        ],
+        "ga": "leictreachló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "electrotyping"
+        ],
+        "ga": "leictreachlódóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "electroplating"
+        ],
+        "ga": "leictreaphlátáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "electrode"
+        ],
+        "ga": "leictreoid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trowel"
+        ],
+        "ga": "lián",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "sheen"
+        ],
+        "ga": "loinnir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lead"
+        ],
+        "ga": "luaidhe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "accelerator",
+            "accelerant"
+        ],
+        "ga": "luasaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pigment"
+        ],
+        "ga": "lí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drawing"
+        ],
+        "ga": "líníocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "file"
+        ],
+        "ga": "líomhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "filler"
+        ],
+        "ga": "líonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "loop tool"
+        ],
+        "ga": "lúbuirlis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mahogany"
+        ],
+        "ga": "mahagaine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "marquetry"
+        ],
+        "ga": "maircíneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mass"
+        ],
+        "ga": "mais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "modelling clay",
+            "Plasticine"
+        ],
+        "ga": "marla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "marble"
+        ],
+        "ga": "marmar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fat clay",
+            "soft clay",
+            "kaolinitic clay",
+            "plastic clay",
+            "ball clay"
+        ],
+        "ga": "meallchré",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "metope"
+        ],
+        "ga": "meatóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grinder"
+        ],
+        "ga": "meilteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "model"
+        ],
+        "ga": "mionsamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "nibbler"
+        ],
+        "ga": "miotóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "monomer"
+        ],
+        "ga": "monaiméir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "montage"
+        ],
+        "ga": "montáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mallet"
+        ],
+        "ga": "máilléad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "master mould"
+        ],
+        "ga": "máistirmhúnla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "master cast",
+            "master copy",
+            "master-cast"
+        ],
+        "ga": "máistirtheilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parent metal"
+        ],
+        "ga": "máthairmhiotal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mother mould",
+            "main case"
+        ],
+        "ga": "máthairmhúnla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mica"
+        ],
+        "ga": "míoca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mitre joint",
+            "mitred joint"
+        ],
+        "ga": "mítéaralt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "motif"
+        ],
+        "ga": "móitíf",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mould",
+            "mold"
+        ],
+        "ga": "múnla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "modelling tool",
+            "modeling tool"
+        ],
+        "ga": "múnlaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mould making"
+        ],
+        "ga": "múnlóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "matting tool"
+        ],
+        "ga": "neamhlonraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "modernism"
+        ],
+        "ga": "nua-aoiseachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neoclassicism"
+        ],
+        "ga": "nuachlasaiceachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "naturalism"
+        ],
+        "ga": "nádúrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "oxyacetylene"
+        ],
+        "ga": "ocsaicéitiléin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "obelisk"
+        ],
+        "ga": "oibilisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "onyx"
+        ],
+        "ga": "oinisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "colossus"
+        ],
+        "ga": "olldealbh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "omphalos"
+        ],
+        "ga": "omfalas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "surrealism"
+        ],
+        "ga": "osréalachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "packing"
+        ],
+        "ga": "pacáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palmette"
+        ],
+        "ga": "pailméad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pastiche",
+            "miscellany"
+        ],
+        "ga": "paistís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "patina"
+        ],
+        "ga": "paitean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pantograph"
+        ],
+        "ga": "pantagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "perspex"
+        ],
+        "ga": "peirspéacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pier"
+        ],
+        "ga": "piara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pylon"
+        ],
+        "ga": "piolón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pyrometer"
+        ],
+        "ga": "piriméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pitcher"
+        ],
+        "ga": "pitséar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plaquette"
+        ],
+        "ga": "plaicín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plastic"
+        ],
+        "ga": "plaisteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plasticity"
+        ],
+        "ga": "plaisteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plexiglass"
+        ],
+        "ga": "pleicseaghloine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plinth"
+        ],
+        "ga": "plionta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plane"
+        ],
+        "ga": "plána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "planing"
+        ],
+        "ga": "plánáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plaster"
+        ],
+        "ga": "plástar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pointing"
+        ],
+        "ga": "pointeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "porcelain"
+        ],
+        "ga": "poirceallán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "polycarbonate"
+        ],
+        "ga": "polacarbónáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "polychromy"
+        ],
+        "ga": "polacrómacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "polymer"
+        ],
+        "ga": "polaiméir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "polystyrene"
+        ],
+        "ga": "polaistiréin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "polythene"
+        ],
+        "ga": "polaitéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "polysulphide"
+        ],
+        "ga": "polasuilfíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "porphyry"
+        ],
+        "ga": "porfaire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "portrait"
+        ],
+        "ga": "portráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pop-riveter",
+            "pop riveter",
+            "pop rivet tool"
+        ],
+        "ga": "preabsheamaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jigsaw",
+            "jig-saw"
+        ],
+        "ga": "preabshábh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pop-up space"
+        ],
+        "ga": "preabspás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "primitivism"
+        ],
+        "ga": "primitíbheachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "punch"
+        ],
+        "ga": "pritil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "brazing"
+        ],
+        "ga": "prásáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "primary view"
+        ],
+        "ga": "príomhradharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pine"
+        ],
+        "ga": "péine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scene"
+        ],
+        "ga": "radharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rasp"
+        ],
+        "ga": "raspa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "relief",
+            "relievo"
+        ],
+        "ga": "rilíf",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rendering"
+        ],
+        "ga": "rindreáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "resin"
+        ],
+        "ga": "roisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "esquisse"
+        ],
+        "ga": "réamhsceitse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rosewood"
+        ],
+        "ga": "rósadhmad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "freestone"
+        ],
+        "ga": "saorchloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sketch"
+        ],
+        "ga": "sceitse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "burnisher"
+        ],
+        "ga": "sciomarthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "splitting chisel"
+        ],
+        "ga": "scoiltsiséal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scrimshaw"
+        ],
+        "ga": "scrimseá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "screw"
+        ],
+        "ga": "scriú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "abrasive"
+        ],
+        "ga": "scríobach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scale"
+        ],
+        "ga": "scála",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chamfer"
+        ],
+        "ga": "seaimféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chaplet"
+        ],
+        "ga": "seaiplín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rivet"
+        ],
+        "ga": "seam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sycamore"
+        ],
+        "ga": "seiceamar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shellac"
+        ],
+        "ga": "seileaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sphyrelaton"
+        ],
+        "ga": "sfirealatan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "silicone"
+        ],
+        "ga": "sileacón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shim"
+        ],
+        "ga": "sime",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "zinc",
+            "spelter"
+        ],
+        "ga": "sinc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pendant"
+        ],
+        "ga": "siogairlín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chisel"
+        ],
+        "ga": "siséal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joinery"
+        ],
+        "ga": "siúinéireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "slag"
+        ],
+        "ga": "slaig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slip"
+        ],
+        "ga": "sliopa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chip carving"
+        ],
+        "ga": "slis-snoiteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chip carving"
+        ],
+        "ga": "slis-snoíodóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "knotwork"
+        ],
+        "ga": "snaidhmobair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gloss"
+        ],
+        "ga": "snas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carving"
+        ],
+        "ga": "snoiteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "carver"
+        ],
+        "ga": "snoíodóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "carving"
+        ],
+        "ga": "snoíodóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "grain"
+        ],
+        "ga": "snáithe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fibre glass",
+            "fibreglass"
+        ],
+        "ga": "snáithínghloine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fibre optics"
+        ],
+        "ga": "snáthoptaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "socle"
+        ],
+        "ga": "socal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spall"
+        ],
+        "ga": "spalla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "splicing"
+        ],
+        "ga": "spladhsáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "intended form"
+        ],
+        "ga": "spriocfhoirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sprue"
+        ],
+        "ga": "spriú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spruing up"
+        ],
+        "ga": "sprúáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "space"
+        ],
+        "ga": "spás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ripsaw"
+        ],
+        "ga": "sracshábh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "register"
+        ],
+        "ga": "sraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wire"
+        ],
+        "ga": "sreang",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pose"
+        ],
+        "ga": "staidiúir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shaft"
+        ],
+        "ga": "stoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "boucharde",
+            "bush hammer"
+        ],
+        "ga": "stodachasúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bush hammer",
+            "boucharde"
+        ],
+        "ga": "stodachasúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cement"
+        ],
+        "ga": "stroighin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "arc welder"
+        ],
+        "ga": "stuatháthaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stucco"
+        ],
+        "ga": "stucó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "situationism"
+        ],
+        "ga": "suíomhachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "saw"
+        ],
+        "ga": "sábh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "soldering"
+        ],
+        "ga": "sádráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "superrealism",
+            "super-realism",
+            "photorealism",
+            "photographic realism"
+        ],
+        "ga": "sár-réalachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sealer"
+        ],
+        "ga": "séalóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "seam"
+        ],
+        "ga": "séama",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "support"
+        ],
+        "ga": "taca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "auger"
+        ],
+        "ga": "tarathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clamp"
+        ],
+        "ga": "teanntán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "strut"
+        ],
+        "ga": "teanntóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "heat gun"
+        ],
+        "ga": "teasghunna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "abstraction"
+        ],
+        "ga": "teibíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "telamon"
+        ],
+        "ga": "teileaman",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cast"
+        ],
+        "ga": "teilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "casting"
+        ],
+        "ga": "teilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tarnishing"
+        ],
+        "ga": "teimheal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Terylene",
+            "terylene"
+        ],
+        "ga": "teiriléin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tenon"
+        ],
+        "ga": "tionúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "futurism"
+        ],
+        "ga": "todhchaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hollow cast"
+        ],
+        "ga": "tollteilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "funnel"
+        ],
+        "ga": "tonnadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "frontality"
+        ],
+        "ga": "tosacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cross-link"
+        ],
+        "ga": "trasnasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orientation"
+        ],
+        "ga": "treoshuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "swag"
+        ],
+        "ga": "triopall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "triglyph"
+        ],
+        "ga": "tríglif",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "axe"
+        ],
+        "ga": "tua",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "beater"
+        ],
+        "ga": "tuairgnín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "frontal view"
+        ],
+        "ga": "tulamharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "adze",
+            "adz"
+        ],
+        "ga": "tál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inert filler"
+        ],
+        "ga": "támh-líonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "binder"
+        ],
+        "ga": "táthán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "teak"
+        ],
+        "ga": "téac",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "constructivism"
+        ],
+        "ga": "tógachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "constructivist"
+        ],
+        "ga": "tógachaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "texture"
+        ],
+        "ga": "uigeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "angle grinder"
+        ],
+        "ga": "uillinnmheilteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vee tool",
+            "v-tool"
+        ],
+        "ga": "v-uirlis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "varnish"
+        ],
+        "ga": "vearnais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vermiculite"
+        ],
+        "ga": "veirmicilít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ebony"
+        ],
+        "ga": "éabann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "iconography"
+        ],
+        "ga": "íocónagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "iconometry"
+        ],
+        "ga": "íocónaiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gold leaf"
+        ],
+        "ga": "órdhuille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "urea formaldehyde",
+            "urea-formaldehyde"
+        ],
+        "ga": "úiré-formaildéad",
+        "gender": "masculine"
+    }
+]

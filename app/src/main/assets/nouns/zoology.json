@@ -1,0 +1,8614 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Alsatian",
+            "German shepherd dog"
+        ],
+        "ga": "Alsáiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Apatosaurus"
+        ],
+        "ga": "Apatasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Basenji"
+        ],
+        "ga": "Baiséinseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Compsognathus"
+        ],
+        "ga": "Compsagnatas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Caucasian"
+        ],
+        "ga": "Cugasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Deerhound"
+        ],
+        "ga": "Fia-chú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Whippet"
+        ],
+        "ga": "Fuipéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Toy Poodle"
+        ],
+        "ga": "Measphúdal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Pug",
+            "Chinese Pug",
+            "Dutch Bulldog",
+            "Dutch Mastiff",
+            "Miniature Mastiff"
+        ],
+        "ga": "Smutmhadra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Chihuahua"
+        ],
+        "ga": "Sí-abhabha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "avocet"
+        ],
+        "ga": "abhóiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "axolotl"
+        ],
+        "ga": "acsalatal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "addax"
+        ],
+        "ga": "adacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cornet"
+        ],
+        "ga": "adhaircín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "horn"
+        ],
+        "ga": "adharc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "agama"
+        ],
+        "ga": "agama",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aye-aye"
+        ],
+        "ga": "aidhe-aidhe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aphid",
+            "plant louse"
+        ],
+        "ga": "aifid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alligator"
+        ],
+        "ga": "ailigéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "St Bernard",
+            "alpine mastiff"
+        ],
+        "ga": "ailpíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "amnion"
+        ],
+        "ga": "aimnian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "animal"
+        ],
+        "ga": "ainmhí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "anchovy"
+        ],
+        "ga": "ainseabhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "argentine"
+        ],
+        "ga": "airgintín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "silverside"
+        ],
+        "ga": "airgintíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mimicry"
+        ],
+        "ga": "aithris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mimic"
+        ],
+        "ga": "aithriseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alfonsino"
+        ],
+        "ga": "alfainsín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Allosaurus",
+            "allosaur"
+        ],
+        "ga": "allasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ammocoetes"
+        ],
+        "ga": "amaicéat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "amphibian"
+        ],
+        "ga": "amfaibiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "anaconda"
+        ],
+        "ga": "anacanda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ankylosaur"
+        ],
+        "ga": "ancalasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "angonoka"
+        ],
+        "ga": "angónaca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "antelope"
+        ],
+        "ga": "antalóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "antipatharian"
+        ],
+        "ga": "antapatarach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anopheline"
+        ],
+        "ga": "anófalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "opossum"
+        ],
+        "ga": "apasam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "arachnology"
+        ],
+        "ga": "araicneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "arapaima"
+        ],
+        "ga": "arapaíoma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "arthropod"
+        ],
+        "ga": "artrapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ascidian",
+            "sea squirt"
+        ],
+        "ga": "ascaideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "atherine"
+        ],
+        "ga": "atairíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "babirusa"
+        ],
+        "ga": "babarúsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ladyfish"
+        ],
+        "ga": "badhbhiasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "female seal"
+        ],
+        "ga": "bainirseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "barb"
+        ],
+        "ga": "bairb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "barbet"
+        ],
+        "ga": "bairbéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "limpet"
+        ],
+        "ga": "bairneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basset hound"
+        ],
+        "ga": "baiséadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rock salmon"
+        ],
+        "ga": "ballach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wrasse",
+            "wrass",
+            "hogfish"
+        ],
+        "ga": "ballach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bontebok"
+        ],
+        "ga": "bantaboc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "barracuda",
+            "sea pike",
+            "giant sea pike"
+        ],
+        "ga": "baracúdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "barbel"
+        ],
+        "ga": "barbal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "seabass",
+            "sea bass"
+        ],
+        "ga": "bas",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "batagur"
+        ],
+        "ga": "batagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bee"
+        ],
+        "ga": "beach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bee-fly"
+        ],
+        "ga": "beach-chuil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "antler"
+        ],
+        "ga": "beann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "binturong"
+        ],
+        "ga": "biontúrang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pronghorn"
+        ],
+        "ga": "biorbheannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pintail"
+        ],
+        "ga": "biorearrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monarch butterfly",
+            "milkweed butterfly"
+        ],
+        "ga": "bleachtfhéileacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grilse"
+        ],
+        "ga": "bláthán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bobcat"
+        ],
+        "ga": "bobchat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bobolink"
+        ],
+        "ga": "bobóilinc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "corkwing wrasse"
+        ],
+        "ga": "bochar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "boxer"
+        ],
+        "ga": "bocsaeir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minnow",
+            "pinkeen"
+        ],
+        "ga": "bodairlín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sea-slug",
+            "sea slug"
+        ],
+        "ga": "bodalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "archerfish"
+        ],
+        "ga": "boghdóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bowfin"
+        ],
+        "ga": "bogheiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bonnetmouth"
+        ],
+        "ga": "boinéadbhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bonnetfish"
+        ],
+        "ga": "boinéadiasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bot-fly",
+            "botfly"
+        ],
+        "ga": "boiteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caterpillar"
+        ],
+        "ga": "bolb",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bongo"
+        ],
+        "ga": "bongó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pad"
+        ],
+        "ga": "bonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bittern"
+        ],
+        "ga": "bonnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Dogue de Bordeaux",
+            "French Mastiff",
+            "Bordeaux Mastiff",
+            "Bordeaux Bulldog"
+        ],
+        "ga": "bordaíleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brachiosaur",
+            "Brachiosaurus"
+        ],
+        "ga": "bracasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "salmon",
+            "Atlantic salmon"
+        ],
+        "ga": "bradán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "smolt"
+        ],
+        "ga": "brainlín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "feeler"
+        ],
+        "ga": "braiteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tentacle"
+        ],
+        "ga": "braiteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bream"
+        ],
+        "ga": "bran",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gudgeon"
+        ],
+        "ga": "brannóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trout"
+        ],
+        "ga": "breac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brambling"
+        ],
+        "ga": "breacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dunlin"
+        ],
+        "ga": "breacóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "magpie moth"
+        ],
+        "ga": "breacóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clam"
+        ],
+        "ga": "breallach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sand gaper",
+            "clam"
+        ],
+        "ga": "breallach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "glow-worm"
+        ],
+        "ga": "breochruimh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "briard"
+        ],
+        "ga": "brióir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "badger"
+        ],
+        "ga": "broc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dachshund"
+        ],
+        "ga": "broc-chú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "peppered moth"
+        ],
+        "ga": "brocóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cormorant"
+        ],
+        "ga": "broigheall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "brill"
+        ],
+        "ga": "broit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bronco"
+        ],
+        "ga": "broncó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brontosaurus"
+        ],
+        "ga": "brontasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "angelshark",
+            "Atlantic angelshark",
+            "sand devil"
+        ],
+        "ga": "bráthair",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "monkfish",
+            "angel fish"
+        ],
+        "ga": "bráthair",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "false scad"
+        ],
+        "ga": "bréagbholmán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pseudoplankton"
+        ],
+        "ga": "bréagphlanctón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "beautiful demoiselle",
+            "beautiful jewelwing"
+        ],
+        "ga": "brídeog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Ectoproctan",
+            "bryozoan"
+        ],
+        "ga": "bríosón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shoebill"
+        ],
+        "ga": "bróg-ghob",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "boa"
+        ],
+        "ga": "bua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "buffalo"
+        ],
+        "ga": "buabhall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "boa constrictor"
+        ],
+        "ga": "buachrapaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "toad"
+        ],
+        "ga": "buaf",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "European toad"
+        ],
+        "ga": "buaf",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bovid"
+        ],
+        "ga": "buaibhid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "budgerigar"
+        ],
+        "ga": "budragár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "burnet moth"
+        ],
+        "ga": "buirnéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bulbul"
+        ],
+        "ga": "bulbal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bulldog"
+        ],
+        "ga": "bulladóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bombay duck",
+            "bummalow",
+            "bumalo"
+        ],
+        "ga": "bumaló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bumble bee"
+        ],
+        "ga": "bumbóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "yellowhammer",
+            "yellow bunting"
+        ],
+        "ga": "buíóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "boatman",
+            "water boatman",
+            "lesser water boatman"
+        ],
+        "ga": "bádóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "white-eye"
+        ],
+        "ga": "bánsúileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "beaver"
+        ],
+        "ga": "béabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ponyfish",
+            "slipmouth"
+        ],
+        "ga": "béalsínteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bear"
+        ],
+        "ga": "béar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "damsel fly"
+        ],
+        "ga": "béchuil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chirring"
+        ],
+        "ga": "bíogarnach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Beauceron",
+            "French Shorthaired Shepherd",
+            "Beauce Shepherd"
+        ],
+        "ga": "bósarón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "buhund"
+        ],
+        "ga": "búmhadra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cavally"
+        ],
+        "ga": "cabháille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chachala"
+        ],
+        "ga": "cacala",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kakapo"
+        ],
+        "ga": "cacapó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brent goose"
+        ],
+        "ga": "cadhan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pale-breasted brent goose"
+        ],
+        "ga": "cadhan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caiman"
+        ],
+        "ga": "cadhman",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "coyote"
+        ],
+        "ga": "cadhóit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "haddock"
+        ],
+        "ga": "cadóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "keeshond"
+        ],
+        "ga": "caesmhadra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "capelin"
+        ],
+        "ga": "caibeallán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hag-fish",
+            "borer"
+        ],
+        "ga": "cailleach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "calyx"
+        ],
+        "ga": "cailís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chameleon"
+        ],
+        "ga": "caimileon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "capsid",
+            "viral coat"
+        ],
+        "ga": "caipsid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tanager",
+            "seedeater",
+            "cardinal"
+        ],
+        "ga": "cairdinéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sperm whale",
+            "cachalot"
+        ],
+        "ga": "caisealóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kit"
+        ],
+        "ga": "caitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kalong"
+        ],
+        "ga": "calang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wryneck"
+        ],
+        "ga": "cam-mhuin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mole cricket"
+        ],
+        "ga": "caoch-chriogar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mole rat"
+        ],
+        "ga": "caochfhrancach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mole"
+        ],
+        "ga": "caochán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "capybara"
+        ],
+        "ga": "capabára",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pony"
+        ],
+        "ga": "capaillín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "caribou"
+        ],
+        "ga": "carabú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carangid"
+        ],
+        "ga": "carangaideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carp"
+        ],
+        "ga": "carbán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carpal"
+        ],
+        "ga": "carpasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "blow-fly",
+            "blowfly"
+        ],
+        "ga": "carrchuil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stag"
+        ],
+        "ga": "carria",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crow"
+        ],
+        "ga": "caróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cat",
+            "domestic cat"
+        ],
+        "ga": "cat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cat worm"
+        ],
+        "ga": "catphéist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "catshark"
+        ],
+        "ga": "catsúileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "beer barrel"
+        ],
+        "ga": "ceaig",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blenny"
+        ],
+        "ga": "ceannruán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shanny",
+            "smooth blenny",
+            "common blenny"
+        ],
+        "ga": "ceannruán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "swamphen"
+        ],
+        "ga": "cearcóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cockchafer",
+            "maybug",
+            "may-bug"
+        ],
+        "ga": "cearnamhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quetzal",
+            "quezal"
+        ],
+        "ga": "ceatsal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cephalopod"
+        ],
+        "ga": "ceifileapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "kelp-fly"
+        ],
+        "ga": "ceilpeadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cervidae"
+        ],
+        "ga": "ceirbhideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cercus"
+        ],
+        "ga": "ceirceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ceratopsian"
+        ],
+        "ga": "ceireatópsach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "warbler"
+        ],
+        "ga": "ceolaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kiang"
+        ],
+        "ga": "ciang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comber"
+        ],
+        "ga": "ciaradóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "beetle"
+        ],
+        "ga": "ciaróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cichlid"
+        ],
+        "ga": "ciclid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chilopod"
+        ],
+        "ga": "cileapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "killifish"
+        ],
+        "ga": "cilliasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chimaera"
+        ],
+        "ga": "ciméara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kinkajou"
+        ],
+        "ga": "cinceasú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cicada"
+        ],
+        "ga": "ciocáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chiton"
+        ],
+        "ga": "ciotón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cyprinid"
+        ],
+        "ga": "ciprinid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stick insect"
+        ],
+        "ga": "cipíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cirl bunting"
+        ],
+        "ga": "cirlghealóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cleg-fly",
+            "cleg"
+        ],
+        "ga": "claig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "buzzard"
+        ],
+        "ga": "clamhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "plume"
+        ],
+        "ga": "cleiteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fan mussel",
+            "pen shell"
+        ],
+        "ga": "cleiteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clitellum"
+        ],
+        "ga": "cliteal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wheatear"
+        ],
+        "ga": "clochrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prawn"
+        ],
+        "ga": "cloicheán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dor beetle",
+            "common dor beetle",
+            "clock",
+            "lousy watchman"
+        ],
+        "ga": "cloigín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "queen scallop"
+        ],
+        "ga": "cluaisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "slater",
+            "woodlouse",
+            "wood-louse",
+            "sowbug"
+        ],
+        "ga": "cláirseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "covert"
+        ],
+        "ga": "clúdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "woodpecker"
+        ],
+        "ga": "cnagaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "knot",
+            "red knot"
+        ],
+        "ga": "cnota",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cluster-fly"
+        ],
+        "ga": "cnuaschuil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "natterjack",
+            "natterjack toad"
+        ],
+        "ga": "cnádán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bonefish"
+        ],
+        "ga": "cnámhiasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "nuthatch"
+        ],
+        "ga": "cnóshnag",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "searobin",
+            "gurnard"
+        ],
+        "ga": "cnúdán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kob"
+        ],
+        "ga": "cob",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cobra"
+        ],
+        "ga": "cobra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cockatiel"
+        ],
+        "ga": "cocaitíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cocoon"
+        ],
+        "ga": "cocún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "coccid"
+        ],
+        "ga": "coicid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pup"
+        ],
+        "ga": "coileán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rabbit"
+        ],
+        "ga": "coinín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "osprey",
+            "fish-hawk"
+        ],
+        "ga": "coirneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coral",
+            "true coral",
+            "hard coral"
+        ],
+        "ga": "coiréalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "canoe shell"
+        ],
+        "ga": "coite",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "colubrid"
+        ],
+        "ga": "colaibrid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "swordfish"
+        ],
+        "ga": "colgán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dove",
+            "pigeon"
+        ],
+        "ga": "colm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hake"
+        ],
+        "ga": "colmóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "compound eye"
+        ],
+        "ga": "comhshúil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hawk moth"
+        ],
+        "ga": "conach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "corallimorph"
+        ],
+        "ga": "corallamorf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Welsh corgi"
+        ],
+        "ga": "corchú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hornet"
+        ],
+        "ga": "cornfhoiche",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gnat"
+        ],
+        "ga": "corrmhíol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coscoroba swan"
+        ],
+        "ga": "coscaróba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "redshank"
+        ],
+        "ga": "cosdeargán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "butcherbird"
+        ],
+        "ga": "crachtach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "torpedo scad"
+        ],
+        "ga": "craimpbholmán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "porbeagle",
+            "mackerel shark"
+        ],
+        "ga": "craosaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "woodcock"
+        ],
+        "ga": "creabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "prey"
+        ],
+        "ga": "creach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "predator"
+        ],
+        "ga": "creachadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cria"
+        ],
+        "ga": "cria",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "krill"
+        ],
+        "ga": "crill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "house cricket"
+        ],
+        "ga": "criogar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cutlassfish",
+            "hairtail"
+        ],
+        "ga": "criosóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crocodile"
+        ],
+        "ga": "crogall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crocodile"
+        ],
+        "ga": "crogall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "harrier"
+        ],
+        "ga": "cromán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crossbill",
+            "red crossbill"
+        ],
+        "ga": "crosghob",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "razorbill"
+        ],
+        "ga": "crosán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "curlew"
+        ],
+        "ga": "crotach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "heart and dart moth"
+        ],
+        "ga": "croí-is-dairt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kingfisher"
+        ],
+        "ga": "cruidín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "maggot"
+        ],
+        "ga": "cruimh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "roundworm",
+            "round worm"
+        ],
+        "ga": "cruinnphéist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "queen bee",
+            "queen"
+        ],
+        "ga": "cráinbheach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "queen bumble bee"
+        ],
+        "ga": "cráinbhumbóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "queen wasp"
+        ],
+        "ga": "cráinfhoiche",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "queen ant"
+        ],
+        "ga": "cráinseangán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "horseshoe snake"
+        ],
+        "ga": "crú-nathair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "horseshoe crab"
+        ],
+        "ga": "crú-phortán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "horseshoe worm"
+        ],
+        "ga": "crú-phéist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ungulate"
+        ],
+        "ga": "crúbach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crustacean"
+        ],
+        "ga": "crústach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cuckoo"
+        ],
+        "ga": "cuach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "common whelk",
+            "buckie",
+            "common northern whelk",
+            "whelk"
+        ],
+        "ga": "cuachma",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coendou"
+        ],
+        "ga": "cuandú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chamber venus"
+        ],
+        "ga": "cuas-mhaighdeog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cupped oyster"
+        ],
+        "ga": "cuasoisre",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cuttlefish"
+        ],
+        "ga": "cudal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fly"
+        ],
+        "ga": "cuil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flycatcher",
+            "fly-catcher"
+        ],
+        "ga": "cuilire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "earthworm",
+            "common earthworm"
+        ],
+        "ga": "cuiteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "currassow"
+        ],
+        "ga": "curasó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "currawong"
+        ],
+        "ga": "curuang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cuscus"
+        ],
+        "ga": "cuscas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cui-ui"
+        ],
+        "ga": "cuíbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jackdaw"
+        ],
+        "ga": "cág",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kagu"
+        ],
+        "ga": "cágú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "centipede"
+        ],
+        "ga": "céadchosach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coelacanth"
+        ],
+        "ga": "céalacant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coelacanth"
+        ],
+        "ga": "céalacant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "coelenterate"
+        ],
+        "ga": "céileantráit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pecking order"
+        ],
+        "ga": "céimlathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hen blackbird"
+        ],
+        "ga": "céirseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cetacean"
+        ],
+        "ga": "céiticeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "keel"
+        ],
+        "ga": "cíle",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "keel worm"
+        ],
+        "ga": "cílphéist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kiwi"
+        ],
+        "ga": "cíobhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "goldcrest"
+        ],
+        "ga": "cíorbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crest"
+        ],
+        "ga": "círín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cobia"
+        ],
+        "ga": "cóibia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "collie"
+        ],
+        "ga": "cóilí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cotinga"
+        ],
+        "ga": "cóitinge",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "copepod"
+        ],
+        "ga": "cópapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coati"
+        ],
+        "ga": "cótaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "koala bear"
+        ],
+        "ga": "cóála",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "greyhound"
+        ],
+        "ga": "cú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kookaburra"
+        ],
+        "ga": "cúcabarra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kouprey"
+        ],
+        "ga": "cúpraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kite"
+        ],
+        "ga": "cúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tench"
+        ],
+        "ga": "cúramán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dab"
+        ],
+        "ga": "daba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "daphnia"
+        ],
+        "ga": "daifnia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dalmatian"
+        ],
+        "ga": "dalmátach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "larva of warble fly"
+        ],
+        "ga": "damhdhaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "oxen"
+        ],
+        "ga": "damhra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spiderling"
+        ],
+        "ga": "damháinín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ground beetle"
+        ],
+        "ga": "daol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "spine"
+        ],
+        "ga": "dealg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "devil's coach horse"
+        ],
+        "ga": "deargadaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "red sea bream",
+            "red seabream",
+            "blackspot seabream",
+            "common sea bream"
+        ],
+        "ga": "deargán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "decapod"
+        ],
+        "ga": "deiceapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dolphin"
+        ],
+        "ga": "deilf",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "delta prawn"
+        ],
+        "ga": "deiltechloicheán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "John Dory",
+            "dory"
+        ],
+        "ga": "deoraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chafer"
+        ],
+        "ga": "deá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dik-dik"
+        ],
+        "ga": "dic-dic",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dingo"
+        ],
+        "ga": "diongó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "common mussel",
+            "mussel",
+            "blue mussel"
+        ],
+        "ga": "diúilicín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hippopotamus"
+        ],
+        "ga": "dobhareach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "doctor fish",
+            "nibble fish",
+            "kangal fish",
+            "bonefish"
+        ],
+        "ga": "dochtúir-iasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "water beetle"
+        ],
+        "ga": "doirb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dingy skipper butterfly"
+        ],
+        "ga": "donnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hedge sparrow",
+            "dunnock"
+        ],
+        "ga": "donnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bush cricket"
+        ],
+        "ga": "dorsán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dolphinfish",
+            "dolphin-fish"
+        ],
+        "ga": "dorád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dragonfish",
+            "lionfish",
+            "lion fish"
+        ],
+        "ga": "dragainéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dragon lizard"
+        ],
+        "ga": "dragan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flea"
+        ],
+        "ga": "dreancaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wren"
+        ],
+        "ga": "dreoilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "drill"
+        ],
+        "ga": "drill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bramble shark"
+        ],
+        "ga": "dris-siorc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rorqual"
+        ],
+        "ga": "droimeiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fin whale",
+            "common rorqual",
+            "common finback"
+        ],
+        "ga": "droimeiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dromedary camel"
+        ],
+        "ga": "dromadaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spine"
+        ],
+        "ga": "dromlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "starling"
+        ],
+        "ga": "druid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slug"
+        ],
+        "ga": "drúchtín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "camouflage"
+        ],
+        "ga": "duaithníocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dugong"
+        ],
+        "ga": "dugang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leaf insect"
+        ],
+        "ga": "duillíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dace"
+        ],
+        "ga": "déas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dimorphism"
+        ],
+        "ga": "démhorfacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dimetredon"
+        ],
+        "ga": "démhéadradón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "duiker"
+        ],
+        "ga": "dícear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blackbuck"
+        ],
+        "ga": "dúbhoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "black grouse",
+            "blackcock"
+        ],
+        "ga": "dúchoileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ivory"
+        ],
+        "ga": "eabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "equine"
+        ],
+        "ga": "eachaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "swan"
+        ],
+        "ga": "eala",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flock"
+        ],
+        "ga": "ealta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "murmuration"
+        ],
+        "ga": "ealta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elasmobranch"
+        ],
+        "ga": "ealásmabrainciach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ant egg"
+        ],
+        "ga": "earra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "redstart"
+        ],
+        "ga": "earrdheargán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "surgeonfish"
+        ],
+        "ga": "earrspíonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "eel",
+            "common eel",
+            "European eel"
+        ],
+        "ga": "eascann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stoat",
+            "weasel"
+        ],
+        "ga": "easóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "echidna"
+        ],
+        "ga": "eicidneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "echinococcus"
+        ],
+        "ga": "eicineacocas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ectoproct"
+        ],
+        "ga": "eicteapracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "echinoderm"
+        ],
+        "ga": "eicínideirmeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elytra"
+        ],
+        "ga": "eilitream",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "falcon"
+        ],
+        "ga": "fabhcún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "feist",
+            "fyce",
+            "fice"
+        ],
+        "ga": "fadhst",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "falanouc"
+        ],
+        "ga": "falanúc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phalarope"
+        ],
+        "ga": "falaróp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "auk"
+        ],
+        "ga": "falcóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gull"
+        ],
+        "ga": "faoileán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "whiting"
+        ],
+        "ga": "faoitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wolf spider"
+        ],
+        "ga": "faoldamhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wolf-herring"
+        ],
+        "ga": "faolscadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "perch"
+        ],
+        "ga": "fara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "plover"
+        ],
+        "ga": "feadóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fan worm",
+            "fanworm"
+        ],
+        "ga": "feanphéist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "turtle dove"
+        ],
+        "ga": "fearán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "insect"
+        ],
+        "ga": "feithid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "carnivore"
+        ],
+        "ga": "feoiliteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deer"
+        ],
+        "ga": "fia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "European wild cat"
+        ],
+        "ga": "fia-chat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wild leopard"
+        ],
+        "ga": "fia-liopard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "feral pigeon"
+        ],
+        "ga": "fiacholm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wildlife",
+            "wild life"
+        ],
+        "ga": "fiadhúlra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "deer mouse"
+        ],
+        "ga": "fialuch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wild dog"
+        ],
+        "ga": "fiamhadra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nightingale"
+        ],
+        "ga": "filiméala",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "family"
+        ],
+        "ga": "fine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "finnock"
+        ],
+        "ga": "fionnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ferret"
+        ],
+        "ga": "firéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "backswimmer",
+            "waterboatman",
+            "water boatman"
+        ],
+        "ga": "fleascóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subclass",
+            "sub-class"
+        ],
+        "ga": "fo-aicme",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sub-imago"
+        ],
+        "ga": "fo-íomhách",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "undercoat"
+        ],
+        "ga": "fochóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wasp"
+        ],
+        "ga": "foiche",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grebe"
+        ],
+        "ga": "foitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hovering"
+        ],
+        "ga": "foluain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "guillemot"
+        ],
+        "ga": "foracha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fossa"
+        ],
+        "ga": "fosa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subspecies"
+        ],
+        "ga": "fospeiceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rat"
+        ],
+        "ga": "francach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "frigate bird"
+        ],
+        "ga": "frigéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "frit-fly",
+            "frit fly"
+        ],
+        "ga": "fritchuil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "frog"
+        ],
+        "ga": "frog",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "frog",
+            "common frog",
+            "European common frog",
+            "European common brown frog"
+        ],
+        "ga": "frog",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "frogmouth"
+        ],
+        "ga": "frogbhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "froglet"
+        ],
+        "ga": "frogán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "true bug",
+            "bug"
+        ],
+        "ga": "fríd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lark"
+        ],
+        "ga": "fuiseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "skylark"
+        ],
+        "ga": "fuiseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fulmar petrel",
+            "fulmar"
+        ],
+        "ga": "fulmaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "swallow"
+        ],
+        "ga": "fáinleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ringlet butterfly"
+        ],
+        "ga": "fáinneog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rove beetle"
+        ],
+        "ga": "fándaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "whiskers"
+        ],
+        "ga": "féasóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "butterfly"
+        ],
+        "ga": "féileacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "papillon"
+        ],
+        "ga": "féileacánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phylum"
+        ],
+        "ga": "fíleam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mite"
+        ],
+        "ga": "fíneog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cowrie",
+            "cowry"
+        ],
+        "ga": "fínicín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dogfish"
+        ],
+        "ga": "fíogach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "true lobster",
+            "lobsterette"
+        ],
+        "ga": "fíorghliomach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stinger"
+        ],
+        "ga": "ga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "goureen",
+            "Killarney shad"
+        ],
+        "ga": "gabhairín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "goat"
+        ],
+        "ga": "gabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "martin"
+        ],
+        "ga": "gabhlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gadwall"
+        ],
+        "ga": "gadual",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "galjoen"
+        ],
+        "ga": "gaileon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "earwig"
+        ],
+        "ga": "gailseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scale"
+        ],
+        "ga": "gainne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gannet"
+        ],
+        "ga": "gainéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gharial",
+            "gavial",
+            "Indian gavial",
+            "Indian gharial"
+        ],
+        "ga": "gairiál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "marlin",
+            "spearfish",
+            "sailfish"
+        ],
+        "ga": "gaithiasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "galatheid"
+        ],
+        "ga": "galaitéideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "galliform"
+        ],
+        "ga": "gallachruthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bushbaby"
+        ],
+        "ga": "galágó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crane fly",
+            "daddy-long-legs",
+            "crane-fly"
+        ],
+        "ga": "galán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "goral"
+        ],
+        "ga": "garal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "porgy",
+            "seabream"
+        ],
+        "ga": "garbhánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "steenbrass"
+        ],
+        "ga": "garbhánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stumpnose",
+            "dageraad bream",
+            "dageraadbream"
+        ],
+        "ga": "garbhánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pope",
+            "ruffe",
+            "ruff"
+        ],
+        "ga": "garbhóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stickleback"
+        ],
+        "ga": "garmachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "three-spined stickleback",
+            "pinkeen"
+        ],
+        "ga": "garmachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grouper",
+            "sea perch"
+        ],
+        "ga": "garúpach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cunner"
+        ],
+        "ga": "garúpach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gazelle"
+        ],
+        "ga": "gasail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gastropod"
+        ],
+        "ga": "gastrapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "common tern"
+        ],
+        "ga": "geabhróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "yak"
+        ],
+        "ga": "geac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sparrow"
+        ],
+        "ga": "gealbhan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "salmon fry",
+            "fry",
+            "trout fry"
+        ],
+        "ga": "gealóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bunting"
+        ],
+        "ga": "gealóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gemsbok"
+        ],
+        "ga": "geamsboc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "quail"
+        ],
+        "ga": "gearg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tope",
+            "tope shark"
+        ],
+        "ga": "gearrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gatekeeper",
+            "hedge brown butterfly",
+            "gate-keeper"
+        ],
+        "ga": "geatóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gatekeeper butterfly"
+        ],
+        "ga": "geatóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gecko"
+        ],
+        "ga": "geiceo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gill"
+        ],
+        "ga": "geolbhach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alevin"
+        ],
+        "ga": "gilidín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "whitethroat"
+        ],
+        "ga": "gilphíb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bleak"
+        ],
+        "ga": "gilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "silverfish"
+        ],
+        "ga": "gilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "oxpecker"
+        ],
+        "ga": "giobaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "edible winkle",
+            "winkle",
+            "periwinkle",
+            "edible periwinkle",
+            "sea snail"
+        ],
+        "ga": "gioradán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hare"
+        ],
+        "ga": "giorria",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lagomorph"
+        ],
+        "ga": "giorriach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "young pike"
+        ],
+        "ga": "giosán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guitarfish"
+        ],
+        "ga": "giotáriasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "barnacle"
+        ],
+        "ga": "giúrann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "goose barnacle"
+        ],
+        "ga": "giúrann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cleaner fish"
+        ],
+        "ga": "glantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "finch"
+        ],
+        "ga": "glasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grayling butterfly"
+        ],
+        "ga": "glasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coalfish",
+            "green cod",
+            "sillock",
+            "coley",
+            "black cod",
+            "black pollack",
+            "black jack",
+            "saithe"
+        ],
+        "ga": "glasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wagtail"
+        ],
+        "ga": "glasóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "linnet"
+        ],
+        "ga": "gleoiseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lobster"
+        ],
+        "ga": "gliomach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sea snail"
+        ],
+        "ga": "gnamhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "standard dachshund"
+        ],
+        "ga": "gnáthbhroc-chú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "standard poodle"
+        ],
+        "ga": "gnáthphúdal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gnu",
+            "wildebeest"
+        ],
+        "ga": "gnú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "weevil"
+        ],
+        "ga": "gobachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bill-casing"
+        ],
+        "ga": "gobchásáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lesser weever"
+        ],
+        "ga": "goineadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gorilla"
+        ],
+        "ga": "goraille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gorgonian"
+        ],
+        "ga": "gorgaineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gorgonopsid"
+        ],
+        "ga": "gorganopsaideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bluethroat"
+        ],
+        "ga": "gormphíb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bluebird"
+        ],
+        "ga": "gorméan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "grunt",
+            "sweetlips"
+        ],
+        "ga": "gramhsaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grivet guenon"
+        ],
+        "ga": "gribhéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gribble"
+        ],
+        "ga": "gribéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "croaker",
+            "drum"
+        ],
+        "ga": "grágaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hedgehog"
+        ],
+        "ga": "gráinneog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ratfish"
+        ],
+        "ga": "gránadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grenadier",
+            "rat-tail",
+            "rat-tail fish",
+            "rat-tail grenadier",
+            "rat-fish"
+        ],
+        "ga": "gránádóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crane"
+        ],
+        "ga": "grús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "storm petrel"
+        ],
+        "ga": "guairdeall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guanaco"
+        ],
+        "ga": "guanácó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guano"
+        ],
+        "ga": "guanó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "godwit"
+        ],
+        "ga": "guilbneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guinea fowl"
+        ],
+        "ga": "guine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guppy"
+        ],
+        "ga": "gupaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guan"
+        ],
+        "ga": "guán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gall-fly"
+        ],
+        "ga": "gálchuil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gall wasp"
+        ],
+        "ga": "gálfhoiche",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gall-midge",
+            "gall midge"
+        ],
+        "ga": "gálmhíoltóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gaur"
+        ],
+        "ga": "gár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "goose"
+        ],
+        "ga": "gé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "appendage"
+        ],
+        "ga": "géagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bitterling"
+        ],
+        "ga": "géaróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gyrodactylosis"
+        ],
+        "ga": "gíreadachtalóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "halibut"
+        ],
+        "ga": "haileabó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hamster"
+        ],
+        "ga": "hamstar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hartebeest"
+        ],
+        "ga": "hartaibéist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "herpetology"
+        ],
+        "ga": "heirpiteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hydra"
+        ],
+        "ga": "hiodra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydroid"
+        ],
+        "ga": "hiodróideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hyrax"
+        ],
+        "ga": "hioracsach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "husky"
+        ],
+        "ga": "huscaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Hovawart"
+        ],
+        "ga": "hófavartach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hoopoe"
+        ],
+        "ga": "húpú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jabiru"
+        ],
+        "ga": "iabairiú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jagger"
+        ],
+        "ga": "iagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jaguard"
+        ],
+        "ga": "iagard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jaguar"
+        ],
+        "ga": "iaguar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jaguarundi"
+        ],
+        "ga": "iaguarúndaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jaglion"
+        ],
+        "ga": "iaigleon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bandog"
+        ],
+        "ga": "iallmhadra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bootlace worm"
+        ],
+        "ga": "iallphéist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bat"
+        ],
+        "ga": "ialtóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ichthyology"
+        ],
+        "ga": "iasceolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "emperor",
+            "scavenger"
+        ],
+        "ga": "impire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "emperor moth"
+        ],
+        "ga": "impire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "invertebrate"
+        ],
+        "ga": "inveirteabrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ichthyosaur"
+        ],
+        "ga": "iochtasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "iguana"
+        ],
+        "ga": "ioguána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "iguanodon"
+        ],
+        "ga": "ioguánódón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eagle"
+        ],
+        "ga": "iolar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "impala"
+        ],
+        "ga": "iompála",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "entoproct"
+        ],
+        "ga": "iontapracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "squirrel"
+        ],
+        "ga": "iora",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "labrador",
+            "labrador dog"
+        ],
+        "ga": "labradór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "labrum"
+        ],
+        "ga": "labram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "duck"
+        ],
+        "ga": "lacha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "swallowtailed moth"
+        ],
+        "ga": "ladhróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "drone"
+        ],
+        "ga": "ladrann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lizard"
+        ],
+        "ga": "laghairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lizardfish"
+        ],
+        "ga": "laghairtiasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "weakfish",
+            "squeteague",
+            "STG",
+            "grey weakfish"
+        ],
+        "ga": "lagiasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lagena"
+        ],
+        "ga": "laigéine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "firefly",
+            "glow-worm"
+        ],
+        "ga": "lampróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ling"
+        ],
+        "ga": "langa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "larva"
+        ],
+        "ga": "larbha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "firecrest"
+        ],
+        "ga": "lasairchíor",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lechwe"
+        ],
+        "ga": "laící",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "moth"
+        ],
+        "ga": "leamhan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phalène"
+        ],
+        "ga": "leamhanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "half-breed",
+            "halfbreed"
+        ],
+        "ga": "leathfholaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "halfbeak"
+        ],
+        "ga": "leathghob",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "plaice",
+            "European plaice"
+        ],
+        "ga": "leathóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flatfish"
+        ],
+        "ga": "leathóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lemming"
+        ],
+        "ga": "leimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flounder",
+            "fluke"
+        ],
+        "ga": "leith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flatworm",
+            "flat-worm"
+        ],
+        "ga": "leithphéist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "liguar"
+        ],
+        "ga": "leoguar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leonberger"
+        ],
+        "ga": "leoinbeirgeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lion"
+        ],
+        "ga": "leon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lipard"
+        ],
+        "ga": "leopard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "black grouse",
+            "grey hen"
+        ],
+        "ga": "liathchearc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mistle thrush"
+        ],
+        "ga": "liatráisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leoger"
+        ],
+        "ga": "liogar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leguar"
+        ],
+        "ga": "lioguar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leopard"
+        ],
+        "ga": "liopard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leopon"
+        ],
+        "ga": "lipeon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pike",
+            "northern pike"
+        ],
+        "ga": "liús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pikeperch"
+        ],
+        "ga": "liúsphéirse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lowchen"
+        ],
+        "ga": "lobhaitséin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lamprey"
+        ],
+        "ga": "loimpre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "loris"
+        ],
+        "ga": "loras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "burbot"
+        ],
+        "ga": "lota",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "velvet crab",
+            "velvet swimming crab",
+            "swimcrab",
+            "swimming crab",
+            "fiddler crab"
+        ],
+        "ga": "luaineachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sanderling"
+        ],
+        "ga": "luathrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "elver"
+        ],
+        "ga": "luathóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mouse"
+        ],
+        "ga": "luch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lug-worm",
+            "lob-worm"
+        ],
+        "ga": "lugach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "herbivore"
+        ],
+        "ga": "luibhiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lurcher"
+        ],
+        "ga": "luirsire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "angler fish"
+        ],
+        "ga": "láimhíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "angler",
+            "anglerfish",
+            "monk",
+            "monkfish"
+        ],
+        "ga": "láimhíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "llama"
+        ],
+        "ga": "láma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lacewing"
+        ],
+        "ga": "lásóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "skipper"
+        ],
+        "ga": "léimneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "locust"
+        ],
+        "ga": "lócaiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lantern fish"
+        ],
+        "ga": "lóchrannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lantern shark"
+        ],
+        "ga": "lóchrannsiorc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "diver"
+        ],
+        "ga": "lóma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "macrauchenia"
+        ],
+        "ga": "macráicéineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dog"
+        ],
+        "ga": "madra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maleo"
+        ],
+        "ga": "mailió",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mandrill"
+        ],
+        "ga": "maindrill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mantle"
+        ],
+        "ga": "mainte",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mantis"
+        ],
+        "ga": "maintis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "torpor"
+        ],
+        "ga": "mairbhití",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mastigure"
+        ],
+        "ga": "maisteagúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mastiff"
+        ],
+        "ga": "maistín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mallard"
+        ],
+        "ga": "mallard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mammal"
+        ],
+        "ga": "mamach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mammoth"
+        ],
+        "ga": "mamat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pollock",
+            "pollack"
+        ],
+        "ga": "mangach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "marabou stork"
+        ],
+        "ga": "marabú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "markhor"
+        ],
+        "ga": "marcár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "margay"
+        ],
+        "ga": "margae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "marmot"
+        ],
+        "ga": "marmat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "marsupial"
+        ],
+        "ga": "marsúipiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mara"
+        ],
+        "ga": "mará",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mask"
+        ],
+        "ga": "masc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "matriarch"
+        ],
+        "ga": "matrarc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tit"
+        ],
+        "ga": "meantán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lapdog"
+        ],
+        "ga": "measán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "skua"
+        ],
+        "ga": "meirleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "merlin"
+        ],
+        "ga": "meirliún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "metamorphosis"
+        ],
+        "ga": "meiteamorfóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "metriorhynchid"
+        ],
+        "ga": "meitririncid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "honey-eater"
+        ],
+        "ga": "militeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pellet"
+        ],
+        "ga": "millín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minibeast"
+        ],
+        "ga": "mionainmhí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pygmy hog"
+        ],
+        "ga": "mionbhorra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dwarf chameleon"
+        ],
+        "ga": "mionchaimileon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pygmy hippopotamus"
+        ],
+        "ga": "miondobhareach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flitting"
+        ],
+        "ga": "mioneitilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pygmy falcon"
+        ],
+        "ga": "mionfhabhcún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pygmy butterfly"
+        ],
+        "ga": "mionfhéileacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dwarf blue butterfly"
+        ],
+        "ga": "mionghormán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pygmy marmoset"
+        ],
+        "ga": "mionmharmaiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sardinella"
+        ],
+        "ga": "mionsairdín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bonobo"
+        ],
+        "ga": "mionsimpeansaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mini schnauzer"
+        ],
+        "ga": "mionsneabhsar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "poor cod"
+        ],
+        "ga": "miontrosc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pygmy owl"
+        ],
+        "ga": "mionulchabhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mule"
+        ],
+        "ga": "miúil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mollusc"
+        ],
+        "ga": "moileasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "soldier beetle"
+        ],
+        "ga": "moltán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monotreme"
+        ],
+        "ga": "monaitréimeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "muntjac"
+        ],
+        "ga": "muinseac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "murex"
+        ],
+        "ga": "muireachaoin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "armed bullhead",
+            "pogge"
+        ],
+        "ga": "muiricín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dove shell"
+        ],
+        "ga": "muirleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scallop"
+        ],
+        "ga": "muirín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mosquito"
+        ],
+        "ga": "muiscít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mussurana",
+            "mussurana snake"
+        ],
+        "ga": "musarána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "musk beetle"
+        ],
+        "ga": "musc-chiaróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "musk deer"
+        ],
+        "ga": "muscfhia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "muskrat"
+        ],
+        "ga": "muscfhrancach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "muscovy duck"
+        ],
+        "ga": "musclacha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mustelid"
+        ],
+        "ga": "mustailid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "dam",
+            "mother-animal"
+        ],
+        "ga": "máthair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parent population"
+        ],
+        "ga": "máthairphobal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "millipede",
+            "milliped"
+        ],
+        "ga": "mílechosach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "louse"
+        ],
+        "ga": "míol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "human itch mite"
+        ],
+        "ga": "míolcheard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "itch mite"
+        ],
+        "ga": "míolcheard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "whale shark"
+        ],
+        "ga": "míolsiorc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "midge"
+        ],
+        "ga": "míoltóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mynah",
+            "myna",
+            "starling"
+        ],
+        "ga": "míona",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "meerkat"
+        ],
+        "ga": "míorchat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mysid"
+        ],
+        "ga": "mísid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "megapode",
+            "scrub fowl"
+        ],
+        "ga": "mórchosach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bigeyes",
+            "PRI"
+        ],
+        "ga": "mórshúileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "muggiaea"
+        ],
+        "ga": "múigiach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "moose"
+        ],
+        "ga": "mús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "common snipe"
+        ],
+        "ga": "naoscach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "snipe eel"
+        ],
+        "ga": "naosceascann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "snipefish"
+        ],
+        "ga": "naosciasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "naricorn"
+        ],
+        "ga": "naracorn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "narwhal"
+        ],
+        "ga": "narbhal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "snake"
+        ],
+        "ga": "nathair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "viperfish"
+        ],
+        "ga": "nathrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nectar"
+        ],
+        "ga": "neachtar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nest"
+        ],
+        "ga": "nead",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nymph"
+        ],
+        "ga": "nimfeach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "newt"
+        ],
+        "ga": "niút",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nothosaur"
+        ],
+        "ga": "notasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nene"
+        ],
+        "ga": "néné",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "notochord"
+        ],
+        "ga": "nótacorda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nudibranch"
+        ],
+        "ga": "núdabrainciach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "octopus"
+        ],
+        "ga": "ochtapas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "icefish"
+        ],
+        "ga": "oigheariasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fawn"
+        ],
+        "ga": "oisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "giant isopod"
+        ],
+        "ga": "oll-iseapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "giant armadillo"
+        ],
+        "ga": "ollarmadailín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "giant toad"
+        ],
+        "ga": "ollbhuaf",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "giant otter"
+        ],
+        "ga": "olldobhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "giant periwinkle"
+        ],
+        "ga": "ollfhaocha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "giant muntjac"
+        ],
+        "ga": "ollmhuinseac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "giant panda"
+        ],
+        "ga": "ollphanda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "giant pangolin"
+        ],
+        "ga": "ollphangailin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "giant salamander"
+        ],
+        "ga": "ollshalamandar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "giant ibis"
+        ],
+        "ga": "ollíbis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "omasum",
+            "manyplies",
+            "psalterium",
+            "third stomach",
+            "manifold"
+        ],
+        "ga": "omasam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "oryx"
+        ],
+        "ga": "oracs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "bastard wing",
+            "alula"
+        ],
+        "ga": "orda",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "orfe"
+        ],
+        "ga": "orfa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ornithomimid"
+        ],
+        "ga": "ornaitimímid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ornithischian"
+        ],
+        "ga": "ornaitisceach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ornithopod"
+        ],
+        "ga": "ornatapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ocelot"
+        ],
+        "ga": "osalat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ostracoderm"
+        ],
+        "ga": "ostracaideirmeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pachyderm"
+        ],
+        "ga": "pacaideirmeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeozoology"
+        ],
+        "ga": "pailéazó-eolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pompano"
+        ],
+        "ga": "pampanó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "panda"
+        ],
+        "ga": "panda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pangolin"
+        ],
+        "ga": "pangailin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bastard halibut",
+            "olive flounder"
+        ],
+        "ga": "paralichthys",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parasaurolophus"
+        ],
+        "ga": "parasáralófas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pardalote"
+        ],
+        "ga": "pardalót",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "parona leatherjack",
+            "parona leatherjacket"
+        ],
+        "ga": "paróna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "possum"
+        ],
+        "ga": "pasam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "partridge"
+        ],
+        "ga": "patraisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "partridge"
+        ],
+        "ga": "patraisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "secretary bird"
+        ],
+        "ga": "peannaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pelican"
+        ],
+        "ga": "peileacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pelican fish",
+            "pelican eel"
+        ],
+        "ga": "peileacánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "perissodactyl"
+        ],
+        "ga": "peireasódachtalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "periphyton"
+        ],
+        "ga": "peirifíotón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pheasant"
+        ],
+        "ga": "piasún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pheasant"
+        ],
+        "ga": "piasún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "common piddock"
+        ],
+        "ga": "pideog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "piddock"
+        ],
+        "ga": "pideog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lapwing",
+            "peewit",
+            "green plover"
+        ],
+        "ga": "pilibín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pilchard"
+        ],
+        "ga": "pilséar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pika"
+        ],
+        "ga": "pioca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "piranha fish"
+        ],
+        "ga": "pioráine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "piranha"
+        ],
+        "ga": "piorána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pipa",
+            "Surinam toad"
+        ],
+        "ga": "pipe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pitta"
+        ],
+        "ga": "pite",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chub"
+        ],
+        "ga": "plobán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "planetetherium"
+        ],
+        "ga": "pláinéadaitéiriam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plaeesok"
+        ],
+        "ga": "pláíseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pliosaur"
+        ],
+        "ga": "pléasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plesiadapis"
+        ],
+        "ga": "pléiseadapas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plesiosaur"
+        ],
+        "ga": "pléiseasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Kerry beagle"
+        ],
+        "ga": "pocadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pointer"
+        ],
+        "ga": "pointéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polypod"
+        ],
+        "ga": "polapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pollan",
+            "vendace"
+        ],
+        "ga": "pollán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dot moth"
+        ],
+        "ga": "poncleamhan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crab"
+        ],
+        "ga": "portán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "teal"
+        ],
+        "ga": "praslacha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "saurie"
+        ],
+        "ga": "preabaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "springtail"
+        ],
+        "ga": "preabaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Saury pike",
+            "skipper"
+        ],
+        "ga": "preabaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bird louse",
+            "biting louse"
+        ],
+        "ga": "priocmhíol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "burnished brass moth"
+        ],
+        "ga": "prásach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "proboscidean"
+        ],
+        "ga": "próboscadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "protheca"
+        ],
+        "ga": "próithiach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "protoctistan"
+        ],
+        "ga": "prótachtaisteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "proturan"
+        ],
+        "ga": "prótúrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trematode",
+            "fluke"
+        ],
+        "ga": "puchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "puffin"
+        ],
+        "ga": "puifín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pupa"
+        ],
+        "ga": "pupa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "eelpout",
+            "eel-pout"
+        ],
+        "ga": "puteascann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "paca"
+        ],
+        "ga": "páca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "peacock butterfly",
+            "peacock"
+        ],
+        "ga": "péacóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "warble-fly"
+        ],
+        "ga": "péarsla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pekinese"
+        ],
+        "ga": "péicíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "percoid"
+        ],
+        "ga": "péirseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cut throat"
+        ],
+        "ga": "píbchréachtach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pilot fish"
+        ],
+        "ga": "píolótach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pilot whale",
+            "caa'ing whale",
+            "blackfish"
+        ],
+        "ga": "píolótach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "piping"
+        ],
+        "ga": "píopaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "python"
+        ],
+        "ga": "píotón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "poriferan"
+        ],
+        "ga": "póiríoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "European pochard",
+            "pochard",
+            "bay duck"
+        ],
+        "ga": "póiseard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pedigree"
+        ],
+        "ga": "pórtheastas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "poodle"
+        ],
+        "ga": "púdal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pudu"
+        ],
+        "ga": "púdú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pouch"
+        ],
+        "ga": "púitse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "puma"
+        ],
+        "ga": "púma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "racoon"
+        ],
+        "ga": "racún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "raft"
+        ],
+        "ga": "rafta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rag-worm"
+        ],
+        "ga": "raga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ratite"
+        ],
+        "ga": "raitíteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "reptile"
+        ],
+        "ga": "reiptíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pipit"
+        ],
+        "ga": "riabhóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shipworm",
+            "teredo"
+        ],
+        "ga": "rincs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rhinotheca"
+        ],
+        "ga": "rinithiach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tine"
+        ],
+        "ga": "rinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "buff-tip moth"
+        ],
+        "ga": "rinnbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ray"
+        ],
+        "ga": "roc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Eurasian oystercatcher",
+            "oystercatcher",
+            "oyster catcher",
+            "oyster-catcher"
+        ],
+        "ga": "roilleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seerfish"
+        ],
+        "ga": "ronnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scomber mackerel"
+        ],
+        "ga": "ronnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mackerel"
+        ],
+        "ga": "ronnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rostrum"
+        ],
+        "ga": "rostram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "walrus"
+        ],
+        "ga": "rosualt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wheel animalcule",
+            "rotifer"
+        ],
+        "ga": "rothánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "char"
+        ],
+        "ga": "ruabhreac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cockle"
+        ],
+        "ga": "ruacan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common cockle",
+            "edible cockle"
+        ],
+        "ga": "ruacan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reeve"
+        ],
+        "ga": "rufachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ruff"
+        ],
+        "ga": "rufachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Jack Russell",
+            "Jack Russell Terrier"
+        ],
+        "ga": "ruiséalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rudd"
+        ],
+        "ga": "ruán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rail"
+        ],
+        "ga": "rálóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oar fish"
+        ],
+        "ga": "rámhach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paddle-worm"
+        ],
+        "ga": "rámhach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "race"
+        ],
+        "ga": "rás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pod"
+        ],
+        "ga": "ráth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "larva of woodworm",
+            "woodworm larva"
+        ],
+        "ga": "réadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stargazer"
+        ],
+        "ga": "réadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reindeer"
+        ],
+        "ga": "réinfhia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "king cobra"
+        ],
+        "ga": "rí-chobra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "king weakfish"
+        ],
+        "ga": "rí-lagiasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "king snake"
+        ],
+        "ga": "rí-nathair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "king penguin"
+        ],
+        "ga": "rí-phiongain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "king mackerel"
+        ],
+        "ga": "rí-ronnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "great eagle owl"
+        ],
+        "ga": "rí-ulchabhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chinook salmon",
+            "spring salmon",
+            "king salmon"
+        ],
+        "ga": "ríbhradán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "king vulture"
+        ],
+        "ga": "ríbhultúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "queenfish"
+        ],
+        "ga": "ríoniasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "queenfish"
+        ],
+        "ga": "ríoniasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "king crab",
+            "stone king crab"
+        ],
+        "ga": "ríphortán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "roach"
+        ],
+        "ga": "róiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "horsehair",
+            "horse hair"
+        ],
+        "ga": "rón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seal"
+        ],
+        "ga": "rón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Rottweiler"
+        ],
+        "ga": "rótvaidhléir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rook"
+        ],
+        "ga": "rúcach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fieldfare"
+        ],
+        "ga": "sacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kittiwake"
+        ],
+        "ga": "saidhbhéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "distinctive characteristic"
+        ],
+        "ga": "saintréith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sardine"
+        ],
+        "ga": "sairdín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "swarm"
+        ],
+        "ga": "saithe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "salmonid"
+        ],
+        "ga": "salmainid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sprat"
+        ],
+        "ga": "salán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "saluki"
+        ],
+        "ga": "salúcaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "psammodromus"
+        ],
+        "ga": "samadrómas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "peal"
+        ],
+        "ga": "samhnachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Sonaghen trout"
+        ],
+        "ga": "samlachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "saola",
+            "Vu Quang ox"
+        ],
+        "ga": "saola",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "scabbardfish"
+        ],
+        "ga": "scabaird",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "herring"
+        ],
+        "ga": "scadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clupeoid"
+        ],
+        "ga": "scadánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "scorpion"
+        ],
+        "ga": "scairp",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scorpionfish"
+        ],
+        "ga": "scairpiasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sea scorpion"
+        ],
+        "ga": "scairpiasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "scarab beetle"
+        ],
+        "ga": "scarab",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flash"
+        ],
+        "ga": "scead",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "velvet scoter"
+        ],
+        "ga": "sceadach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tick"
+        ],
+        "ga": "sceartán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "knife shrimp"
+        ],
+        "ga": "scianséacla",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "raja ray"
+        ],
+        "ga": "sciata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "skink"
+        ],
+        "ga": "scinc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "schipperke"
+        ],
+        "ga": "scipéirín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "snapper",
+            "jobfish"
+        ],
+        "ga": "sclamhaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "glow-belly",
+            "splitfin"
+        ],
+        "ga": "scoilteiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "megrim"
+        ],
+        "ga": "scoilteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scaldfish"
+        ],
+        "ga": "scoilteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common smooth hound",
+            "smooth-hound",
+            "smoothhound"
+        ],
+        "ga": "scoirneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scolosaur",
+            "Scolosaurus"
+        ],
+        "ga": "scolasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scup",
+            "SCP"
+        ],
+        "ga": "scop",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "snakefly"
+        ],
+        "ga": "scrogchuil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hooting-call"
+        ],
+        "ga": "scréach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shrike"
+        ],
+        "ga": "scréachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jay"
+        ],
+        "ga": "scréachóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "radula"
+        ],
+        "ga": "scríobán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "squid"
+        ],
+        "ga": "scuid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sculpin"
+        ],
+        "ga": "scuilpin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "purplestriped jelly",
+            "mauve stinger"
+        ],
+        "ga": "scálachaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common scoter"
+        ],
+        "ga": "scótar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chow chow"
+        ],
+        "ga": "seabha-seabha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hawk"
+        ],
+        "ga": "seabhac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "castaneta",
+            "CTA"
+        ],
+        "ga": "seabhaciasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jackal"
+        ],
+        "ga": "seacál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shad"
+        ],
+        "ga": "sead",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shag"
+        ],
+        "ga": "seaga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "foraging"
+        ],
+        "ga": "sealgaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chamois"
+        ],
+        "ga": "seamaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ant"
+        ],
+        "ga": "seangán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "common shelduck",
+            "shelduck"
+        ],
+        "ga": "seil-lacha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "snail"
+        ],
+        "ga": "seilide",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "serval"
+        ],
+        "ga": "seirbheal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gerbil"
+        ],
+        "ga": "seirbil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tsessebi"
+        ],
+        "ga": "seiseibe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tsetse fly",
+            "tsetse-fly",
+            "tsetse"
+        ],
+        "ga": "seitse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shar pei"
+        ],
+        "ga": "seár-pé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sphynx"
+        ],
+        "ga": "sfioncs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chimpanzee"
+        ],
+        "ga": "simpeansaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chinchilla"
+        ],
+        "ga": "sinsile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "siphon",
+            "syphon"
+        ],
+        "ga": "siofón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fox",
+            "red fox"
+        ],
+        "ga": "sionnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shark"
+        ],
+        "ga": "siorc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chiru"
+        ],
+        "ga": "siorú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "siskin",
+            "Eurasian siskin"
+        ],
+        "ga": "siscín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sitatunga"
+        ],
+        "ga": "siteatunga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "robber-fly"
+        ],
+        "ga": "sladchuil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "butterfish"
+        ],
+        "ga": "sleamhnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "smoothhead",
+            "nakedhead",
+            "slickhead"
+        ],
+        "ga": "slimcheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tilefish"
+        ],
+        "ga": "slinniasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conch"
+        ],
+        "ga": "sliogán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "black-headed gull"
+        ],
+        "ga": "sléibhín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clapnet"
+        ],
+        "ga": "smeachlíon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "smelt"
+        ],
+        "ga": "smealt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "smilodon"
+        ],
+        "ga": "smiolodón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "snout"
+        ],
+        "ga": "smut",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "noddy"
+        ],
+        "ga": "sméidire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thrush"
+        ],
+        "ga": "smólach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "treecreeper"
+        ],
+        "ga": "snag",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "schnauzer"
+        ],
+        "ga": "sneabhsar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "threadfin",
+            "tasselfish"
+        ],
+        "ga": "snáitheiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "needlefish"
+        ],
+        "ga": "snáthiasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "threadworm",
+            "pinworm"
+        ],
+        "ga": "snáthphéist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spinneret"
+        ],
+        "ga": "sníomhadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "snook",
+            "snoek",
+            "robalo"
+        ],
+        "ga": "snúc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "common shoveller",
+            "shoveler"
+        ],
+        "ga": "spadalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kick"
+        ],
+        "ga": "speach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "spermatheca"
+        ],
+        "ga": "speirmithiach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "robin"
+        ],
+        "ga": "spideog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spinner"
+        ],
+        "ga": "spinéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spiracle"
+        ],
+        "ga": "spioracal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sparrowhawk"
+        ],
+        "ga": "spioróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spitz"
+        ],
+        "ga": "spitse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wattle"
+        ],
+        "ga": "sprochaille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spadefish"
+        ],
+        "ga": "spádiasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spaniel"
+        ],
+        "ga": "spáinnéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sponge"
+        ],
+        "ga": "spúinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "prominent moth"
+        ],
+        "ga": "starraicín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Stegosaurus",
+            "stegosaur"
+        ],
+        "ga": "steigeasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Steller's eider"
+        ],
+        "ga": "steilléadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "structure"
+        ],
+        "ga": "struchtúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "buff arches moth"
+        ],
+        "ga": "stuabhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stylasterid"
+        ],
+        "ga": "stíolastaraideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stylopid"
+        ],
+        "ga": "stíolóipid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sawfly"
+        ],
+        "ga": "sábhchuil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sawfly",
+            "hornet"
+        ],
+        "ga": "sábhchuil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "black seabream"
+        ],
+        "ga": "sáimhín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ray's bream"
+        ],
+        "ga": "sáimhín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "saurischian"
+        ],
+        "ga": "sáirisceach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crangonid shrimp"
+        ],
+        "ga": "séacla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "common shrimp",
+            "brown shrimp"
+        ],
+        "ga": "séacla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "zorse"
+        ],
+        "ga": "séapall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "silkie",
+            "silky"
+        ],
+        "ga": "síodchearc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "waxwing"
+        ],
+        "ga": "síodeiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mannikin",
+            "waxbill"
+        ],
+        "ga": "síodghob",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "silky shark"
+        ],
+        "ga": "síodsiorc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bean goose"
+        ],
+        "ga": "síolghé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cheetah"
+        ],
+        "ga": "síota",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "axis deer",
+            "chital"
+        ],
+        "ga": "síotal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shih tzu"
+        ],
+        "ga": "síotsú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "solenette"
+        ],
+        "ga": "sóilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sucker"
+        ],
+        "ga": "súiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "remora"
+        ],
+        "ga": "súmaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "leech"
+        ],
+        "ga": "súmaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sucker"
+        ],
+        "ga": "súmaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tachinid"
+        ],
+        "ga": "tacainid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "taeniolabis"
+        ],
+        "ga": "taenialabas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "takin"
+        ],
+        "ga": "taicín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tayra"
+        ],
+        "ga": "taighre",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "thamin"
+        ],
+        "ga": "taimin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tapir"
+        ],
+        "ga": "taipir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tamandua"
+        ],
+        "ga": "tamandua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tamaraw",
+            "tamarau",
+            "tamarao"
+        ],
+        "ga": "tamará",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tarantula"
+        ],
+        "ga": "tarantúla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bullmastiff"
+        ],
+        "ga": "tarbhmhaistín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rock ptarmigan"
+        ],
+        "ga": "tarmachan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tarpon"
+        ],
+        "ga": "tarpán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tarsier"
+        ],
+        "ga": "tarsaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pteranodon"
+        ],
+        "ga": "tearanódón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tellin"
+        ],
+        "ga": "teillíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "terebellid"
+        ],
+        "ga": "teiribeillid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "termite"
+        ],
+        "ga": "teirmít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tetrapod"
+        ],
+        "ga": "teitreapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "thigmotaxis"
+        ],
+        "ga": "tigmeatacsas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tegu"
+        ],
+        "ga": "tiogú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tilapia"
+        ],
+        "ga": "tioláipia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chiffchaff"
+        ],
+        "ga": "tiuf-teaf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tube worm"
+        ],
+        "ga": "tiúbphéist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tube-nose"
+        ],
+        "ga": "tiúbshrónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tocandira"
+        ],
+        "ga": "tocaindír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tortoise"
+        ],
+        "ga": "toirtís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tadpole"
+        ],
+        "ga": "torbán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wild boar",
+            "boar"
+        ],
+        "ga": "torc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "torsk",
+            "tulsk",
+            "tusk",
+            "cusk"
+        ],
+        "ga": "torsca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tragopan"
+        ],
+        "ga": "tragapan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "corncrake",
+            "land-rail"
+        ],
+        "ga": "traonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trevally"
+        ],
+        "ga": "treabháille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "head louse"
+        ],
+        "ga": "treaghdán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thrips"
+        ],
+        "ga": "tripeas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cod"
+        ],
+        "ga": "trosc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dung beetle",
+            "dung-beetle"
+        ],
+        "ga": "trumpallán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trilling"
+        ],
+        "ga": "tríleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trilobite"
+        ],
+        "ga": "tríliopach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chirping"
+        ],
+        "ga": "tríreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hatchetfish"
+        ],
+        "ga": "tua-iasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tuatara"
+        ],
+        "ga": "tuatára",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tuna"
+        ],
+        "ga": "tuinnín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "turbot"
+        ],
+        "ga": "turbard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "turtle"
+        ],
+        "ga": "turtar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "whirligig beetle"
+        ],
+        "ga": "táilliúir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "therapsid"
+        ],
+        "ga": "téaraipsideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "theropod"
+        ],
+        "ga": "téireapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tiglion",
+            "tigon"
+        ],
+        "ga": "tígleon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "thylacine"
+        ],
+        "ga": "tílicín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grayling"
+        ],
+        "ga": "tímeall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tiger"
+        ],
+        "ga": "tíogar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tigard"
+        ],
+        "ga": "tíogard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tiguar"
+        ],
+        "ga": "tíoguar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "totoaba"
+        ],
+        "ga": "tótuába",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tree-shrew"
+        ],
+        "ga": "túpáí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "egg"
+        ],
+        "ga": "ubh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ovipositor",
+            "egg-placer"
+        ],
+        "ga": "ubhlonnaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "owl"
+        ],
+        "ga": "ulchabhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "screech owl"
+        ],
+        "ga": "ulscréachóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ultrasaur",
+            "Ultrasaurus"
+        ],
+        "ga": "ultrasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ursid"
+        ],
+        "ga": "ursaideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vampire bat"
+        ],
+        "ga": "vaimpír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "waldrapp"
+        ],
+        "ga": "valdrap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "velvet"
+        ],
+        "ga": "veilbhit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Velociraptor"
+        ],
+        "ga": "veileasaraptar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vertebrate"
+        ],
+        "ga": "veirteabrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vicuna"
+        ],
+        "ga": "viciúine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wombat"
+        ],
+        "ga": "vombat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "whydah",
+            "weaver"
+        ],
+        "ga": "víoda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "zoophyte"
+        ],
+        "ga": "zóifít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "zoogeography"
+        ],
+        "ga": "zóigeografaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "zooplankton"
+        ],
+        "ga": "zóplanctón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "painted lady butterfly"
+        ],
+        "ga": "áilleán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "litter"
+        ],
+        "ga": "ál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ape"
+        ],
+        "ga": "ápa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "auroch"
+        ],
+        "ga": "áracs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "argali"
+        ],
+        "ga": "árgailí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eider"
+        ],
+        "ga": "éadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eland"
+        ],
+        "ga": "éalann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "emu"
+        ],
+        "ga": "éamú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ornithology"
+        ],
+        "ga": "éaneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "edaphosaurus"
+        ],
+        "ga": "éideafasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fish"
+        ],
+        "ga": "éiscín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ide",
+            "orfe"
+        ],
+        "ga": "íd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ide",
+            "silver orfe"
+        ],
+        "ga": "íd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "underparts"
+        ],
+        "ga": "íochtar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "odontophore"
+        ],
+        "ga": "ódóntafór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "olingo"
+        ],
+        "ga": "óiliongó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orang-utan"
+        ],
+        "ga": "órang-útan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "golden-eye",
+            "goldeneye"
+        ],
+        "ga": "órshúileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "host"
+        ],
+        "ga": "óstach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "urial"
+        ],
+        "ga": "úirial",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "uirapuru"
+        ],
+        "ga": "úrapurú",
+        "gender": "masculine"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "biogeochemistry"
+        ],
+        "ga": "bithgheoiceimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hornblende"
+        ],
+        "ga": "cornbhleind",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "capture"
+        ],
+        "ga": "gabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "geochemistry",
+            "geo-chemistry"
+        ],
+        "ga": "geoiceimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "geochemist"
+        ],
+        "ga": "geoicheimiceoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "geothermometry"
+        ],
+        "ga": "geoiteirmiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrogeochemistry"
+        ],
+        "ga": "hidrigeoiceimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "heazlewoodite"
+        ],
+        "ga": "híosalvúidít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "admission"
+        ],
+        "ga": "ligeantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pyrene"
+        ],
+        "ga": "piréin",
+        "gender": "feminine"
+    }
+]

@@ -1,0 +1,6287 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Blarney",
+            "Blarney cheese"
+        ],
+        "ga": "Blarnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Dutch gin",
+            "Geneva",
+            "Hollands"
+        ],
+        "ga": "Ginéiv",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Super Special"
+        ],
+        "ga": "Sár-Rogha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "avocado",
+            "avocado pear"
+        ],
+        "ga": "abhacád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "liver"
+        ],
+        "ga": "ae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "apricot"
+        ],
+        "ga": "aibreog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "acesulfame"
+        ],
+        "ga": "aicéasuilféim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "craving for food"
+        ],
+        "ga": "aimirne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "angelica",
+            "garden angelica"
+        ],
+        "ga": "ainglice",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aneurin",
+            "aneurine"
+        ],
+        "ga": "ainéirin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gratuity"
+        ],
+        "ga": "aisce",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tip"
+        ],
+        "ga": "aisce",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "albumen"
+        ],
+        "ga": "albaimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alkali"
+        ],
+        "ga": "alcaile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alcohol"
+        ],
+        "ga": "alcól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "almond"
+        ],
+        "ga": "almóinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aluminium"
+        ],
+        "ga": "alúmanam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "amurca",
+            "vegetable water"
+        ],
+        "ga": "amúrca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pineapple"
+        ],
+        "ga": "anann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "monkfish"
+        ],
+        "ga": "anglait",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sauce"
+        ],
+        "ga": "anlann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "soup"
+        ],
+        "ga": "anraith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "arrowroot"
+        ],
+        "ga": "ararút",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "corn"
+        ],
+        "ga": "arbhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "extra special"
+        ],
+        "ga": "ardrogha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bread"
+        ],
+        "ga": "arán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aspic"
+        ],
+        "ga": "aspach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aspartame"
+        ],
+        "ga": "aspairtéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reconstitute"
+        ],
+        "ga": "athdhéanamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "baba"
+        ],
+        "ga": "baba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "babassu"
+        ],
+        "ga": "babasú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bowl"
+        ],
+        "ga": "babhla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sprout"
+        ],
+        "ga": "bachlóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bacon"
+        ],
+        "ga": "bagún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "manager"
+        ],
+        "ga": "bainisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "milk"
+        ],
+        "ga": "bainne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "whole milk"
+        ],
+        "ga": "bainne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ballotine"
+        ],
+        "ga": "ballotine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "banana"
+        ],
+        "ga": "banana",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "waitress"
+        ],
+        "ga": "banfhreastalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bap"
+        ],
+        "ga": "bapa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tip"
+        ],
+        "ga": "barr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bar"
+        ],
+        "ga": "barra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "striploin"
+        ],
+        "ga": "barrluan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "topping"
+        ],
+        "ga": "barrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "basil"
+        ],
+        "ga": "basal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "food lover",
+            "foodie"
+        ],
+        "ga": "beadaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bergamot",
+            "bergamot orange"
+        ],
+        "ga": "beirgeamat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "beer"
+        ],
+        "ga": "beoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bar"
+        ],
+        "ga": "beár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "food",
+            "aliment",
+            "nutriment",
+            "sustenance"
+        ],
+        "ga": "bia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "food"
+        ],
+        "ga": "bia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rhubarb"
+        ],
+        "ga": "biabhóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "menu"
+        ],
+        "ga": "biachlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "restaurant"
+        ],
+        "ga": "bialann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rennet"
+        ],
+        "ga": "binid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "water-cress",
+            "watercress"
+        ],
+        "ga": "biolar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spit"
+        ],
+        "ga": "bior",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spirits",
+            "spirit"
+        ],
+        "ga": "biotáille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blanket"
+        ],
+        "ga": "blaincéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shell"
+        ],
+        "ga": "blaosc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shell"
+        ],
+        "ga": "blaosc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flavour"
+        ],
+        "ga": "blas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "taste"
+        ],
+        "ga": "blas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seasoning"
+        ],
+        "ga": "blastanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "salad dressing",
+            "dressing"
+        ],
+        "ga": "blastán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "savoury"
+        ],
+        "ga": "blastóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flavouring"
+        ],
+        "ga": "blasóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flavouring"
+        ],
+        "ga": "blasóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vintage"
+        ],
+        "ga": "bliain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "artichoke"
+        ],
+        "ga": "bliosán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lard"
+        ],
+        "ga": "blonag",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "buttermilk"
+        ],
+        "ga": "bláthach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "belly"
+        ],
+        "ga": "bolg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bun"
+        ],
+        "ga": "borróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "caddy"
+        ],
+        "ga": "bosca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "salmon",
+            "Atlantic salmon"
+        ],
+        "ga": "bradán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "malt vinegar"
+        ],
+        "ga": "braichfhínéagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bran"
+        ],
+        "ga": "bran",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "brandy"
+        ],
+        "ga": "branda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "breakfast"
+        ],
+        "ga": "bricfeasta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "skewer"
+        ],
+        "ga": "briogún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "biscuit",
+            "cookie"
+        ],
+        "ga": "briosca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cracker"
+        ],
+        "ga": "brioscóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shortening"
+        ],
+        "ga": "brioscóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brisket"
+        ],
+        "ga": "briscéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "broccoli"
+        ],
+        "ga": "brocailí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "breast"
+        ],
+        "ga": "brollach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "batch loaf"
+        ],
+        "ga": "bruthóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "monk-tails"
+        ],
+        "ga": "bráthair",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "brunch"
+        ],
+        "ga": "bróinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pressure cooker"
+        ],
+        "ga": "brúbhruith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mashed potatoes",
+            "mash"
+        ],
+        "ga": "brúitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mash"
+        ],
+        "ga": "brúitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "buffet"
+        ],
+        "ga": "buifé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "loaf"
+        ],
+        "ga": "builín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bulgur",
+            "bulghur",
+            "bulghur wheat",
+            "bulgur wheat"
+        ],
+        "ga": "bulgar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "yolk"
+        ],
+        "ga": "buíocán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bakery"
+        ],
+        "ga": "bácús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "baker"
+        ],
+        "ga": "báicéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ballroom"
+        ],
+        "ga": "bálseomra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blancmange"
+        ],
+        "ga": "bánghlóthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "béarnaise"
+        ],
+        "ga": "béarnaise",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bagel"
+        ],
+        "ga": "béigeal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "meal"
+        ],
+        "ga": "béile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bisque"
+        ],
+        "ga": "bísc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stuffing"
+        ],
+        "ga": "búiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "caul"
+        ],
+        "ga": "cabáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cabbage",
+            "garden cabbage",
+            "headed cabbage",
+            "head cabbage",
+            "drumhead cabbage"
+        ],
+        "ga": "cabáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "haddock"
+        ],
+        "ga": "cadóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caviar"
+        ],
+        "ga": "caibheár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cobbler"
+        ],
+        "ga": "caibléireog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coffee"
+        ],
+        "ga": "caife",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cafeteria"
+        ],
+        "ga": "caifitéire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "café"
+        ],
+        "ga": "caifé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "calcium"
+        ],
+        "ga": "cailciam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "leek"
+        ],
+        "ga": "cainneann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cinnamon"
+        ],
+        "ga": "cainéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "carmine"
+        ],
+        "ga": "cairmín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carrot"
+        ],
+        "ga": "cairéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "calorie"
+        ],
+        "ga": "calra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flake"
+        ],
+        "ga": "calóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cannelloni"
+        ],
+        "ga": "canalóiní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "can"
+        ],
+        "ga": "canna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cantaloup"
+        ],
+        "ga": "cantalúp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "smoothie"
+        ],
+        "ga": "caoineog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caper"
+        ],
+        "ga": "capras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caramel"
+        ],
+        "ga": "caramal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "carbohydrate"
+        ],
+        "ga": "carbaihiodráit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cardamom"
+        ],
+        "ga": "cardamam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Wexford cheese"
+        ],
+        "ga": "carmán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rocky road"
+        ],
+        "ga": "carraigeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "casserole"
+        ],
+        "ga": "casaról",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "can"
+        ],
+        "ga": "ceaintín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "canteen"
+        ],
+        "ga": "ceaintín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cellulose"
+        ],
+        "ga": "ceallalós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sandwich"
+        ],
+        "ga": "ceapaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caraway"
+        ],
+        "ga": "cearbhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "roast leg"
+        ],
+        "ga": "ceathrú",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kephir"
+        ],
+        "ga": "ceifír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kilocalorie",
+            "kcal"
+        ],
+        "ga": "cileacalra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "variety"
+        ],
+        "ga": "cineál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "citron"
+        ],
+        "ga": "ciotrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chicken"
+        ],
+        "ga": "circeoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "punnet"
+        ],
+        "ga": "ciseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basket"
+        ],
+        "ga": "ciseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ketchup"
+        ],
+        "ga": "citseap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kedgeree"
+        ],
+        "ga": "citsire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lid",
+            "top"
+        ],
+        "ga": "claibín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clementine"
+        ],
+        "ga": "cleimintín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chest cavity"
+        ],
+        "ga": "cliabhrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prawn"
+        ],
+        "ga": "cloicheán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clove"
+        ],
+        "ga": "clóbh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fluff"
+        ],
+        "ga": "clúmhach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clot"
+        ],
+        "ga": "cnapán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bone"
+        ],
+        "ga": "cnámh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nut"
+        ],
+        "ga": "cnó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "proportion"
+        ],
+        "ga": "coibhneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "instant whip"
+        ],
+        "ga": "coipeog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "oats"
+        ],
+        "ga": "coirce",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cordial"
+        ],
+        "ga": "coirdial",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pot"
+        ],
+        "ga": "coire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cholesterene"
+        ],
+        "ga": "colaistéiréin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ingredient"
+        ],
+        "ga": "comhábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rind"
+        ],
+        "ga": "craiceann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cream cracker"
+        ],
+        "ga": "craicear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stick"
+        ],
+        "ga": "craobh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sifter"
+        ],
+        "ga": "criathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sieve"
+        ],
+        "ga": "criathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crumpet"
+        ],
+        "ga": "crompóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hot cross bun"
+        ],
+        "ga": "crosbhorróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "husk",
+            "hull"
+        ],
+        "ga": "crotal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "core temperature"
+        ],
+        "ga": "croí-theocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cruet"
+        ],
+        "ga": "cruibhéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "round"
+        ],
+        "ga": "cruinneán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wheat"
+        ],
+        "ga": "cruithneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crawfish",
+            "crayfish"
+        ],
+        "ga": "cráifisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "claw"
+        ],
+        "ga": "crúb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jug"
+        ],
+        "ga": "crúiscín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cassolette"
+        ],
+        "ga": "cuachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bow"
+        ],
+        "ga": "cuar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quark"
+        ],
+        "ga": "cuarc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "portion"
+        ],
+        "ga": "cuid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "currant"
+        ],
+        "ga": "cuirín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fridge"
+        ],
+        "ga": "cuisneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fridge-freezer"
+        ],
+        "ga": "cuisneoir/reoiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mixture"
+        ],
+        "ga": "cumasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blending"
+        ],
+        "ga": "cumasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kumquat"
+        ],
+        "ga": "cumcuat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coating"
+        ],
+        "ga": "cumhdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bouquet"
+        ],
+        "ga": "cumhracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cup"
+        ],
+        "ga": "cupán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "curry"
+        ],
+        "ga": "curaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "custard"
+        ],
+        "ga": "custard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cake"
+        ],
+        "ga": "cáca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flummery"
+        ],
+        "ga": "cáfraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cheese"
+        ],
+        "ga": "cáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kale",
+            "cole"
+        ],
+        "ga": "cál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "callaloo"
+        ],
+        "ga": "cálalú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coleslaw"
+        ],
+        "ga": "cálslá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quart"
+        ],
+        "ga": "cárt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "case"
+        ],
+        "ga": "cás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "casing"
+        ],
+        "ga": "cásáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Chinese gooseberry",
+            "kiwi"
+        ],
+        "ga": "cíobhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pastry"
+        ],
+        "ga": "císte",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cook"
+        ],
+        "ga": "cócaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cuisine"
+        ],
+        "ga": "cócaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cooking"
+        ],
+        "ga": "cócaráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cocoa",
+            "cacao"
+        ],
+        "ga": "cócó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cauliflower"
+        ],
+        "ga": "cóilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "treatment"
+        ],
+        "ga": "cóireáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cucumber"
+        ],
+        "ga": "cúcamar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "courgette"
+        ],
+        "ga": "cúirséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "soufflé"
+        ],
+        "ga": "cúróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "couscous"
+        ],
+        "ga": "cúscús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "blob"
+        ],
+        "ga": "daba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "oxtongue"
+        ],
+        "ga": "damhtheanga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colouring"
+        ],
+        "ga": "dathúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aroma"
+        ],
+        "ga": "dea-bholadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "decanter"
+        ],
+        "ga": "deacantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "appearance"
+        ],
+        "ga": "dealramh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "separation"
+        ],
+        "ga": "deighilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dinner"
+        ],
+        "ga": "dinnéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dip"
+        ],
+        "ga": "dipín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shot"
+        ],
+        "ga": "diurnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "concentrate"
+        ],
+        "ga": "dlúthán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "doorman"
+        ],
+        "ga": "doirseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deep fat fryer",
+            "deep-fat fryer"
+        ],
+        "ga": "domhainfhriochtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deepfreeze",
+            "deep freezer",
+            "deep-freezer"
+        ],
+        "ga": "domhainreoiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dumpling"
+        ],
+        "ga": "domplagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tarragon"
+        ],
+        "ga": "dragan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dregs"
+        ],
+        "ga": "dríodar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "date"
+        ],
+        "ga": "dáta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "date"
+        ],
+        "ga": "dáta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drier",
+            "dehydrator"
+        ],
+        "ga": "díhiotráiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "digestive"
+        ],
+        "ga": "díleáiteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "burner"
+        ],
+        "ga": "dóire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "durian"
+        ],
+        "ga": "dúraíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gizzard"
+        ],
+        "ga": "eagaois",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "element"
+        ],
+        "ga": "eilimint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fin"
+        ],
+        "ga": "eite",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coral"
+        ],
+        "ga": "eochraí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "barley"
+        ],
+        "ga": "eorna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shuck"
+        ],
+        "ga": "faighneog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vanilla"
+        ],
+        "ga": "fanaile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fudge"
+        ],
+        "ga": "faoiste",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "whiting"
+        ],
+        "ga": "faoitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "improver"
+        ],
+        "ga": "feabhsaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fan oven",
+            "fan-assisted oven",
+            "convection oven"
+        ],
+        "ga": "feanoigheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fenugreek"
+        ],
+        "ga": "feinigréag",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "meat"
+        ],
+        "ga": "feoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "faggot"
+        ],
+        "ga": "feoilfhagóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fig"
+        ],
+        "ga": "fige",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fillet"
+        ],
+        "ga": "filléad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fennel"
+        ],
+        "ga": "finéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flan"
+        ],
+        "ga": "flan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flapjack"
+        ],
+        "ga": "flapóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "feast"
+        ],
+        "ga": "fleá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "saucer"
+        ],
+        "ga": "fochupán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fondant"
+        ],
+        "ga": "fondant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "table fork",
+            "fork"
+        ],
+        "ga": "forc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "zest"
+        ],
+        "ga": "forchraiceann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "zester"
+        ],
+        "ga": "forchraicneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "slip cloth"
+        ],
+        "ga": "foréadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phosphorus"
+        ],
+        "ga": "fosfar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "undercut"
+        ],
+        "ga": "fostiall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "frankfurter"
+        ],
+        "ga": "francfurtar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "frying-pan",
+            "frying pan",
+            "pan"
+        ],
+        "ga": "friochtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fritter"
+        ],
+        "ga": "friochtóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "waiter"
+        ],
+        "ga": "friothálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cold holding"
+        ],
+        "ga": "fuarchoinneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "batter"
+        ],
+        "ga": "fuidreamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "whiskey"
+        ],
+        "ga": "fuisce",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leftovers"
+        ],
+        "ga": "fuílleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "remainder",
+            "remnants"
+        ],
+        "ga": "fuílleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wringer"
+        ],
+        "ga": "fáisceán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "citrus reamer"
+        ],
+        "ga": "fáiscire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reamer"
+        ],
+        "ga": "fáiscire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "squeezer"
+        ],
+        "ga": "fáiscire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "banquet"
+        ],
+        "ga": "féasta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "beard"
+        ],
+        "ga": "féasóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "selfservice",
+            "self-service"
+        ],
+        "ga": "féinriar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vinegar"
+        ],
+        "ga": "fínéagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vinaigrette"
+        ],
+        "ga": "fínéigréad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tissue"
+        ],
+        "ga": "fíochán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wine"
+        ],
+        "ga": "fíon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "grape"
+        ],
+        "ga": "fíonchaor",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fufu"
+        ],
+        "ga": "fúfú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "leaven"
+        ],
+        "ga": "gabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "garlic"
+        ],
+        "ga": "gairleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "garnish"
+        ],
+        "ga": "gairnis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "garniture"
+        ],
+        "ga": "gairnisíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "steamer"
+        ],
+        "ga": "galchorcán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "walnut"
+        ],
+        "ga": "gallchnó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "angelica"
+        ],
+        "ga": "gallfheabhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "angelica"
+        ],
+        "ga": "galluanán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stalk"
+        ],
+        "ga": "gas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gastronomy"
+        ],
+        "ga": "gastranamaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tail end"
+        ],
+        "ga": "geadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "white"
+        ],
+        "ga": "gealacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cream of tartar",
+            "potassium bitartrate"
+        ],
+        "ga": "gealtartar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "quail"
+        ],
+        "ga": "gearg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cutlet"
+        ],
+        "ga": "gearrthóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gelatine",
+            "gelatin"
+        ],
+        "ga": "geilitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "suet"
+        ],
+        "ga": "geir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "giblet"
+        ],
+        "ga": "gibléideach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gigot"
+        ],
+        "ga": "giogóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "yeast"
+        ],
+        "ga": "giosta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gherkin"
+        ],
+        "ga": "gircín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "junket"
+        ],
+        "ga": "giuncán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "greengage"
+        ],
+        "ga": "glasphluma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vegetable"
+        ],
+        "ga": "glasra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coalfish",
+            "green cod",
+            "sillock",
+            "coley",
+            "black cod",
+            "black pollack",
+            "black jack",
+            "saithe"
+        ],
+        "ga": "glasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lobster"
+        ],
+        "ga": "gliomach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "glaze"
+        ],
+        "ga": "glónra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jelly"
+        ],
+        "ga": "glóthach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "glucosinolate"
+        ],
+        "ga": "glúcóisínealáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gluten"
+        ],
+        "ga": "glútan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "regular tomato"
+        ],
+        "ga": "gnáth-thráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plain bowl"
+        ],
+        "ga": "gnáthbhabhla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "regular burger"
+        ],
+        "ga": "gnáthbhurgar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plain cake"
+        ],
+        "ga": "gnáthchíste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conventional counterpart"
+        ],
+        "ga": "gnáthmhacasamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "household flour"
+        ],
+        "ga": "gnáthphlúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "noggin"
+        ],
+        "ga": "gogán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stomach"
+        ],
+        "ga": "goile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "buttock"
+        ],
+        "ga": "gorún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "whisk"
+        ],
+        "ga": "greadtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aperitif"
+        ],
+        "ga": "greadóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "grid"
+        ],
+        "ga": "greille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "griddle"
+        ],
+        "ga": "grideall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "curd"
+        ],
+        "ga": "gruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cereal"
+        ],
+        "ga": "gránach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "corn oil"
+        ],
+        "ga": "gránola",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cornflour"
+        ],
+        "ga": "gránphlúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "granola"
+        ],
+        "ga": "gránóla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "grater"
+        ],
+        "ga": "grátálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "grease"
+        ],
+        "ga": "gréisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grill"
+        ],
+        "ga": "gríoscán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "griller"
+        ],
+        "ga": "gríoscán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chop"
+        ],
+        "ga": "gríscín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gourd"
+        ],
+        "ga": "gurd",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gas"
+        ],
+        "ga": "gás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "goulash"
+        ],
+        "ga": "gúlais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "halibut"
+        ],
+        "ga": "haileabó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hummus",
+            "houmous",
+            "hoummos",
+            "humous"
+        ],
+        "ga": "humas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hood"
+        ],
+        "ga": "húda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aftertaste"
+        ],
+        "ga": "iarbhlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "yassa"
+        ],
+        "ga": "iasa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fish"
+        ],
+        "ga": "iasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ininglass"
+        ],
+        "ga": "iascghlae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "variety meats"
+        ],
+        "ga": "ilfheoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "multipack"
+        ],
+        "ga": "ilphacáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "butter"
+        ],
+        "ga": "im",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spreadability"
+        ],
+        "ga": "inleateacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bowel"
+        ],
+        "ga": "inne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "entrails"
+        ],
+        "ga": "ionathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dripping"
+        ],
+        "ga": "ionmhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lower protein"
+        ],
+        "ga": "isealphróitéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sausage"
+        ],
+        "ga": "ispín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "yoghurt",
+            "yogurt"
+        ],
+        "ga": "iógart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gin"
+        ],
+        "ga": "jin",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bay"
+        ],
+        "ga": "labhróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lactovegetarian",
+            "lacto-vegetarian"
+        ],
+        "ga": "lachtveigeatóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "veal"
+        ],
+        "ga": "laofheoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lasagne",
+            "lasagna"
+        ],
+        "ga": "lasáinne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "book"
+        ],
+        "ga": "leabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "liquid"
+        ],
+        "ga": "leacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "liquidizer",
+            "liquidiser"
+        ],
+        "ga": "leachtaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pulverizer"
+        ],
+        "ga": "leachtaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paste"
+        ],
+        "ga": "leafaos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "marshmallow",
+            "marsh-mallow"
+        ],
+        "ga": "leamhachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ale"
+        ],
+        "ga": "leann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "preservative"
+        ],
+        "ga": "leasaitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "halved tomato"
+        ],
+        "ga": "leath-thráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "half-one"
+        ],
+        "ga": "leathghloine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "half pint"
+        ],
+        "ga": "leathphionta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sheet"
+        ],
+        "ga": "leathán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "plaice",
+            "European plaice"
+        ],
+        "ga": "leathóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flatfish"
+        ],
+        "ga": "leathóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "porridge"
+        ],
+        "ga": "leite",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lettuce"
+        ],
+        "ga": "leitís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fondant"
+        ],
+        "ga": "leá-mhilseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ham"
+        ],
+        "ga": "liamhás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "liqueur"
+        ],
+        "ga": "licéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lentil"
+        ],
+        "ga": "lintile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "liquorice"
+        ],
+        "ga": "liocras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lap"
+        ],
+        "ga": "liopa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Chinese plum",
+            "Japanese plum",
+            "loquat"
+        ],
+        "ga": "locuat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pitter"
+        ],
+        "ga": "logallóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gristle"
+        ],
+        "ga": "loingeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spare-rib"
+        ],
+        "ga": "lomeasna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "board"
+        ],
+        "ga": "losaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kneading board"
+        ],
+        "ga": "losaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ashtray"
+        ],
+        "ga": "luaithreadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "loin"
+        ],
+        "ga": "luan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "herb"
+        ],
+        "ga": "luibh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lager"
+        ],
+        "ga": "lágar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "full tang"
+        ],
+        "ga": "lánluiseag",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "centre loin"
+        ],
+        "ga": "lárluan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lime"
+        ],
+        "ga": "líoma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lemonade"
+        ],
+        "ga": "líomanáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lemon"
+        ],
+        "ga": "líomóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "filler"
+        ],
+        "ga": "líontóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lychee"
+        ],
+        "ga": "lítsí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lunch"
+        ],
+        "ga": "lón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "caterer"
+        ],
+        "ga": "lónadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "macaroni"
+        ],
+        "ga": "macarón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mace"
+        ],
+        "ga": "maicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maafe"
+        ],
+        "ga": "maifé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "beef"
+        ],
+        "ga": "mairteoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maslin",
+            "meslin"
+        ],
+        "ga": "maislín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maté"
+        ],
+        "ga": "maité",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slow food"
+        ],
+        "ga": "mallbhia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "malaxation"
+        ],
+        "ga": "mallmhaistreadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mandarin"
+        ],
+        "ga": "mandairín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cocktail"
+        ],
+        "ga": "manglam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mango"
+        ],
+        "ga": "mangó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mayonnaise"
+        ],
+        "ga": "maonáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tenderizer"
+        ],
+        "ga": "maothóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "marinade"
+        ],
+        "ga": "maranáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dead meat"
+        ],
+        "ga": "marbhfheoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "marc"
+        ],
+        "ga": "marc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "margarine"
+        ],
+        "ga": "margairín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "marmalade"
+        ],
+        "ga": "marmaláid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pudding"
+        ],
+        "ga": "maróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rosemary"
+        ],
+        "ga": "marós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mascarpone"
+        ],
+        "ga": "mascarpóiné",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "melon"
+        ],
+        "ga": "mealbhacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sensory appeal"
+        ],
+        "ga": "meallacacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quick freezing"
+        ],
+        "ga": "mear-reo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fast food"
+        ],
+        "ga": "mearbhia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vegetable marrow",
+            "marrow"
+        ],
+        "ga": "mearóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "beater"
+        ],
+        "ga": "meascthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "metheglin"
+        ],
+        "ga": "meidileann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "breaking"
+        ],
+        "ga": "meilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "meringue"
+        ],
+        "ga": "meireang",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mead"
+        ],
+        "ga": "meá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "weighing scales",
+            "scale"
+        ],
+        "ga": "meá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "weight"
+        ],
+        "ga": "meáchan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dish"
+        ],
+        "ga": "mias",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "basin"
+        ],
+        "ga": "mias",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "honey"
+        ],
+        "ga": "mil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sweet"
+        ],
+        "ga": "milseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "deserts"
+        ],
+        "ga": "milseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "confectionary",
+            "confectionery"
+        ],
+        "ga": "milseogra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sweetener"
+        ],
+        "ga": "milseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "delight"
+        ],
+        "ga": "milseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sweet"
+        ],
+        "ga": "milseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "confectioner"
+        ],
+        "ga": "milsíneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "meal"
+        ],
+        "ga": "min",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minestrone"
+        ],
+        "ga": "mineastróine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crumble"
+        ],
+        "ga": "mionbhruar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "baby carrot"
+        ],
+        "ga": "mionchairéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pin bone"
+        ],
+        "ga": "mionchnámh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "minced meat"
+        ],
+        "ga": "mionfheoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chopper"
+        ],
+        "ga": "mionghearrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "miniature"
+        ],
+        "ga": "mionmhilseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chitterling"
+        ],
+        "ga": "mionphutóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "baby spinach"
+        ],
+        "ga": "mionspionáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shredder"
+        ],
+        "ga": "mionstialltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mint"
+        ],
+        "ga": "miontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mincing"
+        ],
+        "ga": "miontóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mirepoix"
+        ],
+        "ga": "mirepoix",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mocha"
+        ],
+        "ga": "moca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trub"
+        ],
+        "ga": "moirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lees"
+        ],
+        "ga": "moirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mornay"
+        ],
+        "ga": "mornay",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pork"
+        ],
+        "ga": "muiceoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "muffin"
+        ],
+        "ga": "muifín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mushroom"
+        ],
+        "ga": "muisiriún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "finger biscuit"
+        ],
+        "ga": "méarbhriosca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fat"
+        ],
+        "ga": "méathras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cranberry"
+        ],
+        "ga": "mónóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flue"
+        ],
+        "ga": "múchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mould",
+            "mold"
+        ],
+        "ga": "múnla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shape"
+        ],
+        "ga": "múnlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "muesli"
+        ],
+        "ga": "múslaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "napkin"
+        ],
+        "ga": "naipcín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "serviette"
+        ],
+        "ga": "naipcín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nanofood"
+        ],
+        "ga": "nanaibhia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nectarine"
+        ],
+        "ga": "neachtairín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nickel"
+        ],
+        "ga": "nicil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nutmeg"
+        ],
+        "ga": "noitmig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "novel foods"
+        ],
+        "ga": "nuabhianna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neuritis"
+        ],
+        "ga": "néiríteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nonic"
+        ],
+        "ga": "nónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "noodle"
+        ],
+        "ga": "núdal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nougatine"
+        ],
+        "ga": "núgaitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "recipe"
+        ],
+        "ga": "oideas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oven"
+        ],
+        "ga": "oigheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hogshead"
+        ],
+        "ga": "oigiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "oleostearin"
+        ],
+        "ga": "oiléistéirin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "onion"
+        ],
+        "ga": "oinniún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "oyster"
+        ],
+        "ga": "oisre",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "osteomalacia"
+        ],
+        "ga": "oistéamalaice",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mass caterer"
+        ],
+        "ga": "oll-lónadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oregano",
+            "wild marjoram"
+        ],
+        "ga": "oragán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "orange"
+        ],
+        "ga": "oráiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "packet"
+        ],
+        "ga": "paicéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "panini"
+        ],
+        "ga": "painíní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "paneer"
+        ],
+        "ga": "painír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "paprika"
+        ],
+        "ga": "paiprice",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "parkin"
+        ],
+        "ga": "paircín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crêpe"
+        ],
+        "ga": "pancóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pancake",
+            "flapjack"
+        ],
+        "ga": "pancóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pan"
+        ],
+        "ga": "panna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "papaya"
+        ],
+        "ga": "papá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parmesan"
+        ],
+        "ga": "parmasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pasta"
+        ],
+        "ga": "pasta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pasty"
+        ],
+        "ga": "pastae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pectin"
+        ],
+        "ga": "peictin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pemmican"
+        ],
+        "ga": "peimicean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "parsley"
+        ],
+        "ga": "peirsil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pheasant"
+        ],
+        "ga": "piasún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pickle"
+        ],
+        "ga": "picil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pimentos"
+        ],
+        "ga": "pimeantó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pepper"
+        ],
+        "ga": "piobar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pepper castor"
+        ],
+        "ga": "piobarán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pepperoni"
+        ],
+        "ga": "piobarónaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pint"
+        ],
+        "ga": "pionta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pear"
+        ],
+        "ga": "piorra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pistachio",
+            "pistachio nut"
+        ],
+        "ga": "piostáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pyrex"
+        ],
+        "ga": "piréis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pea"
+        ],
+        "ga": "pis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pulse"
+        ],
+        "ga": "piseánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pie"
+        ],
+        "ga": "pióg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plum"
+        ],
+        "ga": "pluma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plate"
+        ],
+        "ga": "pláta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flour"
+        ],
+        "ga": "plúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hole"
+        ],
+        "ga": "poll",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pomelo",
+            "shaddock"
+        ],
+        "ga": "pomaló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pot roast"
+        ],
+        "ga": "pota-rósta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "praline"
+        ],
+        "ga": "prailín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pretzel"
+        ],
+        "ga": "preatsal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "primus needle"
+        ],
+        "ga": "priocaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pat"
+        ],
+        "ga": "prionta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "potato"
+        ],
+        "ga": "práta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chief cook"
+        ],
+        "ga": "príomhchócaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "main course"
+        ],
+        "ga": "príomhchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "protein"
+        ],
+        "ga": "próitéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "protopectin"
+        ],
+        "ga": "prótaipeictin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "squash"
+        ],
+        "ga": "puimcín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pumpkin"
+        ],
+        "ga": "puimcín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pumpernickel"
+        ],
+        "ga": "pumpairnicil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "puff pastry"
+        ],
+        "ga": "puth-thaosrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "papaw",
+            "pawpaw"
+        ],
+        "ga": "pápá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "peach"
+        ],
+        "ga": "péitseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pilaf"
+        ],
+        "ga": "píoláf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pizza"
+        ],
+        "ga": "píotsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "porter"
+        ],
+        "ga": "póirtéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bean"
+        ],
+        "ga": "pónaire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "port"
+        ],
+        "ga": "pórt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "porter"
+        ],
+        "ga": "pórtar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "radish"
+        ],
+        "ga": "raidis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ramekin",
+            "ramequin"
+        ],
+        "ga": "raimicín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ravioli"
+        ],
+        "ga": "raiviólaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ratatouille"
+        ],
+        "ga": "ratatúí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ice-pop"
+        ],
+        "ga": "reoiteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "freezer"
+        ],
+        "ga": "reoiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "serving"
+        ],
+        "ga": "riar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "riboflavin"
+        ],
+        "ga": "ribeaflaivin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "riddle"
+        ],
+        "ga": "rilleán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rissole"
+        ],
+        "ga": "riosól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "blast freezing"
+        ],
+        "ga": "roisreo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mackerel"
+        ],
+        "ga": "ronnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rocket"
+        ],
+        "ga": "ruachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "frill"
+        ],
+        "ga": "rufa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tripe"
+        ],
+        "ga": "ruipleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rum"
+        ],
+        "ga": "rum",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "star apple"
+        ],
+        "ga": "réalt-úll",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "star fruit"
+        ],
+        "ga": "réaltóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "king prawn"
+        ],
+        "ga": "ríchloicheán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rice"
+        ],
+        "ga": "rís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ricer"
+        ],
+        "ga": "ríseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "raisin"
+        ],
+        "ga": "rísín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "roast"
+        ],
+        "ga": "rósta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sac"
+        ],
+        "ga": "sac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "seitan"
+        ],
+        "ga": "saetán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fleed"
+        ],
+        "ga": "saill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "adipose"
+        ],
+        "ga": "saill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "salad"
+        ],
+        "ga": "sailéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "speciality food"
+        ],
+        "ga": "sainbhia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "speciality tea"
+        ],
+        "ga": "saintae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sardine"
+        ],
+        "ga": "sairdín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "salt"
+        ],
+        "ga": "salann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "salami"
+        ],
+        "ga": "salámaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "samosa"
+        ],
+        "ga": "samósa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sapodillo plum"
+        ],
+        "ga": "sapadaile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "herring"
+        ],
+        "ga": "scadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "filter"
+        ],
+        "ga": "scagaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "salad onion",
+            "scallion"
+        ],
+        "ga": "scailliún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "diaphragm"
+        ],
+        "ga": "scairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "offal"
+        ],
+        "ga": "scairteach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "escalope"
+        ],
+        "ga": "scalóip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "peelings"
+        ],
+        "ga": "scamhachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scampi"
+        ],
+        "ga": "sceaimpí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chipper"
+        ],
+        "ga": "sceallaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "potato chipper"
+        ],
+        "ga": "sceallaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chip"
+        ],
+        "ga": "sceallóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chip of delf"
+        ],
+        "ga": "scealpóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cutlery"
+        ],
+        "ga": "sceanra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "portion"
+        ],
+        "ga": "sciar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brochette"
+        ],
+        "ga": "scibhéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "skillet"
+        ],
+        "ga": "scilléad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "skimmer"
+        ],
+        "ga": "scimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "megrim"
+        ],
+        "ga": "scoilteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scurvy"
+        ],
+        "ga": "scorbach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "premium beer"
+        ],
+        "ga": "scothbheoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crust"
+        ],
+        "ga": "screab",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "scum"
+        ],
+        "ga": "screamh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "screw lid"
+        ],
+        "ga": "scriúchlaibín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scrapings"
+        ],
+        "ga": "scríoblach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "squash",
+            "fruit squash"
+        ],
+        "ga": "scuais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "basin"
+        ],
+        "ga": "scála",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tiny snack",
+            "nibbles"
+        ],
+        "ga": "scíobhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scone"
+        ],
+        "ga": "scóna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chowder"
+        ],
+        "ga": "seabhdar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chocolate"
+        ],
+        "ga": "seacláid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chocolatier"
+        ],
+        "ga": "seacláideoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "grapefruit"
+        ],
+        "ga": "seadóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "champagne"
+        ],
+        "ga": "seaimpéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shallot"
+        ],
+        "ga": "seallóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acid drop sweet"
+        ],
+        "ga": "searbhmhilseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "natural casing"
+        ],
+        "ga": "seicin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "semolina"
+        ],
+        "ga": "seimilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "jerky"
+        ],
+        "ga": "seirgeoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sherry"
+        ],
+        "ga": "seiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chick-pea",
+            "chick pea",
+            "chickpea"
+        ],
+        "ga": "sicphiseánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "silicate"
+        ],
+        "ga": "sileacáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chilli"
+        ],
+        "ga": "sillí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cherry"
+        ],
+        "ga": "silín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ginger"
+        ],
+        "ga": "sinséar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sugar"
+        ],
+        "ga": "siúcra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "laver bread"
+        ],
+        "ga": "sleabhac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shellfish"
+        ],
+        "ga": "sliogiasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shell"
+        ],
+        "ga": "sliogán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tranche"
+        ],
+        "ga": "slisne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slice"
+        ],
+        "ga": "slisne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wholefood"
+        ],
+        "ga": "slánbhia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chunk"
+        ],
+        "ga": "smután",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polishing cloth"
+        ],
+        "ga": "snastán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "snack"
+        ],
+        "ga": "sneaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "snack cracker"
+        ],
+        "ga": "sneaic-chraicear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "snack box"
+        ],
+        "ga": "sneaicbhosca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fibre"
+        ],
+        "ga": "snáithín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "celery"
+        ],
+        "ga": "soilire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sorbet"
+        ],
+        "ga": "soirbéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "drinking straw"
+        ],
+        "ga": "sop",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "range",
+            "stove"
+        ],
+        "ga": "sorn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spaghetti"
+        ],
+        "ga": "spaigití",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shin"
+        ],
+        "ga": "spanla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "speciality"
+        ],
+        "ga": "speisialtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spinach"
+        ],
+        "ga": "spionáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "button end"
+        ],
+        "ga": "sprochaille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gooseberry",
+            "European gooseberry"
+        ],
+        "ga": "spíonán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gooseberry fool"
+        ],
+        "ga": "spíonánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "joint"
+        ],
+        "ga": "spóla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "carvery"
+        ],
+        "ga": "spólann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sponge"
+        ],
+        "ga": "spúinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sponge"
+        ],
+        "ga": "spúinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "spoon"
+        ],
+        "ga": "spúnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wire"
+        ],
+        "ga": "sreang",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stairs"
+        ],
+        "ga": "staighre",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stew"
+        ],
+        "ga": "stobhach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stock"
+        ],
+        "ga": "stoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stock-pot"
+        ],
+        "ga": "stocphota",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "truffle"
+        ],
+        "ga": "strufal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "steak"
+        ],
+        "ga": "stéig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tournedos"
+        ],
+        "ga": "stéigín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "preserve"
+        ],
+        "ga": "subh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jam"
+        ],
+        "ga": "subh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "supper"
+        ],
+        "ga": "suipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sundae"
+        ],
+        "ga": "sundae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "swede"
+        ],
+        "ga": "svaeid",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "suite"
+        ],
+        "ga": "svuít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "skewer"
+        ],
+        "ga": "sá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sago"
+        ],
+        "ga": "ság",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "savoury"
+        ],
+        "ga": "sáibhre",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sake"
+        ],
+        "ga": "sáicí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "saltcellar"
+        ],
+        "ga": "sáiltéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sage"
+        ],
+        "ga": "sáiste",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "saucepan"
+        ],
+        "ga": "sáspan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "season"
+        ],
+        "ga": "séasúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chayote"
+        ],
+        "ga": "séóité",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "extender"
+        ],
+        "ga": "síneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chive"
+        ],
+        "ga": "síobhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seed"
+        ],
+        "ga": "síol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "syrup"
+        ],
+        "ga": "síoróip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shiitake mushroom"
+        ],
+        "ga": "síotaicé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "strainer"
+        ],
+        "ga": "síothlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colander"
+        ],
+        "ga": "síothlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sodium"
+        ],
+        "ga": "sóidiam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sautéing"
+        ],
+        "ga": "sótáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "juice"
+        ],
+        "ga": "sú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sushi"
+        ],
+        "ga": "súisí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gravy"
+        ],
+        "ga": "súlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tea"
+        ],
+        "ga": "tae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tea-cup"
+        ],
+        "ga": "taechupán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "teapot"
+        ],
+        "ga": "taephota",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "teaspoon",
+            "tsp"
+        ],
+        "ga": "taespúnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tapioca"
+        ],
+        "ga": "taipióca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tammy cloth"
+        ],
+        "ga": "tamaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "side"
+        ],
+        "ga": "taobh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "side loin"
+        ],
+        "ga": "taobhluan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "side order"
+        ],
+        "ga": "taobhmhír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dough"
+        ],
+        "ga": "taos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "doughnut"
+        ],
+        "ga": "taoschnó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pastry"
+        ],
+        "ga": "taosrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "condiment"
+        ],
+        "ga": "tarsann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "assignment method"
+        ],
+        "ga": "tascmhodh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "body"
+        ],
+        "ga": "tathag",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tarnishing"
+        ],
+        "ga": "teimheal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tempeh"
+        ],
+        "ga": "teimpé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "terrine"
+        ],
+        "ga": "teirrín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hot holding"
+        ],
+        "ga": "teochoinneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hot plate"
+        ],
+        "ga": "teophláta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "timbale"
+        ],
+        "ga": "timbeal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "accompaniment"
+        ],
+        "ga": "tionlacan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tuber"
+        ],
+        "ga": "tiúbar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "thickener"
+        ],
+        "ga": "tiúsóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pop-up restaurant"
+        ],
+        "ga": "tob-bhialann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cigar"
+        ],
+        "ga": "todóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bulking agent"
+        ],
+        "ga": "toirteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tartlet"
+        ],
+        "ga": "toirtín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tart"
+        ],
+        "ga": "toirtín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cigarette"
+        ],
+        "ga": "toitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lounge"
+        ],
+        "ga": "tolglann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vent"
+        ],
+        "ga": "toll",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wave stirrer"
+        ],
+        "ga": "tonnsuathaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "topinambur"
+        ],
+        "ga": "topinambur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fruit"
+        ],
+        "ga": "toradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fruitarian"
+        ],
+        "ga": "toraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "turnip"
+        ],
+        "ga": "tornapa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trifle"
+        ],
+        "ga": "traidhfil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "treacle"
+        ],
+        "ga": "triacla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trivet"
+        ],
+        "ga": "tripéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cod"
+        ],
+        "ga": "trosc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tray"
+        ],
+        "ga": "tráidire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tomato"
+        ],
+        "ga": "tráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "turmeric"
+        ],
+        "ga": "tuirmiric",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hinge"
+        ],
+        "ga": "tuisle",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dry food"
+        ],
+        "ga": "turaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "turkey"
+        ],
+        "ga": "turcaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "turducken"
+        ],
+        "ga": "turlaichín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tangerine"
+        ],
+        "ga": "táinséirín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "set"
+        ],
+        "ga": "téachtachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tuile basket"
+        ],
+        "ga": "tílbhascaed",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "thyme"
+        ],
+        "ga": "tím",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tofu"
+        ],
+        "ga": "tófú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "toast"
+        ],
+        "ga": "tósta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cream"
+        ],
+        "ga": "uachtar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lamb meat",
+            "lamb"
+        ],
+        "ga": "uaineoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "autotimer"
+        ],
+        "ga": "uath-amadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "egg"
+        ],
+        "ga": "ubh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "oologist"
+        ],
+        "ga": "ubheolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aubergine",
+            "eggplant"
+        ],
+        "ga": "ubhthoradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "omelette"
+        ],
+        "ga": "uibheagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "texture"
+        ],
+        "ga": "uigeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "preparation"
+        ],
+        "ga": "ullmhúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "waffle"
+        ],
+        "ga": "vaiféal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "varnish"
+        ],
+        "ga": "vearnais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vegetarian"
+        ],
+        "ga": "veigeatóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vegetarianism"
+        ],
+        "ga": "veigeatóireachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vermicelli"
+        ],
+        "ga": "veirmiséilí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vodka"
+        ],
+        "ga": "vodca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "booking",
+            "reservation"
+        ],
+        "ga": "áirithint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "éclair"
+        ],
+        "ga": "éadromóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "emery"
+        ],
+        "ga": "éimear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "poultry"
+        ],
+        "ga": "éineoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "oryzen"
+        ],
+        "ga": "óiríséin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "apple"
+        ],
+        "ga": "úll",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "must"
+        ],
+        "ga": "úrfhíon",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "extractive"
+        ],
+        "ga": "úscach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "essence"
+        ],
+        "ga": "úscra",
+        "gender": "masculine"
+    }
+]

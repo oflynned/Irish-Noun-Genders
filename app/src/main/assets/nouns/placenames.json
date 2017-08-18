@@ -1,0 +1,2986 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "Acadia"
+        ],
+        "ga": "Acaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Akhetaten"
+        ],
+        "ga": "Acatatan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Adam"
+        ],
+        "ga": "Adám",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Aeaea"
+        ],
+        "ga": "Aeia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Aetolian"
+        ],
+        "ga": "Aetólach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Aeolia"
+        ],
+        "ga": "Aeóilia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Abdera"
+        ],
+        "ga": "Aibdéire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Adriatic"
+        ],
+        "ga": "Aidriadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Antioch"
+        ],
+        "ga": "Aintíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ashtaroth"
+        ],
+        "ga": "Aisteárót",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Alaska"
+        ],
+        "ga": "Alasca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "Scotland"
+        ],
+        "ga": "Albain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Amsterdam"
+        ],
+        "ga": "Amstardam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Andros"
+        ],
+        "ga": "Andras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Andorra",
+            "Principality of Andorra"
+        ],
+        "ga": "Andóra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Angola",
+            "Republic of Angola"
+        ],
+        "ga": "Angóla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Antananarivo"
+        ],
+        "ga": "Antananairíveo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Antarctica"
+        ],
+        "ga": "Antartaice",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Antwerp"
+        ],
+        "ga": "Antuairp",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Arimathea"
+        ],
+        "ga": "Aramatáia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Argos"
+        ],
+        "ga": "Argas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Arab"
+        ],
+        "ga": "Aráb",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Aruba",
+            "Oruba"
+        ],
+        "ga": "Arúba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Assos"
+        ],
+        "ga": "Asas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Atlantis"
+        ],
+        "ga": "Atlantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Avaris"
+        ],
+        "ga": "Avaras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Baghdad"
+        ],
+        "ga": "Bagdad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bahrain",
+            "Kingdom of Bahrain"
+        ],
+        "ga": "Bairéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bashkiria",
+            "Bashkortostan"
+        ],
+        "ga": "Baiscíria",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Balaclava"
+        ],
+        "ga": "Balaklava",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Barbados"
+        ],
+        "ga": "Barbadós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Barbuda"
+        ],
+        "ga": "Barbúda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Batanea"
+        ],
+        "ga": "Batainé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bengal"
+        ],
+        "ga": "Beangál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Benin",
+            "Republic of Benin"
+        ],
+        "ga": "Beinin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Berlin"
+        ],
+        "ga": "Beirlín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bermuda"
+        ],
+        "ga": "Beirmiúda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Berne"
+        ],
+        "ga": "Beirn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bethlehem"
+        ],
+        "ga": "Beithil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Belém"
+        ],
+        "ga": "Belém",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Biafra"
+        ],
+        "ga": "Biafra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bilhah"
+        ],
+        "ga": "Bilheá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bihar"
+        ],
+        "ga": "Biohár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Birr"
+        ],
+        "ga": "Biorra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "the Burren"
+        ],
+        "ga": "Boirinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Borneo"
+        ],
+        "ga": "Boirneo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Boston"
+        ],
+        "ga": "Bostún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bristol"
+        ],
+        "ga": "Briostó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Brundisium"
+        ],
+        "ga": "Bruindísiam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Burma"
+        ],
+        "ga": "Burma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Byrsa"
+        ],
+        "ga": "Bursa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Babel"
+        ],
+        "ga": "Báibil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Belgrade"
+        ],
+        "ga": "Béalgrád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Beara Peninsula"
+        ],
+        "ga": "Béarra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bethsaida"
+        ],
+        "ga": "Béatsáide",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bethany"
+        ],
+        "ga": "Béatáine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Beirut"
+        ],
+        "ga": "Béiriút",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bethel"
+        ],
+        "ga": "Béitéil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Byblos"
+        ],
+        "ga": "Bíoblós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bhopal"
+        ],
+        "ga": "Bópal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bucharest"
+        ],
+        "ga": "Búcairist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Budapest"
+        ],
+        "ga": "Búdaipeist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Kabul"
+        ],
+        "ga": "Cabúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Caesarea"
+        ],
+        "ga": "Caesairia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Capernaum"
+        ],
+        "ga": "Cafarnáúm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Carchemish"
+        ],
+        "ga": "Cairceimis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cairo"
+        ],
+        "ga": "Caireo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Calydon"
+        ],
+        "ga": "Caladón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Calcutta"
+        ],
+        "ga": "Calcúta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Calvary"
+        ],
+        "ga": "Calvaire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cameroon",
+            "Republic of Cameroon"
+        ],
+        "ga": "Camarún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Kanton"
+        ],
+        "ga": "Cantún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Canaan"
+        ],
+        "ga": "Canán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Karnak"
+        ],
+        "ga": "Carnac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Khartoum"
+        ],
+        "ga": "Cartúm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Qatar",
+            "State of Qatar"
+        ],
+        "ga": "Catar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Canada"
+        ],
+        "ga": "Ceanada",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Kerameikos"
+        ],
+        "ga": "Ceiriméacas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Kiribati",
+            "Republic of Kiribati"
+        ],
+        "ga": "Cireabaití",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Knossos",
+            "Cnossus"
+        ],
+        "ga": "Cnósas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Colchis"
+        ],
+        "ga": "Coilcís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Komi"
+        ],
+        "ga": "Coimí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Corcyra"
+        ],
+        "ga": "Coircíora",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Colossae"
+        ],
+        "ga": "Colasae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Conakry"
+        ],
+        "ga": "Conacraí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Corfu"
+        ],
+        "ga": "Corfú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Corsican"
+        ],
+        "ga": "Corsaicis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cromerty"
+        ],
+        "ga": "Cromba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Qumran"
+        ],
+        "ga": "Cumrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cuzco"
+        ],
+        "ga": "Cuscó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Kuwait",
+            "State of Kuwait"
+        ],
+        "ga": "Cuáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Kadesh"
+        ],
+        "ga": "Cáidéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cana"
+        ],
+        "ga": "Cána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cherith"
+        ],
+        "ga": "Céirít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cíbola"
+        ],
+        "ga": "Cíbola",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cyrene"
+        ],
+        "ga": "Círéiné",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Chisinau",
+            "Kishinev"
+        ],
+        "ga": "Císineá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Kiev",
+            "Kyiv "
+        ],
+        "ga": "Cív",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Copenhagen"
+        ],
+        "ga": "Cóbanhávan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cuba",
+            "Republic of Cuba"
+        ],
+        "ga": "Cúba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Dakar"
+        ],
+        "ga": "Dacár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Dedeagatch"
+        ],
+        "ga": "Deidéagait",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Delphi"
+        ],
+        "ga": "Deilfe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Delhi"
+        ],
+        "ga": "Deilí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Derry",
+            "Londonderry"
+        ],
+        "ga": "Doire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Dacia"
+        ],
+        "ga": "Dáicia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Dar es Salaam",
+            "Dar es Salam"
+        ],
+        "ga": "Dárasalám",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "York"
+        ],
+        "ga": "Eabhrac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ebla"
+        ],
+        "ga": "Eabla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ecbatana"
+        ],
+        "ga": "Eacbatana",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ecuador",
+            "Republic of Ecuador"
+        ],
+        "ga": "Eacuadór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Edom"
+        ],
+        "ga": "Eadóm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ephrath"
+        ],
+        "ga": "Eafrát",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ephrathah"
+        ],
+        "ga": "Eafrátá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ephesus"
+        ],
+        "ga": "Eifeasas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Eleusis"
+        ],
+        "ga": "Eileoisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Epidauros"
+        ],
+        "ga": "Eipeadáras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Eridu"
+        ],
+        "ga": "Eireadú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Pharos"
+        ],
+        "ga": "Faras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Faroes"
+        ],
+        "ga": "Faró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Fiji",
+            "Republic of the Fiji Islands"
+        ],
+        "ga": "Fidsí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Philippi"
+        ],
+        "ga": "Filipe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Finisterre"
+        ],
+        "ga": "Finisterre",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Fairview"
+        ],
+        "ga": "Fionnradharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Flanders"
+        ],
+        "ga": "Flóndras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Florence"
+        ],
+        "ga": "Flórans",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Forth"
+        ],
+        "ga": "Foirthe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Formosa"
+        ],
+        "ga": "Formósa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Friulian"
+        ],
+        "ga": "Friúilis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gaya"
+        ],
+        "ga": "Gaya",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Guernsey"
+        ],
+        "ga": "Geansaí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gennesaret"
+        ],
+        "ga": "Geinéasaireit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Jersey"
+        ],
+        "ga": "Geirsí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gilead"
+        ],
+        "ga": "Gileád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gibraltar"
+        ],
+        "ga": "Giobráltar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Glasgow"
+        ],
+        "ga": "Glaschú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gondwana",
+            "Gondwanaland"
+        ],
+        "ga": "Gonduana",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Grenada"
+        ],
+        "ga": "Greanáda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Guadeloupe"
+        ],
+        "ga": "Guadalúip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Guam"
+        ],
+        "ga": "Guam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Guatemala",
+            "Republic of Guatemala"
+        ],
+        "ga": "Guatamala",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gaugamela"
+        ],
+        "ga": "Gágaiméala",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ghana",
+            "Republic of Ghana"
+        ],
+        "ga": "Gána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gobi"
+        ],
+        "ga": "Góibí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hanoi"
+        ],
+        "ga": "Hanáí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hawaii"
+        ],
+        "ga": "Haváí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hebron"
+        ],
+        "ga": "Heabrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Hermon"
+        ],
+        "ga": "Hearmón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hellespont"
+        ],
+        "ga": "Heilléaspontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Helsinki"
+        ],
+        "ga": "Heilsincí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hermopolis"
+        ],
+        "ga": "Heirmeapolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hierapolis"
+        ],
+        "ga": "Hiarapoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hydaspes"
+        ],
+        "ga": "Hiodaispéas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "St Kilda"
+        ],
+        "ga": "Hiort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Honduras",
+            "Republic of Honduras"
+        ],
+        "ga": "Hondúras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Horeb"
+        ],
+        "ga": "Horaeb",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Hades"
+        ],
+        "ga": "Háidéas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Haiti",
+            "Republic of Haiti"
+        ],
+        "ga": "Háítí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Heliopolis"
+        ],
+        "ga": "Héileapoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Honiara"
+        ],
+        "ga": "Hóiniára",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Yakutsk"
+        ],
+        "ga": "Iacútsc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Jabneh"
+        ],
+        "ga": "Iaibne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Jamnia"
+        ],
+        "ga": "Iaimnia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Jamaica"
+        ],
+        "ga": "Iamáice",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Jerusalem"
+        ],
+        "ga": "Iarúsailéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ennis"
+        ],
+        "ga": "Inis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Wight"
+        ],
+        "ga": "Iocht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Israel",
+            "State of Israel"
+        ],
+        "ga": "Iosrael",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Istanbul"
+        ],
+        "ga": "Iostanbúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ituraea"
+        ],
+        "ga": "Iotúráia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Jericho"
+        ],
+        "ga": "Ireachó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Java"
+        ],
+        "ga": "Iáva",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Kaifeng"
+        ],
+        "ga": "Kaifeng",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ladin"
+        ],
+        "ga": "Laidinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Lavrion"
+        ],
+        "ga": "Laivrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Laos",
+            "Lao People’s Democratic Republic"
+        ],
+        "ga": "Laos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Lucan"
+        ],
+        "ga": "Leamhcán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Liverpool"
+        ],
+        "ga": "Learpholl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Lesotho",
+            "Kingdom of Lesotho"
+        ],
+        "ga": "Leosóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Lewis Island"
+        ],
+        "ga": "Leódhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Liechtenstein",
+            "Principality of Liechtenstein"
+        ],
+        "ga": "Lichtinstéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Lydia"
+        ],
+        "ga": "Lidia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Lisbon"
+        ],
+        "ga": "Liospóin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ljubljana"
+        ],
+        "ga": "Liúibleána",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "London"
+        ],
+        "ga": "Londain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Louvain"
+        ],
+        "ga": "Lováin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Luanda"
+        ],
+        "ga": "Luanda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Luxembourg"
+        ],
+        "ga": "Lucsamburg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Luxembourg",
+            "Grand Duchy of Luxembourg"
+        ],
+        "ga": "Lucsamburg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Luxor"
+        ],
+        "ga": "Lucsar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Lhasa"
+        ],
+        "ga": "Lása",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "El Aaium"
+        ],
+        "ga": "Láúine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Lima"
+        ],
+        "ga": "Líoma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Madagascar",
+            "Republic of Madagascar"
+        ],
+        "ga": "Madagascar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Myanmar",
+            "Union of Myanmar"
+        ],
+        "ga": "Maenmar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Madrid"
+        ],
+        "ga": "Maidrid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Madeira"
+        ],
+        "ga": "Maidéara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mali",
+            "Republic of Mali"
+        ],
+        "ga": "Mailí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Manila"
+        ],
+        "ga": "Mainile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mari"
+        ],
+        "ga": "Mairí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Majorca",
+            "Mallorca"
+        ],
+        "ga": "Mallarca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Isle of Man"
+        ],
+        "ga": "Manainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Manchester"
+        ],
+        "ga": "Manchain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Maputo"
+        ],
+        "ga": "Mapútó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Morocco",
+            "Kingdom of Morocco"
+        ],
+        "ga": "Maracó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Marathon"
+        ],
+        "ga": "Maratón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Marrakech"
+        ],
+        "ga": "Marrakech",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mecca"
+        ],
+        "ga": "Meice",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mexico",
+            "United Mexican States"
+        ],
+        "ga": "Meicsiceo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Medina"
+        ],
+        "ga": "Meidíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Megara"
+        ],
+        "ga": "Meigeara",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "America"
+        ],
+        "ga": "Meiriceá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mykale"
+        ],
+        "ga": "Micilé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mycenae"
+        ],
+        "ga": "Micéiné",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Minorca"
+        ],
+        "ga": "Mionarca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Minsk"
+        ],
+        "ga": "Mionsc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mirny"
+        ],
+        "ga": "Mirny",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mytilene"
+        ],
+        "ga": "Mitiléine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mogadishu"
+        ],
+        "ga": "Mogaidisiú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Monaco",
+            "Principality of Monaco"
+        ],
+        "ga": "Monacó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mongan Bog"
+        ],
+        "ga": "Mongán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Montenegro"
+        ],
+        "ga": "Montainéagró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Montserrat"
+        ],
+        "ga": "Montsarat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Moscow"
+        ],
+        "ga": "Moscó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mashal"
+        ],
+        "ga": "Máiseál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Malin"
+        ],
+        "ga": "Málainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Malta",
+            "Republic of Malta"
+        ],
+        "ga": "Málta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Melos"
+        ],
+        "ga": "Méileas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mozambique",
+            "Republic of Mozambique"
+        ],
+        "ga": "Mósaimbíc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Moab"
+        ],
+        "ga": "Móáb",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Namaqualand"
+        ],
+        "ga": "Namaqualand",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Nazareth"
+        ],
+        "ga": "Nazarat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Nepal",
+            "Federal Democratic Republic of Nepal"
+        ],
+        "ga": "Neipeal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Nicaragua",
+            "Republic of Nicaragua"
+        ],
+        "ga": "Nicearagua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Nineveh"
+        ],
+        "ga": "Ninivé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Norilsk"
+        ],
+        "ga": "Norilsk",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "New York"
+        ],
+        "ga": "Nua-Eabhrac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Nouakchott"
+        ],
+        "ga": "Nuacsat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Naamah"
+        ],
+        "ga": "Námá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Republic of Nauru",
+            "Nauru"
+        ],
+        "ga": "Nárú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Nemea"
+        ],
+        "ga": "Néimé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Naypyidaw"
+        ],
+        "ga": "Néipíadá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Nicea"
+        ],
+        "ga": "Nícé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Nubia"
+        ],
+        "ga": "Núibia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Olympus",
+            "Olympas"
+        ],
+        "ga": "Oilimpeas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Olympia"
+        ],
+        "ga": "Oilimpia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Oslo"
+        ],
+        "ga": "Osló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ostend"
+        ],
+        "ga": "Ostainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Pamphylia"
+        ],
+        "ga": "Paimfilia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Panama",
+            "Republic of Panama"
+        ],
+        "ga": "Panama",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Pangaea",
+            "Pangea"
+        ],
+        "ga": "Pangaea",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Papua"
+        ],
+        "ga": "Papua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Paraguay",
+            "Republic of Paraguay"
+        ],
+        "ga": "Paragua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Peru",
+            "Republic of Peru"
+        ],
+        "ga": "Peiriú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Persepolis"
+        ],
+        "ga": "Peirseapoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Piraeus"
+        ],
+        "ga": "Piréas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Podgorica"
+        ],
+        "ga": "Podgairítse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Oporto"
+        ],
+        "ga": "Porto",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Portobello"
+        ],
+        "ga": "Portobello",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Prague"
+        ],
+        "ga": "Prág",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Paris"
+        ],
+        "ga": "Páras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Piedmont"
+        ],
+        "ga": "Píodmant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Rakkath"
+        ],
+        "ga": "Racat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Yangon",
+            "Rangoon"
+        ],
+        "ga": "Rangún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Rockall"
+        ],
+        "ga": "Rocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Rwanda",
+            "Republic of Rwanda"
+        ],
+        "ga": "Ruanda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Reykjavik"
+        ],
+        "ga": "Réicivíc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Riga"
+        ],
+        "ga": "Ríge",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Rhodes"
+        ],
+        "ga": "Ródas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Saqqara"
+        ],
+        "ga": "Sacára",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Zanzibar"
+        ],
+        "ga": "Sainsibeár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Sardis"
+        ],
+        "ga": "Sairdeas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Sarajevo"
+        ],
+        "ga": "Sairéavó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Samothrace"
+        ],
+        "ga": "Samatracae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Samsoe"
+        ],
+        "ga": "Samsoe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Samoa",
+            "Independent State of Samoa"
+        ],
+        "ga": "Samó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "England"
+        ],
+        "ga": "Sasana",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Savoy"
+        ],
+        "ga": "Saváí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Skopje"
+        ],
+        "ga": "Scóipé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Chad",
+            "Republic of Chad"
+        ],
+        "ga": "Sead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Shetlands",
+            "Shetland"
+        ],
+        "ga": "Sealtainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Chernobyl"
+        ],
+        "ga": "Searnóbail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Shechem"
+        ],
+        "ga": "Seicim",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Seleucia"
+        ],
+        "ga": "Seiliúicia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Seljuk"
+        ],
+        "ga": "Seilsiúc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Serapeum"
+        ],
+        "ga": "Seireapaem",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Singapore",
+            "Republic of Singapore"
+        ],
+        "ga": "Singeapór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Chikura"
+        ],
+        "ga": "Siocúra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Sidon"
+        ],
+        "ga": "Siodón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Siloam"
+        ],
+        "ga": "Siolóm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Shannon"
+        ],
+        "ga": "Sionainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Syracuse"
+        ],
+        "ga": "Sioracús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Smyrna"
+        ],
+        "ga": "Smiorna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Sokotra",
+            "Socotra"
+        ],
+        "ga": "Socatra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Sodom"
+        ],
+        "ga": "Sodam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Sparta"
+        ],
+        "ga": "Sparta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Stornaway"
+        ],
+        "ga": "Steórnabhagh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Stymphalia"
+        ],
+        "ga": "Stiomfalas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Stockholm"
+        ],
+        "ga": "Stócólm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Suez"
+        ],
+        "ga": "Suais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Succoth"
+        ],
+        "ga": "Sucót",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Surinam",
+            "Suriname",
+            "Republic of Suriname"
+        ],
+        "ga": "Suranam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Szechuan"
+        ],
+        "ga": "Szechwan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Zagreb"
+        ],
+        "ga": "Ságrab",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Sinai"
+        ],
+        "ga": "Síonáí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Zion"
+        ],
+        "ga": "Síón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Sofia"
+        ],
+        "ga": "Sóifia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Susa"
+        ],
+        "ga": "Súsá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tahiti"
+        ],
+        "ga": "Taihítí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "Teltown"
+        ],
+        "ga": "Tailtin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tartessus"
+        ],
+        "ga": "Tairtéiseas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Taizé"
+        ],
+        "ga": "Taizé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Thames"
+        ],
+        "ga": "Tamais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tangier"
+        ],
+        "ga": "Tangier",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Tantalus"
+        ],
+        "ga": "Tantalas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tarsus"
+        ],
+        "ga": "Tarsas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "Tara"
+        ],
+        "ga": "Teamhair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Thermopylae"
+        ],
+        "ga": "Tearmápalae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Thermodon"
+        ],
+        "ga": "Tearmódón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Thessalonica"
+        ],
+        "ga": "Teasaloinicé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Timbuktu"
+        ],
+        "ga": "Timbeactú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Timnath"
+        ],
+        "ga": "Timneat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Timnah"
+        ],
+        "ga": "Timneá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tirida"
+        ],
+        "ga": "Tiride",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Thyatira"
+        ],
+        "ga": "Tiáitire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tobago"
+        ],
+        "ga": "Tobága",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tonga",
+            "Kingdom of Tonga"
+        ],
+        "ga": "Tonga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Trachonitis"
+        ],
+        "ga": "Trachóiníteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Transdniestria",
+            "Transnistria"
+        ],
+        "ga": "Tras-dnístria",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tripoli"
+        ],
+        "ga": "Tripilí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Troas"
+        ],
+        "ga": "Tróás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tumbes"
+        ],
+        "ga": "Tumbes",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tamar"
+        ],
+        "ga": "Támár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Thera"
+        ],
+        "ga": "Téara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Timor"
+        ],
+        "ga": "Tíomór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Togo",
+            "Togolese Republic"
+        ],
+        "ga": "Tóga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tokyo"
+        ],
+        "ga": "Tóiceo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tunis"
+        ],
+        "ga": "Túinis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tura"
+        ],
+        "ga": "Túra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tuva"
+        ],
+        "ga": "Túva",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Wasis"
+        ],
+        "ga": "Uasais",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Uganda",
+            "Republic of Uganda"
+        ],
+        "ga": "Uganda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Uhud"
+        ],
+        "ga": "Uhud",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Viking"
+        ],
+        "ga": "Uiging",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Uruguay",
+            "Eastern Republic of Uruguay"
+        ],
+        "ga": "Uragua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Vaduz"
+        ],
+        "ga": "Vadús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Valletta"
+        ],
+        "ga": "Vaileite",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Vanuatu",
+            "Republic of Vanuatu"
+        ],
+        "ga": "Vanuatú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Venezuela",
+            "Bolivarian Republic of Venezuela"
+        ],
+        "ga": "Veiniséala",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Warsaw"
+        ],
+        "ga": "Vársá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Vienna"
+        ],
+        "ga": "Vín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Vietnam",
+            "Viet-nam",
+            "Socialist Republic of Vietnam"
+        ],
+        "ga": "Vítneam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Zarephath"
+        ],
+        "ga": "Zárafat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tholos"
+        ],
+        "ga": "tólas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Abel"
+        ],
+        "ga": "Ábael",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Abel-shittim"
+        ],
+        "ga": "Ábael-ha-Sitím",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Aden"
+        ],
+        "ga": "Áidin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Auranitis"
+        ],
+        "ga": "Árainíteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Eden"
+        ],
+        "ga": "Éidin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Elis"
+        ],
+        "ga": "Éilís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "Ireland"
+        ],
+        "ga": "Éire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Iona"
+        ],
+        "ga": "Í",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Oman",
+            "Sultanate of Oman"
+        ],
+        "ga": "Óman",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ugarit"
+        ],
+        "ga": "Úgairít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Uruk"
+        ],
+        "ga": "Úrúc",
+        "gender": "masculine"
+    }
+]

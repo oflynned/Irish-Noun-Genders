@@ -1,0 +1,417 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "bed-sheet",
+            "sheet"
+        ],
+        "ga": "braillín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cloth"
+        ],
+        "ga": "ceirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chimes"
+        ],
+        "ga": "clogra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clothes horse"
+        ],
+        "ga": "cnagadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "candle"
+        ],
+        "ga": "coinneal",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "candle-holder"
+        ],
+        "ga": "coinnleoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coaster"
+        ],
+        "ga": "cóstaer",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "disinfectant"
+        ],
+        "ga": "dífhabhtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fuse"
+        ],
+        "ga": "fiús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flask"
+        ],
+        "ga": "fleasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "frying-pan",
+            "frying pan",
+            "pan"
+        ],
+        "ga": "friochtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reamer"
+        ],
+        "ga": "fáiscire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "soap"
+        ],
+        "ga": "gallúnach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "detergent"
+        ],
+        "ga": "glantach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cleaner"
+        ],
+        "ga": "glantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spout"
+        ],
+        "ga": "gob",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coal-bunker"
+        ],
+        "ga": "gualchró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hoover"
+        ],
+        "ga": "húvar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hoovering"
+        ],
+        "ga": "húvaráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "household junk"
+        ],
+        "ga": "mangarae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mop"
+        ],
+        "ga": "mapa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mat"
+        ],
+        "ga": "mata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mug"
+        ],
+        "ga": "muga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pan"
+        ],
+        "ga": "panna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pounding-stick"
+        ],
+        "ga": "pasúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pillow"
+        ],
+        "ga": "piliúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "plug"
+        ],
+        "ga": "plocóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "blanket"
+        ],
+        "ga": "pluid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "powder for cleaning"
+        ],
+        "ga": "púdar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scatter cushion"
+        ],
+        "ga": "scaipchúisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cutlery"
+        ],
+        "ga": "sceanra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "scourer"
+        ],
+        "ga": "sciúrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "faucet",
+            "tap",
+            "water tap"
+        ],
+        "ga": "sconna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shade"
+        ],
+        "ga": "scáthlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dustpan"
+        ],
+        "ga": "sluasaidín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stain remover"
+        ],
+        "ga": "smálghlantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pounder"
+        ],
+        "ga": "smíste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polish"
+        ],
+        "ga": "snasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "floating candle holder"
+        ],
+        "ga": "snámhchoinnleoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spandrel"
+        ],
+        "ga": "spandral",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sponge"
+        ],
+        "ga": "spúinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "starch",
+            "amylum"
+        ],
+        "ga": "stáirse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stationery"
+        ],
+        "ga": "stáiseanóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "saucepan"
+        ],
+        "ga": "sáspan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tealight"
+        ],
+        "ga": "taechoinneal",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "humidifier"
+        ],
+        "ga": "taisire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tarnishing"
+        ],
+        "ga": "teimheal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tray"
+        ],
+        "ga": "tráidire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bleacher"
+        ],
+        "ga": "tuaraire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bleach",
+            "bleaching agent"
+        ],
+        "ga": "tuarthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "torch"
+        ],
+        "ga": "tóirse",
+        "gender": "masculine"
+    }
+]

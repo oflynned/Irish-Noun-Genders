@@ -1,0 +1,2553 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "Deputy Chief Librarian"
+        ],
+        "ga": "Leas-PhríomhLeabharlannaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "appendix",
+            "addendum",
+            "addition"
+        ],
+        "ga": "aguisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "class"
+        ],
+        "ga": "aicme",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "recall notice"
+        ],
+        "ga": "aisghairm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "translator"
+        ],
+        "ga": "aistritheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "annotation"
+        ],
+        "ga": "anótáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "output"
+        ],
+        "ga": "aschur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "printout",
+            "computer printout"
+        ],
+        "ga": "asphrionta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reprint"
+        ],
+        "ga": "athchló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "replacement copy"
+        ],
+        "ga": "athchóip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "reprographics"
+        ],
+        "ga": "athghrafaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "renewal"
+        ],
+        "ga": "athiasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "atlas"
+        ],
+        "ga": "atlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "collection",
+            "compilation"
+        ],
+        "ga": "bailiúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "batch"
+        ],
+        "ga": "baisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "batch processing"
+        ],
+        "ga": "baiscphróiseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "membership"
+        ],
+        "ga": "ballraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "headband"
+        ],
+        "ga": "barrbhanda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bibliographer"
+        ],
+        "ga": "bibleagrafaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bibliography"
+        ],
+        "ga": "bibleagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bibliometrics"
+        ],
+        "ga": "bibliméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "annual"
+        ],
+        "ga": "bliainiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "annual"
+        ],
+        "ga": "bliantán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "block loan"
+        ],
+        "ga": "blociasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "blurb"
+        ],
+        "ga": "blurba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "browsing"
+        ],
+        "ga": "brabhsáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "browser"
+        ],
+        "ga": "brabhsálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sensitising unit",
+            "sensitisor"
+        ],
+        "ga": "brathadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "addition"
+        ],
+        "ga": "breis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "addendum"
+        ],
+        "ga": "breis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "occult"
+        ],
+        "ga": "briotais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "donation"
+        ],
+        "ga": "bronntanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "donor"
+        ],
+        "ga": "bronntóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brochure"
+        ],
+        "ga": "bróisiúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "permanent loan"
+        ],
+        "ga": "buaniasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "buckram"
+        ],
+        "ga": "bucram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bulletin"
+        ],
+        "ga": "bullaitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "original edition"
+        ],
+        "ga": "buneagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "primary publication"
+        ],
+        "ga": "bunfhoilseachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "original text",
+            "Urtext"
+        ],
+        "ga": "buntéacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carrel"
+        ],
+        "ga": "cairréal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cardboard",
+            "board"
+        ],
+        "ga": "cairtchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "archive"
+        ],
+        "ga": "cartlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "archivist"
+        ],
+        "ga": "cartlannaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cartridge"
+        ],
+        "ga": "cartús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "catalog",
+            "catalogue"
+        ],
+        "ga": "catalóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cataloguer"
+        ],
+        "ga": "catalógaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "binding"
+        ],
+        "ga": "ceangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bindery"
+        ],
+        "ga": "ceanglann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "autonym"
+        ],
+        "ga": "ceartainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quarter-binding",
+            "quarter binding"
+        ],
+        "ga": "ceathrúcheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cibachrome"
+        ],
+        "ga": "cibeacróm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "circular",
+            "encyclical"
+        ],
+        "ga": "ciorclán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "edge"
+        ],
+        "ga": "ciumhais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "classic"
+        ],
+        "ga": "clasaiceach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "audioaid"
+        ],
+        "ga": "clos-áis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "audio book",
+            "audio-book"
+        ],
+        "ga": "closleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "audiotape",
+            "audio-tape"
+        ],
+        "ga": "clostéip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tab"
+        ],
+        "ga": "cluaisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "earphone"
+        ],
+        "ga": "cluasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "earpiece"
+        ],
+        "ga": "cluasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "printer"
+        ],
+        "ga": "clódóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "printing press",
+            "printing-press"
+        ],
+        "ga": "clóphreas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "head"
+        ],
+        "ga": "cnoga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fortnightly"
+        ],
+        "ga": "coicíseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "curator"
+        ],
+        "ga": "coimeádaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colophon"
+        ],
+        "ga": "colafan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "file"
+        ],
+        "ga": "comhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "union catalogue"
+        ],
+        "ga": "comhchatalóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joint editor",
+            "co-editor"
+        ],
+        "ga": "comheagarthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "compatibility"
+        ],
+        "ga": "comhoiriúnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "environment"
+        ],
+        "ga": "comhshaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joint author"
+        ],
+        "ga": "comhúdar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cross-reference"
+        ],
+        "ga": "crostagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core collection"
+        ],
+        "ga": "croíchnuasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hard copy"
+        ],
+        "ga": "cruachóip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "search"
+        ],
+        "ga": "cuardach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quarto"
+        ],
+        "ga": "cuartó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "part"
+        ],
+        "ga": "cuid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "copy"
+        ],
+        "ga": "cóip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "copyright"
+        ],
+        "ga": "cóipcheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "copier"
+        ],
+        "ga": "cóipeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "copier"
+        ],
+        "ga": "cóipire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fair copying"
+        ],
+        "ga": "cóirchóipeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "carrell"
+        ],
+        "ga": "cúbaill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "back stock"
+        ],
+        "ga": "cúlstoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reserve store"
+        ],
+        "ga": "cúlstór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "circulation"
+        ],
+        "ga": "cúrsaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cursor"
+        ],
+        "ga": "cúrsóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "digit"
+        ],
+        "ga": "digit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "digest book"
+        ],
+        "ga": "dlútheagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compact edition"
+        ],
+        "ga": "dlútheagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "documentation"
+        ],
+        "ga": "doiciméadacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "documentalist"
+        ],
+        "ga": "doiciméadaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "docket"
+        ],
+        "ga": "duillín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "date"
+        ],
+        "ga": "dáta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "date stamp"
+        ],
+        "ga": "dátstampa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "biennial"
+        ],
+        "ga": "débhliantán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bimonthly"
+        ],
+        "ga": "démhíosachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "debugging"
+        ],
+        "ga": "dífhabhtúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "compilation"
+        ],
+        "ga": "díolaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "anthologist",
+            "compiler",
+            "collector"
+        ],
+        "ga": "díolamóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "autobiography"
+        ],
+        "ga": "dírbheathaisnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "editor",
+            "redactor"
+        ],
+        "ga": "eagarthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "editing"
+        ],
+        "ga": "eagarthóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "edition",
+            "redaction",
+            "issue"
+        ],
+        "ga": "eagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "groove"
+        ],
+        "ga": "eitre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "keyword",
+            "key-word"
+        ],
+        "ga": "eochairfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "directory"
+        ],
+        "ga": "eolaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "knowledge"
+        ],
+        "ga": "eolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "facsimile"
+        ],
+        "ga": "facsamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "long-playing record",
+            "LP",
+            "long playing record"
+        ],
+        "ga": "fadcheirnín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "intelligence"
+        ],
+        "ga": "faisnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "informatician"
+        ],
+        "ga": "faisnéisí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "informatics"
+        ],
+        "ga": "faisnéisíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fiction"
+        ],
+        "ga": "ficsean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "folder"
+        ],
+        "ga": "fillteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fiction",
+            "fictitious story"
+        ],
+        "ga": "finscéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chaser"
+        ],
+        "ga": "fiosraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inquiry",
+            "enquiry"
+        ],
+        "ga": "fiosrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subheading",
+            "subhead"
+        ],
+        "ga": "fo-cheannteideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subsidiary entry"
+        ],
+        "ga": "fo-iontráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sublibrarian"
+        ],
+        "ga": "fo-leabharlannaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dictionary",
+            "lexicon"
+        ],
+        "ga": "foclóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "publication"
+        ],
+        "ga": "foilseachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "publisher"
+        ],
+        "ga": "foilsitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "outreach"
+        ],
+        "ga": "for-rochtain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flyleaf",
+            "fly-leaf"
+        ],
+        "ga": "fordhuilleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "added entry"
+        ],
+        "ga": "foriontráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "supplement"
+        ],
+        "ga": "forlíonadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "format"
+        ],
+        "ga": "formáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subtitle"
+        ],
+        "ga": "fotheideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "slip binding"
+        ],
+        "ga": "fáisc-cheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fine"
+        ],
+        "ga": "fíneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "true life"
+        ],
+        "ga": "fíorscéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fiche"
+        ],
+        "ga": "fís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "video disk",
+            "videodisc",
+            "videodisk",
+            "video disc"
+        ],
+        "ga": "físdiosca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "folio",
+            "F"
+        ],
+        "ga": "fóilió",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "photocopy"
+        ],
+        "ga": "fótachóip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "photostat"
+        ],
+        "ga": "fótastat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "career"
+        ],
+        "ga": "gairm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "call number"
+        ],
+        "ga": "gairmuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gazetteer"
+        ],
+        "ga": "gasaitéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "short catalogue"
+        ],
+        "ga": "gearrchatalóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "short story"
+        ],
+        "ga": "gearrscéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "glossary",
+            "gloss"
+        ],
+        "ga": "gluaisre",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "procedure"
+        ],
+        "ga": "gnás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "real book"
+        ],
+        "ga": "gnáthleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "humour",
+            "fun",
+            "comedy"
+        ],
+        "ga": "greann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "humour - general"
+        ],
+        "ga": "greann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "request"
+        ],
+        "ga": "iarratas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "loan"
+        ],
+        "ga": "iasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "borrower"
+        ],
+        "ga": "iasachtaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lender"
+        ],
+        "ga": "iasachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "insert"
+        ],
+        "ga": "iatán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inserted passage",
+            "interpolation",
+            "insertion"
+        ],
+        "ga": "idirshliocht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "variorum edition"
+        ],
+        "ga": "ileagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ilfochrome"
+        ],
+        "ga": "ilfeacróm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "proceeding"
+        ],
+        "ga": "imeacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "margin"
+        ],
+        "ga": "imeall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "initial",
+            "initial letter"
+        ],
+        "ga": "iniseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "index"
+        ],
+        "ga": "innéacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "indexer"
+        ],
+        "ga": "innéacsóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "imprint"
+        ],
+        "ga": "inphrionta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "inset"
+        ],
+        "ga": "intlis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "input"
+        ],
+        "ga": "ionchur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "incunabulum"
+        ],
+        "ga": "ioncúnabal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "magazine"
+        ],
+        "ga": "irisleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "journal"
+        ],
+        "ga": "irisleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "book"
+        ],
+        "ga": "leabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "book-lover",
+            "book lover",
+            "bibliophile"
+        ],
+        "ga": "leabharbhách",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "library"
+        ],
+        "ga": "leabharlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "librarian"
+        ],
+        "ga": "leabharlannaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "librarianship"
+        ],
+        "ga": "leabharlannaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bibliography",
+            "booklist"
+        ],
+        "ga": "leabharliosta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bookplate",
+            "book plate"
+        ],
+        "ga": "leabharshuaitheantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "book stop",
+            "book-support",
+            "bookend",
+            "book support"
+        ],
+        "ga": "leabharstop",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bookcase",
+            "book case"
+        ],
+        "ga": "leabhragán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "booklet"
+        ],
+        "ga": "leabhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deputy librarian"
+        ],
+        "ga": "leasleabharlannaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bastard title"
+        ],
+        "ga": "leath-theideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "half-tone",
+            "halftone",
+            "half tone"
+        ],
+        "ga": "leath-thon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "page",
+            "p."
+        ],
+        "ga": "leathanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leather"
+        ],
+        "ga": "leathar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "half-binding"
+        ],
+        "ga": "leathcheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "semimonthly"
+        ],
+        "ga": "leathmhíosachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "foolscap"
+        ],
+        "ga": "leathphraitinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sheet"
+        ],
+        "ga": "leathán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "half-cloth"
+        ],
+        "ga": "leathéadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lettering"
+        ],
+        "ga": "litreoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vandalism"
+        ],
+        "ga": "loitiméireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "manual",
+            "handbook"
+        ],
+        "ga": "lámhleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "manuscript",
+            "MS"
+        ],
+        "ga": "lámhscríbhinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "illustration",
+            "graphic"
+        ],
+        "ga": "léaráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "laser"
+        ],
+        "ga": "léasar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "review",
+            "assessment"
+        ],
+        "ga": "léirmheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reader"
+        ],
+        "ga": "léitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reader/printer"
+        ],
+        "ga": "léitheoir/printéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "network"
+        ],
+        "ga": "líonra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "replica",
+            "copy",
+            "reproduction"
+        ],
+        "ga": "macasamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "illustration"
+        ],
+        "ga": "maisiúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "exchange"
+        ],
+        "ga": "malairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reminder"
+        ],
+        "ga": "meabhrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "microform"
+        ],
+        "ga": "micreafoirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "microfilm"
+        ],
+        "ga": "micreascannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "microfiche"
+        ],
+        "ga": "micrifís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "microcomputer",
+            "micro-computer"
+        ],
+        "ga": "micriríomhaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "damage"
+        ],
+        "ga": "milleantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minicomputer",
+            "mini-computer",
+            "mini computer"
+        ],
+        "ga": "mionríomhaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monograph"
+        ],
+        "ga": "monagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "master tape",
+            "master"
+        ],
+        "ga": "máistirthéip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monthly"
+        ],
+        "ga": "míosachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mode"
+        ],
+        "ga": "mód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mainframe"
+        ],
+        "ga": "mór-ríomhaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "main collection"
+        ],
+        "ga": "mórchnuasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "catchword title",
+            "catch title"
+        ],
+        "ga": "nath-theideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "incompatibility"
+        ],
+        "ga": "neamh-chomhoiriúnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nonfiction",
+            "non-fiction"
+        ],
+        "ga": "neamhfhicsean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "notation"
+        ],
+        "ga": "nodaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "newsletter"
+        ],
+        "ga": "nuachtlitir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "newspaper"
+        ],
+        "ga": "nuachtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "novella"
+        ],
+        "ga": "nóibhille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "novellette"
+        ],
+        "ga": "nóibhilléad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "note",
+            "annotation"
+        ],
+        "ga": "nóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "octavo"
+        ],
+        "ga": "ochtábhó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overhead projector"
+        ],
+        "ga": "osteilgeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pamphlet"
+        ],
+        "ga": "paimfléad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "printer"
+        ],
+        "ga": "printéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "print"
+        ],
+        "ga": "prionta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "main card"
+        ],
+        "ga": "príomhchárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "main entry"
+        ],
+        "ga": "príomhiontráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "main library"
+        ],
+        "ga": "príomhleabharlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chief librarian"
+        ],
+        "ga": "príomhleabharlannaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "processing"
+        ],
+        "ga": "próiseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parchment"
+        ],
+        "ga": "pár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quiz book"
+        ],
+        "ga": "quizleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reprography"
+        ],
+        "ga": "reipreagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "selection list"
+        ],
+        "ga": "roghliosta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quarterly"
+        ],
+        "ga": "ráitheachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "forename"
+        ],
+        "ga": "réamhainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "preface",
+            "prolegomena",
+            "foreword",
+            "prologue",
+            "preamble",
+            "introduction"
+        ],
+        "ga": "réamhrá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prefix"
+        ],
+        "ga": "réamhtheideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rubric",
+            "heading"
+        ],
+        "ga": "rúibric",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "special classification"
+        ],
+        "ga": "sainaicmiúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "special collection"
+        ],
+        "ga": "sainbhailiúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "special issue"
+        ],
+        "ga": "saineagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "special library"
+        ],
+        "ga": "sainleabharlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "special librarian"
+        ],
+        "ga": "sainleabharlannaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "schedule"
+        ],
+        "ga": "sceideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "screen"
+        ],
+        "ga": "scáileán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "thriller"
+        ],
+        "ga": "scéinséir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "offprint",
+            "off-print"
+        ],
+        "ga": "seach-chló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "weekly"
+        ],
+        "ga": "seachtanán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "back issue"
+        ],
+        "ga": "seaneagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "back number"
+        ],
+        "ga": "seanuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shelf"
+        ],
+        "ga": "seilf",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shelver"
+        ],
+        "ga": "seilfeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shelf list"
+        ],
+        "ga": "seilfliosta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shelving"
+        ],
+        "ga": "seilfre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shelf life"
+        ],
+        "ga": "seilfré",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rod"
+        ],
+        "ga": "slaitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "slide"
+        ],
+        "ga": "sleamhnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "surname"
+        ],
+        "ga": "sloinne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flash card",
+            "flashcard"
+        ],
+        "ga": "spléach-chárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "serial publication"
+        ],
+        "ga": "sraitheachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "series entry"
+        ],
+        "ga": "sraithiontráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "serial reading"
+        ],
+        "ga": "sraithléitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "series note"
+        ],
+        "ga": "sraithnóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "serial story",
+            "serial"
+        ],
+        "ga": "sraithscéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "serial number"
+        ],
+        "ga": "sraithuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "statistic"
+        ],
+        "ga": "staitistic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "comic strip"
+        ],
+        "ga": "stiallghreannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "film strip",
+            "filmstrip"
+        ],
+        "ga": "stiallscannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stencil"
+        ],
+        "ga": "stionsal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stock"
+        ],
+        "ga": "stoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stocktaking"
+        ],
+        "ga": "stocáireamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stop list"
+        ],
+        "ga": "stopliosta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "location",
+            "situation",
+            "setting",
+            "position"
+        ],
+        "ga": "suíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subscription"
+        ],
+        "ga": "síntiús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subscriber"
+        ],
+        "ga": "síntiúsóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reference"
+        ],
+        "ga": "tagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deposit"
+        ],
+        "ga": "taisce",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "depositor"
+        ],
+        "ga": "taisceoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "projector"
+        ],
+        "ga": "teilgeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "teleprinter"
+        ],
+        "ga": "teiliprintéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "teletext"
+        ],
+        "ga": "teilitéacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "terminal"
+        ],
+        "ga": "teirminéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "compiler"
+        ],
+        "ga": "tiomsaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guide card"
+        ],
+        "ga": "treoirchárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guidebook",
+            "guide"
+        ],
+        "ga": "treoirleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "treatise",
+            "dissertation",
+            "thesis",
+            "tract"
+        ],
+        "ga": "tráchtas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "periodical"
+        ],
+        "ga": "tréimhseachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transparency"
+        ],
+        "ga": "tréshoilseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trilogy"
+        ],
+        "ga": "tríológ",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "descriptor"
+        ],
+        "ga": "tuarascálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "table"
+        ],
+        "ga": "tábla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "textbook"
+        ],
+        "ga": "téacsleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tape recorder",
+            "tape-recorder"
+        ],
+        "ga": "téipthaifeadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "horror"
+        ],
+        "ga": "uafás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "automatic extension"
+        ],
+        "ga": "uathshíneadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vellum"
+        ],
+        "ga": "veilleam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "xerox"
+        ],
+        "ga": "xéaracs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "xerography"
+        ],
+        "ga": "xéireagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "payment point"
+        ],
+        "ga": "íocphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "host computer"
+        ],
+        "ga": "óstríomhaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "author"
+        ],
+        "ga": "údar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "authorship"
+        ],
+        "ga": "údarthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "novel"
+        ],
+        "ga": "úrscéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "user"
+        ],
+        "ga": "úsáideoir",
+        "gender": "masculine"
+    }
+]

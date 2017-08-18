@@ -1,0 +1,2913 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "ignition",
+            "firing"
+        ],
+        "ga": "adhaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aerogram"
+        ],
+        "ga": "aeragram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "air letter"
+        ],
+        "ga": "aerlitir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air mail"
+        ],
+        "ga": "aerphost",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "atmospherics"
+        ],
+        "ga": "aerthormán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "abscissa"
+        ],
+        "ga": "aibsíosa",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "app"
+        ],
+        "ga": "aip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pitch"
+        ],
+        "ga": "airde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "feedback"
+        ],
+        "ga": "aisfhotha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "backhaul"
+        ],
+        "ga": "aisiompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jointer"
+        ],
+        "ga": "altaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "time base"
+        ],
+        "ga": "ambhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "visual track"
+        ],
+        "ga": "amharcrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "visual"
+        ],
+        "ga": "amharcíomhá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "analyser"
+        ],
+        "ga": "anailíseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "android"
+        ],
+        "ga": "andróideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "uniformity"
+        ],
+        "ga": "aonfhoirmeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "high def",
+            "high definition"
+        ],
+        "ga": "ardghléine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "high frequency",
+            "HF"
+        ],
+        "ga": "ardmhinicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "premium rate"
+        ],
+        "ga": "ardráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "high tension"
+        ],
+        "ga": "ardteannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "harmonic"
+        ],
+        "ga": "armónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "outlet"
+        ],
+        "ga": "asraon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "catch-up"
+        ],
+        "ga": "athdheis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "re-farming"
+        ],
+        "ga": "athfheirmeoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "band"
+        ],
+        "ga": "banda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "channel"
+        ],
+        "ga": "bealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "planner"
+        ],
+        "ga": "beartaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hotline"
+        ],
+        "ga": "beolíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "live stream"
+        ],
+        "ga": "beoshruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "next upper"
+        ],
+        "ga": "blaisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "blocking"
+        ],
+        "ga": "blocáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "blocking"
+        ],
+        "ga": "blocáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "base"
+        ],
+        "ga": "bonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "boxed set",
+            "box set"
+        ],
+        "ga": "boscra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "detection"
+        ],
+        "ga": "brath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "detector"
+        ],
+        "ga": "brathadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "outage"
+        ],
+        "ga": "bristeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "push service"
+        ],
+        "ga": "brú-sheirbhís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "peak"
+        ],
+        "ga": "buaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "peak period"
+        ],
+        "ga": "buaic-am",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bumper"
+        ],
+        "ga": "bumpar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "oralism"
+        ],
+        "ga": "béalaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pip"
+        ],
+        "ga": "bíog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "help"
+        ],
+        "ga": "cabhair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "channel"
+        ],
+        "ga": "cainéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sanction"
+        ],
+        "ga": "cead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "licence"
+        ],
+        "ga": "ceadúnas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "camerawoman"
+        ],
+        "ga": "ceamaradóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cameraman",
+            "camera operator",
+            "camera person"
+        ],
+        "ga": "ceamaradóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "camerawork"
+        ],
+        "ga": "ceamaradóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "connection"
+        ],
+        "ga": "ceangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "remote control unit",
+            "remote control",
+            "zapper"
+        ],
+        "ga": "cianrialtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fund"
+        ],
+        "ga": "ciste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ringtone"
+        ],
+        "ga": "clingthon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "klystron"
+        ],
+        "ga": "cliostrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bell"
+        ],
+        "ga": "cloigín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "audiovisual theatre"
+        ],
+        "ga": "closamharclann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "audio presentation"
+        ],
+        "ga": "closláithreoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "audiofrequency",
+            "audio frequency"
+        ],
+        "ga": "closmhinicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "audio equipment",
+            "audio"
+        ],
+        "ga": "clostrealamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "audio"
+        ],
+        "ga": "closán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "earphone"
+        ],
+        "ga": "cluasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "earpiece"
+        ],
+        "ga": "cluasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rectifier"
+        ],
+        "ga": "coigeartóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "impedance"
+        ],
+        "ga": "coisceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "signal"
+        ],
+        "ga": "comhartha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "concentrator"
+        ],
+        "ga": "comhchruinnitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "junction box",
+            "junction"
+        ],
+        "ga": "comhchumar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "accessory"
+        ],
+        "ga": "comhghabhálas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joint controller"
+        ],
+        "ga": "comhrialaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "path"
+        ],
+        "ga": "conair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contract"
+        ],
+        "ga": "conradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contractor"
+        ],
+        "ga": "conraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coil"
+        ],
+        "ga": "corna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stray field"
+        ],
+        "ga": "corr-réimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "maintenance",
+            "servicing"
+        ],
+        "ga": "cothabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mast"
+        ],
+        "ga": "crann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "credit"
+        ],
+        "ga": "creidmheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crystal"
+        ],
+        "ga": "criostal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "core network"
+        ],
+        "ga": "croí-líonra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crawl",
+            "ticker"
+        ],
+        "ga": "crál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "claymation"
+        ],
+        "ga": "crébheochan",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chroma keying"
+        ],
+        "ga": "crómaicíáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "quadrophony"
+        ],
+        "ga": "cuadrafónaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "renter"
+        ],
+        "ga": "cíosaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rental purchase"
+        ],
+        "ga": "cíoscheannach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rent charge"
+        ],
+        "ga": "cíosmhuirear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "equalization",
+            "equalisation"
+        ],
+        "ga": "cúiteamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "backup"
+        ],
+        "ga": "cúltaca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "colourist"
+        ],
+        "ga": "dathadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "difficulty"
+        ],
+        "ga": "deacracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "decibel",
+            "dB"
+        ],
+        "ga": "deicibeil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "device"
+        ],
+        "ga": "deis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dial"
+        ],
+        "ga": "diail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deviation"
+        ],
+        "ga": "diall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "digicorder"
+        ],
+        "ga": "digeathaifeadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "digit"
+        ],
+        "ga": "digit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "digitizing"
+        ],
+        "ga": "digiteáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dynamics"
+        ],
+        "ga": "dinimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dual homing"
+        ],
+        "ga": "défhrithing",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "de-interlace"
+        ],
+        "ga": "dí-chrosfhí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "immunity"
+        ],
+        "ga": "díolúine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transient"
+        ],
+        "ga": "díomuan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "exposure"
+        ],
+        "ga": "eacspóisear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "exabyte",
+            "EB"
+        ],
+        "ga": "eicsibheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ejection"
+        ],
+        "ga": "eisteilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fax",
+            "facsimile"
+        ],
+        "ga": "facs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "faxpost"
+        ],
+        "ga": "facsphost",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "long-wave",
+            "long wave"
+        ],
+        "ga": "fadtonn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fan marker beacon"
+        ],
+        "ga": "feanrabhchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "appliance"
+        ],
+        "ga": "fearas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "device"
+        ],
+        "ga": "feiste",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inquiry",
+            "enquiry"
+        ],
+        "ga": "fiosrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fuse"
+        ],
+        "ga": "fiús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subaudio frequency"
+        ],
+        "ga": "fo-chlosmhinicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subsidiary apparatus"
+        ],
+        "ga": "fo-ghléasra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subcarrier"
+        ],
+        "ga": "fo-iompróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "undercarriage"
+        ],
+        "ga": "focharráiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "steady-state",
+            "steady state"
+        ],
+        "ga": "foistine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "extension"
+        ],
+        "ga": "folíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "superimposition"
+        ],
+        "ga": "forleagan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "overlap"
+        ],
+        "ga": "forluí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shelter"
+        ],
+        "ga": "foscadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "feed"
+        ],
+        "ga": "fotha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "response"
+        ],
+        "ga": "freagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reactance"
+        ],
+        "ga": "freasaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "resistor"
+        ],
+        "ga": "friotóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reflector"
+        ],
+        "ga": "frithchaiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "feed"
+        ],
+        "ga": "fíd",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "video diary"
+        ],
+        "ga": "físdialann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "video"
+        ],
+        "ga": "físeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "video surveillance"
+        ],
+        "ga": "físfhaire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "video monitor"
+        ],
+        "ga": "físmhonatóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "video telephony"
+        ],
+        "ga": "físteileafónaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "notice"
+        ],
+        "ga": "fógra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subsidy"
+        ],
+        "ga": "fóirdheontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phone",
+            "telephone"
+        ],
+        "ga": "fón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "device"
+        ],
+        "ga": "gaireas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "apparatus"
+        ],
+        "ga": "gaireas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vaporizer"
+        ],
+        "ga": "galaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "comedy sketch"
+        ],
+        "ga": "geansceitse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jitter"
+        ],
+        "ga": "giodam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "receiver"
+        ],
+        "ga": "glacadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "howl"
+        ],
+        "ga": "glam",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "call"
+        ],
+        "ga": "glao",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "call sign"
+        ],
+        "ga": "glao-chomhartha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "callcard"
+        ],
+        "ga": "glao-chárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "beeper",
+            "bleeper",
+            "pager",
+            "paging unit"
+        ],
+        "ga": "glaoire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "caller"
+        ],
+        "ga": "glaoiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blooper",
+            "out-take"
+        ],
+        "ga": "glugar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "instrument"
+        ],
+        "ga": "gléas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sexting"
+        ],
+        "ga": "gnéastéacsáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "grid"
+        ],
+        "ga": "greille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pattern"
+        ],
+        "ga": "gréasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "voice call"
+        ],
+        "ga": "guthghlao",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "goniometry"
+        ],
+        "ga": "gónaiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hash function"
+        ],
+        "ga": "haisfheidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hypergroup"
+        ],
+        "ga": "hipearghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "effect"
+        ],
+        "ga": "iarmhairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "intercommunication"
+        ],
+        "ga": "idirchumarsáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interaction"
+        ],
+        "ga": "idirghníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intermodulation"
+        ],
+        "ga": "idirmhodhnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "intertitle"
+        ],
+        "ga": "idirtheideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transit"
+        ],
+        "ga": "idirthuras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "key"
+        ],
+        "ga": "ileochair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "multiplex"
+        ],
+        "ga": "ilphléacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "envelope"
+        ],
+        "ga": "imchlúdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "audibility"
+        ],
+        "ga": "inchloisteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "engineer"
+        ],
+        "ga": "innealtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "carrier"
+        ],
+        "ga": "iompróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "input"
+        ],
+        "ga": "ionchur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inductance"
+        ],
+        "ga": "ionduchtas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inductor"
+        ],
+        "ga": "ionduchtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inlet"
+        ],
+        "ga": "ionraon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "insertion"
+        ],
+        "ga": "ionsá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "insert"
+        ],
+        "ga": "ionsáiteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "magazine",
+            "magazine show"
+        ],
+        "ga": "irischlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tolerance"
+        ],
+        "ga": "lamháltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bias"
+        ],
+        "ga": "laofacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "switchboard"
+        ],
+        "ga": "lasc-chlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "switchgear",
+            "switching equipment"
+        ],
+        "ga": "lascthrealamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "standby amplifier"
+        ],
+        "ga": "leasaimplitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "semiconductor",
+            "semi-conductor"
+        ],
+        "ga": "leathsheoltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "electrician"
+        ],
+        "ga": "leictreoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "area"
+        ],
+        "ga": "limistéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fault"
+        ],
+        "ga": "locht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wobble"
+        ],
+        "ga": "longadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "terminal"
+        ],
+        "ga": "los",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reading"
+        ],
+        "ga": "léamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "platform"
+        ],
+        "ga": "léibheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "linearity"
+        ],
+        "ga": "líneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "network"
+        ],
+        "ga": "líonra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "matrix"
+        ],
+        "ga": "maitrís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "exchange"
+        ],
+        "ga": "malartán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "attenuator"
+        ],
+        "ga": "maolaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "attenuation"
+        ],
+        "ga": "maolúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mixer"
+        ],
+        "ga": "meascthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "middle-mile"
+        ],
+        "ga": "meán-mhíle",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "medium wave",
+            "MW",
+            "medium-wave"
+        ],
+        "ga": "meántonn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dish"
+        ],
+        "ga": "mias",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "microblogging"
+        ],
+        "ga": "micreabhlagáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "monitor"
+        ],
+        "ga": "monatóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "monitor"
+        ],
+        "ga": "monatóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "master copy"
+        ],
+        "ga": "máistirchóip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parent exchange"
+        ],
+        "ga": "máthairmhalartán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bumper edition"
+        ],
+        "ga": "móreagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "navigator"
+        ],
+        "ga": "nascleantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "connector"
+        ],
+        "ga": "nascóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "impartiality"
+        ],
+        "ga": "neamhchlaontacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gain"
+        ],
+        "ga": "neartúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "operator"
+        ],
+        "ga": "oibritheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "omnibus"
+        ],
+        "ga": "ollchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "optimiser"
+        ],
+        "ga": "optamóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pidgin"
+        ],
+        "ga": "pidsean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pitch"
+        ],
+        "ga": "pits",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pop video"
+        ],
+        "ga": "popfhíseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rack"
+        ],
+        "ga": "raca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radio frequency",
+            "RF"
+        ],
+        "ga": "radaimhinicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radiotelegraphy",
+            "wireless telegraphy"
+        ],
+        "ga": "radaiteileagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radiotelemetry"
+        ],
+        "ga": "radaiteiliméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radiotelemetering"
+        ],
+        "ga": "radaiteiliméadráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "radio-telex"
+        ],
+        "ga": "radaiteiléacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subscriber"
+        ],
+        "ga": "rannpháirtí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "range"
+        ],
+        "ga": "raon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wraparound"
+        ],
+        "ga": "rapar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "control grid"
+        ],
+        "ga": "riailghreille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "relay"
+        ],
+        "ga": "rialaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rigger"
+        ],
+        "ga": "rigeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "navigator"
+        ],
+        "ga": "roghnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quarter"
+        ],
+        "ga": "ráithe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guarantee"
+        ],
+        "ga": "ráth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guarantor"
+        ],
+        "ga": "ráthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "preamplifier",
+            "pre-amplifier"
+        ],
+        "ga": "réamhaimplitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "e-infrastructure"
+        ],
+        "ga": "ríomh-bhonneagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "computer animation"
+        ],
+        "ga": "ríomhbheochan",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "computer mediated communication",
+            "CMC"
+        ],
+        "ga": "ríomhchumarsáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "electronic fax"
+        ],
+        "ga": "ríomhfhacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "computer effect"
+        ],
+        "ga": "ríomhéifeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overload"
+        ],
+        "ga": "rólódáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "freefone"
+        ],
+        "ga": "saorfhón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "freephone"
+        ],
+        "ga": "saorghlao",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "free call"
+        ],
+        "ga": "saorghlao",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "facility"
+        ],
+        "ga": "saoráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "satellite"
+        ],
+        "ga": "satailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spacer"
+        ],
+        "ga": "scarthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "baffle"
+        ],
+        "ga": "sciath",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shield",
+            "screen"
+        ],
+        "ga": "sciath",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "slave clock"
+        ],
+        "ga": "sclábhchlog",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "screen"
+        ],
+        "ga": "scáileán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "silhouette"
+        ],
+        "ga": "scáth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "communication"
+        ],
+        "ga": "scéala",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "storyboard"
+        ],
+        "ga": "scéalchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jack"
+        ],
+        "ga": "seac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bypass",
+            "by-pass"
+        ],
+        "ga": "seach-chonair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jackfield",
+            "jack field"
+        ],
+        "ga": "seacréimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tie-line",
+            "tie line",
+            "lead"
+        ],
+        "ga": "seolán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hum"
+        ],
+        "ga": "siansán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "synchronous"
+        ],
+        "ga": "sioncronach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "walkie-talkie"
+        ],
+        "ga": "siúlscéalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shoot"
+        ],
+        "ga": "siút",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chain"
+        ],
+        "ga": "slabhra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "swarf"
+        ],
+        "ga": "slisirníneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sanction"
+        ],
+        "ga": "smachtbhanna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "click"
+        ],
+        "ga": "smeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flip wipe"
+        ],
+        "ga": "smeachshíobán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "smishing"
+        ],
+        "ga": "smioscaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "knot"
+        ],
+        "ga": "snaidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "strand"
+        ],
+        "ga": "snáithe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "soap",
+            "soap opera"
+        ],
+        "ga": "sobaldráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nozzle"
+        ],
+        "ga": "soc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "suppressor"
+        ],
+        "ga": "sochtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "second",
+            "s"
+        ],
+        "ga": "soicind",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "specialist"
+        ],
+        "ga": "speisialtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spool"
+        ],
+        "ga": "spól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "limiter"
+        ],
+        "ga": "srianaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "studio"
+        ],
+        "ga": "stiúideo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sting"
+        ],
+        "ga": "stoing",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "station"
+        ],
+        "ga": "stáisiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "location",
+            "situation",
+            "setting",
+            "position"
+        ],
+        "ga": "suíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "push access"
+        ],
+        "ga": "sá-rochtain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "supergroup"
+        ],
+        "ga": "sárghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "superheterodyne"
+        ],
+        "ga": "sárheitridín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "performer",
+            "artiste"
+        ],
+        "ga": "taibheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "resolution",
+            "res."
+        ],
+        "ga": "taifeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "threshold"
+        ],
+        "ga": "tairseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sideband",
+            "side band"
+        ],
+        "ga": "taobh-bhanda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transmission"
+        ],
+        "ga": "tarchur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transmitter"
+        ],
+        "ga": "tarchuradóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "technician"
+        ],
+        "ga": "teicneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "title",
+            "credit title",
+            "credit"
+        ],
+        "ga": "teideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "telebanking"
+        ],
+        "ga": "teileabhaincéireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "telecommunications",
+            "telecommunication"
+        ],
+        "ga": "teileachumarsáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "telephonist"
+        ],
+        "ga": "teileafónaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "telegraph"
+        ],
+        "ga": "teileagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "telegraphy"
+        ],
+        "ga": "teileagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "telegram"
+        ],
+        "ga": "teileagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "telepresence"
+        ],
+        "ga": "teilealáithreacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "telematics"
+        ],
+        "ga": "teileamaitic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "telemarketing"
+        ],
+        "ga": "teileamhargaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "telethon"
+        ],
+        "ga": "teileatón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "television",
+            "television set"
+        ],
+        "ga": "teilifíseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "telemedicine"
+        ],
+        "ga": "teilileigheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "telemetry"
+        ],
+        "ga": "teiliméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "telepayment"
+        ],
+        "ga": "teilíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "terminal"
+        ],
+        "ga": "teirminéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tuning"
+        ],
+        "ga": "tiúnáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tuner"
+        ],
+        "ga": "tiúnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "digging"
+        ],
+        "ga": "tochailt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "capacitance"
+        ],
+        "ga": "toilleas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wave analyser"
+        ],
+        "ga": "tonn-anailíseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "wave front",
+            "wavefront",
+            "front"
+        ],
+        "ga": "tonnbhráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wavelength"
+        ],
+        "ga": "tonnfhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ripple"
+        ],
+        "ga": "tonnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "noise"
+        ],
+        "ga": "torann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crosstalk",
+            "cross-talk"
+        ],
+        "ga": "traschaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transceiver"
+        ],
+        "ga": "trasghlacadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interference"
+        ],
+        "ga": "trasnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transistor"
+        ],
+        "ga": "trasraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transposer"
+        ],
+        "ga": "trasuiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "loudness"
+        ],
+        "ga": "treise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trend"
+        ],
+        "ga": "treocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trunk call",
+            "trunk-call"
+        ],
+        "ga": "truncghlao",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trunk service"
+        ],
+        "ga": "truncsheirbhís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "traffic"
+        ],
+        "ga": "trácht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "buffeting"
+        ],
+        "ga": "tuairteáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "predictive text"
+        ],
+        "ga": "tuarthéacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "twitterer",
+            "tweeter"
+        ],
+        "ga": "tuíteálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tweet"
+        ],
+        "ga": "tvuít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "charge"
+        ],
+        "ga": "táille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "charge band",
+            "cost band"
+        ],
+        "ga": "táillebhanda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "payphone",
+            "pay phone"
+        ],
+        "ga": "táillefón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "charge group"
+        ],
+        "ga": "táilleghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "indicating meter"
+        ],
+        "ga": "táscmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "text speak"
+        ],
+        "ga": "téacsais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "text telephone",
+            "textphone"
+        ],
+        "ga": "téacsfón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "texting/text-messaging"
+        ],
+        "ga": "téacsáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "load"
+        ],
+        "ga": "ualach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "maximum reading"
+        ],
+        "ga": "uasléamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "automated attendant",
+            "auto attendant"
+        ],
+        "ga": "uath-oibreoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "robocall"
+        ],
+        "ga": "uathghlao",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "instrument"
+        ],
+        "ga": "uirlis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "x-axis"
+        ],
+        "ga": "x-ais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "x-plate"
+        ],
+        "ga": "x-phláta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "x-deflection"
+        ],
+        "ga": "x-shraonadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "y-axis"
+        ],
+        "ga": "y-ais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "y-plate"
+        ],
+        "ga": "y-phláta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "y-deflection"
+        ],
+        "ga": "y-shraonadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flash number"
+        ],
+        "ga": "éasc-uimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "effect"
+        ],
+        "ga": "éifeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eircode"
+        ],
+        "ga": "éirchód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eircodification"
+        ],
+        "ga": "éirchódúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "iconoscope"
+        ],
+        "ga": "íocónascóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sensibility",
+            "sensitivity"
+        ],
+        "ga": "íogaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lo-call",
+            "LoCall",
+            "low call"
+        ],
+        "ga": "íosghlao",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "host broadcaster"
+        ],
+        "ga": "óstchraoltóir",
+        "gender": "masculine"
+    }
+]

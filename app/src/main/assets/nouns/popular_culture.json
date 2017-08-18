@@ -1,0 +1,148 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Afro-futurism"
+        ],
+        "ga": "Afra-thodhchaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Islamification",
+            "Islamisation",
+            "Islamization"
+        ],
+        "ga": "Ioslamúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Jedi"
+        ],
+        "ga": "Jeidíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Rastafarian"
+        ],
+        "ga": "Rastafárach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Rastafari"
+        ],
+        "ga": "Rastafáraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dabbing"
+        ],
+        "ga": "dabáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "growth"
+        ],
+        "ga": "fás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "steampunk"
+        ],
+        "ga": "galphunc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pin up"
+        ],
+        "ga": "gean-samhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jihad"
+        ],
+        "ga": "jiohád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jihadist"
+        ],
+        "ga": "jiohádach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "squaw"
+        ],
+        "ga": "scvá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sake"
+        ],
+        "ga": "sáicí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sari"
+        ],
+        "ga": "sáirí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "doppelganger"
+        ],
+        "ga": "taise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "veganism"
+        ],
+        "ga": "veigeánachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vilcoma"
+        ],
+        "ga": "vilcóma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "idolatry"
+        ],
+        "ga": "íolacht",
+        "gender": "feminine"
+    }
+]

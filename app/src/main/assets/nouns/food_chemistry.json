@@ -1,0 +1,482 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "A sugar"
+        ],
+        "ga": "A-shiúcra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "B sugar"
+        ],
+        "ga": "B-shiúcra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "C sugar",
+            "non-quota sugar"
+        ],
+        "ga": "C-shiúcra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "D-glucose"
+        ],
+        "ga": "D-ghlúcós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "E number",
+            "E-number"
+        ],
+        "ga": "E-uimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air fractionation"
+        ],
+        "ga": "aerchodánúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "alpha-cyclodextrin"
+        ],
+        "ga": "alfa-cioglaideistrin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "alpha-dextrine"
+        ],
+        "ga": "alfa-deistrin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "alpha-glucosidase"
+        ],
+        "ga": "alfa-glúcóisíodáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "alpha lactalbumin"
+        ],
+        "ga": "alfalachtalbaimin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "crude ash"
+        ],
+        "ga": "amhluaith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "E. coli L-asparagine amidohydrolase",
+            "asparaginase"
+        ],
+        "ga": "asparaigionáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "astacin"
+        ],
+        "ga": "astaicin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aspiration"
+        ],
+        "ga": "asú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bagasse"
+        ],
+        "ga": "bagás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bromelin",
+            "bromelain"
+        ],
+        "ga": "brómailin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carnosol"
+        ],
+        "ga": "carnasól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "carrageenan"
+        ],
+        "ga": "carraigínin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cyclodextrin",
+            "CDX"
+        ],
+        "ga": "cioglaideistrin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "citral"
+        ],
+        "ga": "ciotral",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stabiliser"
+        ],
+        "ga": "cobhsaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cholecalciferol"
+        ],
+        "ga": "colacailciféaról",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nutrification"
+        ],
+        "ga": "cothóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "caseinogen"
+        ],
+        "ga": "cáiséinigin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deoxynivalenol",
+            "DON"
+        ],
+        "ga": "dé-ocsainiviléanól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anti-nutrient"
+        ],
+        "ga": "frithchothaitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "folacin"
+        ],
+        "ga": "fólaicin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crude protein"
+        ],
+        "ga": "garbhphróitéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "glucono-d-lactone",
+            "D-gluconic acid",
+            "delta-lactone",
+            "gluconolactone",
+            "delta-gluconolactone",
+            "D-glucono-1,5-lactone",
+            "GDL",
+            "glucono-delta-lactone"
+        ],
+        "ga": "glúcón-deilte-lachtón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "curd tension"
+        ],
+        "ga": "gruth-theannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "5-(hydroxymethyl)furan-2-carbaldehyde",
+            "hydroxymethylfurfural"
+        ],
+        "ga": "hiodrocsaimeitiolfúrfúral",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "holoside"
+        ],
+        "ga": "holaisíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "simulator"
+        ],
+        "ga": "ionsamhlóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "isomalt"
+        ],
+        "ga": "iseamalt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lactoprotein"
+        ],
+        "ga": "lachtphróitéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lipovitellin"
+        ],
+        "ga": "lipivitilin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "livetin"
+        ],
+        "ga": "livitin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lycopene"
+        ],
+        "ga": "lícipéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "linolenic acid"
+        ],
+        "ga": "líonóiléineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "maltodextrine"
+        ],
+        "ga": "maltaideistrin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "maltol"
+        ],
+        "ga": "maltól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grinding mill"
+        ],
+        "ga": "meilteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "metabisulphite"
+        ],
+        "ga": "meiti-dhéshuilfít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "naringenin"
+        ],
+        "ga": "naraingeinin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "naringine",
+            "naringin"
+        ],
+        "ga": "naraingin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "(2Z,5S,8R,9S,10S,13S,14S,17S)-17-hydroxy-2-(hydroxymethylidene)-10,13,17-trimethyl-1,4,5,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",
+            "oxymetholone"
+        ],
+        "ga": "ocsaimeatólón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "oleostearin"
+        ],
+        "ga": "oiléistéirin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "oligosaccharide"
+        ],
+        "ga": "olagaishiúicríd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "paracasein"
+        ],
+        "ga": "paracáiséin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "peptidase"
+        ],
+        "ga": "peiptíodáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sampled portion"
+        ],
+        "ga": "sampla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sorbate"
+        ],
+        "ga": "sorbáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sorbose"
+        ],
+        "ga": "sorbós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "superfood"
+        ],
+        "ga": "sárbhia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "heat treatment"
+        ],
+        "ga": "teaschóireáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tyrosine"
+        ],
+        "ga": "tirisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "α-dextrin"
+        ],
+        "ga": "α-deistrin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "α-dextrin"
+        ],
+        "ga": "α-deistrin",
+        "gender": "feminine"
+    }
+]

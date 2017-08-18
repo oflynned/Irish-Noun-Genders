@@ -1,0 +1,3466 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Apatosaurus"
+        ],
+        "ga": "Apatasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cro-Magnon man"
+        ],
+        "ga": "Crómagnónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Early Christian"
+        ],
+        "ga": "Luath-Chríostaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mari"
+        ],
+        "ga": "Mairí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Neanderthal"
+        ],
+        "ga": "Néandartálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Paralititan"
+        ],
+        "ga": "Paralaitíotán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Spinosaurus"
+        ],
+        "ga": "Spíonasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "Tara"
+        ],
+        "ga": "Teamhair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Tyrannosaurus"
+        ],
+        "ga": "Tioránasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aquamanile"
+        ],
+        "ga": "acuamainíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aerial photograph",
+            "air photograph"
+        ],
+        "ga": "aerfótagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "avenue"
+        ],
+        "ga": "aibhinne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oratory"
+        ],
+        "ga": "aireagal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alabastron"
+        ],
+        "ga": "alabastrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "altar"
+        ],
+        "ga": "altóir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "amphitheatre"
+        ],
+        "ga": "amfaitéatar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "amphora"
+        ],
+        "ga": "amfara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "playhouse",
+            "theatre"
+        ],
+        "ga": "amharclann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crude iron"
+        ],
+        "ga": "amhiarann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ankh"
+        ],
+        "ga": "anc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cathedral"
+        ],
+        "ga": "ardeaglais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "platform"
+        ],
+        "ga": "ardán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "magazine"
+        ],
+        "ga": "armlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "armament"
+        ],
+        "ga": "armáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reconstruction"
+        ],
+        "ga": "atógáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crook"
+        ],
+        "ga": "bachall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "beam"
+        ],
+        "ga": "balc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bullaun stone"
+        ],
+        "ga": "ballán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bank"
+        ],
+        "ga": "banc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "folly"
+        ],
+        "ga": "baois",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "barbican"
+        ],
+        "ga": "barbacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ward"
+        ],
+        "ga": "barda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "barrack"
+        ],
+        "ga": "beairic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "berm"
+        ],
+        "ga": "beirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fragment"
+        ],
+        "ga": "blogh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "boss"
+        ],
+        "ga": "bocóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bothy"
+        ],
+        "ga": "botaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brachiopod",
+            "lamp shell"
+        ],
+        "ga": "bracapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "funeral pyre",
+            "pyre"
+        ],
+        "ga": "breocharn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flint"
+        ],
+        "ga": "breochloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "broch"
+        ],
+        "ga": "brugh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quern stone",
+            "quern"
+        ],
+        "ga": "bró",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shieling"
+        ],
+        "ga": "buaile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "projecting lip"
+        ],
+        "ga": "buinne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bulla"
+        ],
+        "ga": "bulla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bailey"
+        ],
+        "ga": "bábhún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bawn"
+        ],
+        "ga": "bábhún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bakery"
+        ],
+        "ga": "bácús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basinet"
+        ],
+        "ga": "báisínéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ley"
+        ],
+        "ga": "bán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bridle-bit"
+        ],
+        "ga": "béalbhach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "whipping post"
+        ],
+        "ga": "béimcheap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "byre"
+        ],
+        "ga": "bóitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "buckle"
+        ],
+        "ga": "búcla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "causeway"
+        ],
+        "ga": "cabhsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "driveway"
+        ],
+        "ga": "cabhsán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cage"
+        ],
+        "ga": "caighean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "outshot"
+        ],
+        "ga": "cailleach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quarry"
+        ],
+        "ga": "cairéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cashel"
+        ],
+        "ga": "caiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stone ring-fort"
+        ],
+        "ga": "caiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "castle"
+        ],
+        "ga": "caisleán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "calvary"
+        ],
+        "ga": "calvaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "camp"
+        ],
+        "ga": "campa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chantry",
+            "chantry chapel"
+        ],
+        "ga": "cantarlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vista"
+        ],
+        "ga": "caol-léargas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "gaol"
+        ],
+        "ga": "carcair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cairn"
+        ],
+        "ga": "carn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cairn circle"
+        ],
+        "ga": "carnchiorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cart"
+        ],
+        "ga": "carr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "catacomb"
+        ],
+        "ga": "catacóm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "circular stone fort"
+        ],
+        "ga": "cathair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "city"
+        ],
+        "ga": "cathair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "battler"
+        ],
+        "ga": "cathaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "battle-dress"
+        ],
+        "ga": "cathéide",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "children's burial ground"
+        ],
+        "ga": "ceallúrach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "canopy"
+        ],
+        "ga": "ceannbhrat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stock"
+        ],
+        "ga": "ceap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cephalopod"
+        ],
+        "ga": "ceifileapód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "forge"
+        ],
+        "ga": "ceárta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "churchyard"
+        ],
+        "ga": "cill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cell"
+        ],
+        "ga": "cillín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cist"
+        ],
+        "ga": "ciste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "casket"
+        ],
+        "ga": "cisteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clachan",
+            "settlement cluster"
+        ],
+        "ga": "clachan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "joggler"
+        ],
+        "ga": "claibín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pit"
+        ],
+        "ga": "clais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "glacis"
+        ],
+        "ga": "claonfort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dike",
+            "dyke"
+        ],
+        "ga": "claí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "embankment"
+        ],
+        "ga": "claífort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sword"
+        ],
+        "ga": "claíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stoniness"
+        ],
+        "ga": "clochacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "convent"
+        ],
+        "ga": "clochar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nunnery"
+        ],
+        "ga": "clochar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clochan"
+        ],
+        "ga": "clochán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "courtyard"
+        ],
+        "ga": "clós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mount"
+        ],
+        "ga": "cnoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "woodland"
+        ],
+        "ga": "coillearnach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "colony"
+        ],
+        "ga": "coilíneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "complex"
+        ],
+        "ga": "coimpléacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rabbit warren"
+        ],
+        "ga": "coinicéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "candlestick"
+        ],
+        "ga": "coinnleoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "corbel"
+        ],
+        "ga": "coirbéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "large pot",
+            "cauldron"
+        ],
+        "ga": "coire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colasseum"
+        ],
+        "ga": "colasaem",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dowsing"
+        ],
+        "ga": "collóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dovecote"
+        ],
+        "ga": "colmlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "columbarium"
+        ],
+        "ga": "colmlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "college"
+        ],
+        "ga": "coláiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interface"
+        ],
+        "ga": "comhéadan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "weir"
+        ],
+        "ga": "cora",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cooking pot"
+        ],
+        "ga": "corcán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "footpath",
+            "pedestrian footpath"
+        ],
+        "ga": "cosán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shaft"
+        ],
+        "ga": "crann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "arboretum"
+        ],
+        "ga": "crannlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crannog"
+        ],
+        "ga": "crannóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fabric"
+        ],
+        "ga": "creatlach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gallows"
+        ],
+        "ga": "croch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gibbet"
+        ],
+        "ga": "croch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "scaffold"
+        ],
+        "ga": "croch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cromlech",
+            "dolmen"
+        ],
+        "ga": "cromleac",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chronostratigraphy"
+        ],
+        "ga": "cronastratagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cross"
+        ],
+        "ga": "cros",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cross-batten"
+        ],
+        "ga": "cros-sparra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "enamel-work"
+        ],
+        "ga": "cruanadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cruet"
+        ],
+        "ga": "cruibhéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crematorium"
+        ],
+        "ga": "créamatóiriam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "earth circle"
+        ],
+        "ga": "créchiorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "earthworks",
+            "earthwork"
+        ],
+        "ga": "créfort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "boundary"
+        ],
+        "ga": "críoch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pitcher"
+        ],
+        "ga": "crúsca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cavity"
+        ],
+        "ga": "cuas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bee-bole"
+        ],
+        "ga": "cuasnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fabricator"
+        ],
+        "ga": "cumadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cup-and-circle"
+        ],
+        "ga": "cupa-is-ciorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cup"
+        ],
+        "ga": "cupán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kurgan"
+        ],
+        "ga": "curgan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cursus"
+        ],
+        "ga": "cursas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quay",
+            "wharf",
+            "pier"
+        ],
+        "ga": "cé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "keep"
+        ],
+        "ga": "daingean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dam"
+        ],
+        "ga": "damba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "folk museum"
+        ],
+        "ga": "daoniarsmalann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "statue"
+        ],
+        "ga": "dealbh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "characteristic"
+        ],
+        "ga": "dearbh-airí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drawing"
+        ],
+        "ga": "dearthóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "figurine",
+            "statuette"
+        ],
+        "ga": "deilbhín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "demesne"
+        ],
+        "ga": "diméin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dinosaur"
+        ],
+        "ga": "dineasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dolmen"
+        ],
+        "ga": "dolmain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hilt"
+        ],
+        "ga": "dornchla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kitchen midden",
+            "midden",
+            "refuse mound"
+        ],
+        "ga": "dramhcharn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stile"
+        ],
+        "ga": "dreapa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "distillery"
+        ],
+        "ga": "drioglann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ridgeway"
+        ],
+        "ga": "droimbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "recumbent gravestone"
+        ],
+        "ga": "droimleac",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ridge"
+        ],
+        "ga": "dromchla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dewpond",
+            "dew pond"
+        ],
+        "ga": "drúchtlinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dowel"
+        ],
+        "ga": "dual",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dock"
+        ],
+        "ga": "duga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mound",
+            "burial mound"
+        ],
+        "ga": "dumha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tribal territory"
+        ],
+        "ga": "dál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "date stone"
+        ],
+        "ga": "dátchloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "artefact",
+            "artifact"
+        ],
+        "ga": "déantán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "moat"
+        ],
+        "ga": "díog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dike",
+            "dyke"
+        ],
+        "ga": "díog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dike",
+            "dyke"
+        ],
+        "ga": "díog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hermitage"
+        ],
+        "ga": "díseart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "burning"
+        ],
+        "ga": "dó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dobe"
+        ],
+        "ga": "dóib",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "daub"
+        ],
+        "ga": "dóib",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fort"
+        ],
+        "ga": "dúnfort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blockhouse"
+        ],
+        "ga": "dúnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pillbox"
+        ],
+        "ga": "dúnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fortified dwelling-place"
+        ],
+        "ga": "dúnáras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "church"
+        ],
+        "ga": "eaglais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "barrow group"
+        ],
+        "ga": "feartra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "haft"
+        ],
+        "ga": "feirc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hilt of knife",
+            "hilt of dagger"
+        ],
+        "ga": "feirc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "farm"
+        ],
+        "ga": "feirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phial",
+            "vial"
+        ],
+        "ga": "fial",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "deer-park",
+            "deerpark"
+        ],
+        "ga": "fialann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fian-bhoth"
+        ],
+        "ga": "fianbhoth",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fibula"
+        ],
+        "ga": "fiobúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fur"
+        ],
+        "ga": "fionnadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pot-boiler"
+        ],
+        "ga": "fiuch-chloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "grotto"
+        ],
+        "ga": "fochla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "building"
+        ],
+        "ga": "foirgneamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "furnace"
+        ],
+        "ga": "foirnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "void"
+        ],
+        "ga": "folús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "annexe"
+        ],
+        "ga": "for-ráth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "antechamber",
+            "ante-room",
+            "lobby"
+        ],
+        "ga": "forsheomra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "projection"
+        ],
+        "ga": "fortheilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shelter"
+        ],
+        "ga": "foscadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "barb"
+        ],
+        "ga": "friofac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "counterscarp"
+        ],
+        "ga": "frithbhalla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "find"
+        ],
+        "ga": "fríth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "finder"
+        ],
+        "ga": "frítheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cooking-place"
+        ],
+        "ga": "fulacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cooking-pit"
+        ],
+        "ga": "fulacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "food gatherer"
+        ],
+        "ga": "fáiteallaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "slipway"
+        ],
+        "ga": "fánán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wagon"
+        ],
+        "ga": "féan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "greenway"
+        ],
+        "ga": "féarbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photoarchaeology"
+        ],
+        "ga": "fótaisheandálaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "metalworker"
+        ],
+        "ga": "gaibhneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pillar-stone"
+        ],
+        "ga": "gallán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "standing stone"
+        ],
+        "ga": "gallán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "barge-pole"
+        ],
+        "ga": "geá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jamb"
+        ],
+        "ga": "giall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "glaive"
+        ],
+        "ga": "glaíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "domestic-type construction"
+        ],
+        "ga": "gnáthfhoirgneamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gorgonopsid"
+        ],
+        "ga": "gorganopsaideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "graptolite"
+        ],
+        "ga": "graptailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "summer house"
+        ],
+        "ga": "grianán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "grange"
+        ],
+        "ga": "gráinseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "granary"
+        ],
+        "ga": "gráinseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "brewery"
+        ],
+        "ga": "grúdlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "howel"
+        ],
+        "ga": "habhal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "halberd"
+        ],
+        "ga": "halbard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hall"
+        ],
+        "ga": "halla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "henge"
+        ],
+        "ga": "heinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ha ha",
+            "ha-ha"
+        ],
+        "ga": "háhá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wooden drinking vessel"
+        ],
+        "ga": "ian",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fishery"
+        ],
+        "ga": "iascach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "curtain wall"
+        ],
+        "ga": "imbhalla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ring-fence"
+        ],
+        "ga": "imfhál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "encircling trench"
+        ],
+        "ga": "imthrinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cultivation ridge"
+        ],
+        "ga": "iomaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "impluvium"
+        ],
+        "ga": "iomplúiviam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fossil"
+        ],
+        "ga": "iontaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "latchet"
+        ],
+        "ga": "laistéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jetty"
+        ],
+        "ga": "lamairne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lazaretto"
+        ],
+        "ga": "lasaireiteo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "monument"
+        ],
+        "ga": "leacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "discoid stone"
+        ],
+        "ga": "leacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "small flagstone"
+        ],
+        "ga": "leacóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shaft"
+        ],
+        "ga": "leathlaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "level"
+        ],
+        "ga": "leibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "platband"
+        ],
+        "ga": "leideog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "latrine"
+        ],
+        "ga": "leithreas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "privy"
+        ],
+        "ga": "leithreas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "whetstone"
+        ],
+        "ga": "liabró",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stone"
+        ],
+        "ga": "liag",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lilie"
+        ],
+        "ga": "lilí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pond"
+        ],
+        "ga": "linn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lentoid"
+        ],
+        "ga": "liontóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ring fort",
+            "ringfort"
+        ],
+        "ga": "lios",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lock",
+            "canal lock"
+        ],
+        "ga": "loc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "name"
+        ],
+        "ga": "logainm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hollow-way"
+        ],
+        "ga": "logbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fortified residence"
+        ],
+        "ga": "longfort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "settlement"
+        ],
+        "ga": "lonnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reredorter"
+        ],
+        "ga": "losán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "early community"
+        ],
+        "ga": "luathphobal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "handmill"
+        ],
+        "ga": "lámhbhró",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "site"
+        ],
+        "ga": "láthair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "light"
+        ],
+        "ga": "léas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tunic"
+        ],
+        "ga": "léine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maze"
+        ],
+        "ga": "lúbra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "monastery"
+        ],
+        "ga": "mainistir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "abbey"
+        ],
+        "ga": "mainistir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "friary"
+        ],
+        "ga": "mainistir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "manor"
+        ],
+        "ga": "mainéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "broad spear"
+        ],
+        "ga": "manaois",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "map"
+        ],
+        "ga": "mapa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mastaba"
+        ],
+        "ga": "mastaba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mether"
+        ],
+        "ga": "meadar",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "metope"
+        ],
+        "ga": "meatóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mine"
+        ],
+        "ga": "mianach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "microlith"
+        ],
+        "ga": "micrilit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "small stone"
+        ],
+        "ga": "mionchloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "metallury"
+        ],
+        "ga": "miotalóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "factory"
+        ],
+        "ga": "monarcha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mill"
+        ],
+        "ga": "muileann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "collar"
+        ],
+        "ga": "muince",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mummy"
+        ],
+        "ga": "mumaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mausoleum"
+        ],
+        "ga": "másailéam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "motte"
+        ],
+        "ga": "móta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wall painting",
+            "wall art"
+        ],
+        "ga": "múrealaín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "non-antiquity"
+        ],
+        "ga": "neamh-sheaniarsma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "neolith"
+        ],
+        "ga": "neoilit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "custom"
+        ],
+        "ga": "nós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ogam",
+            "ogham"
+        ],
+        "ga": "ogham",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ogham script"
+        ],
+        "ga": "ogham",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "obelisk"
+        ],
+        "ga": "oibilisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spear-shaft"
+        ],
+        "ga": "omhna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "order arch"
+        ],
+        "ga": "ord-áirse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hammering"
+        ],
+        "ga": "orlaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hospital"
+        ],
+        "ga": "ospidéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "infirmary"
+        ],
+        "ga": "otharlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "turnpike"
+        ],
+        "ga": "paidhc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palynology"
+        ],
+        "ga": "pailineolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "palaeontologist"
+        ],
+        "ga": "pailé-ointeolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeontology"
+        ],
+        "ga": "pailé-ointeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeoecology",
+            "palaeo-ecology"
+        ],
+        "ga": "pailé-éiceolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeography"
+        ],
+        "ga": "pailéagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeobotany"
+        ],
+        "ga": "pailéaluibheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pelta"
+        ],
+        "ga": "pealta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "petrogram"
+        ],
+        "ga": "peitreagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pier"
+        ],
+        "ga": "piara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "piggin"
+        ],
+        "ga": "pigín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jougs"
+        ],
+        "ga": "piolóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pillory"
+        ],
+        "ga": "piolóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pithecanthrope"
+        ],
+        "ga": "piteacantróp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cave"
+        ],
+        "ga": "pluais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pliosaur"
+        ],
+        "ga": "pléasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "baulk"
+        ],
+        "ga": "port",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pot"
+        ],
+        "ga": "pota",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "priory"
+        ],
+        "ga": "prióireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prison"
+        ],
+        "ga": "príosún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clay pot"
+        ],
+        "ga": "próca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "large pot"
+        ],
+        "ga": "próca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "park"
+        ],
+        "ga": "páirc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palstave"
+        ],
+        "ga": "pálstaf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pound"
+        ],
+        "ga": "póna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "beacon"
+        ],
+        "ga": "rabhchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "raft"
+        ],
+        "ga": "rafta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cemetery",
+            "burial ground"
+        ],
+        "ga": "reilig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "graveyard"
+        ],
+        "ga": "reilig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "earthen ring-fort"
+        ],
+        "ga": "ráth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "earthen fort"
+        ],
+        "ga": "ráth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rath"
+        ],
+        "ga": "ráth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dart"
+        ],
+        "ga": "saighead",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "arrow"
+        ],
+        "ga": "saighead",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "effigy"
+        ],
+        "ga": "samhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sarcophagus"
+        ],
+        "ga": "sarcafagas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rock shelter"
+        ],
+        "ga": "scailp",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fountain"
+        ],
+        "ga": "scairdeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "scorpion",
+            "scorpio"
+        ],
+        "ga": "scairp",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "encircling wall"
+        ],
+        "ga": "sceimheal",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "escutcheon"
+        ],
+        "ga": "sciath",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "school"
+        ],
+        "ga": "scoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "scavenging"
+        ],
+        "ga": "scroblachóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scroll"
+        ],
+        "ga": "scrolla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shrine"
+        ],
+        "ga": "scrín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shambles"
+        ],
+        "ga": "seamlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tradition"
+        ],
+        "ga": "seanchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "antiquity"
+        ],
+        "ga": "seaniarsma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ancient world"
+        ],
+        "ga": "seansaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chert"
+        ],
+        "ga": "seirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chamber"
+        ],
+        "ga": "seomra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ziggurat"
+        ],
+        "ga": "siogúrat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sistrum"
+        ],
+        "ga": "siostram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flake"
+        ],
+        "ga": "sleanntach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lance"
+        ],
+        "ga": "sleá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "potsherd"
+        ],
+        "ga": "slige",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sherd",
+            "shard"
+        ],
+        "ga": "slige",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "slate"
+        ],
+        "ga": "slinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shell midden",
+            "shell mound"
+        ],
+        "ga": "sliogcharn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bridewell"
+        ],
+        "ga": "smachtlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maul"
+        ],
+        "ga": "smíste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "iron ring"
+        ],
+        "ga": "snong",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palisade"
+        ],
+        "ga": "sonnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "revetment"
+        ],
+        "ga": "sraodbhalla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "watercourse"
+        ],
+        "ga": "sruthchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "street"
+        ],
+        "ga": "sráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "village"
+        ],
+        "ga": "sráidbhaile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stele"
+        ],
+        "ga": "steil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "strip field"
+        ],
+        "ga": "stiallpháirc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bugle"
+        ],
+        "ga": "stoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trumpet"
+        ],
+        "ga": "stoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gun butt"
+        ],
+        "ga": "stopachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "strigil"
+        ],
+        "ga": "striogal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drinking vessel"
+        ],
+        "ga": "stábh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stable"
+        ],
+        "ga": "stábla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "survey"
+        ],
+        "ga": "suirbhéireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gazebo",
+            "eyecatcher"
+        ],
+        "ga": "suntasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "axe-handle"
+        ],
+        "ga": "sáfach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "monument"
+        ],
+        "ga": "séadchomhartha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chaplaincy"
+        ],
+        "ga": "séiplíneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chapel"
+        ],
+        "ga": "séipéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fibula"
+        ],
+        "ga": "síobhal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "urn"
+        ],
+        "ga": "síothal",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sling"
+        ],
+        "ga": "tabhall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hoard"
+        ],
+        "ga": "taisce",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "treasure hoard"
+        ],
+        "ga": "taisce",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reservoir"
+        ],
+        "ga": "taiscumar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tankard"
+        ],
+        "ga": "tancard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mill race"
+        ],
+        "ga": "tarae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "leat"
+        ],
+        "ga": "tarae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dwelling"
+        ],
+        "ga": "teaghais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tannery"
+        ],
+        "ga": "teanús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tanyard"
+        ],
+        "ga": "teanús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cast"
+        ],
+        "ga": "teilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "thingmount"
+        ],
+        "ga": "thingmót",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hearth"
+        ],
+        "ga": "tinteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "incision"
+        ],
+        "ga": "tiocóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "well"
+        ],
+        "ga": "tobar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "well-house"
+        ],
+        "ga": "tobartheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "breakwater"
+        ],
+        "ga": "tonnchosc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "boar-spear"
+        ],
+        "ga": "torcshleá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tramway"
+        ],
+        "ga": "trambhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "monument"
+        ],
+        "ga": "treoirmharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trial-piece"
+        ],
+        "ga": "triailphíosa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trench"
+        ],
+        "ga": "trinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "triskelion",
+            "triskele"
+        ],
+        "ga": "triscéil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "scabbard"
+        ],
+        "ga": "truaill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trunnion"
+        ],
+        "ga": "truinniún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "drove road"
+        ],
+        "ga": "tréadbhóthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trait"
+        ],
+        "ga": "tréith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tumulus"
+        ],
+        "ga": "tuaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tomb"
+        ],
+        "ga": "tuama",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bleach green"
+        ],
+        "ga": "tuar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "barrow"
+        ],
+        "ga": "tulach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "thatch"
+        ],
+        "ga": "tuí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tavern"
+        ],
+        "ga": "tábhairne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tau crosier"
+        ],
+        "ga": "tó-bhachall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "togher"
+        ],
+        "ga": "tóchar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tower"
+        ],
+        "ga": "túr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "grave",
+            "gravespace"
+        ],
+        "ga": "uaigh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crypt"
+        ],
+        "ga": "uaimh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aqueduct"
+        ],
+        "ga": "uiscerian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "charnel house"
+        ],
+        "ga": "ula",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mausoleum"
+        ],
+        "ga": "ula",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sepulchral monument"
+        ],
+        "ga": "ula",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bronzeworking"
+        ],
+        "ga": "umhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bastion"
+        ],
+        "ga": "urdhún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "butt"
+        ],
+        "ga": "urla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Egyptology"
+        ],
+        "ga": "Éigipteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Uruk"
+        ],
+        "ga": "Úrúc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kiln"
+        ],
+        "ga": "áith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ford"
+        ],
+        "ga": "áth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spoil"
+        ],
+        "ga": "éadáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dispensary"
+        ],
+        "ga": "íoclann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "idol"
+        ],
+        "ga": "íol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orichalcum"
+        ],
+        "ga": "óracalcam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "inn"
+        ],
+        "ga": "ósta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "earth thermometer"
+        ],
+        "ga": "úirtheirmiméadar",
+        "gender": "masculine"
+    }
+]

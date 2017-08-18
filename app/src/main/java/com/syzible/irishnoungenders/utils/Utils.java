@@ -52,12 +52,29 @@ public class Utils {
         new Thread(background).start();
     }
 
-    public static JSONArray loadNounList(Context context) {
+    public static JSONArray loadDomainCategories(Context context) {
         try {
-            InputStream is = context.getAssets().open("nouns.json");
-            int size = is.available();
-            System.out.println(size);
-            byte[] buffer = new byte[size];
+            InputStream is = context.getAssets().open("domains.json");
+            byte[] buffer = new byte[is.available()];
+            is.read(buffer);
+            is.close();
+
+            return new JSONArray(new String(buffer, "UTF-8"));
+        } catch (IOException | JSONException ex) {
+            ex.printStackTrace();
+        }
+
+        return null;
+    }
+
+    public static String getFileName(String rawName) {
+        return rawName.toLowerCase().replace(" ", "_").replace("&", "and");
+    }
+
+    public static JSONArray loadNounList(Context context, String listName) {
+        try {
+            InputStream is = context.getAssets().open("nouns/" + getFileName(listName) + ".json");
+            byte[] buffer = new byte[is.available()];
             is.read(buffer);
             is.close();
 

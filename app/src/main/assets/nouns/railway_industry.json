@@ -1,0 +1,26 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "branch line"
+        ],
+        "ga": "craobhlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inter-railing"
+        ],
+        "ga": "idir-iarnródaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "raft"
+        ],
+        "ga": "scata",
+        "gender": "masculine"
+    }
+]

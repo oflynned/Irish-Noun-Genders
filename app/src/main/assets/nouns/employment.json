@@ -1,0 +1,490 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "General Secretary"
+        ],
+        "ga": "Ard-Rúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air hostess",
+            "flight attendant"
+        ],
+        "ga": "aeróstach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caretaker",
+            "custodian",
+            "janitor"
+        ],
+        "ga": "airíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "manager"
+        ],
+        "ga": "bainisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "boss"
+        ],
+        "ga": "ceannasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "occupation"
+        ],
+        "ga": "ceird",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "remote worker"
+        ],
+        "ga": "cianoibrí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clerk"
+        ],
+        "ga": "cléireach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "contention"
+        ],
+        "ga": "conspóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "co-maternity"
+        ],
+        "ga": "cómháithreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "de-skilling"
+        ],
+        "ga": "dí-oiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "outwork"
+        ],
+        "ga": "eachtobair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "off-pay"
+        ],
+        "ga": "eas-phá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "favouritism"
+        ],
+        "ga": "fabhraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flexible working",
+            "flexitime",
+            "flexible working hours",
+            "flexi-time"
+        ],
+        "ga": "fleisc-am",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flexi-leave"
+        ],
+        "ga": "fleisc-shaoire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "staff"
+        ],
+        "ga": "foireann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vacancy"
+        ],
+        "ga": "folúntas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vocational pathway"
+        ],
+        "ga": "gairmchonair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "immediate employer"
+        ],
+        "ga": "garfhostóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "profile"
+        ],
+        "ga": "gearrbheathaisnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ordinary member"
+        ],
+        "ga": "gnáthbhall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "group interview"
+        ],
+        "ga": "grúpagallamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hetero-employment"
+        ],
+        "ga": "heitreafhostaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "candidate"
+        ],
+        "ga": "iarrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "employability"
+        ],
+        "ga": "infhostaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "competence"
+        ],
+        "ga": "inniúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "job training"
+        ],
+        "ga": "jaboiliúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "job placement"
+        ],
+        "ga": "jabshocrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "appraiser"
+        ],
+        "ga": "measúnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "minor work"
+        ],
+        "ga": "mionobair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "discloser"
+        ],
+        "ga": "nochtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "job"
+        ],
+        "ga": "obair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "worker"
+        ],
+        "ga": "oibrí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gross wage"
+        ],
+        "ga": "ollphá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "position"
+        ],
+        "ga": "post",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "job",
+            "post"
+        ],
+        "ga": "post",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jobshare"
+        ],
+        "ga": "postroinnt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "work sharer",
+            "job sharer"
+        ],
+        "ga": "postroinnteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "partial unemployment",
+            "work-sharing unemployment",
+            "short-time work",
+            "short-time working"
+        ],
+        "ga": "páirt-dífhostaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "paymaster"
+        ],
+        "ga": "pámháistir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "overtime"
+        ],
+        "ga": "ragobair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "e-worker"
+        ],
+        "ga": "ríomhoibrí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "specialist worker"
+        ],
+        "ga": "sainoibrí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "labour"
+        ],
+        "ga": "saothar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "whistleblower",
+            "whistle-blower"
+        ],
+        "ga": "sceithire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "whistle-blowing",
+            "whistleblowing"
+        ],
+        "ga": "sceithireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shift"
+        ],
+        "ga": "seal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shift-work",
+            "shiftwork",
+            "shift work"
+        ],
+        "ga": "sealobair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shift worker",
+            "shiftworker"
+        ],
+        "ga": "sealoibrí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mobility"
+        ],
+        "ga": "soghluaisteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sector"
+        ],
+        "ga": "sruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "experience"
+        ],
+        "ga": "taithí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "piece-worker"
+        ],
+        "ga": "tascoibrí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "underemployment"
+        ],
+        "ga": "tearcfhostaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "commute"
+        ],
+        "ga": "timaistear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "meritocracy"
+        ],
+        "ga": "tuilleamhlathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "youth employment"
+        ],
+        "ga": "ógfhostaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "deployment"
+        ],
+        "ga": "úsáid",
+        "gender": "feminine"
+    }
+]

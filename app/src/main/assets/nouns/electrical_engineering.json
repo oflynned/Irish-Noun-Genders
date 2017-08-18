@@ -1,0 +1,195 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "a-axis"
+        ],
+        "ga": "a-ais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fuse"
+        ],
+        "ga": "aidhnín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bit"
+        ],
+        "ga": "bior",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quarter phase"
+        ],
+        "ga": "ceathrúphas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coulometer"
+        ],
+        "ga": "cúlóiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "coulometry"
+        ],
+        "ga": "cúlóiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fluxmeter"
+        ],
+        "ga": "floscmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "former"
+        ],
+        "ga": "foirmeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solar unit"
+        ],
+        "ga": "grian-aonad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "henry",
+            "H"
+        ],
+        "ga": "hanraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "homojunction"
+        ],
+        "ga": "homachumar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "buffer"
+        ],
+        "ga": "idirghabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "electrochemistry"
+        ],
+        "ga": "leictriceimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mesh connection"
+        ],
+        "ga": "mogallnasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pole piece"
+        ],
+        "ga": "polphíosa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "band"
+        ],
+        "ga": "rian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rheometer"
+        ],
+        "ga": "réiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "current electricity"
+        ],
+        "ga": "sruthleictreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "arc-stream"
+        ],
+        "ga": "stuashruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thermogalvanometer"
+        ],
+        "ga": "teirmeagalbhánaiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transadmittance"
+        ],
+        "ga": "trasiontrálas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "booster"
+        ],
+        "ga": "treiseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "forward path"
+        ],
+        "ga": "tulchonair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "voltmeter"
+        ],
+        "ga": "voltmhéadar",
+        "gender": "masculine"
+    }
+]

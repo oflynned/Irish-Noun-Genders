@@ -1,0 +1,248 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "agalactia"
+        ],
+        "ga": "agalaicse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lameness"
+        ],
+        "ga": "bacaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bonamiosis"
+        ],
+        "ga": "bonamóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pad"
+        ],
+        "ga": "bonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "brucellosis"
+        ],
+        "ga": "brúsallóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "canker"
+        ],
+        "ga": "cancar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chestnut"
+        ],
+        "ga": "castán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cysticercosis",
+            "beef cysticercosis",
+            "beef measles",
+            "bovine cysticercosis"
+        ],
+        "ga": "cisticearcóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mange"
+        ],
+        "ga": "claimhe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "association"
+        ],
+        "ga": "comhúsáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carcase",
+            "carcass"
+        ],
+        "ga": "conablach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "distemper"
+        ],
+        "ga": "conslaod",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mosquito"
+        ],
+        "ga": "corrmhíol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ketamine"
+        ],
+        "ga": "céataimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dermatophilosis"
+        ],
+        "ga": "deirmifiolóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "echinococcosis"
+        ],
+        "ga": "eicineacocóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ectoparasiticide"
+        ],
+        "ga": "eicteaparaisíticíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "histomoniasis"
+        ],
+        "ga": "histeamóiniáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lincomycin"
+        ],
+        "ga": "lioncóimícin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mastitis"
+        ],
+        "ga": "maistíteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "metaphylaxis"
+        ],
+        "ga": "meitifiolacsas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nerve pathway"
+        ],
+        "ga": "néarchonair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "panleukopenia"
+        ],
+        "ga": "painleocaipéine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "panzootic"
+        ],
+        "ga": "pansótach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flukicide"
+        ],
+        "ga": "pucháinicíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "inflammation of the udder",
+            "garget",
+            "mastitis"
+        ],
+        "ga": "sineach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pediculus capitis"
+        ],
+        "ga": "treaghdán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trenbolone"
+        ],
+        "ga": "treanbólón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "veterinary medicine"
+        ],
+        "ga": "tréidliacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "onychia"
+        ],
+        "ga": "óinicia",
+        "gender": "feminine"
+    }
+]

@@ -1,0 +1,699 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "Zeppelin"
+        ],
+        "ga": "Seipilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pneumatic tube"
+        ],
+        "ga": "aeradán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pneumatic tyre"
+        ],
+        "ga": "aerbhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pneumatic brakes"
+        ],
+        "ga": "aerchoscáin",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "agrofuel"
+        ],
+        "ga": "agraibhreosla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "class"
+        ],
+        "ga": "aicme",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tyre"
+        ],
+        "ga": "bonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "horn"
+        ],
+        "ga": "bonnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "striker"
+        ],
+        "ga": "buailteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "body"
+        ],
+        "ga": "cabhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "go-kart",
+            "go-cart"
+        ],
+        "ga": "cairtín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "turning space"
+        ],
+        "ga": "cas-spás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "kick start"
+        ],
+        "ga": "cicdhúiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crash helmet"
+        ],
+        "ga": "clogad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "combined vehicle"
+        ],
+        "ga": "comhfheithicil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crewcab"
+        ],
+        "ga": "criúchábán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "valance"
+        ],
+        "ga": "crochtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quadrimobile",
+            "mini-car"
+        ],
+        "ga": "cuadcharr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quad bike",
+            "quadricycle",
+            "quad"
+        ],
+        "ga": "cuadrothar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "power take-off",
+            "PTO"
+        ],
+        "ga": "cumhachtdúiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coach"
+        ],
+        "ga": "cóiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rear window"
+        ],
+        "ga": "cúlfhuinneog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dashboard"
+        ],
+        "ga": "deais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "absolute filter"
+        ],
+        "ga": "dearbhscagaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dragster"
+        ],
+        "ga": "draigstéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dump truck"
+        ],
+        "ga": "dumpaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "de-icer"
+        ],
+        "ga": "dí-oighreoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fan"
+        ],
+        "ga": "fean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fan belt"
+        ],
+        "ga": "feanbheilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vehicle"
+        ],
+        "ga": "feithicil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "float"
+        ],
+        "ga": "flóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "underbody"
+        ],
+        "ga": "fo-chabhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "over-rider"
+        ],
+        "ga": "formhaolán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overdrive",
+            "overdriving"
+        ],
+        "ga": "forthiomáint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "antiknock"
+        ],
+        "ga": "frithchnagach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wagon"
+        ],
+        "ga": "féan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fork-bolt"
+        ],
+        "ga": "gabhalbholta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wind resistance"
+        ],
+        "ga": "gaothsheasmhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "car",
+            "motor car"
+        ],
+        "ga": "gluaisteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "motoring"
+        ],
+        "ga": "gluaisteánaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "running clearance"
+        ],
+        "ga": "gnáthscóip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gyrobus"
+        ],
+        "ga": "gíreabhus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hatch"
+        ],
+        "ga": "haiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "landrover"
+        ],
+        "ga": "jíp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trailer"
+        ],
+        "ga": "leantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mild hybrid"
+        ],
+        "ga": "leath-hibrid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "semi-trailer"
+        ],
+        "ga": "leathleantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tell-tale",
+            "telltale"
+        ],
+        "ga": "leideoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "limousine"
+        ],
+        "ga": "limisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "speed"
+        ],
+        "ga": "luas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "full trailer"
+        ],
+        "ga": "lánleantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "micro hybrid"
+        ],
+        "ga": "micrihibrid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shredder"
+        ],
+        "ga": "mionghearrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "moped"
+        ],
+        "ga": "móipéid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "motor technology"
+        ],
+        "ga": "mótartheicneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "motor industry"
+        ],
+        "ga": "mótarthionscal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "motor truck"
+        ],
+        "ga": "mótarthrucail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hitch"
+        ],
+        "ga": "nascaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "petrol"
+        ],
+        "ga": "peitreal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "puncture"
+        ],
+        "ga": "poll",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rally"
+        ],
+        "ga": "railí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wilkin"
+        ],
+        "ga": "reithe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "track"
+        ],
+        "ga": "rian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wheel"
+        ],
+        "ga": "roth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "over-revving"
+        ],
+        "ga": "ró-reibheáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "saloon"
+        ],
+        "ga": "salún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "life"
+        ],
+        "ga": "saol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "exhaust pipe",
+            "exhaust",
+            "exhaust outlet",
+            "tail pipe",
+            "tailpipe"
+        ],
+        "ga": "sceithphíopa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "skid"
+        ],
+        "ga": "scide",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "skid chain"
+        ],
+        "ga": "sciorrshlabhra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "throttle"
+        ],
+        "ga": "scóig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "throttle-valve",
+            "throttle valve"
+        ],
+        "ga": "scóigchomhla",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "frost resistance"
+        ],
+        "ga": "sioc-obacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "partitioning"
+        ],
+        "ga": "spiara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tachograph"
+        ],
+        "ga": "tacagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "taxi"
+        ],
+        "ga": "tacsaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "occupant"
+        ],
+        "ga": "taistealaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "side-window"
+        ],
+        "ga": "taobhfhuinneog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "direction indicator",
+            "direction indicator lamp",
+            "direction-indicator lamp"
+        ],
+        "ga": "treotháscaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pick up",
+            "pick-up",
+            "pick-up truck"
+        ],
+        "ga": "truiclín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tripper car"
+        ],
+        "ga": "truipcharr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "log card"
+        ],
+        "ga": "tásc-chárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "autopilot"
+        ],
+        "ga": "uathphíolóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tank vehicle"
+        ],
+        "ga": "umarfheithicil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "van"
+        ],
+        "ga": "veain",
+        "gender": "feminine"
+    }
+]

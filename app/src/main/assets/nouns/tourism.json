@@ -1,0 +1,351 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "Left Luggage"
+        ],
+        "ga": "Bagáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "The Irish Travel Trade Fair"
+        ],
+        "ga": "Meitheal",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air travel"
+        ],
+        "ga": "aerthaisteal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "agritourism"
+        ],
+        "ga": "agrathurasóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hospitality"
+        ],
+        "ga": "aíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hostel",
+            "youth hostel"
+        ],
+        "ga": "brú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "charter flight"
+        ],
+        "ga": "cairteitilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caravan"
+        ],
+        "ga": "carbhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "car rental"
+        ],
+        "ga": "carrchíos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sister hotel"
+        ],
+        "ga": "comhóstán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "souvenir"
+        ],
+        "ga": "cuimhneachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "suitcase"
+        ],
+        "ga": "cás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "folk village"
+        ],
+        "ga": "daonbhaile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "folk museum"
+        ],
+        "ga": "daoniarsmalann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "folk park"
+        ],
+        "ga": "daonpháirc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "farmscape"
+        ],
+        "ga": "feirmdhreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wildscape"
+        ],
+        "ga": "fiadhreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hospitality"
+        ],
+        "ga": "fáilteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "video tour"
+        ],
+        "ga": "físturas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blueway"
+        ],
+        "ga": "gormbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inter-railing"
+        ],
+        "ga": "idir-iarnródaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "site"
+        ],
+        "ga": "ionad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "half board"
+        ],
+        "ga": "leathlóistín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "full board"
+        ],
+        "ga": "lánlóistín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lodging"
+        ],
+        "ga": "lóistín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "motel",
+            "motor hotel"
+        ],
+        "ga": "móstán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "connecting flight"
+        ],
+        "ga": "nasceitilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "attrition",
+            "fallout"
+        ],
+        "ga": "neamhfhreastal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "heritage"
+        ],
+        "ga": "oidhreacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "entertainment"
+        ],
+        "ga": "siamsaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "accommodation"
+        ],
+        "ga": "slí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bullfight"
+        ],
+        "ga": "tarbhchomhrac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bullfighting"
+        ],
+        "ga": "tarbhchomhrac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "conductor"
+        ],
+        "ga": "treoraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guide"
+        ],
+        "ga": "treoraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "seaside resort"
+        ],
+        "ga": "trá-bhaile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "visa"
+        ],
+        "ga": "víosa",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "booking",
+            "reservation"
+        ],
+        "ga": "áirithint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "occupancy"
+        ],
+        "ga": "áitíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ecolodge"
+        ],
+        "ga": "éicealóiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ecotourism"
+        ],
+        "ga": "éiceathurasóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hostel",
+            "youth hostel"
+        ],
+        "ga": "óstallán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hotel"
+        ],
+        "ga": "óstlann",
+        "gender": "feminine"
+    }
+]

@@ -1,0 +1,2923 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "M-electrode"
+        ],
+        "ga": "M-leictreoid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "T-wave"
+        ],
+        "ga": "T-thonn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aircell"
+        ],
+        "ga": "aerchill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aircharger",
+            "airgenerator"
+        ],
+        "ga": "aerghineadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reluctance"
+        ],
+        "ga": "aimhleisceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "amplifier"
+        ],
+        "ga": "aimplitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ammeter"
+        ],
+        "ga": "aimpmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "amperage"
+        ],
+        "ga": "aimpéaras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ampere turn"
+        ],
+        "ga": "aimpéarlúb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ampere-hour"
+        ],
+        "ga": "aimpéaruair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "finder"
+        ],
+        "ga": "aimsitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "archeomagnetism"
+        ],
+        "ga": "aircéamaighnéadas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "feedback"
+        ],
+        "ga": "aisfhotha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alarm"
+        ],
+        "ga": "aláram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ampholite"
+        ],
+        "ga": "amfailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "amphoterism"
+        ],
+        "ga": "amfaiteireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "analogue",
+            "analog"
+        ],
+        "ga": "analóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "high frequency",
+            "HF"
+        ],
+        "ga": "ardmhinicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "high voltage"
+        ],
+        "ga": "ardvoltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "emission"
+        ],
+        "ga": "astaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wall effect"
+        ],
+        "ga": "balla-iarmhairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crest"
+        ],
+        "ga": "barr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bevatron"
+        ],
+        "ga": "beibheatrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bulb"
+        ],
+        "ga": "bolgán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "base unit"
+        ],
+        "ga": "bonnaonad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "baseload",
+            "BL"
+        ],
+        "ga": "bonnualach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bush"
+        ],
+        "ga": "bosc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "peak load"
+        ],
+        "ga": "buaiclód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "peaking station"
+        ],
+        "ga": "buaicstáisiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "standing charge"
+        ],
+        "ga": "buanmhuirear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "base"
+        ],
+        "ga": "bun",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "base"
+        ],
+        "ga": "bun",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "base voltage"
+        ],
+        "ga": "bunvoltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "busbar"
+        ],
+        "ga": "busbarra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bus section"
+        ],
+        "ga": "busmhír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pulse regeneration"
+        ],
+        "ga": "bíog-athghiniúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pulse shaper"
+        ],
+        "ga": "bíogdhealbhóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "channel"
+        ],
+        "ga": "cainéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flickering"
+        ],
+        "ga": "caochaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "turns ratio"
+        ],
+        "ga": "caschóimheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cascade"
+        ],
+        "ga": "cascáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "battery"
+        ],
+        "ga": "ceallra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "camera"
+        ],
+        "ga": "ceamara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "camcorder"
+        ],
+        "ga": "ceamthaifeadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "quarter"
+        ],
+        "ga": "ceathrú",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "remote control unit",
+            "remote control",
+            "zapper"
+        ],
+        "ga": "cianrialtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kilowatt",
+            "kw"
+        ],
+        "ga": "cileavata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kilowatt hour"
+        ],
+        "ga": "cileavatuair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cycloconverter"
+        ],
+        "ga": "cioglaithiontaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kilohm"
+        ],
+        "ga": "ciolóm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "circuit"
+        ],
+        "ga": "ciorcad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kettle"
+        ],
+        "ga": "citeal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shower"
+        ],
+        "ga": "cithfholcadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transformer"
+        ],
+        "ga": "claochladán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "breakdown potential",
+            "breakdown voltage",
+            "break-down voltage"
+        ],
+        "ga": "clisphoitéinseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clock"
+        ],
+        "ga": "clog",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "clock frequency"
+        ],
+        "ga": "clogmhinicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clock radio"
+        ],
+        "ga": "clograidió",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bell"
+        ],
+        "ga": "cloigín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "audio cassette"
+        ],
+        "ga": "closchaiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "audio equipment",
+            "audio"
+        ],
+        "ga": "clostrealamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "headphone"
+        ],
+        "ga": "cluasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "knob"
+        ],
+        "ga": "cnaipe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "head"
+        ],
+        "ga": "cnoga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rectifier"
+        ],
+        "ga": "coigeartóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "impedance"
+        ],
+        "ga": "coisceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "component"
+        ],
+        "ga": "comhbhall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "junction box",
+            "junction"
+        ],
+        "ga": "comhchumar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "accessory",
+            "component"
+        ],
+        "ga": "comhghabhálas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mutual capacitance"
+        ],
+        "ga": "comhthoilleas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crystal pick-up"
+        ],
+        "ga": "criostalghlacaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cryotron"
+        ],
+        "ga": "criótrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core"
+        ],
+        "ga": "croíleacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stop",
+            "aperture"
+        ],
+        "ga": "cró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "adapter",
+            "adaptor"
+        ],
+        "ga": "cuibheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "junction"
+        ],
+        "ga": "cumar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "blender"
+        ],
+        "ga": "cumascóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "equalization",
+            "equalisation"
+        ],
+        "ga": "cúiteamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reverse bias"
+        ],
+        "ga": "cúl-laofacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coupling"
+        ],
+        "ga": "cúplán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "good conductor"
+        ],
+        "ga": "dea-sheoltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "absolute permittivity"
+        ],
+        "ga": "dearbhcheadaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intensifier"
+        ],
+        "ga": "dianaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "differentiator"
+        ],
+        "ga": "difreálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "digicorder"
+        ],
+        "ga": "digeathaifeadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "digitron"
+        ],
+        "ga": "digitreon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "negative"
+        ],
+        "ga": "diúltach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "drain"
+        ],
+        "ga": "draein",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "diode"
+        ],
+        "ga": "dé-óid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "eliminator"
+        ],
+        "ga": "díbreoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "decoupling"
+        ],
+        "ga": "díchúpláil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "line straight"
+        ],
+        "ga": "dírlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "disconnection"
+        ],
+        "ga": "díscor",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dewirement"
+        ],
+        "ga": "díshreangáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dehumidifier"
+        ],
+        "ga": "díthaisire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dubnium",
+            "Db"
+        ],
+        "ga": "dúibniam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dark current"
+        ],
+        "ga": "dúshruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dark space"
+        ],
+        "ga": "dúspás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "former"
+        ],
+        "ga": "eiteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "longitudinal wave"
+        ],
+        "ga": "fadtonn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "farad"
+        ],
+        "ga": "farad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "faraday"
+        ],
+        "ga": "faraidé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ferroelectricity"
+        ],
+        "ga": "fearóileictreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fuse"
+        ],
+        "ga": "fiús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fuseboard"
+        ],
+        "ga": "fiúschlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flex"
+        ],
+        "ga": "fleisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tube of flux",
+            "tube of force"
+        ],
+        "ga": "floscfheadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "source impedance"
+        ],
+        "ga": "foinsechoisceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vacuum cleaner"
+        ],
+        "ga": "folúsghlantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reactance"
+        ],
+        "ga": "freasaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reactor"
+        ],
+        "ga": "freasaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "resistance"
+        ],
+        "ga": "friotaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "resistor"
+        ],
+        "ga": "friotóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anti-resonance",
+            "parallel resonance"
+        ],
+        "ga": "frith-athshondas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "anticathode"
+        ],
+        "ga": "frithchatóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "countercurrent",
+            "countercurrent flow",
+            "counterflow"
+        ],
+        "ga": "frithshreabh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "video cassette",
+            "videocassette",
+            "video-cassette"
+        ],
+        "ga": "físchaiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "video camera"
+        ],
+        "ga": "físcheamara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "video game"
+        ],
+        "ga": "físchluiche",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "video card"
+        ],
+        "ga": "físchárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "visiophone"
+        ],
+        "ga": "físeafón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "video equipment"
+        ],
+        "ga": "fístrealamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phone",
+            "telephone"
+        ],
+        "ga": "fón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "photocell"
+        ],
+        "ga": "fótaichill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "photodiode"
+        ],
+        "ga": "fótaidhé-óid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photocurrent"
+        ],
+        "ga": "fótashruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "photovoltaics",
+            "PV"
+        ],
+        "ga": "fótavoltachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "galvanostat"
+        ],
+        "ga": "galbhánastat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "short",
+            "short-circuit",
+            "short out",
+            "short circuit",
+            "shorted circuit"
+        ],
+        "ga": "gearrchiorcad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gilbert"
+        ],
+        "ga": "gilbirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "generator"
+        ],
+        "ga": "gineadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pick-up",
+            "pick up",
+            "pickup"
+        ],
+        "ga": "glacaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "nett charge"
+        ],
+        "ga": "glanlucht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "beeper",
+            "bleeper",
+            "pager",
+            "paging unit"
+        ],
+        "ga": "glaoire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "form"
+        ],
+        "ga": "gné",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gyrator"
+        ],
+        "ga": "gíorálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "henry",
+            "H"
+        ],
+        "ga": "hanraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heterojunction"
+        ],
+        "ga": "heitreachumar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "heterodyne"
+        ],
+        "ga": "heitridín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydroelectricity",
+            "hydro-electricity"
+        ],
+        "ga": "hidrileictreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydraphone"
+        ],
+        "ga": "hiodrafón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "making-current"
+        ],
+        "ga": "iamhshruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ionizer",
+            "ioniser"
+        ],
+        "ga": "ianaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "iron"
+        ],
+        "ga": "iarann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "interconnector"
+        ],
+        "ga": "idirnascaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interruption"
+        ],
+        "ga": "idirscor",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interruptor",
+            "interrupter"
+        ],
+        "ga": "idirscorthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ignitron"
+        ],
+        "ga": "igneatrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chargeability"
+        ],
+        "ga": "inluchtaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "multiplier"
+        ],
+        "ga": "iolraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "irradiance"
+        ],
+        "ga": "ionradantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "admittance"
+        ],
+        "ga": "iontrálas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "switcher"
+        ],
+        "ga": "lascóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "embedder"
+        ],
+        "ga": "leabaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "elastoresistance"
+        ],
+        "ga": "leaistifhriotaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "continuity"
+        ],
+        "ga": "leanúnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "electricity"
+        ],
+        "ga": "leictreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "electroluminescence"
+        ],
+        "ga": "leictrealonracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "electromagnet"
+        ],
+        "ga": "leictreamaighnéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "electromagnetism"
+        ],
+        "ga": "leictreamaighnéadas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "electrode"
+        ],
+        "ga": "leictreoid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "electronics"
+        ],
+        "ga": "leictreonaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "electron physics"
+        ],
+        "ga": "leictreonfhisic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "electron optics"
+        ],
+        "ga": "leictreonoptaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "electrochemistry"
+        ],
+        "ga": "leictriceimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "electrometer"
+        ],
+        "ga": "leictriméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "electrotechnics"
+        ],
+        "ga": "leictriteicnic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "electrification"
+        ],
+        "ga": "leictriúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leakage"
+        ],
+        "ga": "ligean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "logic circuit"
+        ],
+        "ga": "loighic-chiorcad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mower"
+        ],
+        "ga": "lomaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wobbulator"
+        ],
+        "ga": "longadánaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "terminal"
+        ],
+        "ga": "los",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "charge"
+        ],
+        "ga": "lucht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "charger"
+        ],
+        "ga": "luchtaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "full load"
+        ],
+        "ga": "lánlód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "beam current"
+        ],
+        "ga": "léas-sruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "beam coupling"
+        ],
+        "ga": "léaschúpláil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "line frequency"
+        ],
+        "ga": "línemhinicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "line voltage"
+        ],
+        "ga": "línevoltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "load"
+        ],
+        "ga": "lód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "load impedance"
+        ],
+        "ga": "lódchoisceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "load line",
+            "loadline"
+        ],
+        "ga": "lódlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "loading"
+        ],
+        "ga": "lódáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "loop",
+            "turn"
+        ],
+        "ga": "lúb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "magnetoplasmadynamics"
+        ],
+        "ga": "maighnéada-plasmaidinimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "magnetoresistance"
+        ],
+        "ga": "maighnéadfhriotaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "magnetron"
+        ],
+        "ga": "maighnéatrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "magneto"
+        ],
+        "ga": "maignéató",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mass resistivity"
+        ],
+        "ga": "maisfhriotachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "megawatt"
+        ],
+        "ga": "meigeavata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "megahertz",
+            "MHz"
+        ],
+        "ga": "meigiheirts",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "metadyne"
+        ],
+        "ga": "meitidín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "microphone",
+            "mike"
+        ],
+        "ga": "micreafón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "microvolt"
+        ],
+        "ga": "micreavolta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "microcircuit"
+        ],
+        "ga": "micrichiorcad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "millihenry"
+        ],
+        "ga": "milleahanraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "millivolt"
+        ],
+        "ga": "milleavolta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "microammeter"
+        ],
+        "ga": "miocraimpmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "micro-ampere"
+        ],
+        "ga": "miocraimpéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "milliammeter"
+        ],
+        "ga": "miollaimpmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "milli-ampere",
+            "milliampere",
+            "milliamp"
+        ],
+        "ga": "miollaimpéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mode"
+        ],
+        "ga": "modh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "modulator"
+        ],
+        "ga": "modhnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "module"
+        ],
+        "ga": "modúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "delay line"
+        ],
+        "ga": "moill-líne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mesa transistor"
+        ],
+        "ga": "méasathrasraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "connection"
+        ],
+        "ga": "nasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gain"
+        ],
+        "ga": "neartúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neon"
+        ],
+        "ga": "neon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neon tube"
+        ],
+        "ga": "neonfheadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "napier",
+            "neper"
+        ],
+        "ga": "néipear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "node voltage"
+        ],
+        "ga": "nódvoltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oven"
+        ],
+        "ga": "oigheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "optronics"
+        ],
+        "ga": "optrónaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "p-type"
+        ],
+        "ga": "p-chineál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "phase"
+        ],
+        "ga": "pas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pico-ampere"
+        ],
+        "ga": "piocaimpéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "potentiostat"
+        ],
+        "ga": "poitéinseastat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pole"
+        ],
+        "ga": "pol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polarization",
+            "polarisation"
+        ],
+        "ga": "polarúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "printer"
+        ],
+        "ga": "printéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "main switchboard"
+        ],
+        "ga": "príomh-lasc-chlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mains"
+        ],
+        "ga": "príomhchumhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mains"
+        ],
+        "ga": "príomhlíonra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "electricity mains"
+        ],
+        "ga": "príomhlíonra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "piezo-electricity",
+            "piezoelectricity"
+        ],
+        "ga": "písileictreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "radio"
+        ],
+        "ga": "raidió",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "control electrode"
+        ],
+        "ga": "riail-leictreoid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trace",
+            "path"
+        ],
+        "ga": "rian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "supply"
+        ],
+        "ga": "riar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "star connection"
+        ],
+        "ga": "réaltcheangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "star symbol"
+        ],
+        "ga": "réaltóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rheometer"
+        ],
+        "ga": "réiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "impulse"
+        ],
+        "ga": "ríog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "impulse generator"
+        ],
+        "ga": "ríog-ghineadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "impulse current"
+        ],
+        "ga": "ríogshruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "impulse voltage"
+        ],
+        "ga": "ríogvoltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "electronic game"
+        ],
+        "ga": "ríomhchluiche",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "robot"
+        ],
+        "ga": "róbat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overloading"
+        ],
+        "ga": "rólódáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "overvoltage"
+        ],
+        "ga": "róvoltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "iris",
+            "diaphragm"
+        ],
+        "ga": "scannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "skiatron"
+        ],
+        "ga": "sciatrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "breaker",
+            "contact breaker"
+        ],
+        "ga": "scoradán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "key"
+        ],
+        "ga": "scorán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "scaler"
+        ],
+        "ga": "scálóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shunt motor"
+        ],
+        "ga": "seachmhótar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shunt"
+        ],
+        "ga": "seachród",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "servo-amplifier"
+        ],
+        "ga": "seirbhea-aimplitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conductance"
+        ],
+        "ga": "seoltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conductor"
+        ],
+        "ga": "seoltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lead"
+        ],
+        "ga": "seolán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sphere gap"
+        ],
+        "ga": "sféarbhearna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trickle charger"
+        ],
+        "ga": "sil-luchtaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "susceptance"
+        ],
+        "ga": "so-ghabhálas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "suppressor grid"
+        ],
+        "ga": "sochtghreille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "susceptibility"
+        ],
+        "ga": "soghabháltacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "socket"
+        ],
+        "ga": "soicéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flash barrier"
+        ],
+        "ga": "splancbhacainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spotlight",
+            "spot"
+        ],
+        "ga": "spotsolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "target area"
+        ],
+        "ga": "spriocréimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spark gap"
+        ],
+        "ga": "spréachbhearna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sparking plug"
+        ],
+        "ga": "spréachphlocóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "spark plug"
+        ],
+        "ga": "spréachphlocóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "space charge"
+        ],
+        "ga": "spáslucht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sky wave"
+        ],
+        "ga": "spéirthonn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "series circuit"
+        ],
+        "ga": "sraithchiorcad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "current"
+        ],
+        "ga": "sruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "current transformer"
+        ],
+        "ga": "sruthchlaochladán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stream filament"
+        ],
+        "ga": "sruthfhiliméad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "current electricity"
+        ],
+        "ga": "sruthleictreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "current balance"
+        ],
+        "ga": "sruthmheátán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sterilizer",
+            "steriliser"
+        ],
+        "ga": "steirileoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stereo"
+        ],
+        "ga": "steiréisheinnteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "substrate"
+        ],
+        "ga": "substráit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "installation"
+        ],
+        "ga": "suiteáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drift transistor"
+        ],
+        "ga": "síobthrasraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "set"
+        ],
+        "ga": "tacar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "choking-coil"
+        ],
+        "ga": "tachtchorna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "recorder"
+        ],
+        "ga": "taifeadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "accumulator",
+            "accumulator battery",
+            "accumulator storage battery",
+            "secondary battery",
+            "storage battery"
+        ],
+        "ga": "taisc-cheallra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "earthing",
+            "grounding"
+        ],
+        "ga": "talmhúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "attenuator"
+        ],
+        "ga": "tanaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "attenuation"
+        ],
+        "ga": "tanúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "side frequency"
+        ],
+        "ga": "taobhmhinicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tap"
+        ],
+        "ga": "tapa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transmitter"
+        ],
+        "ga": "tarchuradóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sparkover"
+        ],
+        "ga": "tarspréach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contact"
+        ],
+        "ga": "teagmháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "contact"
+        ],
+        "ga": "teagmhálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "television",
+            "television set"
+        ],
+        "ga": "teilifíseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "terawatt"
+        ],
+        "ga": "teireavata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thermistor"
+        ],
+        "ga": "teirmeastar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thermoelectricity"
+        ],
+        "ga": "teirmileictreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "terminal"
+        ],
+        "ga": "teirminéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "limiter"
+        ],
+        "ga": "teorantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collector"
+        ],
+        "ga": "tiomsaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drive"
+        ],
+        "ga": "tiomáint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tuner"
+        ],
+        "ga": "tiúnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coil-winding",
+            "winding",
+            "coil winding"
+        ],
+        "ga": "tochrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wave analyser"
+        ],
+        "ga": "tonn-anailíseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wave amplititude"
+        ],
+        "ga": "tonnaimplitiúid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wave-detector"
+        ],
+        "ga": "tonnbhrathadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wave equation"
+        ],
+        "ga": "tonnchothromóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wave tail"
+        ],
+        "ga": "tonnlos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ripple"
+        ],
+        "ga": "tonnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transconductance",
+            "mutual conductance"
+        ],
+        "ga": "tras-seoltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transductor"
+        ],
+        "ga": "trasduchtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transducer"
+        ],
+        "ga": "trasduchtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transceiver"
+        ],
+        "ga": "trasghlacadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flashover"
+        ],
+        "ga": "trasplanc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transistor"
+        ],
+        "ga": "trasraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "booster"
+        ],
+        "ga": "treiseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parallel connection"
+        ],
+        "ga": "treonasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "triboelectricity"
+        ],
+        "ga": "tribileictreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "triode hexode"
+        ],
+        "ga": "trióid-heacsóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trip coil"
+        ],
+        "ga": "truipchorna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tweeter"
+        ],
+        "ga": "trílire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "forward voltage"
+        ],
+        "ga": "tulvoltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "turbogenerator"
+        ],
+        "ga": "turbaighineadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shock"
+        ],
+        "ga": "turraing",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tape recorder",
+            "tape-recorder"
+        ],
+        "ga": "téipthaifeadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "heater"
+        ],
+        "ga": "téitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thyratron"
+        ],
+        "ga": "tíreatrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "probe"
+        ],
+        "ga": "tóireadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "torch"
+        ],
+        "ga": "tóirse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "electric toaster",
+            "toaster"
+        ],
+        "ga": "tóstaer",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "leader stroke"
+        ],
+        "ga": "túsbhuille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "autotransductor"
+        ],
+        "ga": "uath-thrasduchtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "auto-transformer"
+        ],
+        "ga": "uath-thrasfhoirmeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "autodyne"
+        ],
+        "ga": "uathdhín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "automatic power down"
+        ],
+        "ga": "uathfhuireachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "auto sectionaliser"
+        ],
+        "ga": "uathrannadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "varactor",
+            "varactor diode"
+        ],
+        "ga": "varachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "varistor"
+        ],
+        "ga": "varastar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wattage"
+        ],
+        "ga": "vatacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "watt meter"
+        ],
+        "ga": "vatamhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "watt second"
+        ],
+        "ga": "vatashoicind",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "watt-hour"
+        ],
+        "ga": "vatuair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "watt-hour meter"
+        ],
+        "ga": "vatuair-mhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "voltammeter"
+        ],
+        "ga": "volt-aimpmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "volt"
+        ],
+        "ga": "volta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "volt-ampere"
+        ],
+        "ga": "voltaimpéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "voltameter"
+        ],
+        "ga": "voltaiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "voltage"
+        ],
+        "ga": "voltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "voltmeter"
+        ],
+        "ga": "voltmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "walkman"
+        ],
+        "ga": "válcaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "calculator",
+            "calculating machine"
+        ],
+        "ga": "áireamhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "passivity"
+        ],
+        "ga": "éighníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "demand"
+        ],
+        "ga": "éileamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "image orthicon"
+        ],
+        "ga": "íomhá-oirtíocón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "low frequency",
+            "LF"
+        ],
+        "ga": "ísealmhinicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "low voltage"
+        ],
+        "ga": "ísealvoltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dimmer"
+        ],
+        "ga": "íslitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "omegatron"
+        ],
+        "ga": "óimigeatrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ohm"
+        ],
+        "ga": "óm",
+        "gender": "masculine"
+    }
+]

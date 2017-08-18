@@ -1,0 +1,750 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "air shaft"
+        ],
+        "ga": "aershloc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "air-way",
+            "airway"
+        ],
+        "ga": "aershlí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "raw material"
+        ],
+        "ga": "amhábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "elevator"
+        ],
+        "ga": "ardaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "platform"
+        ],
+        "ga": "ardán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "azurite"
+        ],
+        "ga": "asairít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "banket"
+        ],
+        "ga": "baincéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wheeler"
+        ],
+        "ga": "baraeir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bio-refinery concept",
+            "bio-refinery"
+        ],
+        "ga": "bithscaglann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flare burner"
+        ],
+        "ga": "bladhmdhóire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "base oil",
+            "basestock",
+            "base stock"
+        ],
+        "ga": "bonn-ola",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "extender"
+        ],
+        "ga": "breiseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "material"
+        ],
+        "ga": "bunábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bank"
+        ],
+        "ga": "béal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bit"
+        ],
+        "ga": "béalmhír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quarry"
+        ],
+        "ga": "cairéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rock drill"
+        ],
+        "ga": "carraigdhruilire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "head frame"
+        ],
+        "ga": "ceannfhráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heading"
+        ],
+        "ga": "ceanntollán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "field"
+        ],
+        "ga": "ceantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "angle drilling",
+            "directional drilling",
+            "deviated drilling",
+            "downhole deviation drilling"
+        ],
+        "ga": "claondruileáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cage"
+        ],
+        "ga": "cliabh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cleat"
+        ],
+        "ga": "cléata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core"
+        ],
+        "ga": "croíleacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "coker",
+            "coker unit"
+        ],
+        "ga": "cóicéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pour point"
+        ],
+        "ga": "doirtphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "waste product"
+        ],
+        "ga": "dramhtháirge",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "slurry"
+        ],
+        "ga": "draoib",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "drift"
+        ],
+        "ga": "driofta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drifter"
+        ],
+        "ga": "drioftaeir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drilling"
+        ],
+        "ga": "druileáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "driller"
+        ],
+        "ga": "druileálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "degasser"
+        ],
+        "ga": "díghásaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jig"
+        ],
+        "ga": "díreog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "prospect"
+        ],
+        "ga": "dóigh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "extract"
+        ],
+        "ga": "eastósc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flexicoking"
+        ],
+        "ga": "fleisc-chócáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flexi-coker",
+            "flexicoker"
+        ],
+        "ga": "fleisc-chóicéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ancillary right"
+        ],
+        "ga": "focheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "void"
+        ],
+        "ga": "folús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cover"
+        ],
+        "ga": "forbhrat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "burden"
+        ],
+        "ga": "forchlúdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "apex"
+        ],
+        "ga": "forfhreagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "catcher"
+        ],
+        "ga": "freastalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "roughneck"
+        ],
+        "ga": "fámaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jet"
+        ],
+        "ga": "gaing",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "steam cracking"
+        ],
+        "ga": "galchraiceáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gelignite"
+        ],
+        "ga": "geilignít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "facet"
+        ],
+        "ga": "grua",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tenor",
+            "grade"
+        ],
+        "ga": "grád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coalfield"
+        ],
+        "ga": "gualcheantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coal mine"
+        ],
+        "ga": "gualmhianach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coalface"
+        ],
+        "ga": "gualéadan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gas-works coke"
+        ],
+        "ga": "gáschóc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hydroprocessing"
+        ],
+        "ga": "hidreaphróiseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "interfuel"
+        ],
+        "ga": "idirbhreosla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "injectability"
+        ],
+        "ga": "in-instealltacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drillability"
+        ],
+        "ga": "indruileálacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deliverability"
+        ],
+        "ga": "inseachadtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spreadground"
+        ],
+        "ga": "ionlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "isobase"
+        ],
+        "ga": "iseabhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lode"
+        ],
+        "ga": "lód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dead ground"
+        ],
+        "ga": "marbhthalamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mine"
+        ],
+        "ga": "mianach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mining"
+        ],
+        "ga": "mianadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ore carrier"
+        ],
+        "ga": "mianárthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pelletisation",
+            "pelletization"
+        ],
+        "ga": "millíniúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oil field",
+            "oilfield"
+        ],
+        "ga": "olacheantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plastering"
+        ],
+        "ga": "plástráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pit"
+        ],
+        "ga": "poll",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hole"
+        ],
+        "ga": "poll",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "run"
+        ],
+        "ga": "rith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "life"
+        ],
+        "ga": "ré",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dirt"
+        ],
+        "ga": "salachar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cracker"
+        ],
+        "ga": "scoilteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prospector"
+        ],
+        "ga": "sirtheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prospecting"
+        ],
+        "ga": "sirtheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cutter"
+        ],
+        "ga": "sleádóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shaft"
+        ],
+        "ga": "sloc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shaft site"
+        ],
+        "ga": "slocláithreán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sump"
+        ],
+        "ga": "sumpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "seam"
+        ],
+        "ga": "síog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "suction head"
+        ],
+        "ga": "súcheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "lime kiln"
+        ],
+        "ga": "tiníl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "smoke point"
+        ],
+        "ga": "toitphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "borer"
+        ],
+        "ga": "tollaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drift mining"
+        ],
+        "ga": "trasmhianadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tripper car"
+        ],
+        "ga": "truipcharr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trichlorofluoropropane"
+        ],
+        "ga": "tríchlórafluaraprópán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "initial dip"
+        ],
+        "ga": "túschlaonas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "xylite"
+        ],
+        "ga": "xilít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "goldfield"
+        ],
+        "ga": "órcheantar",
+        "gender": "masculine"
+    }
+]

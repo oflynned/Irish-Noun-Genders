@@ -1,0 +1,26 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "bun"
+        ],
+        "ga": "cocán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-tanner"
+        ],
+        "ga": "féin-ghriandaiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trichoptilosis"
+        ],
+        "ga": "tríciptiolóis",
+        "gender": "feminine"
+    }
+]

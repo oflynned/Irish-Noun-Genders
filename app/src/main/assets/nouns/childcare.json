@@ -1,0 +1,58 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "baby"
+        ],
+        "ga": "babaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "buggy"
+        ],
+        "ga": "bugaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nanny"
+        ],
+        "ga": "buime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "baby"
+        ],
+        "ga": "bábán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "toddler"
+        ],
+        "ga": "lapadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pushchair"
+        ],
+        "ga": "naíchóiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "potty"
+        ],
+        "ga": "áraisín",
+        "gender": "masculine"
+    }
+]

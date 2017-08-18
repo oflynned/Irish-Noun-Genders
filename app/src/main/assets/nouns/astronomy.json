@@ -1,0 +1,5834 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "A star"
+        ],
+        "ga": "A-réalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Acrux"
+        ],
+        "ga": "Acrux",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Adonis"
+        ],
+        "ga": "Adonis",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Achilles"
+        ],
+        "ga": "Aichill",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Amalthea"
+        ],
+        "ga": "Amalthea",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Amor"
+        ],
+        "ga": "Amor",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Andromeda"
+        ],
+        "ga": "Andraiméide",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Apollo"
+        ],
+        "ga": "Apalló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Atlas"
+        ],
+        "ga": "Atlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "B star"
+        ],
+        "ga": "B-réalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bellatrix"
+        ],
+        "ga": "Bellatrix",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Vulcan"
+        ],
+        "ga": "Bolcán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "C-band"
+        ],
+        "ga": "C-bhanda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cassiopeia"
+        ],
+        "ga": "Caiseoipé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Callisto"
+        ],
+        "ga": "Callisto",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Capella"
+        ],
+        "ga": "Capella",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Charon"
+        ],
+        "ga": "Carón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Castor"
+        ],
+        "ga": "Castór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Cepheid variable star",
+            "Cepheid"
+        ],
+        "ga": "Ceifid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cepheus"
+        ],
+        "ga": "Ceiféas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ceres"
+        ],
+        "ga": "Ceres",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "D-layer"
+        ],
+        "ga": "D-chiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Dubhe"
+        ],
+        "ga": "Dubhe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "E-layer",
+            "Kennelly-Heaviside layer",
+            "E layer"
+        ],
+        "ga": "E-chiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "E-corona"
+        ],
+        "ga": "E-choróin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Eris"
+        ],
+        "ga": "Earas",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hercules"
+        ],
+        "ga": "Earcail",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "F-layer"
+        ],
+        "ga": "F-chiseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "F-corona"
+        ],
+        "ga": "F-choróin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "F star"
+        ],
+        "ga": "F-réalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "G star"
+        ],
+        "ga": "G-réalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ganymede"
+        ],
+        "ga": "Ganaiméide",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hygeia"
+        ],
+        "ga": "Hygeia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Juno"
+        ],
+        "ga": "Iúnó",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Jupiter"
+        ],
+        "ga": "Iúpatar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "K-corona"
+        ],
+        "ga": "K-choróin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "K star"
+        ],
+        "ga": "K-réalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "M star"
+        ],
+        "ga": "M-réalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "M-region"
+        ],
+        "ga": "M-réigiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "Mach number"
+        ],
+        "ga": "Machuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Mars"
+        ],
+        "ga": "Mars",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mercury"
+        ],
+        "ga": "Mearcair",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Wormwood"
+        ],
+        "ga": "Mormónta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "N star"
+        ],
+        "ga": "N-réalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Neptune"
+        ],
+        "ga": "Neiptiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Nereid"
+        ],
+        "ga": "Néiréid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "O-association"
+        ],
+        "ga": "O-ghaolmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "O star"
+        ],
+        "ga": "O-réalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "O-cluster"
+        ],
+        "ga": "O-réaltbhraisle",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Orion"
+        ],
+        "ga": "Oiríon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Pallas"
+        ],
+        "ga": "Pallas",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pegasus",
+            "Flying Horse"
+        ],
+        "ga": "Peigeasas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Pleione"
+        ],
+        "ga": "Pleione",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pluto"
+        ],
+        "ga": "Plútón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Porrima"
+        ],
+        "ga": "Porrima",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "R series"
+        ],
+        "ga": "R-shraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "S star"
+        ],
+        "ga": "S-réalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "S series"
+        ],
+        "ga": "S-sraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Saturn"
+        ],
+        "ga": "Satarn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Spica"
+        ],
+        "ga": "Spica",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "T-association"
+        ],
+        "ga": "T-ghaolmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tellus"
+        ],
+        "ga": "Tellus",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Triton"
+        ],
+        "ga": "Tríotón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Titan"
+        ],
+        "ga": "Tíotán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Thuban",
+            "Alpha Draconis"
+        ],
+        "ga": "Túban",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Urania"
+        ],
+        "ga": "Urania",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Vesta"
+        ],
+        "ga": "Vesta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Venus"
+        ],
+        "ga": "Véineas",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dwarf Cepheid"
+        ],
+        "ga": "abhac-Cheifid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dwarf planet"
+        ],
+        "ga": "abhacphláinéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dwarf star",
+            "dwarf"
+        ],
+        "ga": "abhacréalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dwarf galaxy"
+        ],
+        "ga": "abhacréaltra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "actinometer"
+        ],
+        "ga": "achtanaiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "achondrite"
+        ],
+        "ga": "acoindrít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aerolite"
+        ],
+        "ga": "aerailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aeronomy"
+        ],
+        "ga": "aeranomaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aerospace"
+        ],
+        "ga": "aeraspás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aeropause"
+        ],
+        "ga": "aerastad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "airglow"
+        ],
+        "ga": "aerloinnir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aerial",
+            "antenna"
+        ],
+        "ga": "aeróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aeon",
+            "eon"
+        ],
+        "ga": "aeón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "epoch"
+        ],
+        "ga": "aga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "albedo"
+        ],
+        "ga": "ailbéideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "anomaly"
+        ],
+        "ga": "aimhrialtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "finder"
+        ],
+        "ga": "aimsitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "apse",
+            "apsis"
+        ],
+        "ga": "aipsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "archaeoastronomy"
+        ],
+        "ga": "aircéiréalteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "altitude"
+        ],
+        "ga": "airde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "astigmatism"
+        ],
+        "ga": "aistiogmatacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shift"
+        ],
+        "ga": "aistriúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "alidade"
+        ],
+        "ga": "aladáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "almucantar",
+            "parallel of altitude"
+        ],
+        "ga": "almacantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "almanac"
+        ],
+        "ga": "almanag",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "altazimuth"
+        ],
+        "ga": "altasamat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "time-reckoning"
+        ],
+        "ga": "amchomhaireamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "visual photometry"
+        ],
+        "ga": "amharcfhótaiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "visual magnitude"
+        ],
+        "ga": "amharcmhéid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "analemma"
+        ],
+        "ga": "anaileime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "angstrom",
+            "Angstrom unit"
+        ],
+        "ga": "angstram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chaos"
+        ],
+        "ga": "anord",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ansa"
+        ],
+        "ga": "ansa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "apocynthion"
+        ],
+        "ga": "apaicintian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "apogee"
+        ],
+        "ga": "apaigí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aphelion"
+        ],
+        "ga": "apaihéilean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "apogalacticon"
+        ],
+        "ga": "apairéaltracan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "apocentre",
+            "apofocus"
+        ],
+        "ga": "apalár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "apastron"
+        ],
+        "ga": "apastrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "azimuth"
+        ],
+        "ga": "asamat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oscillation"
+        ],
+        "ga": "ascalúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "asterism"
+        ],
+        "ga": "astaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "asteroid",
+            "minor planet",
+            "planetoid"
+        ],
+        "ga": "astaróideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "emitter"
+        ],
+        "ga": "astaíre",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "astrobleme"
+        ],
+        "ga": "astraibléim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "astrology"
+        ],
+        "ga": "astralaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "astrolabe"
+        ],
+        "ga": "astraláib",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ataxite"
+        ],
+        "ga": "ataicsít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "recombination"
+        ],
+        "ga": "athchuingir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "re-entry"
+        ],
+        "ga": "athiontráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "refractor"
+        ],
+        "ga": "athraonadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "atmosphere"
+        ],
+        "ga": "atmaisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "band spectrum"
+        ],
+        "ga": "bandaspeictream",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "barycentre"
+        ],
+        "ga": "baralár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bar"
+        ],
+        "ga": "barra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "excess"
+        ],
+        "ga": "barraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "small circle"
+        ],
+        "ga": "beagchiorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "biosatellite"
+        ],
+        "ga": "bithshatailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flare star"
+        ],
+        "ga": "bladhmréalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "year"
+        ],
+        "ga": "bliain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pitch"
+        ],
+        "ga": "bocáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bulge"
+        ],
+        "ga": "bolg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cluster"
+        ],
+        "ga": "braisle",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "detector"
+        ],
+        "ga": "brathadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sensor"
+        ],
+        "ga": "brathadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "twilight"
+        ],
+        "ga": "breacsholas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "observer",
+            "spectator",
+            "viewer"
+        ],
+        "ga": "breathnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "igneous rock"
+        ],
+        "ga": "bruthcharraig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "culmination"
+        ],
+        "ga": "buaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "prime meridian",
+            "prime zero meridian",
+            "zero meridian"
+        ],
+        "ga": "bun-fhadlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prime vertical"
+        ],
+        "ga": "bun-ingear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "baseband"
+        ],
+        "ga": "bunbhanda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "basic element"
+        ],
+        "ga": "bundúil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "prime movement"
+        ],
+        "ga": "bunghluaisne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "origin"
+        ],
+        "ga": "bunphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "white corona"
+        ],
+        "ga": "bánchoróin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "spiral galaxy",
+            "spiral nebula",
+            "spiral"
+        ],
+        "ga": "bís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bolide",
+            "fireball"
+        ],
+        "ga": "bóilíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bolometer"
+        ],
+        "ga": "bólaiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "calcium"
+        ],
+        "ga": "cailciam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "calibration"
+        ],
+        "ga": "calabrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cannibalism"
+        ],
+        "ga": "canablacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quantum"
+        ],
+        "ga": "candam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "canal"
+        ],
+        "ga": "canáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carbon"
+        ],
+        "ga": "carbón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cathode"
+        ],
+        "ga": "catóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "quadrature"
+        ],
+        "ga": "cearnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "thruster"
+        ],
+        "ga": "ceartaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "correcting"
+        ],
+        "ga": "ceartúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "correction"
+        ],
+        "ga": "ceartúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "quarter"
+        ],
+        "ga": "ceathrú",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "occultation"
+        ],
+        "ga": "ceilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kiloparsec"
+        ],
+        "ga": "cileaparsoic",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shower meteor"
+        ],
+        "ga": "cithdhreige",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pit"
+        ],
+        "ga": "clais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "oblique ascension"
+        ],
+        "ga": "claonairde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cradle"
+        ],
+        "ga": "cliabhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "collapsar"
+        ],
+        "ga": "cliseár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "relativity"
+        ],
+        "ga": "coibhneasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "comes"
+        ],
+        "ga": "coimhdire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chondrule"
+        ],
+        "ga": "coindriúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chondrite"
+        ],
+        "ga": "coindrít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "corpuscle"
+        ],
+        "ga": "coirpín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colure"
+        ],
+        "ga": "colúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "component"
+        ],
+        "ga": "comhbhall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "structure"
+        ],
+        "ga": "comhdhéanamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "compound"
+        ],
+        "ga": "comhdhúil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "convection"
+        ],
+        "ga": "comhiompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collimator"
+        ],
+        "ga": "comhlínitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comparator"
+        ],
+        "ga": "comparadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "companion"
+        ],
+        "ga": "compánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "track"
+        ],
+        "ga": "conair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "perturbation"
+        ],
+        "ga": "corraíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lune"
+        ],
+        "ga": "corrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "corona"
+        ],
+        "ga": "coróin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coronium"
+        ],
+        "ga": "coróiniam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coronagraph"
+        ],
+        "ga": "corónagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cosmogony"
+        ],
+        "ga": "cosmagnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cosmography"
+        ],
+        "ga": "cosmagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cosmos"
+        ],
+        "ga": "cosmas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cosmology"
+        ],
+        "ga": "cosmeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vibration"
+        ],
+        "ga": "creathadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chronology"
+        ],
+        "ga": "croineolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chronograph"
+        ],
+        "ga": "cronagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chronometer"
+        ],
+        "ga": "cronaiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "core"
+        ],
+        "ga": "croí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "universe"
+        ],
+        "ga": "cruinne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "globe"
+        ],
+        "ga": "cruinneog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "globule"
+        ],
+        "ga": "cruinnín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crater"
+        ],
+        "ga": "cráitéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "craterlet",
+            "craterpit"
+        ],
+        "ga": "cráitéirín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crepe ring",
+            "dusky ring"
+        ],
+        "ga": "créipfháinne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stop",
+            "aperture"
+        ],
+        "ga": "cró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crochet"
+        ],
+        "ga": "cróise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chromosphere"
+        ],
+        "ga": "crómaisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "curvature"
+        ],
+        "ga": "cuaire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "quasi-Cepheid"
+        ],
+        "ga": "cuasai-Cheifid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quasar",
+            "quasistellar object",
+            "quasistellar radio source"
+        ],
+        "ga": "cuasár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vortex"
+        ],
+        "ga": "cuilithe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "configuration"
+        ],
+        "ga": "cumraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cusp"
+        ],
+        "ga": "cuspa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "particle"
+        ],
+        "ga": "cáithnín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coelostat",
+            "heliostat",
+            "siderostat"
+        ],
+        "ga": "céileastat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "phase"
+        ],
+        "ga": "céim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stage"
+        ],
+        "ga": "céim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "comet"
+        ],
+        "ga": "cóiméad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coma"
+        ],
+        "ga": "cóma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conjunction"
+        ],
+        "ga": "cónasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "equinox"
+        ],
+        "ga": "cónocht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "causality",
+            "causation"
+        ],
+        "ga": "cúisíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "back azimuth"
+        ],
+        "ga": "cúl-asamat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "colour temperature"
+        ],
+        "ga": "dath-theocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "colour excess"
+        ],
+        "ga": "dathbharraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "colour equivalent"
+        ],
+        "ga": "dathchoibhéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "colour index",
+            "colour index list"
+        ],
+        "ga": "dathinnéacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "colorimetry"
+        ],
+        "ga": "dathmhéadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "absolute luminosity"
+        ],
+        "ga": "dearbhlonrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "absolute magnitude"
+        ],
+        "ga": "dearbhmhéid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "absolute zero"
+        ],
+        "ga": "dearbhnialas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "absolute temperature"
+        ],
+        "ga": "dearbhtheocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "red glow"
+        ],
+        "ga": "dearglach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "separation"
+        ],
+        "ga": "deighilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deuteron"
+        ],
+        "ga": "deoitéarón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deuterium"
+        ],
+        "ga": "deoitéiriam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dioptre",
+            "radian per metre",
+            "diopter"
+        ],
+        "ga": "dia-optar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "declination"
+        ],
+        "ga": "diallas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "differential"
+        ],
+        "ga": "difreálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wedge photometer"
+        ],
+        "ga": "dingfhótaiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "disc",
+            "disk"
+        ],
+        "ga": "diosca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "compact galaxy"
+        ],
+        "ga": "dlúthréaltra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clepsydra",
+            "water clock"
+        ],
+        "ga": "dobharchlog",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "world"
+        ],
+        "ga": "domhan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "earth"
+        ],
+        "ga": "domhan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "world system"
+        ],
+        "ga": "domhanchóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "terrestrial longitude",
+            "longitude"
+        ],
+        "ga": "domhanfhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "terrestrial latitude",
+            "latitude"
+        ],
+        "ga": "domhanleithead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "earthshine"
+        ],
+        "ga": "domhanloinnir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "world line"
+        ],
+        "ga": "domhanlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "world model"
+        ],
+        "ga": "domhansamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "meteor"
+        ],
+        "ga": "dreige",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "meteor shower"
+        ],
+        "ga": "dreigechith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "meteoroid"
+        ],
+        "ga": "dreigeoideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "meteorite"
+        ],
+        "ga": "dreigít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "right ascension"
+        ],
+        "ga": "dronairde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dew cap"
+        ],
+        "ga": "drúchtchaidhp",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "proper motion"
+        ],
+        "ga": "dualghluaisne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dust"
+        ],
+        "ga": "dusta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "binary star",
+            "physical double star",
+            "binary"
+        ],
+        "ga": "déréalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dichotomy"
+        ],
+        "ga": "déscaradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "demodulator"
+        ],
+        "ga": "dímhodhnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "extinction"
+        ],
+        "ga": "díobhadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "diffraction"
+        ],
+        "ga": "díraonachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "direct motion"
+        ],
+        "ga": "dírghluaisne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "burning"
+        ],
+        "ga": "dó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "black hole"
+        ],
+        "ga": "dúpholl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "array"
+        ],
+        "ga": "eagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spring"
+        ],
+        "ga": "earrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "emulsion"
+        ],
+        "ga": "eibleacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ephemeris"
+        ],
+        "ga": "eifimiris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "epicycle"
+        ],
+        "ga": "eipiciogal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "exoplanet"
+        ],
+        "ga": "eiseapláinéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "exobiology"
+        ],
+        "ga": "eisibhitheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "evection"
+        ],
+        "ga": "eisiompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "exosphere"
+        ],
+        "ga": "eisisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "eucrite"
+        ],
+        "ga": "eoicrít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "f-number"
+        ],
+        "ga": "f-uimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "defect"
+        ],
+        "ga": "fabht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "facula"
+        ],
+        "ga": "facalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "distance"
+        ],
+        "ga": "fad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "longitude"
+        ],
+        "ga": "fad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "meridian"
+        ],
+        "ga": "fadlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "giant",
+            "giant star"
+        ],
+        "ga": "fathach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "filament"
+        ],
+        "ga": "filiméad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "return"
+        ],
+        "ga": "filleadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "discovery",
+            "find",
+            "finding"
+        ],
+        "ga": "fionnachtain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "orbit"
+        ],
+        "ga": "fithis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "orbiter"
+        ],
+        "ga": "fithiseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orbital"
+        ],
+        "ga": "fithiseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flocculus"
+        ],
+        "ga": "flocas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fluorescence"
+        ],
+        "ga": "fluaraiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subdwarf"
+        ],
+        "ga": "fo-abhac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subgiant"
+        ],
+        "ga": "fo-fhathach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "formation"
+        ],
+        "ga": "foirmíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "supergalaxy"
+        ],
+        "ga": "for-réaltra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "zenith"
+        ],
+        "ga": "forar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "regolith"
+        ],
+        "ga": "forscreamh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "superincumbent strata"
+        ],
+        "ga": "forstratam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subspace"
+        ],
+        "ga": "fospás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "substratum"
+        ],
+        "ga": "fostratam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reflector"
+        ],
+        "ga": "frithchaiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reflection"
+        ],
+        "ga": "frithchaitheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "antimatter"
+        ],
+        "ga": "frithdhamhna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "counterglow",
+            "gegenschein"
+        ],
+        "ga": "frithloinnir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "counterweight",
+            "counter-weight"
+        ],
+        "ga": "frithmheáchan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "antapex"
+        ],
+        "ga": "frithrinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prototype"
+        ],
+        "ga": "fréamhshamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "accretion"
+        ],
+        "ga": "fuilleamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ringlet"
+        ],
+        "ga": "fáinneog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "self-luminosity"
+        ],
+        "ga": "féinlonrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "true sidereal time"
+        ],
+        "ga": "fíor-réaltam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "true equinox"
+        ],
+        "ga": "fíorchónocht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "real luminosity"
+        ],
+        "ga": "fíorlonrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "true position"
+        ],
+        "ga": "fíorshuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "video astronomy"
+        ],
+        "ga": "fís-réalteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "focus"
+        ],
+        "ga": "fócas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "autumn"
+        ],
+        "ga": "fómhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "force"
+        ],
+        "ga": "fórsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photography"
+        ],
+        "ga": "fótagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "photometer"
+        ],
+        "ga": "fótaiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photometry"
+        ],
+        "ga": "fótaiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "photosphere"
+        ],
+        "ga": "fótaisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "photon"
+        ],
+        "ga": "fótón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ray"
+        ],
+        "ga": "ga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "radius"
+        ],
+        "ga": "ga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "capture"
+        ],
+        "ga": "gabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "association"
+        ],
+        "ga": "gaolmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "moon"
+        ],
+        "ga": "gealach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lunarization"
+        ],
+        "ga": "gealachadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aurora"
+        ],
+        "ga": "gealán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "winter"
+        ],
+        "ga": "geimhreadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "geocorona"
+        ],
+        "ga": "geochoróin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "geodesy"
+        ],
+        "ga": "geodasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "geoid"
+        ],
+        "ga": "geoid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "brightness"
+        ],
+        "ga": "gile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "generation"
+        ],
+        "ga": "giniúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gimbal"
+        ],
+        "ga": "giombal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "motion"
+        ],
+        "ga": "gluaisne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aspect"
+        ],
+        "ga": "gné",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sun"
+        ],
+        "ga": "grian",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "solar time"
+        ],
+        "ga": "grian-am",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "solar year",
+            "tropical year"
+        ],
+        "ga": "grianbhliain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "solar battery"
+        ],
+        "ga": "griancheallra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solar neighbourhood"
+        ],
+        "ga": "griancheantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "solar corona"
+        ],
+        "ga": "grianchoróin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solar system"
+        ],
+        "ga": "grianchóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "solar wind"
+        ],
+        "ga": "grianghaoth",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "solar activity"
+        ],
+        "ga": "grianghníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "solar instrument"
+        ],
+        "ga": "grianionstraim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "solar radiation"
+        ],
+        "ga": "grianradaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solar spectrum"
+        ],
+        "ga": "grianspeictream",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sunspot"
+        ],
+        "ga": "grianspota",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "solstice"
+        ],
+        "ga": "grianstad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solar constant"
+        ],
+        "ga": "griantairiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gradient",
+            "grad"
+        ],
+        "ga": "grádán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "grain"
+        ],
+        "ga": "gráinne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "granule"
+        ],
+        "ga": "gráinnín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "grating"
+        ],
+        "ga": "gríl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "roll"
+        ],
+        "ga": "guairneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gamma-ray"
+        ],
+        "ga": "gáma-gha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrogen"
+        ],
+        "ga": "hidrigin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hyperbola"
+        ],
+        "ga": "hipearbóil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "heliopause"
+        ],
+        "ga": "héileastad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "heliosheath"
+        ],
+        "ga": "héileathruaill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "helium"
+        ],
+        "ga": "héiliam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heliometer"
+        ],
+        "ga": "héiliméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heliosphere"
+        ],
+        "ga": "héilisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ionosphere"
+        ],
+        "ga": "ianaisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "iron"
+        ],
+        "ga": "iarann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "remnant"
+        ],
+        "ga": "iarsma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interaction"
+        ],
+        "ga": "idirghníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "multiple star"
+        ],
+        "ga": "ilréalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "multiple galaxy"
+        ],
+        "ga": "ilréaltra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "basin"
+        ],
+        "ga": "imchuach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "limb"
+        ],
+        "ga": "imeall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rim"
+        ],
+        "ga": "imeall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vertical circle"
+        ],
+        "ga": "ingearchiorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vertical line"
+        ],
+        "ga": "ingearlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "convergence"
+        ],
+        "ga": "inréimneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "carrier"
+        ],
+        "ga": "iompróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aberration"
+        ],
+        "ga": "iomrall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "invar"
+        ],
+        "ga": "ionbhár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "irradiation"
+        ],
+        "ga": "ionradaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "instrument"
+        ],
+        "ga": "ionstraim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "isochrone"
+        ],
+        "ga": "iseacrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "isophote",
+            "isolux",
+            "isophot"
+        ],
+        "ga": "iseafót",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "isotope"
+        ],
+        "ga": "iseatóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "launcher"
+        ],
+        "ga": "lainseálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "penumbra"
+        ],
+        "ga": "leathscáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hemisphere"
+        ],
+        "ga": "leathsféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "electron stream"
+        ],
+        "ga": "leictreonsruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "electron volt"
+        ],
+        "ga": "leictreonvolta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "latitude"
+        ],
+        "ga": "leithead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ashen light"
+        ],
+        "ga": "liathsholas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lens"
+        ],
+        "ga": "lionsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lithosiderite"
+        ],
+        "ga": "litisidirít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "shimmer"
+        ],
+        "ga": "loinnir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "luminosity"
+        ],
+        "ga": "lonrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "footprint",
+            "foot-print"
+        ],
+        "ga": "lorg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "precession"
+        ],
+        "ga": "luainíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "halo"
+        ],
+        "ga": "luan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "yaw"
+        ],
+        "ga": "luascáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "charge"
+        ],
+        "ga": "lucht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "totality"
+        ],
+        "ga": "lándorchadas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "total mass"
+        ],
+        "ga": "lánmhais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "total magnitude"
+        ],
+        "ga": "lánmhéid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "umbra"
+        ],
+        "ga": "lánscáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "total eclipse"
+        ],
+        "ga": "lánéiclips",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "centrifuge"
+        ],
+        "ga": "lártheifneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seeing"
+        ],
+        "ga": "léargas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "laser"
+        ],
+        "ga": "léasar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "beam width"
+        ],
+        "ga": "léasleithead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "beam area",
+            "footprint",
+            "footprint of a beam"
+        ],
+        "ga": "léaslorg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "horizon"
+        ],
+        "ga": "léaslíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "line spectrum"
+        ],
+        "ga": "línespeictream",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "abundance"
+        ],
+        "ga": "líonmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lobe"
+        ],
+        "ga": "lóba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lunarite"
+        ],
+        "ga": "lúnairít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "magnetogram"
+        ],
+        "ga": "maighnéadagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "magnetohydrodynamics"
+        ],
+        "ga": "maighnéadaihidridinimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "magnetometer"
+        ],
+        "ga": "maighnéadaiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "magnetosphere"
+        ],
+        "ga": "maighnéadaisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "magnetosheath"
+        ],
+        "ga": "maighnéadchumhdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "magnetopause"
+        ],
+        "ga": "maighnéadstad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mass"
+        ],
+        "ga": "mais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "neap tide"
+        ],
+        "ga": "mallmhuir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mascon"
+        ],
+        "ga": "mascan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "methane"
+        ],
+        "ga": "meatán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "megaparsec"
+        ],
+        "ga": "meigeaparsoic",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "metagalaxy"
+        ],
+        "ga": "meiti-réaltra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "meteorology"
+        ],
+        "ga": "meitéareolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mean anomaly"
+        ],
+        "ga": "meán-aimhrialtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mean noon"
+        ],
+        "ga": "meán-nóin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mean parallax"
+        ],
+        "ga": "meán-saobhdhiallas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "equator"
+        ],
+        "ga": "meánchiorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mean equinox"
+        ],
+        "ga": "meánchónocht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mean density"
+        ],
+        "ga": "meándlús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mean distance"
+        ],
+        "ga": "meánfhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mean sun"
+        ],
+        "ga": "meánghrian",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mean solar time"
+        ],
+        "ga": "meánghrian-am",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mean position"
+        ],
+        "ga": "meánsuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "microphotometer"
+        ],
+        "ga": "micreafótaiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "micrometeorite"
+        ],
+        "ga": "micridhreigít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "micrometer"
+        ],
+        "ga": "micriméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "millimicron",
+            "millicron"
+        ],
+        "ga": "millimiocrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "micron"
+        ],
+        "ga": "miocrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "minor axis"
+        ],
+        "ga": "mion-ais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "reticle"
+        ],
+        "ga": "mioneangach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "metallicity"
+        ],
+        "ga": "miotalacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "morphology"
+        ],
+        "ga": "moirfeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hub"
+        ],
+        "ga": "mol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "monochromator"
+        ],
+        "ga": "monacrómatóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mare"
+        ],
+        "ga": "muir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "nautical astronomy"
+        ],
+        "ga": "muir-réalteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lagoon"
+        ],
+        "ga": "murlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "parent star"
+        ],
+        "ga": "máthair-réalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "maser"
+        ],
+        "ga": "méasar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "magnitude"
+        ],
+        "ga": "méid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "major axis"
+        ],
+        "ga": "mór-ais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "great circle"
+        ],
+        "ga": "mórchiorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cataclysm"
+        ],
+        "ga": "mórchorraíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "major planet"
+        ],
+        "ga": "mórphláinéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nadir"
+        ],
+        "ga": "nadair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neutron"
+        ],
+        "ga": "neodrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "neutron star"
+        ],
+        "ga": "neodrónréalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "neutrino"
+        ],
+        "ga": "neoidríonó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nickel"
+        ],
+        "ga": "nicil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "new style",
+            "new-style"
+        ],
+        "ga": "nua-stíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "nebulosity"
+        ],
+        "ga": "néalmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nitrogen"
+        ],
+        "ga": "nítrigin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "node"
+        ],
+        "ga": "nód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "noon"
+        ],
+        "ga": "nóin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gnomon"
+        ],
+        "ga": "nóman",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nova"
+        ],
+        "ga": "nóva",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nucleosynthesis"
+        ],
+        "ga": "núicléisintéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "oblateness"
+        ],
+        "ga": "oblátacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "octahedrite"
+        ],
+        "ga": "ochtaihéidrít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "octant"
+        ],
+        "ga": "ochtamhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "big crunch"
+        ],
+        "ga": "ollbhrúisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "supergiant"
+        ],
+        "ga": "ollfhathach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "supernova"
+        ],
+        "ga": "ollnóva",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "giant planet"
+        ],
+        "ga": "ollphláinéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "big bang"
+        ],
+        "ga": "ollphléasc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "optics"
+        ],
+        "ga": "optaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ordinate"
+        ],
+        "ga": "ordanáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "night"
+        ],
+        "ga": "oíche",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "parabola"
+        ],
+        "ga": "parabóil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "phase"
+        ],
+        "ga": "pas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "phase contrast"
+        ],
+        "ga": "paschodarsnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "phase angle"
+        ],
+        "ga": "pasuillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "periastron"
+        ],
+        "ga": "pearastrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pericynthion",
+            "perilune"
+        ],
+        "ga": "peiricintian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "perigee"
+        ],
+        "ga": "peirigí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "perihelion"
+        ],
+        "ga": "peirihéilean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pore"
+        ],
+        "ga": "piochán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pyrheliometer"
+        ],
+        "ga": "pirihéiliméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plasma"
+        ],
+        "ga": "plasma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plasmasphere"
+        ],
+        "ga": "plasmaisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "planet"
+        ],
+        "ga": "pláinéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "planetarium"
+        ],
+        "ga": "pláinéadlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "planisphere"
+        ],
+        "ga": "plánaisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "plutonite"
+        ],
+        "ga": "plútóinít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pluton"
+        ],
+        "ga": "plútón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plutonism"
+        ],
+        "ga": "plútónachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plutonometamorphism"
+        ],
+        "ga": "plútónaimeiteamorfacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plutonist"
+        ],
+        "ga": "plútónaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pole"
+        ],
+        "ga": "pol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polarization",
+            "polarisation"
+        ],
+        "ga": "polarúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "point source"
+        ],
+        "ga": "poncfhoinse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "positron"
+        ],
+        "ga": "posatrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jiggle-camera"
+        ],
+        "ga": "preabcheamara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "prism"
+        ],
+        "ga": "priosma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cardinal point"
+        ],
+        "ga": "príomhaird",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "main sequence"
+        ],
+        "ga": "príomhsheicheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "protocol"
+        ],
+        "ga": "prótacal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "proto-sun"
+        ],
+        "ga": "prótaighrian",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "protostar"
+        ],
+        "ga": "prótairéalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "protoplanet"
+        ],
+        "ga": "prótapláinéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "proton"
+        ],
+        "ga": "prótón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pulsar"
+        ],
+        "ga": "pulsár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "partial eclipse"
+        ],
+        "ga": "páirtéiclips",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "r-process"
+        ],
+        "ga": "r-phróiseas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spring tide"
+        ],
+        "ga": "rabharta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "radio emitter"
+        ],
+        "ga": "rad-astaíre",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "radio emission"
+        ],
+        "ga": "rad-astúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "radio source"
+        ],
+        "ga": "radafhoinse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "radio window"
+        ],
+        "ga": "radafhuinneog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radio photometry"
+        ],
+        "ga": "radafótaiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radioactivity"
+        ],
+        "ga": "radaighníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "radio sun"
+        ],
+        "ga": "radaighrian",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "radio map"
+        ],
+        "ga": "radailéarscáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radio frequency",
+            "RF"
+        ],
+        "ga": "radaimhinicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "radio star"
+        ],
+        "ga": "radairéalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radio astronomy"
+        ],
+        "ga": "radairéalteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "radio galaxy"
+        ],
+        "ga": "radairéaltra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "radio telescope"
+        ],
+        "ga": "radaiteileascóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "radar"
+        ],
+        "ga": "radar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radargrammetry"
+        ],
+        "ga": "radargraiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "radio storm"
+        ],
+        "ga": "radastoirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "radio wave"
+        ],
+        "ga": "radathonn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "radio noise"
+        ],
+        "ga": "radathorann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "radiant"
+        ],
+        "ga": "radaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "radian"
+        ],
+        "ga": "raidian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "regmaglypt"
+        ],
+        "ga": "reagmaiglipt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "track"
+        ],
+        "ga": "rian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "apex",
+            "vertex"
+        ],
+        "ga": "rinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "planet",
+            "star",
+            "body"
+        ],
+        "ga": "rinn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rockoon"
+        ],
+        "ga": "rocún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "burst",
+            "outburst"
+        ],
+        "ga": "rois",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "burster"
+        ],
+        "ga": "roisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trajectory"
+        ],
+        "ga": "ruthag",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "era"
+        ],
+        "ga": "ré",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "object"
+        ],
+        "ga": "réad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "observatory"
+        ],
+        "ga": "réadlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "object glass",
+            "object lens",
+            "objective",
+            "objective lens"
+        ],
+        "ga": "réadlionsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "astro-altitude"
+        ],
+        "ga": "réalt-airde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stellar time"
+        ],
+        "ga": "réalt-am",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "astrobiology"
+        ],
+        "ga": "réalt-bhitheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "astrobotany"
+        ],
+        "ga": "réalt-luibheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "star gauge"
+        ],
+        "ga": "réalt-tomhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sidereal period"
+        ],
+        "ga": "réalt-tréimhse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "star count"
+        ],
+        "ga": "réalt-áireamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "star"
+        ],
+        "ga": "réalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sidereal time"
+        ],
+        "ga": "réaltam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "star atlas"
+        ],
+        "ga": "réaltatlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sidereal year"
+        ],
+        "ga": "réaltbhliain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cluster",
+            "star cluster",
+            "stellar cluster"
+        ],
+        "ga": "réaltbhraisle",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "constellation"
+        ],
+        "ga": "réaltbhuíon",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "star catalogue"
+        ],
+        "ga": "réaltchatalóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "astrochemistry"
+        ],
+        "ga": "réaltcheimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "population type",
+            "stellar population",
+            "population"
+        ],
+        "ga": "réaltchineál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "star-shower"
+        ],
+        "ga": "réaltchith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "astrocompass"
+        ],
+        "ga": "réaltchompás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "astrodome"
+        ],
+        "ga": "réaltchruinneachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "star colour"
+        ],
+        "ga": "réaltdath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "star density"
+        ],
+        "ga": "réaltdlús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "astronomer"
+        ],
+        "ga": "réalteolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "astronomy"
+        ],
+        "ga": "réalteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "star-distance"
+        ],
+        "ga": "réaltfhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "astrophysics"
+        ],
+        "ga": "réaltfhisic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "astrophotography",
+            "stellar photography"
+        ],
+        "ga": "réaltfhótagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "astrophotometry",
+            "stellar photometry"
+        ],
+        "ga": "réaltfhótaiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "star association",
+            "stellar association"
+        ],
+        "ga": "réaltghaolmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "astrograph"
+        ],
+        "ga": "réaltghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "asterism"
+        ],
+        "ga": "réaltlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "astronomical observation"
+        ],
+        "ga": "réaltléamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "astrometer"
+        ],
+        "ga": "réaltmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "astrometry"
+        ],
+        "ga": "réaltmhéadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nebula"
+        ],
+        "ga": "réaltnéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "galaxy"
+        ],
+        "ga": "réaltra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "star trail"
+        ],
+        "ga": "réaltrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "astro-tracker"
+        ],
+        "ga": "réaltrianaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "star field"
+        ],
+        "ga": "réaltréimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "star cloud"
+        ],
+        "ga": "réaltscamall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "starlight"
+        ],
+        "ga": "réaltsolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "star stream"
+        ],
+        "ga": "réaltsruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "impulse"
+        ],
+        "ga": "ríog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "s-process"
+        ],
+        "ga": "s-phróiseas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "characteristic curve",
+            "characteristic"
+        ],
+        "ga": "sainchuar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "attitude"
+        ],
+        "ga": "sainstiúir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "summer"
+        ],
+        "ga": "samhradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parallax"
+        ],
+        "ga": "saobhdhiallas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "life cycle",
+            "life-cycle"
+        ],
+        "ga": "saolré",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "free fall"
+        ],
+        "ga": "saorthitim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "satellite"
+        ],
+        "ga": "satailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "strewn field"
+        ],
+        "ga": "scaiplimistéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jet"
+        ],
+        "ga": "scaird",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "striding level"
+        ],
+        "ga": "scarleibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "obliquity",
+            "obliquity of the ecliptic"
+        ],
+        "ga": "sceabhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "plage",
+            "flocculus"
+        ],
+        "ga": "scead",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shell star"
+        ],
+        "ga": "sceallréalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shell model"
+        ],
+        "ga": "sceallsamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slit"
+        ],
+        "ga": "scoiltín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ghost"
+        ],
+        "ga": "scáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shadow band"
+        ],
+        "ga": "scáthbhanda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scope"
+        ],
+        "ga": "scóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "week"
+        ],
+        "ga": "seachtain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "old style"
+        ],
+        "ga": "seanstíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "selenography"
+        ],
+        "ga": "seiléineagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "selenology"
+        ],
+        "ga": "seiléineolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "selenelion"
+        ],
+        "ga": "seiléinhéilean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sextant"
+        ],
+        "ga": "seiseamhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seismometer",
+            "seis",
+            "seismic detector"
+        ],
+        "ga": "seismiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spheroid"
+        ],
+        "ga": "sféaróideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "siderophyre"
+        ],
+        "ga": "sidirifír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "silicate"
+        ],
+        "ga": "sileacáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "singularity"
+        ],
+        "ga": "singilteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "slot"
+        ],
+        "ga": "sliotán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "debris"
+        ],
+        "ga": "smionagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "index"
+        ],
+        "ga": "snáthaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "light year",
+            "light-year"
+        ],
+        "ga": "solasbhliain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "light pressure"
+        ],
+        "ga": "solasbhrú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "terminator"
+        ],
+        "ga": "solasteorainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spectrophotometry"
+        ],
+        "ga": "speictreafótaiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spectrograph",
+            "spectroscope"
+        ],
+        "ga": "speictreagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spectrum"
+        ],
+        "ga": "speictream",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spectroheliograph"
+        ],
+        "ga": "speictrihéileagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spectroheliogram"
+        ],
+        "ga": "speictrihéileagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spectrometer"
+        ],
+        "ga": "speictriméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "diaphragm"
+        ],
+        "ga": "spiara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flash spectrum"
+        ],
+        "ga": "splancspeictream",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dispersion"
+        ],
+        "ga": "spré",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "astronaut",
+            "cosmonaut"
+        ],
+        "ga": "spásaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "astronautics"
+        ],
+        "ga": "spásaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "space capsule"
+        ],
+        "ga": "spáschapsúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "space flight"
+        ],
+        "ga": "spáseitilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "space travel"
+        ],
+        "ga": "spástaisteal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "space telescope"
+        ],
+        "ga": "spásteileascóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "speculum"
+        ],
+        "ga": "spéacalam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sky-brightness",
+            "starry light"
+        ],
+        "ga": "spéirghealach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spicule"
+        ],
+        "ga": "spícín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "turbulence"
+        ],
+        "ga": "sruthlam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prominence"
+        ],
+        "ga": "starraiceacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stereo-comparator"
+        ],
+        "ga": "steiréachomparadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "zodiac"
+        ],
+        "ga": "stoidiaca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stratosphere"
+        ],
+        "ga": "strataisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "arc"
+        ],
+        "ga": "stua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "saros"
+        ],
+        "ga": "sáras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "osculation"
+        ],
+        "ga": "sárthadhall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "season"
+        ],
+        "ga": "séasúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sodium"
+        ],
+        "ga": "sóidiam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ocular",
+            "eyepiece",
+            "eye lens",
+            "eye piece",
+            "ocular lens"
+        ],
+        "ga": "súil-lionsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "resolution",
+            "res."
+        ],
+        "ga": "taifeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "probe"
+        ],
+        "ga": "taiscéalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tide"
+        ],
+        "ga": "taoide",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tectonics"
+        ],
+        "ga": "teicteonaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tektite"
+        ],
+        "ga": "teictít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "telescope"
+        ],
+        "ga": "teileascóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "telemetering"
+        ],
+        "ga": "teiliméadráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "opacity"
+        ],
+        "ga": "teimhneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "thermocouple"
+        ],
+        "ga": "teirmeachúpla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "theodolite"
+        ],
+        "ga": "teodailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thickness"
+        ],
+        "ga": "tiús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shuttle"
+        ],
+        "ga": "tointeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "volume"
+        ],
+        "ga": "toirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "measurement"
+        ],
+        "ga": "tomhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wavelength"
+        ],
+        "ga": "tonnfhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transit"
+        ],
+        "ga": "trasdul",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transponder"
+        ],
+        "ga": "trasfhreagróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interferometer"
+        ],
+        "ga": "trasnamhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interference"
+        ],
+        "ga": "trasnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "velocity"
+        ],
+        "ga": "treoluas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aspect"
+        ],
+        "ga": "treoíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tritium"
+        ],
+        "ga": "tritiam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "evening"
+        ],
+        "ga": "tráthnóna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tripod"
+        ],
+        "ga": "tríchosach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "triple star"
+        ],
+        "ga": "tríréalta",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "troposphere"
+        ],
+        "ga": "trópaisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tropopause"
+        ],
+        "ga": "trópastad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "impact"
+        ],
+        "ga": "tuinseamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "horoscope"
+        ],
+        "ga": "tuismeá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "inertia"
+        ],
+        "ga": "táimhe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tower telescope"
+        ],
+        "ga": "túrtheileascóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hour",
+            "h"
+        ],
+        "ga": "uair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hour angle",
+            "hour-angle"
+        ],
+        "ga": "uair-uillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hour circle"
+        ],
+        "ga": "uairchiorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "uplink"
+        ],
+        "ga": "uasnasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "opposition"
+        ],
+        "ga": "urchomhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "opposition"
+        ],
+        "ga": "urchomhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "x-ray"
+        ],
+        "ga": "x-gha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "x-radiation"
+        ],
+        "ga": "x-radaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Autolycus"
+        ],
+        "ga": "Átailíceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Uranus"
+        ],
+        "ga": "Úránas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "evolution"
+        ],
+        "ga": "éabhlóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "instability"
+        ],
+        "ga": "éagobhsaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "eccentricity"
+        ],
+        "ga": "éalárnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "epact"
+        ],
+        "ga": "éapacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ecosphere"
+        ],
+        "ga": "éicisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "eclipse"
+        ],
+        "ga": "éiclips",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ecliptic"
+        ],
+        "ga": "éiclipteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ylem"
+        ],
+        "ga": "éilim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ellipse"
+        ],
+        "ga": "éilips",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rising"
+        ],
+        "ga": "éirí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lift-off"
+        ],
+        "ga": "éirí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sensibility",
+            "sensitivity"
+        ],
+        "ga": "íogaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minimum luminosity"
+        ],
+        "ga": "íoslonrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "minimum value",
+            "minimum"
+        ],
+        "ga": "íosluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "downlink"
+        ],
+        "ga": "íosnasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "depression"
+        ],
+        "ga": "ísleán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ozone"
+        ],
+        "ga": "ózón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "uranography"
+        ],
+        "ga": "úránagrafaíocht",
+        "gender": "feminine"
+    }
+]

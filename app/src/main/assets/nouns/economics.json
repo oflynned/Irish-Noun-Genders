@@ -1,0 +1,243 @@
+[
+    {
+        "declension": 3,
+        "en": [
+            "receipt"
+        ],
+        "ga": "admháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "food sovereignty"
+        ],
+        "ga": "biafhlaitheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "commons"
+        ],
+        "ga": "coimíneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pro-cyclicality"
+        ],
+        "ga": "comhchiogalacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consociationalism"
+        ],
+        "ga": "comhshochaíochtúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "balance",
+            "equilibrium"
+        ],
+        "ga": "cothromaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "merger"
+        ],
+        "ga": "cumasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dual economy"
+        ],
+        "ga": "dégheilleagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "economist"
+        ],
+        "ga": "eacnamaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sector"
+        ],
+        "ga": "earnáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "European sclerosis"
+        ],
+        "ga": "eorascléaróis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "enterprise"
+        ],
+        "ga": "fiontar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "growth"
+        ],
+        "ga": "fás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "holding"
+        ],
+        "ga": "gabháltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spillover"
+        ],
+        "ga": "iarmhairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fragmentation"
+        ],
+        "ga": "ilroinnt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "peripherality"
+        ],
+        "ga": "imeallacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "isoquant"
+        ],
+        "ga": "iseacant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mini-budget"
+        ],
+        "ga": "mionbhuiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gross margin"
+        ],
+        "ga": "ollchorrlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "quasi-rent"
+        ],
+        "ga": "quasi-chíos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "e-economy"
+        ],
+        "ga": "ríomhgheilleagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "over-run"
+        ],
+        "ga": "róchaiteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "externality"
+        ],
+        "ga": "seachtracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leakage"
+        ],
+        "ga": "sileadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "target sector"
+        ],
+        "ga": "sprioc-earnáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "impact"
+        ],
+        "ga": "tionchar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "commerciality"
+        ],
+        "ga": "tráchtálacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "indicator"
+        ],
+        "ga": "táscaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "autogiro"
+        ],
+        "ga": "átagíoró",
+        "gender": "masculine"
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "softwood",
+            "soft-wood",
+            "soft wood"
+        ],
+        "ga": "bogadhmad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deadfall"
+        ],
+        "ga": "brosna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basal sweep",
+            "basal bowing"
+        ],
+        "ga": "bunchor",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clinometer"
+        ],
+        "ga": "claonmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "arboriculture"
+        ],
+        "ga": "crannadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "timberline",
+            "forest line"
+        ],
+        "ga": "crannteorainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cupule"
+        ],
+        "ga": "cupúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dendrometry"
+        ],
+        "ga": "deindriméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ash"
+        ],
+        "ga": "fuinseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tree plantation",
+            "plantation"
+        ],
+        "ga": "fáschoill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "coppice forest",
+            "sprout forest",
+            "coppice stand"
+        ],
+        "ga": "fáschoill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "log"
+        ],
+        "ga": "lomán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "logging"
+        ],
+        "ga": "lománaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pine"
+        ],
+        "ga": "péine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "spinney",
+            "spinny",
+            "copse",
+            "coppice"
+        ],
+        "ga": "roschoill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bar"
+        ],
+        "ga": "tairseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lime"
+        ],
+        "ga": "teile",
+        "gender": "feminine"
+    }
+]

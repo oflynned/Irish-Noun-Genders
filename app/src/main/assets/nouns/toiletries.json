@@ -1,0 +1,275 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "foundation"
+        ],
+        "ga": "bonnsmideadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lipstick"
+        ],
+        "ga": "béaldath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wipe"
+        ],
+        "ga": "ciarsúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "skin food"
+        ],
+        "ga": "craiceannbhia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "perfume"
+        ],
+        "ga": "cumhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fragrance"
+        ],
+        "ga": "cumhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aromatics"
+        ],
+        "ga": "cumhránaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bronzer"
+        ],
+        "ga": "donnaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deodorant"
+        ],
+        "ga": "díbholaíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conditioner"
+        ],
+        "ga": "feabhsaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-tanner"
+        ],
+        "ga": "féin-ghriandaiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "soap"
+        ],
+        "ga": "gallúnach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cleanser"
+        ],
+        "ga": "glantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sun screen",
+            "sunscreen"
+        ],
+        "ga": "griansciath",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lotion"
+        ],
+        "ga": "ionlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "depilatory"
+        ],
+        "ga": "loimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "shimmer"
+        ],
+        "ga": "loinnir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brilliantine"
+        ],
+        "ga": "lonrachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blusher"
+        ],
+        "ga": "luisneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "moisturiser"
+        ],
+        "ga": "maothóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mascara"
+        ],
+        "ga": "mascára",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "postiche"
+        ],
+        "ga": "poistís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "primer"
+        ],
+        "ga": "prímeálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "razor"
+        ],
+        "ga": "rásúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rose water"
+        ],
+        "ga": "rósuisce",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "beautician"
+        ],
+        "ga": "sciamheolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "beauty salon"
+        ],
+        "ga": "sciamhlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "beauty parlour"
+        ],
+        "ga": "sciamhlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "beauty"
+        ],
+        "ga": "scéimh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shampoo"
+        ],
+        "ga": "seampú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "make-up"
+        ],
+        "ga": "smideadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sponge"
+        ],
+        "ga": "spúinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "toning"
+        ],
+        "ga": "tonadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cream"
+        ],
+        "ga": "uachtar",
+        "gender": "masculine"
+    }
+]

@@ -1,0 +1,566 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "unicycle"
+        ],
+        "ga": "aonrothach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "balloon"
+        ],
+        "ga": "balún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "animatronics"
+        ],
+        "ga": "beochantrónaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "animatron"
+        ],
+        "ga": "beochatrón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "breakdance"
+        ],
+        "ga": "brisdamhsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "break-dancing",
+            "break dancing",
+            "breakdancing",
+            "break dance"
+        ],
+        "ga": "brisdamhsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "breaker",
+            "break dancer",
+            "break-dancer"
+        ],
+        "ga": "brisdamhsóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "beatboxing"
+        ],
+        "ga": "buillebhoscadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "busking"
+        ],
+        "ga": "buscáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "busker"
+        ],
+        "ga": "buscálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "barker"
+        ],
+        "ga": "callaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caricature"
+        ],
+        "ga": "caracatúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carnival"
+        ],
+        "ga": "carnabhal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mummer"
+        ],
+        "ga": "cleamaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "strawboy"
+        ],
+        "ga": "cleamaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mumming",
+            "play-acting",
+            "playacting"
+        ],
+        "ga": "cleamaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "compressor"
+        ],
+        "ga": "comhbhrúiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "troupe"
+        ],
+        "ga": "compántas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "foot-juggler"
+        ],
+        "ga": "coschleasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "costume"
+        ],
+        "ga": "culaith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "communicator"
+        ],
+        "ga": "cumarsáidí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dancer"
+        ],
+        "ga": "damhsóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "conjurer",
+            "conjuror"
+        ],
+        "ga": "draíchleasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conjuring"
+        ],
+        "ga": "draíchleasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "magician"
+        ],
+        "ga": "draíodóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "magic"
+        ],
+        "ga": "draíodóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tulle"
+        ],
+        "ga": "fialsíoda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "float"
+        ],
+        "ga": "flóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crew"
+        ],
+        "ga": "foireann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "side-show"
+        ],
+        "ga": "fothaispeántas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "contortionist"
+        ],
+        "ga": "freangálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fortune-telling"
+        ],
+        "ga": "fáistineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gymnastics"
+        ],
+        "ga": "gleacaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pageant"
+        ],
+        "ga": "glóir-réim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "provocateur"
+        ],
+        "ga": "gríosóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hulahoop",
+            "hula hoop"
+        ],
+        "ga": "húlahúp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "infiltrator",
+            "mingler"
+        ],
+        "ga": "imeascthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inflatable"
+        ],
+        "ga": "inséidteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tumble"
+        ],
+        "ga": "iomlasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "juggler"
+        ],
+        "ga": "lámhchleasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "juggling"
+        ],
+        "ga": "lámhchleasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "pitch"
+        ],
+        "ga": "láthair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "steward"
+        ],
+        "ga": "maor",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mask"
+        ],
+        "ga": "masc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "marionette"
+        ],
+        "ga": "máireoigín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "procession"
+        ],
+        "ga": "mórshiúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pageantry"
+        ],
+        "ga": "mórthaibhseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "giant puppet"
+        ],
+        "ga": "ollphuipéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "parade"
+        ],
+        "ga": "paráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pyrotechnics"
+        ],
+        "ga": "piriteicnic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "puppet"
+        ],
+        "ga": "puipéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "puppeteer"
+        ],
+        "ga": "puipéadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "puppetry"
+        ],
+        "ga": "puipéadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "puppeteering"
+        ],
+        "ga": "puipéadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rocket"
+        ],
+        "ga": "roicéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "piece"
+        ],
+        "ga": "saothar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shadow puppet"
+        ],
+        "ga": "scáthphuipéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rod puppet"
+        ],
+        "ga": "slatphuipéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spray gun",
+            "spray-gun"
+        ],
+        "ga": "spraeghunna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "animator"
+        ],
+        "ga": "spreagthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "performance art"
+        ],
+        "ga": "taibhealaín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "projection"
+        ],
+        "ga": "teilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "walkabout"
+        ],
+        "ga": "timshiúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flashmob",
+            "flash mob"
+        ],
+        "ga": "tobshlua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flash mobbing"
+        ],
+        "ga": "tobshlógadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flash mobber"
+        ],
+        "ga": "tobshlógadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "heckling"
+        ],
+        "ga": "trasnáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "heckler"
+        ],
+        "ga": "trasnálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "escapology"
+        ],
+        "ga": "éalaitheoireacht",
+        "gender": "feminine"
+    }
+]

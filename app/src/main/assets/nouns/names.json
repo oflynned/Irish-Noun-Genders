@@ -1,0 +1,925 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "Abraham"
+        ],
+        "ga": "Abrahám",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Abram"
+        ],
+        "ga": "Abrám",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Andrew"
+        ],
+        "ga": "Aindrias",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Alexander"
+        ],
+        "ga": "Alastar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Alphaeus"
+        ],
+        "ga": "Alfáias",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Ambrose"
+        ],
+        "ga": "Ambrós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Amram"
+        ],
+        "ga": "Amrám",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Antipas"
+        ],
+        "ga": "Antapas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Apollos"
+        ],
+        "ga": "Apallós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Aristobulus"
+        ],
+        "ga": "Arastabúlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Arphaxad"
+        ],
+        "ga": "Arfacsad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bathsheba"
+        ],
+        "ga": "Baitseaba",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Balaam"
+        ],
+        "ga": "Balám",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Barabbas"
+        ],
+        "ga": "Barabas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Barnabas"
+        ],
+        "ga": "Barnabas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Benedict"
+        ],
+        "ga": "Beinidict",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Benjamin"
+        ],
+        "ga": "Beircheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bildad"
+        ],
+        "ga": "Bildead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Benjamin"
+        ],
+        "ga": "Biniáimin",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Bridget"
+        ],
+        "ga": "Bríd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Brighid"
+        ],
+        "ga": "Bríd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Brutus"
+        ],
+        "ga": "Brútas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bethzatha",
+            "Beth-zatha"
+        ],
+        "ga": "Béatzata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Caesar"
+        ],
+        "ga": "Caesar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Calvin"
+        ],
+        "ga": "Cailvín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Kieran"
+        ],
+        "ga": "Ciarán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Killian"
+        ],
+        "ga": "Cillian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Clive"
+        ],
+        "ga": "Cladhbh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Claudia"
+        ],
+        "ga": "Cláidia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Nicky"
+        ],
+        "ga": "Clás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Clement"
+        ],
+        "ga": "Cléimeans",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Kohath"
+        ],
+        "ga": "Cohát",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cornelius"
+        ],
+        "ga": "Conchúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Caiaphas"
+        ],
+        "ga": "Cáiafas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cain"
+        ],
+        "ga": "Cáin",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Cephas"
+        ],
+        "ga": "Céafas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Qoheleth"
+        ],
+        "ga": "Cóiheilit",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Damian"
+        ],
+        "ga": "Daimian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Jeremiah"
+        ],
+        "ga": "Diarmaid",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Jerome"
+        ],
+        "ga": "Diarmaid",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "David"
+        ],
+        "ga": "Dáibhí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Darius"
+        ],
+        "ga": "Dáire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Dan"
+        ],
+        "ga": "Dán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Daniel"
+        ],
+        "ga": "Dónall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ephraim"
+        ],
+        "ga": "Eafráím",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Elkanah"
+        ],
+        "ga": "Ealcáná",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Emmaus"
+        ],
+        "ga": "Eamáús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Epaphroditus"
+        ],
+        "ga": "Eapafraidíteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Eleazar"
+        ],
+        "ga": "Eileázár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Eliakim"
+        ],
+        "ga": "Eiliáicím",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Eliphaz"
+        ],
+        "ga": "Eilífeaz",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Enoch"
+        ],
+        "ga": "Eineoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Epaphras"
+        ],
+        "ga": "Eipeafras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Esther"
+        ],
+        "ga": "Eistir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "John"
+        ],
+        "ga": "Eoin",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Finian"
+        ],
+        "ga": "Finnian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Festus"
+        ],
+        "ga": "Féastas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Felix"
+        ],
+        "ga": "Féilim",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Felix"
+        ],
+        "ga": "Féilix",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gabriel"
+        ],
+        "ga": "Gaibriéil",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gallio"
+        ],
+        "ga": "Gaillíón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gideon"
+        ],
+        "ga": "Gidéón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Deborah"
+        ],
+        "ga": "Gobnait",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Gavin"
+        ],
+        "ga": "Gábhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gaius"
+        ],
+        "ga": "Gáias",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gomer"
+        ],
+        "ga": "Gómar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Gomer"
+        ],
+        "ga": "Gómar",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Habakkuk"
+        ],
+        "ga": "Habacúc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hafsa"
+        ],
+        "ga": "Hafsa",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Haggai"
+        ],
+        "ga": "Hagaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hannah"
+        ],
+        "ga": "Hanná",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hezekiah"
+        ],
+        "ga": "Hiziciá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hagar"
+        ],
+        "ga": "Hágár",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Haman"
+        ],
+        "ga": "Hámán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Haran"
+        ],
+        "ga": "Hárán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Herod"
+        ],
+        "ga": "Héaród",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Heliodorus"
+        ],
+        "ga": "Héileadóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hosea"
+        ],
+        "ga": "Hóisé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Jacob"
+        ],
+        "ga": "Iacób",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Jerome",
+            "Hieronymus"
+        ],
+        "ga": "Iaróm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Emmanuel"
+        ],
+        "ga": "Imeánúéil",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Job"
+        ],
+        "ga": "Iób",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Josiah"
+        ],
+        "ga": "Ióisíá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Jonah"
+        ],
+        "ga": "Ióna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Joshua"
+        ],
+        "ga": "Iósua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Jotham"
+        ],
+        "ga": "Iótám",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Joel"
+        ],
+        "ga": "Ióéil",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Jude"
+        ],
+        "ga": "Iúd",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Judah"
+        ],
+        "ga": "Iúdá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Judith"
+        ],
+        "ga": "Iúidit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Lazarus"
+        ],
+        "ga": "Lazaras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Levi"
+        ],
+        "ga": "Léiví",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mencius"
+        ],
+        "ga": "Meincias",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Nicky"
+        ],
+        "ga": "Nicilín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Olivia"
+        ],
+        "ga": "Oilbhe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bartholomew"
+        ],
+        "ga": "Parthalán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Justin"
+        ],
+        "ga": "Saorbhreathach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Jonathan"
+        ],
+        "ga": "Seanchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Georgina"
+        ],
+        "ga": "Seoirsín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "John"
+        ],
+        "ga": "Seán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Joan"
+        ],
+        "ga": "Siobhán",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "June"
+        ],
+        "ga": "Siún",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Stephaton",
+            "Stephen"
+        ],
+        "ga": "Stiofán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "James"
+        ],
+        "ga": "Séamas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Judith"
+        ],
+        "ga": "Síle",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ahaz"
+        ],
+        "ga": "Ácház",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Adam"
+        ],
+        "ga": "Ádhamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Amos"
+        ],
+        "ga": "Ámós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Amoz"
+        ],
+        "ga": "Ámóz",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Aaron"
+        ],
+        "ga": "Árón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Asaph"
+        ],
+        "ga": "Ásáf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Eve"
+        ],
+        "ga": "Éabha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Isaac"
+        ],
+        "ga": "Íosác",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Isaiah"
+        ],
+        "ga": "Íseáia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ishmael"
+        ],
+        "ga": "Ísmeáéil",
+        "gender": "masculine"
+    }
+]

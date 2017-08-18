@@ -1,0 +1,555 @@
+[
+    {
+        "declension": 5,
+        "en": [
+            "river"
+        ],
+        "ga": "abhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "river system"
+        ],
+        "ga": "abhainnchóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "river basin",
+            "river-basin"
+        ],
+        "ga": "abhantrach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sheetflood"
+        ],
+        "ga": "brat-tuile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "concordance"
+        ],
+        "ga": "comhréireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "thaw"
+        ],
+        "ga": "coscairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "water year"
+        ],
+        "ga": "dobharbhliain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "catchment area"
+        ],
+        "ga": "dobharcheantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "water body",
+            "body of water"
+        ],
+        "ga": "dobharlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "diffluence"
+        ],
+        "ga": "díchumar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "waterfall"
+        ],
+        "ga": "eas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "freshwater",
+            "fresh water"
+        ],
+        "ga": "fionnuisce",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rapid"
+        ],
+        "ga": "fánsruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "geohydrology"
+        ],
+        "ga": "geoihidreolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "swinging"
+        ],
+        "ga": "gluaiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "whirlpool"
+        ],
+        "ga": "guairneán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hyetograph"
+        ],
+        "ga": "hiaiteagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydrocarbon"
+        ],
+        "ga": "hidreacarbón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrocastorite"
+        ],
+        "ga": "hidreacastairít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrodolomite"
+        ],
+        "ga": "hidreadolaimít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydrophane"
+        ],
+        "ga": "hidreafán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydrophone"
+        ],
+        "ga": "hidreafón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydrograph"
+        ],
+        "ga": "hidreagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrogoethite"
+        ],
+        "ga": "hidreagóitít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrohematite"
+        ],
+        "ga": "hidreahaemaitít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrohalite"
+        ],
+        "ga": "hidreahailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrolysate",
+            "hydrolyzate"
+        ],
+        "ga": "hidrealasáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydromagnetite"
+        ],
+        "ga": "hidreamaighnéidít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydromagnesite"
+        ],
+        "ga": "hidreamaignéisít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrotachylyte"
+        ],
+        "ga": "hidreatacailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrotalcite"
+        ],
+        "ga": "hidreatailcít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hydrology"
+        ],
+        "ga": "hidreolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrobiotite"
+        ],
+        "ga": "hidribitít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrodynamics"
+        ],
+        "ga": "hidridinimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrophyte",
+            "hygrophyte"
+        ],
+        "ga": "hidrifít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrogeochemistry"
+        ],
+        "ga": "hidrigeoiceimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hydrogeology"
+        ],
+        "ga": "hidrigeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrohetaerolite"
+        ],
+        "ga": "hidriheataerailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydrometer"
+        ],
+        "ga": "hidriméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hydrometry"
+        ],
+        "ga": "hidriméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hydromica"
+        ],
+        "ga": "hidrimíoca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydropore"
+        ],
+        "ga": "hidriphiochán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydrotitanite"
+        ],
+        "ga": "hidritíotáinít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydroxyl-annite"
+        ],
+        "ga": "hiodrocsalainnít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hydroxylapatite"
+        ],
+        "ga": "hiodrocsalapaitít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "water meadow"
+        ],
+        "ga": "inse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "confluent"
+        ],
+        "ga": "leathabhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "limnology"
+        ],
+        "ga": "linneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "avulsion"
+        ],
+        "ga": "lúbfhuadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "water table",
+            "water-table"
+        ],
+        "ga": "maoschlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nekton"
+        ],
+        "ga": "neicteon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeohydrology"
+        ],
+        "ga": "pailéihidreolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "riffle"
+        ],
+        "ga": "roc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "riffle"
+        ],
+        "ga": "scarbhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "waterspout"
+        ],
+        "ga": "sconna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stream"
+        ],
+        "ga": "sruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stream channel"
+        ],
+        "ga": "sruthchainéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "drainage"
+        ],
+        "ga": "sruthchóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "watercourse"
+        ],
+        "ga": "sruthchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rill"
+        ],
+        "ga": "sruthlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "runnel"
+        ],
+        "ga": "srutháinín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flash"
+        ],
+        "ga": "toblinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "wave front",
+            "wavefront",
+            "front"
+        ],
+        "ga": "tonnbhráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ripple mark",
+            "ripple-mark"
+        ],
+        "ga": "tonnroc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flood"
+        ],
+        "ga": "tuile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "turgite"
+        ],
+        "ga": "tuirgít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "waterway"
+        ],
+        "ga": "uiscebhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "water level"
+        ],
+        "ga": "uisceleibhéal",
+        "gender": "masculine"
+    }
+]

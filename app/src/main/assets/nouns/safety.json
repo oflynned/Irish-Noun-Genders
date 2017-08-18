@@ -1,0 +1,661 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "End"
+        ],
+        "ga": "Críoch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "L-Plate"
+        ],
+        "ga": "L-Phláta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "junction"
+        ],
+        "ga": "acomhal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "air rescue"
+        ],
+        "ga": "aertharrtháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "attention"
+        ],
+        "ga": "aire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "backdraft"
+        ],
+        "ga": "ais-siorradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "approach"
+        ],
+        "ga": "ascnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "resuscitation"
+        ],
+        "ga": "athbheochan",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "buoy"
+        ],
+        "ga": "baoi",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "danger"
+        ],
+        "ga": "baol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "biosecurity"
+        ],
+        "ga": "bithshlándáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crest"
+        ],
+        "ga": "buaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bolide",
+            "fireball"
+        ],
+        "ga": "bóilíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "head restraint"
+        ],
+        "ga": "ceannbhac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kilometre",
+            "km",
+            "kilometer"
+        ],
+        "ga": "ciliméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ear protection"
+        ],
+        "ga": "cluaschosaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pedestrian"
+        ],
+        "ga": "coisí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "roundabout"
+        ],
+        "ga": "compal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "danger"
+        ],
+        "ga": "contúirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "safeguard"
+        ],
+        "ga": "cosaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "footpath",
+            "pedestrian footpath"
+        ],
+        "ga": "cosán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "safeguarding"
+        ],
+        "ga": "cumhdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rear window"
+        ],
+        "ga": "cúlfhuinneog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reserve supply"
+        ],
+        "ga": "cúlsoláthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fire-back"
+        ],
+        "ga": "cúlteallach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "foam"
+        ],
+        "ga": "cúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "good judgement"
+        ],
+        "ga": "dea-bhreithiúnas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tailgating"
+        ],
+        "ga": "dranntiomáint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "poor visibility"
+        ],
+        "ga": "drochléargas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subject"
+        ],
+        "ga": "duine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fire-resistance"
+        ],
+        "ga": "dó-obacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fire"
+        ],
+        "ga": "dóiteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fire point"
+        ],
+        "ga": "dóphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wildfire"
+        ],
+        "ga": "falscaí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "first aid",
+            "first-aid"
+        ],
+        "ga": "garchabhair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "first-aider"
+        ],
+        "ga": "garchabhróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "call-out list"
+        ],
+        "ga": "glaoliosta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "unsuspecting swimmer"
+        ],
+        "ga": "gnáthshnámhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "grab rail",
+            "grabrail"
+        ],
+        "ga": "greimráille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hazard"
+        ],
+        "ga": "guais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hazardous area"
+        ],
+        "ga": "guaislimistéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gas"
+        ],
+        "ga": "gás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gas mask"
+        ],
+        "ga": "gásmhasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carry"
+        ],
+        "ga": "iompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lay-by",
+            "layby"
+        ],
+        "ga": "leataobh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "speed limit"
+        ],
+        "ga": "luasteorainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "accelerant"
+        ],
+        "ga": "luathaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hand protection"
+        ],
+        "ga": "lámhchosaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "giddiness"
+        ],
+        "ga": "meadhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fumes",
+            "fume"
+        ],
+        "ga": "múch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "non-swimmer"
+        ],
+        "ga": "neamhshnámhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "warning"
+        ],
+        "ga": "rabhadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ramp"
+        ],
+        "ga": "rampa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pedal cyclist"
+        ],
+        "ga": "rothaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wheelspin"
+        ],
+        "ga": "rothlam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "over-revving"
+        ],
+        "ga": "ró-reibheáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sampled portion"
+        ],
+        "ga": "sampla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "slip road"
+        ],
+        "ga": "sliosbhóthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "crowd event"
+        ],
+        "ga": "slua-imeacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "security"
+        ],
+        "ga": "slándáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fire range"
+        ],
+        "ga": "sorn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "restraint"
+        ],
+        "ga": "srian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "eye protection"
+        ],
+        "ga": "súilchosaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "accident"
+        ],
+        "ga": "taisme",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rescue"
+        ],
+        "ga": "tarrtháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "life saving",
+            "life-saving",
+            "lifesaving"
+        ],
+        "ga": "tarrtháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "life-saver"
+        ],
+        "ga": "tarrthálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rescuer"
+        ],
+        "ga": "tarrthálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hot cell"
+        ],
+        "ga": "teo-chill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fire"
+        ],
+        "ga": "tine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fireplace"
+        ],
+        "ga": "tinteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fire barrier"
+        ],
+        "ga": "toitbhacainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "firebreak"
+        ],
+        "ga": "toitbhearna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crossing"
+        ],
+        "ga": "trasbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cross wind"
+        ],
+        "ga": "trasghaoth",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flashover"
+        ],
+        "ga": "trasplanc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guide system"
+        ],
+        "ga": "treoirchóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guidebook",
+            "guide"
+        ],
+        "ga": "treoirleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crash"
+        ],
+        "ga": "tuairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "emergency"
+        ],
+        "ga": "éigeandáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minimum width"
+        ],
+        "ga": "íosleithead",
+        "gender": "masculine"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "Sellotape",
+            "Scotch tape"
+        ],
+        "ga": "Seilitéip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "glassine"
+        ],
+        "ga": "bréagphár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kaolin",
+            "china clay"
+        ],
+        "ga": "caoilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kraft paper"
+        ],
+        "ga": "craftpháipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "photocopier"
+        ],
+        "ga": "fótachóipeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "photograph"
+        ],
+        "ga": "fótagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stationery"
+        ],
+        "ga": "stáiseanóireacht",
+        "gender": "feminine"
+    }
+]

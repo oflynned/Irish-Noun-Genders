@@ -1,0 +1,162 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "throw"
+        ],
+        "ga": "bratóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "undercoat"
+        ],
+        "ga": "fochóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "adhesive"
+        ],
+        "ga": "greamachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "extender"
+        ],
+        "ga": "leatóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "filler"
+        ],
+        "ga": "líonach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bonder"
+        ],
+        "ga": "nascálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plaster"
+        ],
+        "ga": "plástar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "primer"
+        ],
+        "ga": "prímeálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "putty"
+        ],
+        "ga": "puití",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "paint"
+        ],
+        "ga": "péint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paint stripper"
+        ],
+        "ga": "péintdíobhach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "speciality paint"
+        ],
+        "ga": "sainphéint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shelving"
+        ],
+        "ga": "seilfre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "streamer"
+        ],
+        "ga": "sraoilleán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sealant"
+        ],
+        "ga": "séaltán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paste"
+        ],
+        "ga": "taos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paste table"
+        ],
+        "ga": "taosbhord",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "turpentine"
+        ],
+        "ga": "tuirpintín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tile"
+        ],
+        "ga": "tíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gold size"
+        ],
+        "ga": "órbhián",
+        "gender": "masculine"
+    }
+]

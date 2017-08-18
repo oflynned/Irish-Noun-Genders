@@ -1,0 +1,50 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "amino plastic"
+        ],
+        "ga": "aimíneaphlaisteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bioplastic"
+        ],
+        "ga": "bithphlaisteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mastication"
+        ],
+        "ga": "maisteogaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flexibilizer"
+        ],
+        "ga": "plaisteachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "polycarbonate"
+        ],
+        "ga": "polacarbónáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dough"
+        ],
+        "ga": "taos",
+        "gender": "masculine"
+    }
+]

@@ -1,0 +1,687 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "acrylic",
+            "acrylics"
+        ],
+        "ga": "aicrileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "acrylics"
+        ],
+        "ga": "aicrilic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "raw material"
+        ],
+        "ga": "amhábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aramid"
+        ],
+        "ga": "araimíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tow"
+        ],
+        "ga": "barrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bar tacker"
+        ],
+        "ga": "barrachreimneálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brocade"
+        ],
+        "ga": "broicéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "nap"
+        ],
+        "ga": "bruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rug beater"
+        ],
+        "ga": "buailteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "permanent press"
+        ],
+        "ga": "buanphreasáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cotton"
+        ],
+        "ga": "cadás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "carpet"
+        ],
+        "ga": "cairpéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pile"
+        ],
+        "ga": "caitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kapok"
+        ],
+        "ga": "capac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "calico"
+        ],
+        "ga": "ceaileacó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "binding"
+        ],
+        "ga": "ceangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chlorofibre"
+        ],
+        "ga": "clórashnáithín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pilling"
+        ],
+        "ga": "clúmhach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seersucker"
+        ],
+        "ga": "cnapéadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "coir"
+        ],
+        "ga": "coighir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cupro"
+        ],
+        "ga": "copró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "twill"
+        ],
+        "ga": "corrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "drape"
+        ],
+        "ga": "cuirtín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rib"
+        ],
+        "ga": "cuisle",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "upholstering"
+        ],
+        "ga": "cumhdaitheoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "corsetry"
+        ],
+        "ga": "cóirséadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "decitex"
+        ],
+        "ga": "deiciteics",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "denim"
+        ],
+        "ga": "deinim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "selvedge"
+        ],
+        "ga": "dlúthchiumhais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bobbin"
+        ],
+        "ga": "eiteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flannelette"
+        ],
+        "ga": "flainíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fluorofibre"
+        ],
+        "ga": "fluarashnáithín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "foulard"
+        ],
+        "ga": "fúlard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "terry towelling"
+        ],
+        "ga": "gibíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "woad plant"
+        ],
+        "ga": "glaisin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "grosgrain"
+        ],
+        "ga": "grosgrain",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "passementerie"
+        ],
+        "ga": "gréas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gingham"
+        ],
+        "ga": "guingeám",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guipure"
+        ],
+        "ga": "gíopúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "henequen"
+        ],
+        "ga": "heinicéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flammability"
+        ],
+        "ga": "inadhainteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elastomultiester"
+        ],
+        "ga": "leaist-ileistear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "elastodiene"
+        ],
+        "ga": "leaistidhé-éin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "elastolefin"
+        ],
+        "ga": "leastolaifín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lyocell"
+        ],
+        "ga": "lióicill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "handweaving"
+        ],
+        "ga": "lámhfhíodóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "linen"
+        ],
+        "ga": "línéadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "linen"
+        ],
+        "ga": "líon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lurex"
+        ],
+        "ga": "lúiréacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "(3,4-dihydroxyphenyl)-(2,4,6-trihydroxyphenyl)methanone",
+            "maclurin"
+        ],
+        "ga": "maclúirin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "madder plant"
+        ],
+        "ga": "madar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maguey"
+        ],
+        "ga": "magua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "durability"
+        ],
+        "ga": "marthanacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "matting"
+        ],
+        "ga": "matra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "line"
+        ],
+        "ga": "mionchaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mule spinning"
+        ],
+        "ga": "miúilsníomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "modacrylic"
+        ],
+        "ga": "modaicrileach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "novel fibre"
+        ],
+        "ga": "nua-shnáithín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polyester"
+        ],
+        "ga": "poileistear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lawn"
+        ],
+        "ga": "péirlín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "raschel"
+        ],
+        "ga": "raiséal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ramie"
+        ],
+        "ga": "ráimí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sunn"
+        ],
+        "ga": "sann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "serge"
+        ],
+        "ga": "saraiste",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scrim"
+        ],
+        "ga": "scrim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "skein"
+        ],
+        "ga": "scáinne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chamois"
+        ],
+        "ga": "seamaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sail-cloth",
+            "sailcloth",
+            "sail cloth"
+        ],
+        "ga": "seoléadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sisal"
+        ],
+        "ga": "siseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slub"
+        ],
+        "ga": "sluba",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spinning"
+        ],
+        "ga": "sníomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spinning",
+            "weaving"
+        ],
+        "ga": "sníomhachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spinneret"
+        ],
+        "ga": "sníomhadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shive"
+        ],
+        "ga": "spliota",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ply"
+        ],
+        "ga": "sraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "suede"
+        ],
+        "ga": "svaeid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tex"
+        ],
+        "ga": "teics",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dressing"
+        ],
+        "ga": "treiscín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trivinyl"
+        ],
+        "ga": "trívinil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "texture"
+        ],
+        "ga": "uigeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "velveteen"
+        ],
+        "ga": "veilbhitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vicuna"
+        ],
+        "ga": "viciúine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vinylal"
+        ],
+        "ga": "viniolal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cloth"
+        ],
+        "ga": "éadach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "draper"
+        ],
+        "ga": "éadaitheoir",
+        "gender": "masculine"
+    }
+]

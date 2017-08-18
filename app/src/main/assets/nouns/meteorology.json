@@ -1,0 +1,794 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "extreme weather"
+        ],
+        "ga": "adhaimsir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aerography"
+        ],
+        "ga": "aeragrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aerosphere"
+        ],
+        "ga": "aeraisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "air circulation"
+        ],
+        "ga": "aerchúrsaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aerology"
+        ],
+        "ga": "aereolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "air mass"
+        ],
+        "ga": "aermhais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "airflow"
+        ],
+        "ga": "aershreabh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "atmospherics"
+        ],
+        "ga": "aerthormán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "agrometeorologist"
+        ],
+        "ga": "agraimeitéareolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "agrometeorology"
+        ],
+        "ga": "agraimeitéareolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anemograph"
+        ],
+        "ga": "ainéimeagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anemogram"
+        ],
+        "ga": "ainéimeagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "altocumulus"
+        ],
+        "ga": "altacumalas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "altostratus"
+        ],
+        "ga": "altastratas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aneroid",
+            "aneroid barometer"
+        ],
+        "ga": "anaróideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aneroidograph"
+        ],
+        "ga": "anaróideagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "high"
+        ],
+        "ga": "ard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "blocking"
+        ],
+        "ga": "bacainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bar"
+        ],
+        "ga": "bar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "barogram"
+        ],
+        "ga": "baragram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "barothermograph"
+        ],
+        "ga": "baraiteirmeagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bulb"
+        ],
+        "ga": "bolgán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "twilight"
+        ],
+        "ga": "breacsholas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eye"
+        ],
+        "ga": "béal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bora"
+        ],
+        "ga": "bóra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "calms"
+        ],
+        "ga": "calm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "whirlwind"
+        ],
+        "ga": "camfheothan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "drizzle"
+        ],
+        "ga": "ceobhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cirrocumulus"
+        ],
+        "ga": "ciorracumalas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cirrus"
+        ],
+        "ga": "ciorras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cirrostratus"
+        ],
+        "ga": "ciorrastratas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shower"
+        ],
+        "ga": "cith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hail"
+        ],
+        "ga": "cloichshneachta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contour",
+            "contour line"
+        ],
+        "ga": "comhrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cumulonimbus"
+        ],
+        "ga": "cumalainimbeas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cumulus"
+        ],
+        "ga": "cumalas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "confluence"
+        ],
+        "ga": "cumaracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cone sheet"
+        ],
+        "ga": "cónleathán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "absolute humidity"
+        ],
+        "ga": "dearbh-bhogthaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "auster"
+        ],
+        "ga": "deisceart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dew"
+        ],
+        "ga": "drúcht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dew-point",
+            "dew point"
+        ],
+        "ga": "drúchtphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "downpour"
+        ],
+        "ga": "duartan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "divergence",
+            "divergency"
+        ],
+        "ga": "eisréimneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "visibility"
+        ],
+        "ga": "feicseanacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sleet"
+        ],
+        "ga": "flichshneachta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rainfall"
+        ],
+        "ga": "fliuchras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "precipitation"
+        ],
+        "ga": "frasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "front"
+        ],
+        "ga": "fronta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "steam fog"
+        ],
+        "ga": "galcheo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wind"
+        ],
+        "ga": "gaoth",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wind rose"
+        ],
+        "ga": "gaothrós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "thalweg",
+            "valley line"
+        ],
+        "ga": "gleannlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hygrodeik"
+        ],
+        "ga": "higridíc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hypsometer"
+        ],
+        "ga": "hipsiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "continentality"
+        ],
+        "ga": "ilchríochacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anvil cloud"
+        ],
+        "ga": "inneoinscamall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "isobar"
+        ],
+        "ga": "iseabar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "isallobar"
+        ],
+        "ga": "iseallabar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "isostasy"
+        ],
+        "ga": "iseastatacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "isocheim"
+        ],
+        "ga": "isicím",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "isohyet"
+        ],
+        "ga": "isihiait",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "isoline"
+        ],
+        "ga": "isilíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "isopleth"
+        ],
+        "ga": "isipleit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "low",
+            "depression"
+        ],
+        "ga": "lagrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "breeze"
+        ],
+        "ga": "leoithne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "visibility"
+        ],
+        "ga": "léargas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dawning"
+        ],
+        "ga": "maidneachan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "frequency"
+        ],
+        "ga": "minicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nephoscope"
+        ],
+        "ga": "neifeascóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cloud"
+        ],
+        "ga": "néal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cloud form"
+        ],
+        "ga": "néalchruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cloud formation"
+        ],
+        "ga": "néalchruthaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cloud system"
+        ],
+        "ga": "néalchóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cloudscape"
+        ],
+        "ga": "néaldreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cloud searchlight",
+            "ceiling projector"
+        ],
+        "ga": "néalteilgeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "okta"
+        ],
+        "ga": "ochta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ice calorimeter"
+        ],
+        "ga": "oighearchalraiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ice line"
+        ],
+        "ga": "oighearlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "glacio-meteorology"
+        ],
+        "ga": "oighearmheitéareolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ice point"
+        ],
+        "ga": "oighearphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "exposure"
+        ],
+        "ga": "oscailteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "track"
+        ],
+        "ga": "rian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "burster"
+        ],
+        "ga": "rábghaoth",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "forecast",
+            "forecasting"
+        ],
+        "ga": "réamhaisnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "specific humidity"
+        ],
+        "ga": "sain-bhogthaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scatterometer"
+        ],
+        "ga": "scaipmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cloudiness"
+        ],
+        "ga": "scamallacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "draught"
+        ],
+        "ga": "siorradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "snow"
+        ],
+        "ga": "sneachta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "storm"
+        ],
+        "ga": "stoirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "streak lightning"
+        ],
+        "ga": "stríocthintreach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "streak"
+        ],
+        "ga": "stríocán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hygrograph"
+        ],
+        "ga": "taisghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hygrometer"
+        ],
+        "ga": "taismhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hygrometry"
+        ],
+        "ga": "taismhéadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lightning"
+        ],
+        "ga": "tintreach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dryness"
+        ],
+        "ga": "tirimeacht",
+        "gender": "feminine"
+    }
+]

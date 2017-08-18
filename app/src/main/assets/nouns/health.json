@@ -1,0 +1,1314 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "Quitline"
+        ],
+        "ga": "Stoplíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "etiopathy"
+        ],
+        "ga": "aeiteapaite",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "allergenicity"
+        ],
+        "ga": "ailléirgineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intemperance"
+        ],
+        "ga": "ainmheasarthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "anaemia"
+        ],
+        "ga": "ainéime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "attribute",
+            "quality",
+            "characteristic"
+        ],
+        "ga": "aitreabúid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alloheteroploid"
+        ],
+        "ga": "allaiheitreaplóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "distress"
+        ],
+        "ga": "anacair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anorectic",
+            "anorexiant"
+        ],
+        "ga": "anoireicteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "antiserum"
+        ],
+        "ga": "antaiséiream",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "anthracycline"
+        ],
+        "ga": "antraiciglín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "senescence"
+        ],
+        "ga": "aosúchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "babassu"
+        ],
+        "ga": "babasú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "biostructure"
+        ],
+        "ga": "bithstruchtúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "blinking"
+        ],
+        "ga": "bobáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "appraisal"
+        ],
+        "ga": "breithmheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ailment"
+        ],
+        "ga": "breoiteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "effluvium"
+        ],
+        "ga": "bréansreabh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mortality"
+        ],
+        "ga": "básmhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "carbapenem"
+        ],
+        "ga": "carbaipeineim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cellulite"
+        ],
+        "ga": "ceallailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fog"
+        ],
+        "ga": "ceo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "left-handedness",
+            "left handedness"
+        ],
+        "ga": "ciotaí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "left-handed person"
+        ],
+        "ga": "ciotóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cystoscopy"
+        ],
+        "ga": "cisteascópacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cystinosis"
+        ],
+        "ga": "cistíonóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "family"
+        ],
+        "ga": "clann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stone",
+            "st."
+        ],
+        "ga": "cloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "audiometry"
+        ],
+        "ga": "closmhéadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "claudication"
+        ],
+        "ga": "cládachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "(+)-(S)-methyl 2-(2-chlorophenyl)-2-(6,7-dihydrothieno[3,2-c]pyridin-5(4H)-yl)acetate",
+            "clopidogrel"
+        ],
+        "ga": "clóipiodagral",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collective immunity"
+        ],
+        "ga": "comh-imdhíonacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "consultation"
+        ],
+        "ga": "comhairle",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "consciousness"
+        ],
+        "ga": "comhfhios",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "family"
+        ],
+        "ga": "comhluadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "combination therapy"
+        ],
+        "ga": "comhtheiripe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cretinism"
+        ],
+        "ga": "creitineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "recreation",
+            "leisure pursuit"
+        ],
+        "ga": "croíléis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aromatherapy"
+        ],
+        "ga": "cumhartheiripe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "casemix",
+            "case mix"
+        ],
+        "ga": "cásmheascán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "case officer"
+        ],
+        "ga": "cásoifigeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cytarabine"
+        ],
+        "ga": "cíotaraibín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aetiology",
+            "etiology"
+        ],
+        "ga": "cúiseolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deuteranopia"
+        ],
+        "ga": "deotranóipe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deuteranope"
+        ],
+        "ga": "deotranóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "discretion"
+        ],
+        "ga": "discréid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dyslipidaemia"
+        ],
+        "ga": "dislipidéime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "(2Z,4S,4aR,5S,5aR,6R,12aS)-2-[amino(hydroxy)methylidene]-4-(dimethylamino)-5,10,11,12a-tetrahydroxy-6-methyl-4a,5,5a,6-tetrahydro-4H-tetracene-1,3,12-trione",
+            "doxycycline"
+        ],
+        "ga": "docsaiciglín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "drain"
+        ],
+        "ga": "draein",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ill-health",
+            "ill health"
+        ],
+        "ga": "drochshláinte",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "eclampsia"
+        ],
+        "ga": "eaclaimsia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "embolism"
+        ],
+        "ga": "eambólacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "embolus"
+        ],
+        "ga": "eambólas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "extroversion"
+        ],
+        "ga": "eisdíritheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "effluent"
+        ],
+        "ga": "eisilteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "relief"
+        ],
+        "ga": "faoilte",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "respite"
+        ],
+        "ga": "faoiseamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fibromyalgia"
+        ],
+        "ga": "fibrimiailge",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "balneotherapy"
+        ],
+        "ga": "folctheiripe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wellbeing",
+            "well-being"
+        ],
+        "ga": "folláine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wellness"
+        ],
+        "ga": "folláine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "application"
+        ],
+        "ga": "forchur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sub-specialist"
+        ],
+        "ga": "fospeisialtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contraceptive"
+        ],
+        "ga": "frithghiniúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "self harm"
+        ],
+        "ga": "féindochar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "galactosaemia",
+            "galactosemia"
+        ],
+        "ga": "galachtóiséime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sebum"
+        ],
+        "ga": "geir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cupping"
+        ],
+        "ga": "gibneoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "appetite"
+        ],
+        "ga": "goile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "adhesion"
+        ],
+        "ga": "greamán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sun screen",
+            "sunscreen"
+        ],
+        "ga": "griansciath",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grader"
+        ],
+        "ga": "grádóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grazing"
+        ],
+        "ga": "gráinseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hazard"
+        ],
+        "ga": "guais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "acute urology"
+        ],
+        "ga": "géarúireolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gynaeoncology"
+        ],
+        "ga": "gínea-oinceolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gynaeurology"
+        ],
+        "ga": "gínea-úireolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hepatopathology"
+        ],
+        "ga": "heipiteapaiteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hypochondriasis"
+        ],
+        "ga": "hipeacoindriáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hyperkalaemia"
+        ],
+        "ga": "hipearcailéime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hypnotherapist"
+        ],
+        "ga": "hipniteiripeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "application"
+        ],
+        "ga": "iarratas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inter-relation"
+        ],
+        "ga": "idirghaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "immunity"
+        ],
+        "ga": "imdhíonacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "entheogen"
+        ],
+        "ga": "indiaigin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "introversion"
+        ],
+        "ga": "indíritheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "behaviourism"
+        ],
+        "ga": "iomprachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "endarterectomy"
+        ],
+        "ga": "ionartaireachtóime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "empathy"
+        ],
+        "ga": "ionbhá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "infectivity"
+        ],
+        "ga": "ionfhabhtaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lotion"
+        ],
+        "ga": "ionlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "intake"
+        ],
+        "ga": "ithe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "yoga"
+        ],
+        "ga": "ióga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lacuna"
+        ],
+        "ga": "lacún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "electrophysiology"
+        ],
+        "ga": "leictrifiseolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "remedy"
+        ],
+        "ga": "leigheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "liposuction"
+        ],
+        "ga": "lipeasúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mammogram"
+        ],
+        "ga": "mamagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "manometry"
+        ],
+        "ga": "manaiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mastoiditis"
+        ],
+        "ga": "mastóidíteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "giddiness"
+        ],
+        "ga": "meadhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deterioration"
+        ],
+        "ga": "meath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "micro-organism"
+        ],
+        "ga": "miocrorgánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "minor operation"
+        ],
+        "ga": "mionobráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "myositis"
+        ],
+        "ga": "mióisíteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "maternity"
+        ],
+        "ga": "máithreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "disability"
+        ],
+        "ga": "míchumas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "major operation"
+        ],
+        "ga": "mór-obráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nephrosis"
+        ],
+        "ga": "neafróis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "non-susceptibility"
+        ],
+        "ga": "neamh-soghabháltacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "impurity"
+        ],
+        "ga": "neamhghlaine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nephrotomy"
+        ],
+        "ga": "neifreatóime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "nicotinism"
+        ],
+        "ga": "nicitíneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "naturopathy"
+        ],
+        "ga": "nádúrapaite",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "neuroblastoma"
+        ],
+        "ga": "néarablastóma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neuro-intensive care"
+        ],
+        "ga": "néarai-dhianchúram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neurodegeneration"
+        ],
+        "ga": "néaraimheathlúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "neurosurgery",
+            "neuro-surgery"
+        ],
+        "ga": "néaramháinliacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "neuroradiology"
+        ],
+        "ga": "néararaideolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lavage"
+        ],
+        "ga": "níochán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hunger"
+        ],
+        "ga": "ocras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "penem"
+        ],
+        "ga": "peineim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pyrexia"
+        ],
+        "ga": "piréicse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "protanopia"
+        ],
+        "ga": "prótanóipe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "protanope"
+        ],
+        "ga": "prótanóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "partial disability"
+        ],
+        "ga": "páirt-mhíchumas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radioscopy"
+        ],
+        "ga": "radascópacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prebiotic"
+        ],
+        "ga": "réamhbhitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pre-eclampsia"
+        ],
+        "ga": "réamheaclaimsia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rhodopsin"
+        ],
+        "ga": "ródoipsin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trait"
+        ],
+        "ga": "saintréith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "idiosyncrasy"
+        ],
+        "ga": "saintréithiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "screener"
+        ],
+        "ga": "scagthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "exfoliator",
+            "exfoliant "
+        ],
+        "ga": "scamhóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hallucination"
+        ],
+        "ga": "siabhránacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sigmoid"
+        ],
+        "ga": "siogmóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hygienist"
+        ],
+        "ga": "sláinteolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sanity"
+        ],
+        "ga": "slánchiall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "complexion"
+        ],
+        "ga": "snua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sophrology"
+        ],
+        "ga": "sofreolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dependence"
+        ],
+        "ga": "spleáchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "interest"
+        ],
+        "ga": "spéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "attitude"
+        ],
+        "ga": "staidiúir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "couch potato"
+        ],
+        "ga": "sámhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "satisfaction"
+        ],
+        "ga": "sásamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "psychometry"
+        ],
+        "ga": "síciméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chain-smoker"
+        ],
+        "ga": "síorchaiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "abstinence"
+        ],
+        "ga": "tréanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trichoptilosis"
+        ],
+        "ga": "tríciptiolóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tritanopia"
+        ],
+        "ga": "tríotanóipe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tritanope"
+        ],
+        "ga": "tríotanóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "coagulase"
+        ],
+        "ga": "téachtáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "probe"
+        ],
+        "ga": "tóireadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vancomycin"
+        ],
+        "ga": "vancaimícin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "veganism"
+        ],
+        "ga": "veigeánachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vaping"
+        ],
+        "ga": "vápáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "occupancy"
+        ],
+        "ga": "áitíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "defective"
+        ],
+        "ga": "éalangach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "oesphagectomy"
+        ],
+        "ga": "éasafaigeachtóime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "auscultation"
+        ],
+        "ga": "éisteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "adolescent"
+        ],
+        "ga": "ógánach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "adolescence"
+        ],
+        "ga": "ógántacht",
+        "gender": "feminine"
+    }
+]

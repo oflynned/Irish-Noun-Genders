@@ -1,0 +1,5693 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Mass"
+        ],
+        "ga": "Aifreann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Ard-Fheis"
+        ],
+        "ga": "Ard-Fheis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "B-Picture"
+        ],
+        "ga": "B-scannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Bible"
+        ],
+        "ga": "Bíobla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ceannaire"
+        ],
+        "ga": "Ceannaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ceannasaí"
+        ],
+        "ga": "Ceannasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Creole"
+        ],
+        "ga": "Criól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "T-stop"
+        ],
+        "ga": "T-stop",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "V-chip"
+        ],
+        "ga": "V-shlis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "X-certificate"
+        ],
+        "ga": "X-theastas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "summing up",
+            "roundup"
+        ],
+        "ga": "achoimre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "summary"
+        ],
+        "ga": "achoimre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "resource"
+        ],
+        "ga": "acmhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aerial",
+            "antenna"
+        ],
+        "ga": "aeróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interview"
+        ],
+        "ga": "agallamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "interviewee"
+        ],
+        "ga": "agallaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interviewer"
+        ],
+        "ga": "agallóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tag"
+        ],
+        "ga": "aguisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "action"
+        ],
+        "ga": "aicsean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aliasing"
+        ],
+        "ga": "ailiasáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "volume"
+        ],
+        "ga": "airde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pitch"
+        ],
+        "ga": "airde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "attention"
+        ],
+        "ga": "aire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "article"
+        ],
+        "ga": "airteagal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "feedback"
+        ],
+        "ga": "aisfhotha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "howl-around"
+        ],
+        "ga": "aisghlam",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "automated dialogue recording",
+            "ADR"
+        ],
+        "ga": "aisghuthú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dialogue replacement"
+        ],
+        "ga": "aisghuthú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inverter"
+        ],
+        "ga": "aisiompóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ident"
+        ],
+        "ga": "aitheantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alpha channel"
+        ],
+        "ga": "alfachainéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cross-talk",
+            "crosstalk"
+        ],
+        "ga": "allagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "view"
+        ],
+        "ga": "amharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "visual"
+        ],
+        "ga": "amharcíomhá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "song"
+        ],
+        "ga": "amhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "analyst"
+        ],
+        "ga": "anailísí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guest"
+        ],
+        "ga": "aoi",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "arc lamp"
+        ],
+        "ga": "arclampa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "director general",
+            "DG"
+        ],
+        "ga": "ard-stiúrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "high def",
+            "high definition"
+        ],
+        "ga": "ardghléine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "high profile"
+        ],
+        "ga": "ardíomhá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "output"
+        ],
+        "ga": "aschur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "re-farming"
+        ],
+        "ga": "athfheirmeoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "action replay",
+            "replay"
+        ],
+        "ga": "athfhéachaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "replay"
+        ],
+        "ga": "athsheinm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "atmos"
+        ],
+        "ga": "atmas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "absorption filter"
+        ],
+        "ga": "bac-scagaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gooseneck"
+        ],
+        "ga": "bachall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spoiler"
+        ],
+        "ga": "bacóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "manager"
+        ],
+        "ga": "bainisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "waterbag"
+        ],
+        "ga": "ballasta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "claptrap"
+        ],
+        "ga": "baothchaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "masthead",
+            "mast-head"
+        ],
+        "ga": "barrtheideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "animation"
+        ],
+        "ga": "beochan",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "animatronics"
+        ],
+        "ga": "beochantrónaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "animator"
+        ],
+        "ga": "beochantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "next upper"
+        ],
+        "ga": "blaisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "promo",
+            "promo clip",
+            "promotional announcement",
+            "trailer"
+        ],
+        "ga": "blaisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "blocking"
+        ],
+        "ga": "blocáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bloomed lens"
+        ],
+        "ga": "bláslionsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bleep"
+        ],
+        "ga": "blíp",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cheat shot"
+        ],
+        "ga": "bobseat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bulb"
+        ],
+        "ga": "bolgán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "booth"
+        ],
+        "ga": "both",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plagiarism"
+        ],
+        "ga": "bradaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bribery"
+        ],
+        "ga": "breabaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chequebook journalism"
+        ],
+        "ga": "breabiriseoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "observer",
+            "spectator",
+            "viewer"
+        ],
+        "ga": "breathnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "footlight"
+        ],
+        "ga": "bruachsholas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "disinformation"
+        ],
+        "ga": "bréagaisnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fake news"
+        ],
+        "ga": "bréagnuacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "important moment"
+        ],
+        "ga": "buaicphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "climax"
+        ],
+        "ga": "buaicphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "highlight"
+        ],
+        "ga": "buaicphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "budget"
+        ],
+        "ga": "buiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bumper"
+        ],
+        "ga": "bumpar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "basic editing"
+        ],
+        "ga": "bun-eagarthóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "issue"
+        ],
+        "ga": "buncheist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "original script"
+        ],
+        "ga": "bunscript",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basic equipment"
+        ],
+        "ga": "buntrealamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lipstick"
+        ],
+        "ga": "béaldath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pip"
+        ],
+        "ga": "bíog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "boom"
+        ],
+        "ga": "búm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "buzz"
+        ],
+        "ga": "bús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "corruption"
+        ],
+        "ga": "caimiléireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "speaker"
+        ],
+        "ga": "cainteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chart"
+        ],
+        "ga": "cairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flickering"
+        ],
+        "ga": "caochaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flicker"
+        ],
+        "ga": "caochaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caricature"
+        ],
+        "ga": "caracatúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "archive"
+        ],
+        "ga": "cartlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cartoon"
+        ],
+        "ga": "cartún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cart"
+        ],
+        "ga": "cartús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "camera"
+        ],
+        "ga": "ceamara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "camerawoman"
+        ],
+        "ga": "ceamaradóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cameraman",
+            "camera operator",
+            "camera person"
+        ],
+        "ga": "ceamaradóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "camcorder"
+        ],
+        "ga": "ceamthaifeadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acquisition"
+        ],
+        "ga": "ceannachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "controller"
+        ],
+        "ga": "ceannaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "headline"
+        ],
+        "ga": "ceannlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "carpenter"
+        ],
+        "ga": "cearpantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "disc jockey",
+            "disk jockey"
+        ],
+        "ga": "ceirneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "record",
+            "disc",
+            "disk"
+        ],
+        "ga": "ceirnín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "questionnaire"
+        ],
+        "ga": "ceistneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jingle"
+        ],
+        "ga": "ceoilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "musician",
+            "performer",
+            "player"
+        ],
+        "ga": "ceoltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shotgun microphone"
+        ],
+        "ga": "cian-mhicreafón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "remote diagnostics"
+        ],
+        "ga": "ciandiagnóisic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "remote source"
+        ],
+        "ga": "cianfhoinse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cyberspace"
+        ],
+        "ga": "cibearspás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cybernetics"
+        ],
+        "ga": "cibirnitic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cinematographer"
+        ],
+        "ga": "cineamatagrafaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "film camera"
+        ],
+        "ga": "cinecheamara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "determinism"
+        ],
+        "ga": "cinnteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dominance"
+        ],
+        "ga": "cinseal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "circuit"
+        ],
+        "ga": "ciorcad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cue"
+        ],
+        "ga": "ciú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cueing"
+        ],
+        "ga": "ciúáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clapperboard",
+            "slate",
+            "clapboard",
+            "slate board"
+        ],
+        "ga": "clabaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "close-down",
+            "closing"
+        ],
+        "ga": "clabhsúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deviant"
+        ],
+        "ga": "claonaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deviance"
+        ],
+        "ga": "claonaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spin doctor"
+        ],
+        "ga": "claonbholscaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "negative"
+        ],
+        "ga": "claonchló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "canted shot"
+        ],
+        "ga": "claonseat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tilt shot"
+        ],
+        "ga": "claonseat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dry run"
+        ],
+        "ga": "cleachtadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rehearsal"
+        ],
+        "ga": "cleachtadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "acrobat"
+        ],
+        "ga": "cleasghleacaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clientelism"
+        ],
+        "ga": "cliantachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cast"
+        ],
+        "ga": "cliar",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tag question"
+        ],
+        "ga": "clibcheist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "click"
+        ],
+        "ga": "clic",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clock"
+        ],
+        "ga": "clog",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "audial filter"
+        ],
+        "ga": "clos-scagaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "audio console"
+        ],
+        "ga": "closchonsól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hearsay"
+        ],
+        "ga": "clostrácht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "earpiece"
+        ],
+        "ga": "cluaisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "match",
+            "game"
+        ],
+        "ga": "cluiche",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "program",
+            "programme"
+        ],
+        "ga": "clár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clone"
+        ],
+        "ga": "clón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "typewriter"
+        ],
+        "ga": "clóscríobhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fame"
+        ],
+        "ga": "clú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contrast",
+            "contrariety",
+            "opposition"
+        ],
+        "ga": "codarsnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alien",
+            "stranger",
+            "outsider"
+        ],
+        "ga": "coimhthíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "convergence"
+        ],
+        "ga": "coinbhéirseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wet-plate process",
+            "collodion"
+        ],
+        "ga": "collóidian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "file"
+        ],
+        "ga": "comhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "adviser",
+            "advisor"
+        ],
+        "ga": "comhairleoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consensus"
+        ],
+        "ga": "comhdhearcadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "correspondent"
+        ],
+        "ga": "comhfhreagraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "barn-door"
+        ],
+        "ga": "comhla",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shutter"
+        ],
+        "ga": "comhla",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "coproducer"
+        ],
+        "ga": "comhléiritheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "coordinator",
+            "co-ordinator"
+        ],
+        "ga": "comhordaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "consistency"
+        ],
+        "ga": "comhsheasmhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "consent"
+        ],
+        "ga": "comhthoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "composite"
+        ],
+        "ga": "comhábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interface"
+        ],
+        "ga": "comhéadan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "commonality"
+        ],
+        "ga": "comóntacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contract"
+        ],
+        "ga": "conradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "console"
+        ],
+        "ga": "consól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "breathing"
+        ],
+        "ga": "corraíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spot effects"
+        ],
+        "ga": "corrmhaisíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "costing"
+        ],
+        "ga": "costáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "maintenance"
+        ],
+        "ga": "cothabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mast"
+        ],
+        "ga": "crann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "broadcasting",
+            "broadcast"
+        ],
+        "ga": "craolachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "broadcaster"
+        ],
+        "ga": "craoltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "broadcasting"
+        ],
+        "ga": "craoltóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grid"
+        ],
+        "ga": "creat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cryptography"
+        ],
+        "ga": "cripteagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crew"
+        ],
+        "ga": "criú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "moustache"
+        ],
+        "ga": "croiméal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crosshead"
+        ],
+        "ga": "crosteideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hub"
+        ],
+        "ga": "croí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crawl",
+            "ticker"
+        ],
+        "ga": "crál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stop",
+            "aperture"
+        ],
+        "ga": "cró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chroma keying"
+        ],
+        "ga": "crómaicíáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bug"
+        ],
+        "ga": "cuil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "costume"
+        ],
+        "ga": "culaith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "composer",
+            "maker",
+            "inventor"
+        ],
+        "ga": "cumadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "accounting"
+        ],
+        "ga": "cuntasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "accountancy"
+        ],
+        "ga": "cuntasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "accountant"
+        ],
+        "ga": "cuntasóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cable person"
+        ],
+        "ga": "cáblóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "quality"
+        ],
+        "ga": "cáilíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "tax"
+        ],
+        "ga": "cáin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "budget"
+        ],
+        "ga": "cáinaisnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "critic"
+        ],
+        "ga": "cáinteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dimmer"
+        ],
+        "ga": "céimnitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fader"
+        ],
+        "ga": "céimnitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "coder"
+        ],
+        "ga": "códóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "copy"
+        ],
+        "ga": "cóip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "copyright"
+        ],
+        "ga": "cóipcheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "choir"
+        ],
+        "ga": "cór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stake-out"
+        ],
+        "ga": "cúlchoimhéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ambient advertising"
+        ],
+        "ga": "cúlfhógraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "backtrack"
+        ],
+        "ga": "cúlrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "back light"
+        ],
+        "ga": "cúlsolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "backup"
+        ],
+        "ga": "cúltaca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "assistant"
+        ],
+        "ga": "cúntóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cursor"
+        ],
+        "ga": "cúrsóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dolly"
+        ],
+        "ga": "dalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "good news"
+        ],
+        "ga": "dea-scéala",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "designer"
+        ],
+        "ga": "dearthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "desk"
+        ],
+        "ga": "deasc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "smoke"
+        ],
+        "ga": "deatach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "diagnostics"
+        ],
+        "ga": "diagnóisic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dial"
+        ],
+        "ga": "diail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dialogue"
+        ],
+        "ga": "dialóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "digitizing"
+        ],
+        "ga": "digiteáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ducking"
+        ],
+        "ga": "diocáil",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "discourse"
+        ],
+        "ga": "dioscúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "diskette"
+        ],
+        "ga": "discéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "royalty"
+        ],
+        "ga": "dleacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "invisibility"
+        ],
+        "ga": "dofheictheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "buzz word"
+        ],
+        "ga": "dordfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hum"
+        ],
+        "ga": "drantán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "profane language"
+        ],
+        "ga": "drochbhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gantry"
+        ],
+        "ga": "droichead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "drama"
+        ],
+        "ga": "dráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dramatist",
+            "playwright"
+        ],
+        "ga": "drámadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drama",
+            "dramatic art"
+        ],
+        "ga": "drámaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "composition",
+            "piece"
+        ],
+        "ga": "dréacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dub"
+        ],
+        "ga": "dubáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dubbing"
+        ],
+        "ga": "dubáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "binary"
+        ],
+        "ga": "dénárthán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "decoder"
+        ],
+        "ga": "díchódóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "compilation"
+        ],
+        "ga": "díolaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spin-off"
+        ],
+        "ga": "díorthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "debate"
+        ],
+        "ga": "díospóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deregulation"
+        ],
+        "ga": "dírialáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dissonance"
+        ],
+        "ga": "díshondas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deconstruction"
+        ],
+        "ga": "díthógáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "exposure"
+        ],
+        "ga": "eacspóisear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mediation"
+        ],
+        "ga": "eadráin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "editor",
+            "redactor"
+        ],
+        "ga": "eagarthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "editing"
+        ],
+        "ga": "eagarthóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "edit"
+        ],
+        "ga": "eagarthóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "excorporation"
+        ],
+        "ga": "easchorparáideachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "episode"
+        ],
+        "ga": "eipeasóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "release",
+            "dissemination"
+        ],
+        "ga": "eisiúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ethnocentrism"
+        ],
+        "ga": "eitnealárnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "f-stop"
+        ],
+        "ga": "f-stop",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "glitch"
+        ],
+        "ga": "fabht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fax",
+            "facsimile"
+        ],
+        "ga": "facs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "duration"
+        ],
+        "ga": "fad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "agenda-setting research"
+        ],
+        "ga": "faobharthaighde",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fluff"
+        ],
+        "ga": "feall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bulletin"
+        ],
+        "ga": "feasachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mount"
+        ],
+        "ga": "feiste",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wardrobe"
+        ],
+        "ga": "feisteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "poetry"
+        ],
+        "ga": "filíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subhead"
+        ],
+        "ga": "fo-cheannlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subeditor",
+            "sub-editor"
+        ],
+        "ga": "fo-eagarthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subcarrier"
+        ],
+        "ga": "fo-iompróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "connotation"
+        ],
+        "ga": "fochiall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subculture"
+        ],
+        "ga": "fochultúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "publisher-broadcaster"
+        ],
+        "ga": "foilsitheoir/craoltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "origin"
+        ],
+        "ga": "foinse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sub-pixel"
+        ],
+        "ga": "fophicteilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "format"
+        ],
+        "ga": "formáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cap gen",
+            "caption generator"
+        ],
+        "ga": "fortheidealóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "feed"
+        ],
+        "ga": "fotha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subtitle"
+        ],
+        "ga": "fotheideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subtitler"
+        ],
+        "ga": "fotheidealóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "server"
+        ],
+        "ga": "friothálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reflector"
+        ],
+        "ga": "frithchaiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bounce"
+        ],
+        "ga": "frithchaitheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "counter-culture",
+            "counterculture"
+        ],
+        "ga": "frithchultúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "soundtrack",
+            "sound track"
+        ],
+        "ga": "fuaimrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comedian",
+            "jester",
+            "buffoon",
+            "entertainer"
+        ],
+        "ga": "fuirseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wall shot"
+        ],
+        "ga": "fánseat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "viewing"
+        ],
+        "ga": "féachaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "self-regulation"
+        ],
+        "ga": "féinrialúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "feed"
+        ],
+        "ga": "fíd",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "true random access"
+        ],
+        "ga": "fíor-randamrochtain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vision"
+        ],
+        "ga": "fís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "video unit"
+        ],
+        "ga": "físaonad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "video camera"
+        ],
+        "ga": "físcheamara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "video game"
+        ],
+        "ga": "físchluiche",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "video editor",
+            "VT editor"
+        ],
+        "ga": "físeagarthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "video nasty"
+        ],
+        "ga": "físghránnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "video journalist"
+        ],
+        "ga": "físiriseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "video-tape",
+            "video tape",
+            "VT",
+            "videotape",
+            "video"
+        ],
+        "ga": "fístéip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "video tool"
+        ],
+        "ga": "físuirlis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "focus"
+        ],
+        "ga": "fócas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "focus puller"
+        ],
+        "ga": "fócasóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "advertisement",
+            "ad",
+            "commercial"
+        ],
+        "ga": "fógra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "announcement"
+        ],
+        "ga": "fógra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "advertising"
+        ],
+        "ga": "fógraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phone",
+            "telephone"
+        ],
+        "ga": "fón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "utilitarianism"
+        ],
+        "ga": "fóntachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "forum"
+        ],
+        "ga": "fóram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photojournalist"
+        ],
+        "ga": "fóta-iriseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photo-journalism"
+        ],
+        "ga": "fóta-iriseoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "photostory"
+        ],
+        "ga": "fóta-thuairisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "photo-reportage"
+        ],
+        "ga": "fóta-thuairisceoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "photograph"
+        ],
+        "ga": "fótagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "photomontage"
+        ],
+        "ga": "fótamontáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gallery"
+        ],
+        "ga": "gailearaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scratch track"
+        ],
+        "ga": "garbhrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guard"
+        ],
+        "ga": "garda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "featurette"
+        ],
+        "ga": "gearr-phríomhscannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "short",
+            "short-circuit",
+            "short out",
+            "short circuit",
+            "shorted circuit"
+        ],
+        "ga": "gearrchiorcad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "short drama"
+        ],
+        "ga": "gearrdhráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "clip"
+        ],
+        "ga": "gearrthóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shock"
+        ],
+        "ga": "geit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "brightness"
+        ],
+        "ga": "gile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "best boy"
+        ],
+        "ga": "giolla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "call-boy"
+        ],
+        "ga": "giolla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gofer"
+        ],
+        "ga": "giolla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pick-up",
+            "pick up",
+            "pickup"
+        ],
+        "ga": "glacaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "beeper",
+            "bleeper",
+            "pager",
+            "paging unit"
+        ],
+        "ga": "glaoire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "babble"
+        ],
+        "ga": "gleo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flow"
+        ],
+        "ga": "gluaiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blooper",
+            "out-take"
+        ],
+        "ga": "glugar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "brilliance"
+        ],
+        "ga": "gléigile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jelly",
+            "gel"
+        ],
+        "ga": "glóthán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "generation"
+        ],
+        "ga": "glúin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "standard platform"
+        ],
+        "ga": "gnáthardán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "common sense",
+            "sense"
+        ],
+        "ga": "gnáthchiall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stock shot"
+        ],
+        "ga": "gnáthseat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "feature"
+        ],
+        "ga": "gnéchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "graffiti"
+        ],
+        "ga": "graifítí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "comic"
+        ],
+        "ga": "greannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hairdresser",
+            "hairstylist"
+        ],
+        "ga": "gruagaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "greasepaint"
+        ],
+        "ga": "gréisclí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "roll"
+        ],
+        "ga": "guairneáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "voice"
+        ],
+        "ga": "guth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crisis"
+        ],
+        "ga": "géarchéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hack"
+        ],
+        "ga": "haic",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "piggyback"
+        ],
+        "ga": "haighdeá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hypertext"
+        ],
+        "ga": "hipirtéacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "holography"
+        ],
+        "ga": "holagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "backannouncement"
+        ],
+        "ga": "iarfhógra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "residual"
+        ],
+        "ga": "iarmharach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "submission"
+        ],
+        "ga": "iarratas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "post-sync"
+        ],
+        "ga": "iarsinc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "talkback"
+        ],
+        "ga": "idirchum",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interaction"
+        ],
+        "ga": "idirghníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "interlude"
+        ],
+        "ga": "idirlinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "multiplexer",
+            "MUX"
+        ],
+        "ga": "ilphléacsóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "multitrack"
+        ],
+        "ga": "ilrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "marginality"
+        ],
+        "ga": "imeallacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "iris"
+        ],
+        "ga": "imreasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "player"
+        ],
+        "ga": "imreoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "engineer"
+        ],
+        "ga": "innealtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "competence"
+        ],
+        "ga": "inniúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "narrative"
+        ],
+        "ga": "insint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transportation"
+        ],
+        "ga": "iompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "carrier"
+        ],
+        "ga": "iompróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "expectation"
+        ],
+        "ga": "ionchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "input"
+        ],
+        "ga": "ionchur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "encoder"
+        ],
+        "ga": "ionchódóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shoulder strap"
+        ],
+        "ga": "iris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "magazine",
+            "magazine show"
+        ],
+        "ga": "irischlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "journalist"
+        ],
+        "ga": "iriseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "journalism"
+        ],
+        "ga": "iriseoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "job"
+        ],
+        "ga": "jab",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jib"
+        ],
+        "ga": "jib",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lantern"
+        ],
+        "ga": "laindéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "switchboard"
+        ],
+        "ga": "lasc-chlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "switched network"
+        ],
+        "ga": "lasclíonra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "libel"
+        ],
+        "ga": "leabhal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "librarian"
+        ],
+        "ga": "leabharlannaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "continuity"
+        ],
+        "ga": "leanúnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "continuity"
+        ],
+        "ga": "leanúnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "half-time",
+            "intermission"
+        ],
+        "ga": "leath-am",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "double"
+        ],
+        "ga": "leathchúpla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "half-track"
+        ],
+        "ga": "leathrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sheet"
+        ],
+        "ga": "leathán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "balance"
+        ],
+        "ga": "leibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "electricity"
+        ],
+        "ga": "leictreachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "electrician"
+        ],
+        "ga": "leictreoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tip-off"
+        ],
+        "ga": "leid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cue card"
+        ],
+        "ga": "leidchárta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "apology"
+        ],
+        "ga": "leithscéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dissolve"
+        ],
+        "ga": "leá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lens"
+        ],
+        "ga": "lionsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "list"
+        ],
+        "ga": "liosta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "log"
+        ],
+        "ga": "loga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "logging"
+        ],
+        "ga": "logáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bloom",
+            "halo"
+        ],
+        "ga": "luan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "presenter"
+        ],
+        "ga": "láithreoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "full screen"
+        ],
+        "ga": "lánscáileán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "centrality"
+        ],
+        "ga": "lárnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pedestal"
+        ],
+        "ga": "léibheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "production"
+        ],
+        "ga": "léiriúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "draftswoman",
+            "draughtswoman"
+        ],
+        "ga": "línitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "network"
+        ],
+        "ga": "líonra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "catering"
+        ],
+        "ga": "lónadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "macro lens"
+        ],
+        "ga": "macrailionsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "matins"
+        ],
+        "ga": "maitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "slow motion",
+            "slomo"
+        ],
+        "ga": "mallghluaiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drop-out"
+        ],
+        "ga": "mant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "supervision"
+        ],
+        "ga": "maoirseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "supervisor"
+        ],
+        "ga": "maoirseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "marking"
+        ],
+        "ga": "marcáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plasticine",
+            "Plasticine"
+        ],
+        "ga": "marla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mask"
+        ],
+        "ga": "masc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mascara"
+        ],
+        "ga": "mascára",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "matte"
+        ],
+        "ga": "mata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "metaphor"
+        ],
+        "ga": "meafar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "teaser"
+        ],
+        "ga": "mealltóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mixer"
+        ],
+        "ga": "meascthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "midrange"
+        ],
+        "ga": "meán-raon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "midshot",
+            "MS"
+        ],
+        "ga": "meánseat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dish"
+        ],
+        "ga": "mias",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "microlink"
+        ],
+        "ga": "micreanasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "micro lens"
+        ],
+        "ga": "micrilionsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "frequency"
+        ],
+        "ga": "minicíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minicam"
+        ],
+        "ga": "mioncheamara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minicall"
+        ],
+        "ga": "mionghlaoire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bit part",
+            "walk-on"
+        ],
+        "ga": "mionpháirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "miniature"
+        ],
+        "ga": "mionsamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minijack"
+        ],
+        "ga": "mionseac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "baby light"
+        ],
+        "ga": "mionsolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "miniseries"
+        ],
+        "ga": "mionsraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "modulator"
+        ],
+        "ga": "modhnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "monitor"
+        ],
+        "ga": "monatóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "montage"
+        ],
+        "ga": "montáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "master tape",
+            "master"
+        ],
+        "ga": "máistirthéip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "enhancer",
+            "enlarger"
+        ],
+        "ga": "méadaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mode"
+        ],
+        "ga": "mód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "modality"
+        ],
+        "ga": "módúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "modem",
+            "modulator/demodulator"
+        ],
+        "ga": "móideim",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mass communication"
+        ],
+        "ga": "mórchumarsáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bumper edition"
+        ],
+        "ga": "móreagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bridging"
+        ],
+        "ga": "nasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "link"
+        ],
+        "ga": "nasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tie line",
+            "tie-line"
+        ],
+        "ga": "nasclíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "immediacy"
+        ],
+        "ga": "neasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "exposure meter"
+        ],
+        "ga": "nochtmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clue"
+        ],
+        "ga": "nod",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "news"
+        ],
+        "ga": "nuacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "newsreel"
+        ],
+        "ga": "nuachtscannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "news director"
+        ],
+        "ga": "nuachtstiúrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "newspaper"
+        ],
+        "ga": "nuachtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "journalese"
+        ],
+        "ga": "nuachtánachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "objectivity"
+        ],
+        "ga": "oibiachtúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "omnibus"
+        ],
+        "ga": "ollchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "callsheet"
+        ],
+        "ga": "ordbhileog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "package"
+        ],
+        "ga": "pacáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pass"
+        ],
+        "ga": "pasáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "panorama",
+            "pan",
+            "panning"
+        ],
+        "ga": "peanáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "personnel"
+        ],
+        "ga": "pearsanra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wig"
+        ],
+        "ga": "peiriúic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plan"
+        ],
+        "ga": "plean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "plug"
+        ],
+        "ga": "plocóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plot"
+        ],
+        "ga": "plota",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plug"
+        ],
+        "ga": "pluga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plugging"
+        ],
+        "ga": "plugáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "opinion poll",
+            "opinion survey",
+            "survey of opinion"
+        ],
+        "ga": "pobalbhreith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "publicity"
+        ],
+        "ga": "poiblíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pop",
+            "pop music"
+        ],
+        "ga": "popcheol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pop video"
+        ],
+        "ga": "popfhíseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "popshield"
+        ],
+        "ga": "popsciath",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "press conference"
+        ],
+        "ga": "preasagallamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "press release"
+        ],
+        "ga": "preaseisiúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "press office"
+        ],
+        "ga": "preasoifig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "press officer"
+        ],
+        "ga": "preasoifigeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "press statement"
+        ],
+        "ga": "preasráiteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "press secretary"
+        ],
+        "ga": "preasrúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "primetime"
+        ],
+        "ga": "príomh-am",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chief subeditor"
+        ],
+        "ga": "príomh-fho-eagarthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lead article"
+        ],
+        "ga": "príomhalt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "key animator"
+        ],
+        "ga": "príomhbheochantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "main voice"
+        ],
+        "ga": "príomhghuth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "feature film"
+        ],
+        "ga": "príomhscannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lead story"
+        ],
+        "ga": "príomhscéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "master shot",
+            "master scene"
+        ],
+        "ga": "príomhseat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "key light"
+        ],
+        "ga": "príomhsholas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "principal artiste"
+        ],
+        "ga": "príomhthaibheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "main title"
+        ],
+        "ga": "príomhtheideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "profile"
+        ],
+        "ga": "próifíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "processor"
+        ],
+        "ga": "próiseálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "protocol"
+        ],
+        "ga": "prótacal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "puppet"
+        ],
+        "ga": "puipéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pay"
+        ],
+        "ga": "pá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paperwork"
+        ],
+        "ga": "páipéarachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "part"
+        ],
+        "ga": "páirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "partisan"
+        ],
+        "ga": "páirtíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "payroll",
+            "pay-roll"
+        ],
+        "ga": "párolla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "painter"
+        ],
+        "ga": "péintéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rock music",
+            "rock"
+        ],
+        "ga": "rac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "radiotelegraphy",
+            "wireless telegraphy"
+        ],
+        "ga": "radaiteileagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "radio"
+        ],
+        "ga": "raidió",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ramp"
+        ],
+        "ga": "rampa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "contributor"
+        ],
+        "ga": "rannpháirtí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "participation"
+        ],
+        "ga": "rannpháirtíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wraparound"
+        ],
+        "ga": "rapar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "narrator"
+        ],
+        "ga": "reacaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "legislation"
+        ],
+        "ga": "reachtaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "recce",
+            "reconnaissance"
+        ],
+        "ga": "reicí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "control group"
+        ],
+        "ga": "riailghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "control track"
+        ],
+        "ga": "riailraon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "greaseproof paper",
+            "grease-proof paper"
+        ],
+        "ga": "rianpháipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rig"
+        ],
+        "ga": "rige",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rigging"
+        ],
+        "ga": "rigeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rigger"
+        ],
+        "ga": "rigeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rigger-driver"
+        ],
+        "ga": "rigeálaí/tiománaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "run"
+        ],
+        "ga": "rith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rostrum"
+        ],
+        "ga": "rostram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rail"
+        ],
+        "ga": "ráille",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "comment"
+        ],
+        "ga": "ráiteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "animatic"
+        ],
+        "ga": "réamhbheochan",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "standfirst"
+        ],
+        "ga": "réamhbhlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "preroll"
+        ],
+        "ga": "réamhchasadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prelude",
+            "musical prelude"
+        ],
+        "ga": "réamhcheol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "warm-up"
+        ],
+        "ga": "réamhchleachtadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "forward plan"
+        ],
+        "ga": "réamhphlean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "diffuser"
+        ],
+        "ga": "réscaiptheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vamp",
+            "vamping"
+        ],
+        "ga": "réthionlacan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "e-tabloid"
+        ],
+        "ga": "ríomhtháblóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "router"
+        ],
+        "ga": "ródaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "OB van"
+        ],
+        "ga": "ródaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "road-craft"
+        ],
+        "ga": "ródaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "role"
+        ],
+        "ga": "ról",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "secretary"
+        ],
+        "ga": "rúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "specialist programme"
+        ],
+        "ga": "sainchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "consultant"
+        ],
+        "ga": "sainchomhairleoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "expert"
+        ],
+        "ga": "saineolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gaffer"
+        ],
+        "ga": "saoiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "free shape"
+        ],
+        "ga": "saorchruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "freelancer",
+            "freelance"
+        ],
+        "ga": "saoririseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "satellite"
+        ],
+        "ga": "satailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "film",
+            "motion picture",
+            "movie",
+            "picture"
+        ],
+        "ga": "scannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "filming"
+        ],
+        "ga": "scannánaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shooting"
+        ],
+        "ga": "scannánaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "film-maker"
+        ],
+        "ga": "scannánóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "opt-out"
+        ],
+        "ga": "scar-rogha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "schedule",
+            "menu"
+        ],
+        "ga": "sceideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "schedule"
+        ],
+        "ga": "sceideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sketch artist"
+        ],
+        "ga": "sceitseálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hit list"
+        ],
+        "ga": "scriosliosta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "script"
+        ],
+        "ga": "script",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "writer"
+        ],
+        "ga": "scríbhneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "writing"
+        ],
+        "ga": "scríbhneoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shade"
+        ],
+        "ga": "scáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "screen"
+        ],
+        "ga": "scáileán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "silhouette"
+        ],
+        "ga": "scáth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shadow"
+        ],
+        "ga": "scáth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shadow mask"
+        ],
+        "ga": "scáthmhasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ghost writer"
+        ],
+        "ga": "scáthscríbhneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shadow effect"
+        ],
+        "ga": "scáthéifeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "story",
+            "tale"
+        ],
+        "ga": "scéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tidings"
+        ],
+        "ga": "scéala",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "storyteller"
+        ],
+        "ga": "scéalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "narrator"
+        ],
+        "ga": "scéalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chronicler"
+        ],
+        "ga": "scéalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "storyboard"
+        ],
+        "ga": "scéalchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "brief"
+        ],
+        "ga": "scéilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "thriller"
+        ],
+        "ga": "scéinséir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scoop"
+        ],
+        "ga": "scúp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wild sound",
+            "track sound"
+        ],
+        "ga": "seachfhuaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jackpoint"
+        ],
+        "ga": "seacphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jackfield",
+            "jack field"
+        ],
+        "ga": "seacréimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shift"
+        ],
+        "ga": "sealaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shampoo"
+        ],
+        "ga": "seampú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stand"
+        ],
+        "ga": "seastán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shot"
+        ],
+        "ga": "seat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "xenophobia"
+        ],
+        "ga": "seineafóibe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "player"
+        ],
+        "ga": "seinnteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "set"
+        ],
+        "ga": "seit",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "suite"
+        ],
+        "ga": "seomra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "genre"
+        ],
+        "ga": "seánra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "showreel"
+        ],
+        "ga": "seóspól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "entertainment"
+        ],
+        "ga": "siamsaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sibilance"
+        ],
+        "ga": "siosa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hiss"
+        ],
+        "ga": "siosarnach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "walkie-talkie"
+        ],
+        "ga": "siúlscéalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shoot"
+        ],
+        "ga": "siút",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "slide"
+        ],
+        "ga": "sleamhnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "extract",
+            "passage",
+            "tract"
+        ],
+        "ga": "sliocht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "make-up"
+        ],
+        "ga": "smideadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grab"
+        ],
+        "ga": "snap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "strand"
+        ],
+        "ga": "snáithe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "soap",
+            "soap opera"
+        ],
+        "ga": "sobaldráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lighting cameraman"
+        ],
+        "ga": "soilsitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lighting camerawoman"
+        ],
+        "ga": "soilsitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lighting director"
+        ],
+        "ga": "soilsitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "detail"
+        ],
+        "ga": "sonra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "break",
+            "recess"
+        ],
+        "ga": "sos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interval"
+        ],
+        "ga": "sos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stop",
+            "diaphragm"
+        ],
+        "ga": "spiara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "splicing"
+        ],
+        "ga": "spladhsáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flash"
+        ],
+        "ga": "splanc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spotlight",
+            "spot"
+        ],
+        "ga": "spotsolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reel",
+            "spool"
+        ],
+        "ga": "spól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sport"
+        ],
+        "ga": "spórt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sponge"
+        ],
+        "ga": "spúinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "serial"
+        ],
+        "ga": "sraithchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sequence"
+        ],
+        "ga": "sraitheog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lead"
+        ],
+        "ga": "sreang",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "limiter"
+        ],
+        "ga": "srianaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mains"
+        ],
+        "ga": "sruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "anecdote",
+            "yarn"
+        ],
+        "ga": "staróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stereophonic sound",
+            "stereo"
+        ],
+        "ga": "steiréó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "studio"
+        ],
+        "ga": "stiúideo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stock"
+        ],
+        "ga": "stoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sting"
+        ],
+        "ga": "stoing",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stop",
+            "diaphragm"
+        ],
+        "ga": "stop",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stopwatch",
+            "stop watch",
+            "stop-watch"
+        ],
+        "ga": "stopuaireadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "striping"
+        ],
+        "ga": "straidhpeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "station"
+        ],
+        "ga": "stáisiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "store",
+            "storage"
+        ],
+        "ga": "stóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gossip"
+        ],
+        "ga": "suainseán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sleeper effect"
+        ],
+        "ga": "suanéifeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "location",
+            "situation",
+            "setting",
+            "position"
+        ],
+        "ga": "suíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "couch potato"
+        ],
+        "ga": "sámhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "super slomo",
+            "super-slomo"
+        ],
+        "ga": "sár-mhallghluaiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "psychodrama"
+        ],
+        "ga": "síceadhráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wipe"
+        ],
+        "ga": "síobán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "super"
+        ],
+        "ga": "súpar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "allusion",
+            "reference"
+        ],
+        "ga": "tagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "performer",
+            "artiste"
+        ],
+        "ga": "taibheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "research"
+        ],
+        "ga": "taighde",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "researcher"
+        ],
+        "ga": "taighdeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transmitting"
+        ],
+        "ga": "tarchur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transmitter"
+        ],
+        "ga": "tarchuradóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "courier",
+            "runner"
+        ],
+        "ga": "teachtaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contingency",
+            "chance occurrence"
+        ],
+        "ga": "teagmhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "technocentrism"
+        ],
+        "ga": "teicnealárnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "technician"
+        ],
+        "ga": "teicneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "title",
+            "credit title",
+            "credit"
+        ],
+        "ga": "teideal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "teledemocracy"
+        ],
+        "ga": "teileadhaonlathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "telerecording"
+        ],
+        "ga": "teileathaifead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "telethon"
+        ],
+        "ga": "teileatón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "projectionist"
+        ],
+        "ga": "teilgeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "teleprompt"
+        ],
+        "ga": "teilileideoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "teletext"
+        ],
+        "ga": "teilitéacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "compiler"
+        ],
+        "ga": "tiomsaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "driver"
+        ],
+        "ga": "tiománaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "project"
+        ],
+        "ga": "tionscadal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "abrupt question",
+            "staccato question"
+        ],
+        "ga": "tobcheist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "winding"
+        ],
+        "ga": "tochras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "goody bag"
+        ],
+        "ga": "toirtín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tone"
+        ],
+        "ga": "ton",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "noise"
+        ],
+        "ga": "torann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rumble"
+        ],
+        "ga": "tormán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "precedence",
+            "priority"
+        ],
+        "ga": "tosaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "silence"
+        ],
+        "ga": "tost",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trainer"
+        ],
+        "ga": "traenálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "track"
+        ],
+        "ga": "traic",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "transcript",
+            "transcription"
+        ],
+        "ga": "tras-scríbhinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transponder"
+        ],
+        "ga": "trasfhreagróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interference"
+        ],
+        "ga": "trasnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "arbitrariness"
+        ],
+        "ga": "treallachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "assertiveness"
+        ],
+        "ga": "treallús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "instruction"
+        ],
+        "ga": "treoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "commentator"
+        ],
+        "ga": "tráchtaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "commentary"
+        ],
+        "ga": "tráchtaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "narration",
+            "commentary"
+        ],
+        "ga": "tráchtaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "burn-out"
+        ],
+        "ga": "tréigean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "report",
+            "account"
+        ],
+        "ga": "tuairisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reporter"
+        ],
+        "ga": "tuairisceoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "buffeting"
+        ],
+        "ga": "tuairteáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "report"
+        ],
+        "ga": "tuarascáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "floodlight"
+        ],
+        "ga": "tuilsolas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tabloid"
+        ],
+        "ga": "táblóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "testing"
+        ],
+        "ga": "tástáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "test"
+        ],
+        "ga": "tástáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "take"
+        ],
+        "ga": "téic",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tape machine"
+        ],
+        "ga": "téipthaifeadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "opening"
+        ],
+        "ga": "tús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kick-off",
+            "kick off"
+        ],
+        "ga": "túschic",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "strapline"
+        ],
+        "ga": "uas-cheannlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "uplink"
+        ],
+        "ga": "uasnasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "autofocus"
+        ],
+        "ga": "uathfhócas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "autocue"
+        ],
+        "ga": "uathleideoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scrim"
+        ],
+        "ga": "uige",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tank"
+        ],
+        "ga": "umar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "floor"
+        ],
+        "ga": "urlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sponsorship"
+        ],
+        "ga": "urraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "van"
+        ],
+        "ga": "veain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "zapping",
+            "zipping"
+        ],
+        "ga": "zaipeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "zoom"
+        ],
+        "ga": "zúmáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subject"
+        ],
+        "ga": "ábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hype"
+        ],
+        "ga": "áibhéil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "facility"
+        ],
+        "ga": "áis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "insurance"
+        ],
+        "ga": "árachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stunt"
+        ],
+        "ga": "éacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stuntman",
+            "stunt person",
+            "stuntwoman "
+        ],
+        "ga": "éachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "infinity"
+        ],
+        "ga": "éigríoch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "corruption"
+        ],
+        "ga": "éillitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "elite"
+        ],
+        "ga": "éilít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "listening"
+        ],
+        "ga": "éisteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ethos"
+        ],
+        "ga": "éiteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "downlink"
+        ],
+        "ga": "íosnasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "imprest"
+        ],
+        "ga": "óinchiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compere",
+            "host"
+        ],
+        "ga": "óstach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "host broadcaster"
+        ],
+        "ga": "óstchraoltóir",
+        "gender": "masculine"
+    }
+]

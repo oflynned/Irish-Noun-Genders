@@ -1,0 +1,250 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "amelogenin"
+        ],
+        "ga": "aimeiligeinin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "amelogenesis"
+        ],
+        "ga": "aimeiligineas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hard palate"
+        ],
+        "ga": "carball",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chewing"
+        ],
+        "ga": "cogaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cavity"
+        ],
+        "ga": "cuas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "canine"
+        ],
+        "ga": "cíocrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "curettage"
+        ],
+        "ga": "cúiréadacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "denturist"
+        ],
+        "ga": "déadchíoradóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "toothache"
+        ],
+        "ga": "déideadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dental surgeon"
+        ],
+        "ga": "déidlia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dentist"
+        ],
+        "ga": "fiaclóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dentistry"
+        ],
+        "ga": "fiaclóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bite plane"
+        ],
+        "ga": "greimphlána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bite plate"
+        ],
+        "ga": "greimphláta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bitewing"
+        ],
+        "ga": "greimscannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "implantology"
+        ],
+        "ga": "ionchlanneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "endodontics"
+        ],
+        "ga": "iondadóntaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "orthodontics"
+        ],
+        "ga": "ortódóntaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "orthodontist"
+        ],
+        "ga": "ortódóntóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "paradentist"
+        ],
+        "ga": "paraidhéidlia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "periodontics"
+        ],
+        "ga": "pearódóntaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plate"
+        ],
+        "ga": "pláta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "specialized dentistry"
+        ],
+        "ga": "sainfhiaclóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "scale"
+        ],
+        "ga": "scim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gerodontology"
+        ],
+        "ga": "seanadointeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cement"
+        ],
+        "ga": "suimint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cementum"
+        ],
+        "ga": "suiminteam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brace"
+        ],
+        "ga": "teanntán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "veneer"
+        ],
+        "ga": "veinír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "odontoloxia"
+        ],
+        "ga": "ódóntalocsacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "odontology"
+        ],
+        "ga": "ódónteolaíocht",
+        "gender": "feminine"
+    }
+]

@@ -1,0 +1,1373 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "al-Qaedist",
+            "al-Qaidist"
+        ],
+        "ga": "Al-Qaedach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Brigadier-General"
+        ],
+        "ga": "Briogáidire-Ghinearál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Commandant-General"
+        ],
+        "ga": "Ceannfort-Ghinearál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "H-bomb"
+        ],
+        "ga": "H-bhuama",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Second-in-Command"
+        ],
+        "ga": "Leascheannasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Peshmerga"
+        ],
+        "ga": "Peismearga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Provost-Marshal"
+        ],
+        "ga": "Propast-Mharascal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Zeppelin"
+        ],
+        "ga": "Seipilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Vietcong"
+        ],
+        "ga": "Víotchongach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "academy"
+        ],
+        "ga": "acadamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "acknowledgement",
+            "acknowledgment"
+        ],
+        "ga": "admháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aerial bombing"
+        ],
+        "ga": "aerbhuamáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "acetylene"
+        ],
+        "ga": "aicéitiléin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acid"
+        ],
+        "ga": "aigéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "acidity"
+        ],
+        "ga": "aigéadacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "amplidyne"
+        ],
+        "ga": "aimplidín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "artillery"
+        ],
+        "ga": "airtléire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ammonal"
+        ],
+        "ga": "amónal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "arquebus",
+            "harquebus"
+        ],
+        "ga": "arcabas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chief petty officer"
+        ],
+        "ga": "ard-mhionoifigeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "commander-in-chief",
+            "commander in chief"
+        ],
+        "ga": "ardcheannasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "citation"
+        ],
+        "ga": "ardlua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "first officer"
+        ],
+        "ga": "ardmháta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "head chaplain"
+        ],
+        "ga": "ardséiplíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "armalite rifle"
+        ],
+        "ga": "armailíteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "armoury"
+        ],
+        "ga": "armlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "weaponry"
+        ],
+        "ga": "armra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "armament"
+        ],
+        "ga": "armáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ballista"
+        ],
+        "ga": "ballaiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "barding",
+            "barbing"
+        ],
+        "ga": "bardáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "top roping"
+        ],
+        "ga": "barr-rópáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bartizan"
+        ],
+        "ga": "bartasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "barrage"
+        ],
+        "ga": "baráiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "live bombing"
+        ],
+        "ga": "beo-bhuamáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "blitz"
+        ],
+        "ga": "blitz",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "boss"
+        ],
+        "ga": "bocóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "saturation bombing"
+        ],
+        "ga": "bratbhuamáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sortie"
+        ],
+        "ga": "breabhaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bomb"
+        ],
+        "ga": "buama",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bullpup"
+        ],
+        "ga": "bulladóirín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "establishment"
+        ],
+        "ga": "bunaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bunker"
+        ],
+        "ga": "buncar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "platoon"
+        ],
+        "ga": "buíon",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basinet"
+        ],
+        "ga": "báisínéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "navy"
+        ],
+        "ga": "cabhlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flotilla"
+        ],
+        "ga": "cabhlachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caliver"
+        ],
+        "ga": "cailibhéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compound"
+        ],
+        "ga": "campún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aventail",
+            "camail"
+        ],
+        "ga": "camáille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "captain"
+        ],
+        "ga": "captaen",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "carronade"
+        ],
+        "ga": "caranáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "magazine"
+        ],
+        "ga": "cartúslann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "battler"
+        ],
+        "ga": "cathaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "battle-dress"
+        ],
+        "ga": "cathéide",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "leader"
+        ],
+        "ga": "ceannaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "commander"
+        ],
+        "ga": "ceannasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "headquarters",
+            "HQ"
+        ],
+        "ga": "ceanncheathrú",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "captive"
+        ],
+        "ga": "cime",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "silencer"
+        ],
+        "ga": "ciúnadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "glacis"
+        ],
+        "ga": "claonfort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clicker",
+            "handheld wireless remote"
+        ],
+        "ga": "clicire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "clash"
+        ],
+        "ga": "clonscairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cluster bomb"
+        ],
+        "ga": "cnuasbhuama",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "war"
+        ],
+        "ga": "cogadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "war"
+        ],
+        "ga": "cogaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colonel"
+        ],
+        "ga": "coirnéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coalition force"
+        ],
+        "ga": "comhfhórsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "company"
+        ],
+        "ga": "complacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coronel"
+        ],
+        "ga": "coróinéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "breech-loading"
+        ],
+        "ga": "craoslódáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crinet"
+        ],
+        "ga": "crinéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "accuracy",
+            "correctness",
+            "exactness"
+        ],
+        "ga": "cruinneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bravery"
+        ],
+        "ga": "crógacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "culverin"
+        ],
+        "ga": "culvairin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "holster"
+        ],
+        "ga": "curra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kirpan"
+        ],
+        "ga": "cíorpán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "missile"
+        ],
+        "ga": "diúracán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "projectile"
+        ],
+        "ga": "diúracán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dirk"
+        ],
+        "ga": "duirc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "equerry"
+        ],
+        "ga": "eachaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "troop"
+        ],
+        "ga": "feadhain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "haft"
+        ],
+        "ga": "feirc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "submachine gun"
+        ],
+        "ga": "fo-mheaisínghunna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "counterscarp"
+        ],
+        "ga": "frithbhalla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "countermeasure"
+        ],
+        "ga": "frithbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "counter insurgency"
+        ],
+        "ga": "frithcheannairc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reaction"
+        ],
+        "ga": "frithghníomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "front"
+        ],
+        "ga": "fronta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clip"
+        ],
+        "ga": "fáiscín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "force"
+        ],
+        "ga": "fórsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "force"
+        ],
+        "ga": "fórsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "accessory"
+        ],
+        "ga": "gabhálas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hostage"
+        ],
+        "ga": "giall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "general"
+        ],
+        "ga": "ginearál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "glaive"
+        ],
+        "ga": "glaíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "distress"
+        ],
+        "ga": "guais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guncotton"
+        ],
+        "ga": "gunnachadás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "revolver"
+        ],
+        "ga": "gunnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "halberd"
+        ],
+        "ga": "halbard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bill"
+        ],
+        "ga": "halbard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hoplite"
+        ],
+        "ga": "hoiplíteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "investment"
+        ],
+        "ga": "imshuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "encircling trench"
+        ],
+        "ga": "imthrinse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "insignia"
+        ],
+        "ga": "ionchomhartha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "inductee"
+        ],
+        "ga": "ionduchtaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lieutenant-colonel"
+        ],
+        "ga": "leifteanantchoirnéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "accelerator"
+        ],
+        "ga": "luasaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "logistics"
+        ],
+        "ga": "lóistíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mangonel"
+        ],
+        "ga": "mangainéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "major-general"
+        ],
+        "ga": "maorghinearál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "marshal"
+        ],
+        "ga": "marascal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cavalcade"
+        ],
+        "ga": "marcshlua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "machine gun"
+        ],
+        "ga": "meaisínghunna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fast roping"
+        ],
+        "ga": "mear-rópáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "artificer"
+        ],
+        "ga": "meicneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "musket"
+        ],
+        "ga": "muscaed",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "matron"
+        ],
+        "ga": "mátrún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "enemy"
+        ],
+        "ga": "namhaid",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "nanotoxicology"
+        ],
+        "ga": "nanatocsaineolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "napalm"
+        ],
+        "ga": "napailm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nitramine"
+        ],
+        "ga": "nítrimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nomograph"
+        ],
+        "ga": "nómagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "paramilitary"
+        ],
+        "ga": "paraimíleatach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pisane"
+        ],
+        "ga": "piosán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "post"
+        ],
+        "ga": "post",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rifle"
+        ],
+        "ga": "raidhfil",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "range warden"
+        ],
+        "ga": "raonbhardach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "railhead"
+        ],
+        "ga": "ráilcheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rapier"
+        ],
+        "ga": "ráipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "brisance"
+        ],
+        "ga": "réabthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pre-emptive strike"
+        ],
+        "ga": "réamhionsaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "roping"
+        ],
+        "ga": "rópáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sear"
+        ],
+        "ga": "sabhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "volunteer"
+        ],
+        "ga": "saorálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "encircling wall"
+        ],
+        "ga": "sceimheal",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "destroyer"
+        ],
+        "ga": "scriostóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "abattoir"
+        ],
+        "ga": "seamlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shogun"
+        ],
+        "ga": "seogan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "discipline"
+        ],
+        "ga": "smacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sniper"
+        ],
+        "ga": "snípéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solleret"
+        ],
+        "ga": "solairéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sparth",
+            "pole-axe",
+            "pollaxe",
+            "pole axe",
+            "poleaxe",
+            "polax",
+            "sparðr",
+            "sparr",
+            "sparr axe"
+        ],
+        "ga": "sparrthua",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stun-gun"
+        ],
+        "ga": "stiúdghunna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "swastika"
+        ],
+        "ga": "svaistice",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "blast-bomb"
+        ],
+        "ga": "séidbhuama",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chaplain"
+        ],
+        "ga": "séiplíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "support"
+        ],
+        "ga": "tacaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "accident"
+        ],
+        "ga": "taisme",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "launcher"
+        ],
+        "ga": "teilgeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tetryl"
+        ],
+        "ga": "teitril",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tetralite"
+        ],
+        "ga": "teitrilít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dugout"
+        ],
+        "ga": "tochaltán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trebuchet"
+        ],
+        "ga": "treabúiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guerrilla warfare",
+            "guerilla warfare"
+        ],
+        "ga": "treallchogaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "defeat"
+        ],
+        "ga": "treascairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sheath"
+        ],
+        "ga": "truaill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trunnion"
+        ],
+        "ga": "truinniún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "beach-head"
+        ],
+        "ga": "trácheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "high explosives"
+        ],
+        "ga": "tréanphléascáin",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "welder"
+        ],
+        "ga": "táthaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "recovery"
+        ],
+        "ga": "téarnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "turret"
+        ],
+        "ga": "túirín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "oologist"
+        ],
+        "ga": "ubheolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "oology"
+        ],
+        "ga": "ubheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "round of ammunition"
+        ],
+        "ga": "urchar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "outpost"
+        ],
+        "ga": "urphost",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reckoner"
+        ],
+        "ga": "áiritheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "veteran"
+        ],
+        "ga": "ársa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spoil"
+        ],
+        "ga": "éadáil",
+        "gender": "feminine"
+    }
+]

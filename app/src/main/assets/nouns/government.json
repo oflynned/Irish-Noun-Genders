@@ -1,0 +1,5191 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "Counsel General",
+            "General Counsel"
+        ],
+        "ga": "Ard-Abhcóide",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Registrar General"
+        ],
+        "ga": "Ard-Chláraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Lord Lieutenant"
+        ],
+        "ga": "Ard-Leifteanant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Lord Provost"
+        ],
+        "ga": "Ard-Phropast",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "General Secretary"
+        ],
+        "ga": "Ard-Rúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Secretary General"
+        ],
+        "ga": "Ard-Rúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Lord Chancellor"
+        ],
+        "ga": "Ard-Seansailéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Lord Chamberlain"
+        ],
+        "ga": "Ard-Seomairlín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "High Sheriff"
+        ],
+        "ga": "Ard-Sirriam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Order!"
+        ],
+        "ga": "Ciúnas!",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Commonwealth"
+        ],
+        "ga": "Comhlathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Assistant",
+            "AST"
+        ],
+        "ga": "Cúntóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Forfás"
+        ],
+        "ga": "Forfás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Deputy Chief Whip"
+        ],
+        "ga": "Leas-Phríomh-Aoire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ConnectIreland"
+        ],
+        "ga": "Nasc-Éire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Ombudsman",
+            "Ombudsperson",
+            "the Ombudsman"
+        ],
+        "ga": "Ombudsman",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pobal"
+        ],
+        "ga": "Pobal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eRegistration"
+        ],
+        "ga": "Ríomhchlárúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Seanad",
+            "Senate"
+        ],
+        "ga": "Seanad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Taoiseach"
+        ],
+        "ga": "Taoiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Teagasc"
+        ],
+        "ga": "Teagasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Tánaiste"
+        ],
+        "ga": "Tánaiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "summary"
+        ],
+        "ga": "achoimre",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dispute"
+        ],
+        "ga": "achrann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "capability"
+        ],
+        "ga": "acmhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "acknowledgement",
+            "acknowledgment"
+        ],
+        "ga": "admháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "air border"
+        ],
+        "ga": "aertheorainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interview"
+        ],
+        "ga": "agallamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interviewing"
+        ],
+        "ga": "agallóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rider"
+        ],
+        "ga": "aguisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reservation"
+        ],
+        "ga": "agús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "submission"
+        ],
+        "ga": "aighneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "submitter"
+        ],
+        "ga": "aighnitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "nominator"
+        ],
+        "ga": "ainmnitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "designation"
+        ],
+        "ga": "ainmníocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "notice"
+        ],
+        "ga": "aird",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mention"
+        ],
+        "ga": "aird",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ministry"
+        ],
+        "ga": "aireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ministry"
+        ],
+        "ga": "aireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "recovery"
+        ],
+        "ga": "aisghabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "revoke"
+        ],
+        "ga": "aisghairm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reimbursement"
+        ],
+        "ga": "aisíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cognizance"
+        ],
+        "ga": "aitheantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "identification"
+        ],
+        "ga": "aitheantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "whip"
+        ],
+        "ga": "aoire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "unit"
+        ],
+        "ga": "aonad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "adhesion"
+        ],
+        "ga": "aontachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "unity"
+        ],
+        "ga": "aontacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "unanimity"
+        ],
+        "ga": "aontoilíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "comptroller"
+        ],
+        "ga": "ard-reachtaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "senior management"
+        ],
+        "ga": "ardbhainistíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "supremo"
+        ],
+        "ga": "ardcheannasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chief constable"
+        ],
+        "ga": "ardchonstábla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Secretariat-General"
+        ],
+        "ga": "ardrúnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rehousing"
+        ],
+        "ga": "athchóiríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "regeneration"
+        ],
+        "ga": "athfhorás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reinvestment"
+        ],
+        "ga": "athinfheistíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "revision"
+        ],
+        "ga": "athmheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reprocessing"
+        ],
+        "ga": "athphróiseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "obstruction"
+        ],
+        "ga": "bac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "obstructionist"
+        ],
+        "ga": "bacóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "obstructionism"
+        ],
+        "ga": "bacóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stonewalling"
+        ],
+        "ga": "bacóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "managerialism"
+        ],
+        "ga": "bainistiúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "managerialist"
+        ],
+        "ga": "bainistiúlaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sovereign"
+        ],
+        "ga": "banríon",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "peer"
+        ],
+        "ga": "bantiarna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "peeress"
+        ],
+        "ga": "bantiarna",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "council"
+        ],
+        "ga": "bardas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "municipality"
+        ],
+        "ga": "bardas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "corporation"
+        ],
+        "ga": "bardas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conduit"
+        ],
+        "ga": "bealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "action"
+        ],
+        "ga": "beart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "briefing"
+        ],
+        "ga": "bileog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flag"
+        ],
+        "ga": "bratach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "umbrella body"
+        ],
+        "ga": "bratchomhlacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "umbrella association"
+        ],
+        "ga": "brateagraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "addition"
+        ],
+        "ga": "breis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "increase"
+        ],
+        "ga": "breis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "standing committee"
+        ],
+        "ga": "buanchoiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "durable solution"
+        ],
+        "ga": "buanréiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bottom"
+        ],
+        "ga": "bun",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "key target area"
+        ],
+        "ga": "bun-spriocréimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "base budget"
+        ],
+        "ga": "bunbhuiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "key issue"
+        ],
+        "ga": "buncheist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "basic objective"
+        ],
+        "ga": "bunchuspóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "quibbler",
+            "pettifogger"
+        ],
+        "ga": "cailicéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pettifogging",
+            "quibbling"
+        ],
+        "ga": "cailicéireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rough treatment"
+        ],
+        "ga": "cargáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "charity"
+        ],
+        "ga": "carthanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "city borough"
+        ],
+        "ga": "cathairbhuirg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chairmanship"
+        ],
+        "ga": "cathaoirleacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "permit"
+        ],
+        "ga": "cead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "leave"
+        ],
+        "ga": "cead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "permit"
+        ],
+        "ga": "ceadúnas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "licence"
+        ],
+        "ga": "ceadúnas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "affiliation"
+        ],
+        "ga": "ceangal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lead"
+        ],
+        "ga": "ceannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "head office"
+        ],
+        "ga": "ceannoifig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pioneering work"
+        ],
+        "ga": "ceannródaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "appointer"
+        ],
+        "ga": "ceapaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trade union"
+        ],
+        "ga": "ceardchumann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "question"
+        ],
+        "ga": "ceist",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "finding"
+        ],
+        "ga": "cinneadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conclusion"
+        ],
+        "ga": "cinneadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "decision"
+        ],
+        "ga": "cinneadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "decision maker",
+            "decision-maker"
+        ],
+        "ga": "cinnteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "proportion"
+        ],
+        "ga": "cion",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "part"
+        ],
+        "ga": "cion",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "share"
+        ],
+        "ga": "cion",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ration"
+        ],
+        "ga": "ciondáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "curtailment"
+        ],
+        "ga": "ciorrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shambles"
+        ],
+        "ga": "ciseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conclusion"
+        ],
+        "ga": "clabhsúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rumpus"
+        ],
+        "ga": "clampar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bias"
+        ],
+        "ga": "claontacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "innuendo"
+        ],
+        "ga": "claontagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "client group"
+        ],
+        "ga": "cliantacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "audio-conferencing"
+        ],
+        "ga": "closchomhdháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "register"
+        ],
+        "ga": "clár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "program",
+            "programme"
+        ],
+        "ga": "clár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "programme analysis"
+        ],
+        "ga": "cláranailís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "registrant"
+        ],
+        "ga": "cláraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "programme budget"
+        ],
+        "ga": "clárbhuiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "registry office"
+        ],
+        "ga": "clárlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "registry"
+        ],
+        "ga": "clárlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "programme planning"
+        ],
+        "ga": "clárphleanáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "registration number"
+        ],
+        "ga": "cláruimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reputation"
+        ],
+        "ga": "clú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "constellation"
+        ],
+        "ga": "cnuasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stability"
+        ],
+        "ga": "cobhsaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "equivalent"
+        ],
+        "ga": "coibhéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "foreign country"
+        ],
+        "ga": "coigríoch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "adversary"
+        ],
+        "ga": "coimhlinteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "auspices"
+        ],
+        "ga": "coimirce",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "commissioner"
+        ],
+        "ga": "coimisinéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "community land"
+        ],
+        "ga": "coimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "holder"
+        ],
+        "ga": "coinneálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "proviso"
+        ],
+        "ga": "coinníoll",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stipulation"
+        ],
+        "ga": "coinníoll",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "colloquium"
+        ],
+        "ga": "collóiciam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "obligation"
+        ],
+        "ga": "comaoin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cabinet"
+        ],
+        "ga": "comh-aireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "constituent body"
+        ],
+        "ga": "comh-chomhlacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "file"
+        ],
+        "ga": "comhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "council"
+        ],
+        "ga": "comhairle",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "member"
+        ],
+        "ga": "comhalta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "equal validity"
+        ],
+        "ga": "comhbhailíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joint-board"
+        ],
+        "ga": "comhbhord",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joint chair"
+        ],
+        "ga": "comhchathaoirleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collective leadership"
+        ],
+        "ga": "comhcheannaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joint leadership"
+        ],
+        "ga": "comhcheannaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joint sovereignty"
+        ],
+        "ga": "comhcheannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "joint committee"
+        ],
+        "ga": "comhchoiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "round-table conference"
+        ],
+        "ga": "comhchomhairle",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joint purpose"
+        ],
+        "ga": "comhchuspóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "equal rank",
+            "equal status"
+        ],
+        "ga": "comhchéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consensus of opinion"
+        ],
+        "ga": "comhdhearcadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consensus"
+        ],
+        "ga": "comhdhearcadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "correspondence"
+        ],
+        "ga": "comhfhreagras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "coalition"
+        ],
+        "ga": "comhghuaillíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "equi-representativity"
+        ],
+        "ga": "comhionadaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "equality"
+        ],
+        "ga": "comhionannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joint booklet"
+        ],
+        "ga": "comhleabhrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "collective citation"
+        ],
+        "ga": "comhlua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joint planning"
+        ],
+        "ga": "comhphleanáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "community"
+        ],
+        "ga": "comhphobal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coalition",
+            "coalition government"
+        ],
+        "ga": "comhrialtas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "accommodation"
+        ],
+        "ga": "comhréiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compromise solution"
+        ],
+        "ga": "comhréiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conciliator"
+        ],
+        "ga": "comhréiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joint secretariat"
+        ],
+        "ga": "comhrúnaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "joint secretary"
+        ],
+        "ga": "comhrúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "joint scheme"
+        ],
+        "ga": "comhscéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "arrangement"
+        ],
+        "ga": "comhshocraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "joint provision"
+        ],
+        "ga": "comhsholáthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "common understanding"
+        ],
+        "ga": "comhthuiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interface"
+        ],
+        "ga": "comhéadan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "conclusion"
+        ],
+        "ga": "conclúid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "amenity"
+        ],
+        "ga": "conláiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "consulate"
+        ],
+        "ga": "consalacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dispute"
+        ],
+        "ga": "conspóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interpretation"
+        ],
+        "ga": "construáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "obstruction"
+        ],
+        "ga": "cosc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subsistence"
+        ],
+        "ga": "cothabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lottery"
+        ],
+        "ga": "crannchur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "framework"
+        ],
+        "ga": "creat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intervention"
+        ],
+        "ga": "crioscaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "yardstick",
+            "criterion"
+        ],
+        "ga": "critéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "core competence"
+        ],
+        "ga": "croíchumas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nerve centre"
+        ],
+        "ga": "croílár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "effectiveness"
+        ],
+        "ga": "críochnúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "elegance"
+        ],
+        "ga": "cuannacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "circular road"
+        ],
+        "ga": "cuarbhóthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "share"
+        ],
+        "ga": "cuid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "seconder"
+        ],
+        "ga": "cuiditheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "power sharing"
+        ],
+        "ga": "cumhachtroinnt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reservation"
+        ],
+        "ga": "cuntar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "condition"
+        ],
+        "ga": "cuntar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "capacity"
+        ],
+        "ga": "cáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "capacity"
+        ],
+        "ga": "cáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "eligibility"
+        ],
+        "ga": "cáilitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "tax"
+        ],
+        "ga": "cáin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "documentation"
+        ],
+        "ga": "cáipéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scenario"
+        ],
+        "ga": "cás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "case conference"
+        ],
+        "ga": "cás-chomhdháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "casework"
+        ],
+        "ga": "cásobair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "identity"
+        ],
+        "ga": "céannacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "identification"
+        ],
+        "ga": "céannacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stage"
+        ],
+        "ga": "céim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "provision"
+        ],
+        "ga": "cóir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trainer"
+        ],
+        "ga": "cóitseálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "federalism"
+        ],
+        "ga": "cónaidhmeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conjunction"
+        ],
+        "ga": "cónasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "regime"
+        ],
+        "ga": "córas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "assistance"
+        ],
+        "ga": "cúnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "assistant"
+        ],
+        "ga": "cúntóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "undertaking"
+        ],
+        "ga": "cúram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "determination"
+        ],
+        "ga": "daingne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "democracy"
+        ],
+        "ga": "daonlathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "humanitarian"
+        ],
+        "ga": "daonnúlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "best practice"
+        ],
+        "ga": "dea-chleachtas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "good practice"
+        ],
+        "ga": "dea-ghnás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "warrant"
+        ],
+        "ga": "dearbhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oversight"
+        ],
+        "ga": "dearmad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "excellence"
+        ],
+        "ga": "dearscnaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "termination"
+        ],
+        "ga": "deireadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "close"
+        ],
+        "ga": "deireadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "facility"
+        ],
+        "ga": "deis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "concession"
+        ],
+        "ga": "deonaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grant"
+        ],
+        "ga": "deontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "diary"
+        ],
+        "ga": "dialann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wound"
+        ],
+        "ga": "dochar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "document"
+        ],
+        "ga": "doiciméad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "batch"
+        ],
+        "ga": "dol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dollar diplomacy"
+        ],
+        "ga": "dollarthaidhleoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "disservice"
+        ],
+        "ga": "droch-chomaoin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "disrepute"
+        ],
+        "ga": "droch-cháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "misgivings"
+        ],
+        "ga": "drochamhras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "long shot",
+            "long-shot"
+        ],
+        "ga": "drochsheans",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "unfortunate occasion"
+        ],
+        "ga": "drochuair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "misuse",
+            "abuse"
+        ],
+        "ga": "drochúsáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "endorsement"
+        ],
+        "ga": "droimscríobh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "draft"
+        ],
+        "ga": "dréacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "draft document"
+        ],
+        "ga": "dréacht-doiciméad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "draft report"
+        ],
+        "ga": "dréacht-tuarascáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "draft scheme"
+        ],
+        "ga": "dréachtscéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "duty"
+        ],
+        "ga": "dualgas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "legislative assembly"
+        ],
+        "ga": "dáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "constituency"
+        ],
+        "ga": "dáilcheantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "audacity"
+        ],
+        "ga": "dánacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "treatment"
+        ],
+        "ga": "déileáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dual citizenship"
+        ],
+        "ga": "déshaoránacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bilateralism"
+        ],
+        "ga": "déthaobhachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deregulation"
+        ],
+        "ga": "dírialáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prorogation"
+        ],
+        "ga": "díscor",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dole"
+        ],
+        "ga": "dól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "duplication"
+        ],
+        "ga": "dúbláil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "district"
+        ],
+        "ga": "dúiche",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "equerry"
+        ],
+        "ga": "eachaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "order"
+        ],
+        "ga": "eagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "organigram"
+        ],
+        "ga": "eagraghram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "organisation",
+            "organization"
+        ],
+        "ga": "eagraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "organisation",
+            "organization"
+        ],
+        "ga": "eagrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "attainment"
+        ],
+        "ga": "earmaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "area"
+        ],
+        "ga": "earnáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ergonomics"
+        ],
+        "ga": "eirgeanamaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "key development"
+        ],
+        "ga": "eochairfhorbairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "key principle"
+        ],
+        "ga": "eochairphrionsabal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "key priority"
+        ],
+        "ga": "eochairthosaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "key emphasis"
+        ],
+        "ga": "eochairthreise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "key indicator"
+        ],
+        "ga": "eochairtháscaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "keynote speech"
+        ],
+        "ga": "eochairóráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "troubleshooter"
+        ],
+        "ga": "fabhtcheartaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "opportunity"
+        ],
+        "ga": "faill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "predicament"
+        ],
+        "ga": "faopach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "catcalling"
+        ],
+        "ga": "faíreach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "betrayal"
+        ],
+        "ga": "feall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "diffusion"
+        ],
+        "ga": "feasachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "glare"
+        ],
+        "ga": "feiceálacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "function"
+        ],
+        "ga": "feidhmeannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "executive"
+        ],
+        "ga": "feidhmeannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "executive function"
+        ],
+        "ga": "feidhmiúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "performance"
+        ],
+        "ga": "feidhmíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "folder"
+        ],
+        "ga": "fillteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "suspension"
+        ],
+        "ga": "fionraí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "physiocrat"
+        ],
+        "ga": "fiseacratach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sovereignty"
+        ],
+        "ga": "flaithiúnas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subordinate legislation"
+        ],
+        "ga": "fo-reachtaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "under-sheriff"
+        ],
+        "ga": "fo-shirriam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subcommittee"
+        ],
+        "ga": "fochoiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subcontract"
+        ],
+        "ga": "fochonradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "verbosity"
+        ],
+        "ga": "foclachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "form"
+        ],
+        "ga": "foirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "formality"
+        ],
+        "ga": "foirmeáltacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transparency"
+        ],
+        "ga": "follasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "establishment"
+        ],
+        "ga": "foras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ground"
+        ],
+        "ga": "foras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "development"
+        ],
+        "ga": "forbairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cover-up"
+        ],
+        "ga": "forcheilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "recoupment"
+        ],
+        "ga": "forchúiteamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "supplement"
+        ],
+        "ga": "fordheontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subsidiary legislation"
+        ],
+        "ga": "foreachtaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reception"
+        ],
+        "ga": "forhalla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "subsidiary motion"
+        ],
+        "ga": "fothairiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "accountability"
+        ],
+        "ga": "freagracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "responsiveness"
+        ],
+        "ga": "freagrúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reversal"
+        ],
+        "ga": "freaschur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "attendance"
+        ],
+        "ga": "freastal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "repercussion"
+        ],
+        "ga": "frithiarmhairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "counter-proposal"
+        ],
+        "ga": "fritogra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "receipt"
+        ],
+        "ga": "fáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "receipt"
+        ],
+        "ga": "fáltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vision statement"
+        ],
+        "ga": "físráiteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subvention"
+        ],
+        "ga": "fóirdheontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "support"
+        ],
+        "ga": "fóirdheontas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "under-representation"
+        ],
+        "ga": "gannionadaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "protest"
+        ],
+        "ga": "gearán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "complaint"
+        ],
+        "ga": "gearán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "economy"
+        ],
+        "ga": "geilleagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pro-natalism"
+        ],
+        "ga": "giniúnaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "girth"
+        ],
+        "ga": "giorta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "net budget"
+        ],
+        "ga": "glanbhuiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "formality"
+        ],
+        "ga": "gnás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ordinary course"
+        ],
+        "ga": "gnáthchúrsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "element"
+        ],
+        "ga": "gné",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "exercise"
+        ],
+        "ga": "gnó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "governorship"
+        ],
+        "ga": "gobharnóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gosplan"
+        ],
+        "ga": "gosplean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "esteem"
+        ],
+        "ga": "gradam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "distinction"
+        ],
+        "ga": "gradam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "in-depth study"
+        ],
+        "ga": "grinnstaidéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rank"
+        ],
+        "ga": "grád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grade"
+        ],
+        "ga": "grád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hierarchy"
+        ],
+        "ga": "grádlathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "requirement"
+        ],
+        "ga": "gá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "persecutor"
+        ],
+        "ga": "géarleantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compulsion"
+        ],
+        "ga": "iallach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "territorial enclave"
+        ],
+        "ga": "iamhchríoch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "former deputy director"
+        ],
+        "ga": "iar-leas-stiúrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "consequence"
+        ],
+        "ga": "iarmhairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ramification"
+        ],
+        "ga": "iarmhairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "former mayor"
+        ],
+        "ga": "iarmhéara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "application"
+        ],
+        "ga": "iarratas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "applicant"
+        ],
+        "ga": "iarratasóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "annex"
+        ],
+        "ga": "iarscríbhinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "borrowing"
+        ],
+        "ga": "iasachtaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "negotiation"
+        ],
+        "ga": "idirbheartaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "liaison"
+        ],
+        "ga": "idirchaidreamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "interfacing"
+        ],
+        "ga": "idirphlé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "transitional period"
+        ],
+        "ga": "idirthréimhse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "window period"
+        ],
+        "ga": "idirthréimhse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "overtone"
+        ],
+        "ga": "imir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "entreaty"
+        ],
+        "ga": "impí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wrangling"
+        ],
+        "ga": "imreas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wrangle"
+        ],
+        "ga": "imreas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dispute"
+        ],
+        "ga": "imreas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "manageability"
+        ],
+        "ga": "inbhainistitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "increment"
+        ],
+        "ga": "incrimint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "advisability"
+        ],
+        "ga": "inmholtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "workability"
+        ],
+        "ga": "inoibritheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "severability"
+        ],
+        "ga": "inscoiteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "institution"
+        ],
+        "ga": "institiúid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "internship"
+        ],
+        "ga": "intéirneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "profile"
+        ],
+        "ga": "iomrá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "repute"
+        ],
+        "ga": "iomrá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "representation"
+        ],
+        "ga": "ionadaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "inclusion"
+        ],
+        "ga": "ionchuimsitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lodging"
+        ],
+        "ga": "iostas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "junket"
+        ],
+        "ga": "juncaed",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "junketeer",
+            "junketer"
+        ],
+        "ga": "juncaedóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "junketeering"
+        ],
+        "ga": "juncaedóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "speaking"
+        ],
+        "ga": "labhairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "version"
+        ],
+        "ga": "leagan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "great number"
+        ],
+        "ga": "lear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deputy director"
+        ],
+        "ga": "leas-stiúrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reform"
+        ],
+        "ga": "leasúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "one side"
+        ],
+        "ga": "leataobh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "deadlock"
+        ],
+        "ga": "leathghlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tier"
+        ],
+        "ga": "leibhéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lieutenant"
+        ],
+        "ga": "leifteanant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fragility"
+        ],
+        "ga": "leochaileacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "area"
+        ],
+        "ga": "limistéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "letter post"
+        ],
+        "ga": "litirphost",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "defect"
+        ],
+        "ga": "locht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "express mail"
+        ],
+        "ga": "luasphost",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "plenipotentiary power"
+        ],
+        "ga": "lánchumhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plenipotentiary"
+        ],
+        "ga": "lánchumhachtach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "discretion"
+        ],
+        "ga": "lánrogha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "middle"
+        ],
+        "ga": "lár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "central office"
+        ],
+        "ga": "lároifig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "presence"
+        ],
+        "ga": "láthair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interpretation"
+        ],
+        "ga": "léamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reading"
+        ],
+        "ga": "léamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "decay"
+        ],
+        "ga": "léig",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "change"
+        ],
+        "ga": "malairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "oversight"
+        ],
+        "ga": "maoirseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "supervisor"
+        ],
+        "ga": "maoirseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cavalcade"
+        ],
+        "ga": "marcshlua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "insult"
+        ],
+        "ga": "masla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "notional service"
+        ],
+        "ga": "meas-seirbhís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quotation"
+        ],
+        "ga": "meastachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "evaluation"
+        ],
+        "ga": "measúnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "middle income"
+        ],
+        "ga": "meánioncam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mint"
+        ],
+        "ga": "mionta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minilateralism"
+        ],
+        "ga": "miontaobhachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "minute"
+        ],
+        "ga": "miontuairisc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "delay"
+        ],
+        "ga": "moill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "proposer"
+        ],
+        "ga": "moltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "referee"
+        ],
+        "ga": "moltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dominance"
+        ],
+        "ga": "mursantacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mace bearer"
+        ],
+        "ga": "másaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mayor"
+        ],
+        "ga": "méara",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "disarray"
+        ],
+        "ga": "mí-eagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mismanagement"
+        ],
+        "ga": "míbhainistíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "misinterpretation"
+        ],
+        "ga": "míchiall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "discomfiture"
+        ],
+        "ga": "míchompord",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "no confidence"
+        ],
+        "ga": "mímhuinín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "irregularity"
+        ],
+        "ga": "mírialtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "maladministration"
+        ],
+        "ga": "míriarachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "misguidance"
+        ],
+        "ga": "míthreoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bond"
+        ],
+        "ga": "nasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "twin town"
+        ],
+        "ga": "nascbhaile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wit"
+        ],
+        "ga": "nathaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ineligibility"
+        ],
+        "ga": "neamh-incháilitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "inattention",
+            "disregard"
+        ],
+        "ga": "neamhaird",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nothing"
+        ],
+        "ga": "neamhní",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "discloser"
+        ],
+        "ga": "nochtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "remark"
+        ],
+        "ga": "nóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "official"
+        ],
+        "ga": "oifigeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "assembly"
+        ],
+        "ga": "oireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parastatal"
+        ],
+        "ga": "parastátach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "amnesty"
+        ],
+        "ga": "pardún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pardon"
+        ],
+        "ga": "pardún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "personnel"
+        ],
+        "ga": "pearsanra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "planner"
+        ],
+        "ga": "pleanálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "deliberations"
+        ],
+        "ga": "plé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "discussion document",
+            "think piece"
+        ],
+        "ga": "plécháipéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "discussion paper"
+        ],
+        "ga": "plépháipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "postal district"
+        ],
+        "ga": "postcheantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "press secretary"
+        ],
+        "ga": "preasrúnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "canon"
+        ],
+        "ga": "prionsabal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "alert"
+        ],
+        "ga": "práinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "urgency"
+        ],
+        "ga": "práinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "prime minister"
+        ],
+        "ga": "príomh-aire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lead responsibility"
+        ],
+        "ga": "príomhfhreagracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chief officer"
+        ],
+        "ga": "príomhoifigeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "key player"
+        ],
+        "ga": "príomhpháirtí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "leading authority"
+        ],
+        "ga": "príomhshaineolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chief technican"
+        ],
+        "ga": "príomhtheicneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "leading authority"
+        ],
+        "ga": "príomhúdarás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "processing"
+        ],
+        "ga": "próiseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "precinct"
+        ],
+        "ga": "purlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pontification"
+        ],
+        "ga": "pápaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pair"
+        ],
+        "ga": "péire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pairing"
+        ],
+        "ga": "péireáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plethora",
+            "abundance"
+        ],
+        "ga": "raidhse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "participant",
+            "participator"
+        ],
+        "ga": "rannpháirtí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "division"
+        ],
+        "ga": "rannán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ambit"
+        ],
+        "ga": "raon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scope"
+        ],
+        "ga": "raon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "rule"
+        ],
+        "ga": "riail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "governance"
+        ],
+        "ga": "rialachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "administration"
+        ],
+        "ga": "rialtas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "controller"
+        ],
+        "ga": "rialtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "regulator"
+        ],
+        "ga": "rialálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "regulation"
+        ],
+        "ga": "rialúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "administration"
+        ],
+        "ga": "riarachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "backlog"
+        ],
+        "ga": "riaráiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "option"
+        ],
+        "ga": "rogha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "select committee"
+        ],
+        "ga": "roghchoiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "department"
+        ],
+        "ga": "roinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "division",
+            "department",
+            "dept",
+            "compartment",
+            "section"
+        ],
+        "ga": "roinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "comment"
+        ],
+        "ga": "ráiteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "communiqué"
+        ],
+        "ga": "ráiteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pre-consultation"
+        ],
+        "ga": "réamhchomhairliúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "preliminary"
+        ],
+        "ga": "réamhchéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "advance notice"
+        ],
+        "ga": "réamhfhógra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "preliminary version"
+        ],
+        "ga": "réamhleagan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "forward planner"
+        ],
+        "ga": "réamhphleanálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "antecedent period"
+        ],
+        "ga": "réamhthréimhse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "extent"
+        ],
+        "ga": "réim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "authority"
+        ],
+        "ga": "réim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "regime"
+        ],
+        "ga": "réimeas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "resolution"
+        ],
+        "ga": "réiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "enthronement"
+        ],
+        "ga": "rí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sovereign"
+        ],
+        "ga": "rí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "privy councillor",
+            "PC"
+        ],
+        "ga": "ríchomhairleoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "kingship"
+        ],
+        "ga": "ríogacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "e-Governance"
+        ],
+        "ga": "ríomh-Rialachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "e-submission"
+        ],
+        "ga": "ríomhaighneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "e-democracy"
+        ],
+        "ga": "ríomhdhaonlathas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "e-procurement"
+        ],
+        "ga": "ríomhsholáthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "e-tender"
+        ],
+        "ga": "ríomhthairiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "over-representation"
+        ],
+        "ga": "ró-ionadaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "red tape"
+        ],
+        "ga": "ró-oifigiúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "overspend"
+        ],
+        "ga": "róchaitheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "overstayer"
+        ],
+        "ga": "rófhantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "gold-plating"
+        ],
+        "ga": "rórialáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "resolution"
+        ],
+        "ga": "rún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "secret"
+        ],
+        "ga": "rún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "motion"
+        ],
+        "ga": "rún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "secrecy"
+        ],
+        "ga": "rúndacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aide"
+        ],
+        "ga": "sainchabhróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "zone"
+        ],
+        "ga": "saincheantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "special right"
+        ],
+        "ga": "saincheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "specialist committee"
+        ],
+        "ga": "sainchoiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "consultant"
+        ],
+        "ga": "sainchomhairleoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "specific purpose"
+        ],
+        "ga": "sainchuspóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "authority"
+        ],
+        "ga": "saineolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "prerogative"
+        ],
+        "ga": "sainphribhléid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "specific direction"
+        ],
+        "ga": "saintreoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "free movement"
+        ],
+        "ga": "saorghluaiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "free zone"
+        ],
+        "ga": "saorlimistéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "volunteer"
+        ],
+        "ga": "saorálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "citizenship"
+        ],
+        "ga": "saoránacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "large number"
+        ],
+        "ga": "scata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "whistleblower",
+            "whistle-blower"
+        ],
+        "ga": "sceithire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "whistle-blowing",
+            "whistleblowing"
+        ],
+        "ga": "sceithireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "third age"
+        ],
+        "ga": "scothaois",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "scrutineer"
+        ],
+        "ga": "scrúdanóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sheltered accommodation"
+        ],
+        "ga": "scáthchóiríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shadow toll"
+        ],
+        "ga": "scáthdhola",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "work shadowing"
+        ],
+        "ga": "scáthfhoghlaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shadow director"
+        ],
+        "ga": "scáthstiúrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "message"
+        ],
+        "ga": "scéala",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tidings"
+        ],
+        "ga": "scéala",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "scheme"
+        ],
+        "ga": "scéim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "extraterritoriality"
+        ],
+        "ga": "seach-chríochachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seneschal"
+        ],
+        "ga": "seanascal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "eldership"
+        ],
+        "ga": "seanóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ceremonial"
+        ],
+        "ga": "searmanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "commemoration"
+        ],
+        "ga": "searmanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "addressee"
+        ],
+        "ga": "seolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "surname"
+        ],
+        "ga": "sloinne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "securocrat"
+        ],
+        "ga": "slándálathaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "room"
+        ],
+        "ga": "slí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "control"
+        ],
+        "ga": "smacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "benefit"
+        ],
+        "ga": "sochar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "arrangement"
+        ],
+        "ga": "socraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coherence"
+        ],
+        "ga": "soiléire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prior measure"
+        ],
+        "ga": "soláthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "filofax"
+        ],
+        "ga": "sonrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "recess"
+        ],
+        "ga": "sos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "contention"
+        ],
+        "ga": "spairn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spot check"
+        ],
+        "ga": "spotseiceáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "keynote speaker"
+        ],
+        "ga": "spreagchainteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "target"
+        ],
+        "ga": "sprioc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deadline"
+        ],
+        "ga": "sprioc-am",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "post aim"
+        ],
+        "ga": "spriocphost",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "detractor"
+        ],
+        "ga": "spídeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "strand"
+        ],
+        "ga": "sraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cessation"
+        ],
+        "ga": "stad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "statistic"
+        ],
+        "ga": "staitisteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "director"
+        ],
+        "ga": "stiúrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "directorate"
+        ],
+        "ga": "stiúrthóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "structure"
+        ],
+        "ga": "struchtúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stateswoman"
+        ],
+        "ga": "státaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "state government"
+        ],
+        "ga": "státrialtas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "civil service"
+        ],
+        "ga": "státseirbhís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "session"
+        ],
+        "ga": "suí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "disputation"
+        ],
+        "ga": "sáraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "argument"
+        ],
+        "ga": "sáraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "expectation"
+        ],
+        "ga": "súil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "supporter"
+        ],
+        "ga": "tacadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "liaison"
+        ],
+        "ga": "tadhall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reference"
+        ],
+        "ga": "tagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "reference"
+        ],
+        "ga": "tagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "delegation"
+        ],
+        "ga": "tarmligean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "task force"
+        ],
+        "ga": "tascfhórsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "coming"
+        ],
+        "ga": "teacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "delegate"
+        ],
+        "ga": "teachta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "establishment"
+        ],
+        "ga": "teaghlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "liaison"
+        ],
+        "ga": "teagmháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "underspending"
+        ],
+        "ga": "tearc-chaiteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "underperformance"
+        ],
+        "ga": "tearcfheidhmíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "refuge"
+        ],
+        "ga": "tearmann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hot temper",
+            "passion",
+            "heat"
+        ],
+        "ga": "teasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "entitlement"
+        ],
+        "ga": "teidlíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "entitlement"
+        ],
+        "ga": "teidlíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "peer"
+        ],
+        "ga": "tiarna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "peerage"
+        ],
+        "ga": "tiarnas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "undertaking"
+        ],
+        "ga": "tiomantas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "collator"
+        ],
+        "ga": "tiomsaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tutor"
+        ],
+        "ga": "tionchascóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "initiation"
+        ],
+        "ga": "tionscnamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gathering"
+        ],
+        "ga": "tionól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "convention"
+        ],
+        "ga": "tionól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "convener"
+        ],
+        "ga": "tionólaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "constituency",
+            "electoral group"
+        ],
+        "ga": "togh-ghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "constituency"
+        ],
+        "ga": "toghlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "embargo"
+        ],
+        "ga": "toirmeasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "finding"
+        ],
+        "ga": "toradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "front"
+        ],
+        "ga": "tosach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "precedence",
+            "priority"
+        ],
+        "ga": "tosaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "envoy"
+        ],
+        "ga": "toscaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deputation"
+        ],
+        "ga": "toscaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interruption"
+        ],
+        "ga": "trasnáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "contradiction"
+        ],
+        "ga": "trasnáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "embarrassment"
+        ],
+        "ga": "treampán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guidance note"
+        ],
+        "ga": "treoirnóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "troika"
+        ],
+        "ga": "triúracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "majoritarianism"
+        ],
+        "ga": "tromlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trustmark"
+        ],
+        "ga": "trustmharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "timing"
+        ],
+        "ga": "tráthúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stage"
+        ],
+        "ga": "tréimhse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "term"
+        ],
+        "ga": "tréimhse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tri-location"
+        ],
+        "ga": "tríshuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tripartism"
+        ],
+        "ga": "tríthaobhachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "judgement",
+            "judgment"
+        ],
+        "ga": "tuairim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "conjecture"
+        ],
+        "ga": "tuairimíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "report"
+        ],
+        "ga": "tuarascáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "addition"
+        ],
+        "ga": "tuilleadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "productivity"
+        ],
+        "ga": "táirgiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inference",
+            "deduction"
+        ],
+        "ga": "tátal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "term"
+        ],
+        "ga": "téarma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "term"
+        ],
+        "ga": "téarma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "beginning"
+        ],
+        "ga": "tús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "forward position"
+        ],
+        "ga": "tús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "presidency"
+        ],
+        "ga": "uachtaránacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maximum period"
+        ],
+        "ga": "uastréimhse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spokesman",
+            "spokesperson"
+        ],
+        "ga": "urlabhraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spokeswoman",
+            "spokesperson"
+        ],
+        "ga": "urlabhraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "control"
+        ],
+        "ga": "urlámhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "voting"
+        ],
+        "ga": "vótaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "division"
+        ],
+        "ga": "vótáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "voting"
+        ],
+        "ga": "vótáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "expedient"
+        ],
+        "ga": "áis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "wrong"
+        ],
+        "ga": "éagóir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "multiplier"
+        ],
+        "ga": "éascaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "effect"
+        ],
+        "ga": "éifeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "uncertainty"
+        ],
+        "ga": "éiginnteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wit"
+        ],
+        "ga": "éirim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hearing"
+        ],
+        "ga": "éisteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ethos"
+        ],
+        "ga": "éiteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "award"
+        ],
+        "ga": "íocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subordinate"
+        ],
+        "ga": "íochtarán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minimum standard"
+        ],
+        "ga": "íoschaighdeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minimum period"
+        ],
+        "ga": "íostréimhse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "respect"
+        ],
+        "ga": "ómós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "institution"
+        ],
+        "ga": "údarás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "authoritarianism"
+        ],
+        "ga": "údarásaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "usage"
+        ],
+        "ga": "úsáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "utopianism"
+        ],
+        "ga": "útóipeachas",
+        "gender": "masculine"
+    }
+]

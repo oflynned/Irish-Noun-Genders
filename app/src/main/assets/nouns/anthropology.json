@@ -1,0 +1,537 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Abbasid"
+        ],
+        "ga": "Abasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Alawi"
+        ],
+        "ga": "Alabhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Alawite"
+        ],
+        "ga": "Alabhaíteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Arawak"
+        ],
+        "ga": "Aruacach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Asante"
+        ],
+        "ga": "Asantaech",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Bangladeshi"
+        ],
+        "ga": "Banglaidéiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Carib"
+        ],
+        "ga": "Cairibeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cree"
+        ],
+        "ga": "Craíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Efe"
+        ],
+        "ga": "Eifeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Glooskap"
+        ],
+        "ga": "Glúscap",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mughal",
+            "Mogul",
+            "Moghul"
+        ],
+        "ga": "Mógal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Maurya"
+        ],
+        "ga": "Móirí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "San"
+        ],
+        "ga": "Sanach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Chavin"
+        ],
+        "ga": "Seaivíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Chukchi"
+        ],
+        "ga": "Siuicsíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Uighur",
+            "Uyghur"
+        ],
+        "ga": "Uigiúrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "abaya"
+        ],
+        "ga": "abáia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "archaeoastronomy"
+        ],
+        "ga": "aircéiréalteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "anthropography"
+        ],
+        "ga": "antrapagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "high civilisation"
+        ],
+        "ga": "ardsibhialtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "father"
+        ],
+        "ga": "athair",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guy"
+        ],
+        "ga": "buachaill",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slang"
+        ],
+        "ga": "béarlagair",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "etiquette"
+        ],
+        "ga": "béasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cannibal"
+        ],
+        "ga": "canablach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lead-organisation"
+        ],
+        "ga": "ceanneagraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "race"
+        ],
+        "ga": "cine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clade"
+        ],
+        "ga": "clád",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cladogram"
+        ],
+        "ga": "cládagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "crown"
+        ],
+        "ga": "coróin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "culturomics"
+        ],
+        "ga": "cultúramaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "first born"
+        ],
+        "ga": "céadghin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coffin"
+        ],
+        "ga": "cónra",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "human"
+        ],
+        "ga": "duine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ethnographer"
+        ],
+        "ga": "eitneagrafaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ethnocentricity"
+        ],
+        "ga": "eitnealárnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ethnologist"
+        ],
+        "ga": "eitneolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "feast"
+        ],
+        "ga": "fleá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lineage"
+        ],
+        "ga": "ginealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "convention",
+            "custom",
+            "habit"
+        ],
+        "ga": "gnás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "day-to-day life"
+        ],
+        "ga": "gnáthshaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "geisha"
+        ],
+        "ga": "géise",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jubilee"
+        ],
+        "ga": "iubhaile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mummy"
+        ],
+        "ga": "mumaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "moolvee"
+        ],
+        "ga": "múilví",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "noosphere"
+        ],
+        "ga": "nóaisféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "godfather"
+        ],
+        "ga": "oide",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "legacy"
+        ],
+        "ga": "oidhreacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pygmy"
+        ],
+        "ga": "pigmí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "community"
+        ],
+        "ga": "pobal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "characteristic feature"
+        ],
+        "ga": "príomhthréith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kiss"
+        ],
+        "ga": "póg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "grandfather",
+            "grandparent"
+        ],
+        "ga": "seanathair",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "grandmother",
+            "grandparent"
+        ],
+        "ga": "seanmháthair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grandparent"
+        ],
+        "ga": "seantuismitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "shogun"
+        ],
+        "ga": "seogan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chador"
+        ],
+        "ga": "seádar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "great-grandfather"
+        ],
+        "ga": "sin-seanathair",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "great-grandparent"
+        ],
+        "ga": "sin-seanathair",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "great-grandmother"
+        ],
+        "ga": "sin-seanmháthair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "great-grandparent"
+        ],
+        "ga": "sin-seanmháthair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "great-grandparent"
+        ],
+        "ga": "sin-seantuismitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ancestor"
+        ],
+        "ga": "sinsear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "descendant"
+        ],
+        "ga": "sliochtach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "funeral"
+        ],
+        "ga": "sochraid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sadhu"
+        ],
+        "ga": "sádú",
+        "gender": "masculine"
+    }
+]

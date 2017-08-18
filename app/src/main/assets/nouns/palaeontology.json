@@ -1,0 +1,444 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Palaeozoic"
+        ],
+        "ga": "Pailéasóch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Palaeocene"
+        ],
+        "ga": "Pailéicéineach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "acritarch"
+        ],
+        "ga": "acratarc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aeolianite"
+        ],
+        "ga": "aeóilít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ammonite"
+        ],
+        "ga": "amóinít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "beekite"
+        ],
+        "ga": "bicít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pseudo-fossil"
+        ],
+        "ga": "bréagiontaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stone age"
+        ],
+        "ga": "clochaois",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "assemblage"
+        ],
+        "ga": "cluichreán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "coprolite"
+        ],
+        "ga": "coprailít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quasi-fossil"
+        ],
+        "ga": "gariontaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ichnology"
+        ],
+        "ga": "icneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ichnofossil"
+        ],
+        "ga": "icni-iontaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ichnite"
+        ],
+        "ga": "icnít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fossilology"
+        ],
+        "ga": "iontaiseolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "impression"
+        ],
+        "ga": "lorg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "macrofossil"
+        ],
+        "ga": "maicriontaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "micropalaeontology"
+        ],
+        "ga": "micreapailé-ointeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "microfossil",
+            "microscopic fossil"
+        ],
+        "ga": "micriontaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nanofossil"
+        ],
+        "ga": "nainiontaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeo-oceanography"
+        ],
+        "ga": "pailé-aigéaneolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeoanthropology"
+        ],
+        "ga": "pailé-antraipeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeocartography"
+        ],
+        "ga": "pailéachartagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palaeocommunity"
+        ],
+        "ga": "pailéachumann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palaeolatitude"
+        ],
+        "ga": "pailéadhomhanleithead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "palaeoslope"
+        ],
+        "ga": "pailéafhána",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palaeomagnetism"
+        ],
+        "ga": "pailéamaighnéadas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "palaeoplain"
+        ],
+        "ga": "pailéamhá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palaeosol"
+        ],
+        "ga": "pailéasal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeosalinity"
+        ],
+        "ga": "pailéashalandacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palaeostructure"
+        ],
+        "ga": "pailéastruchtúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "palaeosome"
+        ],
+        "ga": "pailéasóm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeozoology"
+        ],
+        "ga": "pailéazó-eolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeobiology"
+        ],
+        "ga": "pailéibhitheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeobiogeography"
+        ],
+        "ga": "pailéibhithgheografaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "palaeoclimate"
+        ],
+        "ga": "pailéichlíoma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeoclimatology"
+        ],
+        "ga": "pailéichlíomeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeocurrent"
+        ],
+        "ga": "pailéifheacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeophysiography"
+        ],
+        "ga": "pailéifiseagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeophytology"
+        ],
+        "ga": "pailéifíteolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeogeography"
+        ],
+        "ga": "pailéigeografaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "palaeogeophysics"
+        ],
+        "ga": "pailéigeoifisic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeogeology"
+        ],
+        "ga": "pailéigeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeohydrology"
+        ],
+        "ga": "pailéihidreolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeomicrobiology"
+        ],
+        "ga": "pailéimicribhitheolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeopedology"
+        ],
+        "ga": "pailéipeideolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeothermometry"
+        ],
+        "ga": "pailéiteirmiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "palaeotemperature"
+        ],
+        "ga": "pailéitheocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pygidium"
+        ],
+        "ga": "pigidiam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cast"
+        ],
+        "ga": "rian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trace-fossil"
+        ],
+        "ga": "rianiontaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "index fossil",
+            "type fossil"
+        ],
+        "ga": "sainiontaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "guide fossil"
+        ],
+        "ga": "treoiriontaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "indicator fossil"
+        ],
+        "ga": "tásciontaise",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "amber"
+        ],
+        "ga": "ómra",
+        "gender": "masculine"
+    }
+]

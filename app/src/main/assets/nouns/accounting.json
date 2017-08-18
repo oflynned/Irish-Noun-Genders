@@ -1,0 +1,208 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "first price"
+        ],
+        "ga": "bunphraghas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "attachment"
+        ],
+        "ga": "ceangaltán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consensus"
+        ],
+        "ga": "comhdhearcadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bad risk"
+        ],
+        "ga": "drochriosca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "auxiliary account",
+            "subsidiary account"
+        ],
+        "ga": "fochuntas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "set-off"
+        ],
+        "ga": "fritháireamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "approximate figure"
+        ],
+        "ga": "garbhfhigiúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "group auditor"
+        ],
+        "ga": "grúpiniúchóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "after depreciation",
+            "net of depreciation"
+        ],
+        "ga": "iar-dhímheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subsequent event"
+        ],
+        "ga": "iar-theagmhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "recoverability"
+        ],
+        "ga": "in-aisghabhálacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "auditing"
+        ],
+        "ga": "iniúchóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "narrative"
+        ],
+        "ga": "insint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "entry"
+        ],
+        "ga": "iontráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "impairment"
+        ],
+        "ga": "laige",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "charge"
+        ],
+        "ga": "muirear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "master budget"
+        ],
+        "ga": "máistirbhuiséad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "misrepresentation"
+        ],
+        "ga": "mífhaisnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ledger"
+        ],
+        "ga": "mórleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "principal book"
+        ],
+        "ga": "príomhleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "corridor"
+        ],
+        "ga": "raon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "credit",
+            "CR"
+        ],
+        "ga": "sochar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "piecework",
+            "jobwork",
+            "piece-work"
+        ],
+        "ga": "tascobair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "output"
+        ],
+        "ga": "toradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "returns",
+            "return"
+        ],
+        "ga": "tuairisceán",
+        "gender": "masculine"
+    }
+]

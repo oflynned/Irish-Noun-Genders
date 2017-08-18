@@ -4,6 +4,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 /**
@@ -18,12 +19,13 @@ public class Noun {
     private Gender gender;
     private String irishWord;
     private ArrayList<String> englishTranslation = new ArrayList<>();
+    private ArrayList<String> domains = new ArrayList<>();
 
     public Noun(JSONObject o) throws JSONException {
         this(Gender.valueOf(o.getString("gender")), o.getString("ga"), o.getJSONArray("en"));
     }
 
-    public Noun(Gender gender, String irishWord, JSONArray englishTranslation) throws JSONException {
+    private Noun(Gender gender, String irishWord, JSONArray englishTranslation) throws JSONException {
         this.gender = gender;
         this.irishWord = irishWord;
 
@@ -53,5 +55,9 @@ public class Noun {
         }
 
         return output;
+    }
+
+    public ArrayList<String> getDomains() {
+        return domains;
     }
 }

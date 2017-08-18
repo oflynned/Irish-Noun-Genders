@@ -1,0 +1,279 @@
+[
+    {
+        "declension": 3,
+        "en": [
+            "buffoon"
+        ],
+        "ga": "abhlóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aerialist"
+        ],
+        "ga": "aer-chleasghleacaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "antipodism"
+        ],
+        "ga": "antapódachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comedienne"
+        ],
+        "ga": "banfhuirseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bar",
+            "barre"
+        ],
+        "ga": "barra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clown"
+        ],
+        "ga": "bobaide",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "clowning"
+        ],
+        "ga": "bobaideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bungee"
+        ],
+        "ga": "buinsí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "acrobat"
+        ],
+        "ga": "cleasghleacaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "acrobatics"
+        ],
+        "ga": "cleasghleacaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cradle"
+        ],
+        "ga": "cliabhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fame"
+        ],
+        "ga": "clú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ring",
+            "circus ring"
+        ],
+        "ga": "cró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ringmaster"
+        ],
+        "ga": "cró-mháistir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flyer"
+        ],
+        "ga": "eitleoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "contortion"
+        ],
+        "ga": "freanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "contortionist"
+        ],
+        "ga": "freangálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "festival"
+        ],
+        "ga": "féile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pin up"
+        ],
+        "ga": "gean-samhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "catcher"
+        ],
+        "ga": "glacaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "webisode"
+        ],
+        "ga": "gréasasód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hulahoop",
+            "hula hoop"
+        ],
+        "ga": "húlahúp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mentalist"
+        ],
+        "ga": "intinneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "venue"
+        ],
+        "ga": "ionad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ride"
+        ],
+        "ga": "marcaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pyrotechnist",
+            "pyrotechnician"
+        ],
+        "ga": "piriteicneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bounce juggling"
+        ],
+        "ga": "preab-lámhchleasaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vaulting board",
+            "springboard"
+        ],
+        "ga": "preabchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "puppetry"
+        ],
+        "ga": "puipéadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rigger"
+        ],
+        "ga": "rigeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "showband"
+        ],
+        "ga": "seó-bhanna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ticket"
+        ],
+        "ga": "ticéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trapeze"
+        ],
+        "ga": "traipéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trapeze artist"
+        ],
+        "ga": "traipéiseoir",
+        "gender": "masculine"
+    }
+]

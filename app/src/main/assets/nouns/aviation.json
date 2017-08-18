@@ -1,0 +1,1318 @@
+[
+    {
+        "declension": 3,
+        "en": [
+            "Air Commodore"
+        ],
+        "ga": "Aer-Cheannasóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "C-scope"
+        ],
+        "ga": "C-scóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mach cone"
+        ],
+        "ga": "Mach-chón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Mach line"
+        ],
+        "ga": "Mach-líne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Mach meter",
+            "Machmeter"
+        ],
+        "ga": "Machmhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "Mach number"
+        ],
+        "ga": "Machuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aerobatics"
+        ],
+        "ga": "aeraclaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aerodyne"
+        ],
+        "ga": "aeraidín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aeroelasticity"
+        ],
+        "ga": "aeraileaisteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aeromedicine",
+            "aviation medicine"
+        ],
+        "ga": "aeraileigheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aeroarthrosis"
+        ],
+        "ga": "aerartróis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aerospace"
+        ],
+        "ga": "aeraspás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aerostat",
+            "balloon"
+        ],
+        "ga": "aerastat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "airway",
+            "air-way"
+        ],
+        "ga": "aerbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air-route"
+        ],
+        "ga": "aerbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "air base"
+        ],
+        "ga": "aerbhunáit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "air corridor"
+        ],
+        "ga": "aerchonair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "aerofoil",
+            "airfoil"
+        ],
+        "ga": "aereiteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "airframe"
+        ],
+        "ga": "aerfhráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "air-activity"
+        ],
+        "ga": "aerghníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air transport"
+        ],
+        "ga": "aeriompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "air freight",
+            "airfreight"
+        ],
+        "ga": "aerlasta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air fleet"
+        ],
+        "ga": "aerloingeas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aeronautics"
+        ],
+        "ga": "aerloingseoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "airship"
+        ],
+        "ga": "aerlong",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "airspeed"
+        ],
+        "ga": "aerluas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "air lane"
+        ],
+        "ga": "aerlána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air squadron"
+        ],
+        "ga": "aerscuadrún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air position"
+        ],
+        "ga": "aershuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air space",
+            "airspace"
+        ],
+        "ga": "aerspás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "airstrip"
+        ],
+        "ga": "aerstráice",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "air border"
+        ],
+        "ga": "aertheorainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air insurance"
+        ],
+        "ga": "aerárachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air hostess",
+            "flight attendant"
+        ],
+        "ga": "aeróstach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "anisoinertia"
+        ],
+        "ga": "ainiseatáimhe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anisoelasticity"
+        ],
+        "ga": "ainisileaisteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "altitude"
+        ],
+        "ga": "airde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elevon"
+        ],
+        "ga": "airdearán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "altimeter"
+        ],
+        "ga": "airdemhéadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "altimetry"
+        ],
+        "ga": "airdemhéadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "contact flying"
+        ],
+        "ga": "amharceitilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spoiler"
+        ],
+        "ga": "bacóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "barotalgia"
+        ],
+        "ga": "barotailge",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "top roping"
+        ],
+        "ga": "barr-rópáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "blimp"
+        ],
+        "ga": "blimpe",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lock-in"
+        ],
+        "ga": "blocáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "burble"
+        ],
+        "ga": "boirbéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "twilight"
+        ],
+        "ga": "breacsholas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "burping"
+        ],
+        "ga": "brúchtaíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pressure suit"
+        ],
+        "ga": "brúchulaith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cabotage"
+        ],
+        "ga": "cabatáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "hull"
+        ],
+        "ga": "cabhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "fuselage"
+        ],
+        "ga": "cabhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cardioid"
+        ],
+        "ga": "cardóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bonder"
+        ],
+        "ga": "ceanglóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "masking"
+        ],
+        "ga": "ceilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clevis"
+        ],
+        "ga": "cleibhí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lug"
+        ],
+        "ga": "cluaisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crackle"
+        ],
+        "ga": "cnagarnach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stabilizer",
+            "stabiliser"
+        ],
+        "ga": "cobhsaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compound rotorcraft"
+        ],
+        "ga": "comh-rótarárthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air terminal",
+            "airline terminal",
+            "airport terminal"
+        ],
+        "ga": "críochfort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "keel"
+        ],
+        "ga": "cíle",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mouse"
+        ],
+        "ga": "cíor",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coning"
+        ],
+        "ga": "cónchasadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lazy leg"
+        ],
+        "ga": "cúlchorda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "slip stream"
+        ],
+        "ga": "cúlsruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "blister"
+        ],
+        "ga": "cúpóil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "drone"
+        ],
+        "ga": "dordán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dew-point",
+            "dew point"
+        ],
+        "ga": "drúchtphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "biplane"
+        ],
+        "ga": "déphlána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "disreefing"
+        ],
+        "ga": "dírífeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dope"
+        ],
+        "ga": "dóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "formation"
+        ],
+        "ga": "eagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ejection"
+        ],
+        "ga": "eisteilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aeroplane"
+        ],
+        "ga": "eitleán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aviation"
+        ],
+        "ga": "eitlíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flying shuttle"
+        ],
+        "ga": "eitspól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gliding flight",
+            "glide"
+        ],
+        "ga": "faoileitilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "glider"
+        ],
+        "ga": "faoileoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flexure"
+        ],
+        "ga": "fleiscshiúnta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stowaway"
+        ],
+        "ga": "folachánaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "canopy"
+        ],
+        "ga": "forscáth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sound barrier"
+        ],
+        "ga": "fuaimbhac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "standby"
+        ],
+        "ga": "fuireachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fence"
+        ],
+        "ga": "fál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "collector"
+        ],
+        "ga": "gabhdán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "wind tunnel"
+        ],
+        "ga": "gaoth-thollán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lockout"
+        ],
+        "ga": "glasáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "normal spin"
+        ],
+        "ga": "gnáth-ghuairne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "line maintenance"
+        ],
+        "ga": "gnáthchothabháil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Gosport tube"
+        ],
+        "ga": "guthfheadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gyrodyne"
+        ],
+        "ga": "gíridín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gore"
+        ],
+        "ga": "góire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hydroski"
+        ],
+        "ga": "hidriscí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hydrazine"
+        ],
+        "ga": "hiodraisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hypersonics"
+        ],
+        "ga": "hipearsonaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "afterburning"
+        ],
+        "ga": "iardhó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "controllability"
+        ],
+        "ga": "inrialaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ingestion"
+        ],
+        "ga": "iontógáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "blade angle"
+        ],
+        "ga": "lannuillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "freight plane"
+        ],
+        "ga": "lasteitleán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "load manifest"
+        ],
+        "ga": "lastliosta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "localizer"
+        ],
+        "ga": "logaimsitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "track"
+        ],
+        "ga": "lorg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lanyard"
+        ],
+        "ga": "láinnéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "centre section"
+        ],
+        "ga": "lárchuid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ball broaching"
+        ],
+        "ga": "meallbhróisteáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "fast roping"
+        ],
+        "ga": "mear-rópáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "monocoque"
+        ],
+        "ga": "monachabhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "monoplane"
+        ],
+        "ga": "monaplána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "liftweb"
+        ],
+        "ga": "más-strapa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mothership"
+        ],
+        "ga": "máthair-árthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "augmenter"
+        ],
+        "ga": "méadaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nacelle"
+        ],
+        "ga": "naoisil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "connecting flight"
+        ],
+        "ga": "nasceitilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "near-miss"
+        ],
+        "ga": "neastimpiste",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cloud searchlight",
+            "ceiling projector"
+        ],
+        "ga": "néalteilgeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plenum chamber",
+            "plenum"
+        ],
+        "ga": "pléineam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "main plane"
+        ],
+        "ga": "príomhphlána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pay load",
+            "payload"
+        ],
+        "ga": "pálasta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "radarscope"
+        ],
+        "ga": "radarscóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ramjet",
+            "athodyd"
+        ],
+        "ga": "rop-scairdinneall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rotor"
+        ],
+        "ga": "rothlóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "astro-altitude"
+        ],
+        "ga": "réalt-airde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "astrodome"
+        ],
+        "ga": "réaltchruinneachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pre-cooler"
+        ],
+        "ga": "réamhfhuaraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "impulse starter"
+        ],
+        "ga": "ríogdhúisire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "impulse turbine"
+        ],
+        "ga": "ríogthuirbín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rho-rho"
+        ],
+        "ga": "ró-ró",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "roping"
+        ],
+        "ga": "rópáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rotochute"
+        ],
+        "ga": "rótaisiúit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rotorcraft"
+        ],
+        "ga": "rótarárthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "runway"
+        ],
+        "ga": "rúidbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "characteristic velocity"
+        ],
+        "ga": "sain-treoluas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "exhaust plume"
+        ],
+        "ga": "scairdghal",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "jet stream"
+        ],
+        "ga": "scairdsruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "jackstay"
+        ],
+        "ga": "seac-stagh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sailplane"
+        ],
+        "ga": "seoleitleán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "float"
+        ],
+        "ga": "snámhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "space telemetry"
+        ],
+        "ga": "spásteiliméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shuttling",
+            "shuttle"
+        ],
+        "ga": "spástointeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "space shuttle"
+        ],
+        "ga": "spástointeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "air launch"
+        ],
+        "ga": "spéirlainseáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "turbulence"
+        ],
+        "ga": "sruthlam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "rudder"
+        ],
+        "ga": "stiúir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dough"
+        ],
+        "ga": "taos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "heat shield"
+        ],
+        "ga": "teas-sciath",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "booster rocket"
+        ],
+        "ga": "treisroicéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heading"
+        ],
+        "ga": "treo-cheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pilot head"
+        ],
+        "ga": "treoirphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "foot pad"
+        ],
+        "ga": "troigh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "triplane"
+        ],
+        "ga": "tríphlána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crash"
+        ],
+        "ga": "tuairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bumping bag"
+        ],
+        "ga": "tuairteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "turbo-prop",
+            "turboprop"
+        ],
+        "ga": "tuirbeitleán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "turborocket"
+        ],
+        "ga": "turbaroicéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "canopy"
+        ],
+        "ga": "téastar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "limit load"
+        ],
+        "ga": "uasualach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "autogiro",
+            "autogyro"
+        ],
+        "ga": "uathghíreán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "autopilot"
+        ],
+        "ga": "uathphíolóta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "jumbo-jet"
+        ],
+        "ga": "ábhalscaird",
+        "gender": "feminine"
+    }
+]

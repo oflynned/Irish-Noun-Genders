@@ -1,0 +1,962 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "common crossing"
+        ],
+        "ga": "acomhal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "airport"
+        ],
+        "ga": "aerfort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "airline"
+        ],
+        "ga": "aerlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "air service"
+        ],
+        "ga": "aersheirbhís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "airstrip"
+        ],
+        "ga": "aerstráice",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air travel"
+        ],
+        "ga": "aerthaisteal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "unit load"
+        ],
+        "ga": "aonadlasta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elderly person"
+        ],
+        "ga": "aostach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cosey driver",
+            "cozy driver"
+        ],
+        "ga": "atiománaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "way"
+        ],
+        "ga": "bealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "route"
+        ],
+        "ga": "bealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "berthing"
+        ],
+        "ga": "beart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fixed block",
+            "block"
+        ],
+        "ga": "bloc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pusher craft",
+            "push boat",
+            "pusher"
+        ],
+        "ga": "brúshoitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bus"
+        ],
+        "ga": "bus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bus transport"
+        ],
+        "ga": "busiompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bus station",
+            "coach station"
+        ],
+        "ga": "busáras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "narrow-track"
+        ],
+        "ga": "caolrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "carrier"
+        ],
+        "ga": "carraeir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "carter"
+        ],
+        "ga": "carraeir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "car park",
+            "carpark"
+        ],
+        "ga": "carrchlós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "car"
+        ],
+        "ga": "carráiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "turntable"
+        ],
+        "ga": "caschlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "open cut line",
+            "cut section"
+        ],
+        "ga": "claisbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "combiticket"
+        ],
+        "ga": "comhthicéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "branch point"
+        ],
+        "ga": "craobhphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hard shoulder"
+        ],
+        "ga": "crua-ghrua",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "air terminal",
+            "airline terminal",
+            "airport terminal"
+        ],
+        "ga": "críochfort",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orbital motorway"
+        ],
+        "ga": "cuar-mhótarbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "curve squeal"
+        ],
+        "ga": "cuarshian",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "segmentation"
+        ],
+        "ga": "deighilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "platooning"
+        ],
+        "ga": "dlúthghrúpáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "toll bridge",
+            "tollbridge"
+        ],
+        "ga": "dola-dhroichead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "draisine"
+        ],
+        "ga": "draisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hydrofoil"
+        ],
+        "ga": "duillárthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "disembarkation"
+        ],
+        "ga": "díbhordáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ferrying"
+        ],
+        "ga": "farantóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vehicle"
+        ],
+        "ga": "feithicil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vehicle hour"
+        ],
+        "ga": "feithiciluair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flexiticket"
+        ],
+        "ga": "fleiscithicéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fleet"
+        ],
+        "ga": "flít",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sub-ballast"
+        ],
+        "ga": "fo-bhallasta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stowaway"
+        ],
+        "ga": "folachánaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hire contract"
+        ],
+        "ga": "fruilchonradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "acoustical protection"
+        ],
+        "ga": "fuaimchosaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "net tonnage"
+        ],
+        "ga": "glantonnáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "call terminal"
+        ],
+        "ga": "glaotheirminéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "motoring"
+        ],
+        "ga": "gluaisteánaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grain carrier"
+        ],
+        "ga": "gránárthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "helipad"
+        ],
+        "ga": "héileapad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heliport"
+        ],
+        "ga": "héileaport",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "permanent way"
+        ],
+        "ga": "iarnród",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interliner"
+        ],
+        "ga": "idirlínitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transit"
+        ],
+        "ga": "idirthuras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shuttling"
+        ],
+        "ga": "iomtháin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "points",
+            "turnout",
+            "switch"
+        ],
+        "ga": "ladhróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "blade",
+            "tongue"
+        ],
+        "ga": "lann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "freight charge",
+            "freight",
+            "freightage"
+        ],
+        "ga": "last-táille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "loading"
+        ],
+        "ga": "lastáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "semi-trailer"
+        ],
+        "ga": "leathleantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lighterman"
+        ],
+        "ga": "lictéaraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mobility"
+        ],
+        "ga": "luaineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "full trailer"
+        ],
+        "ga": "lánleantóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "median"
+        ],
+        "ga": "lárstráice",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "load factor"
+        ],
+        "ga": "lódfhachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "load plan"
+        ],
+        "ga": "lódphlean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "loading"
+        ],
+        "ga": "lódáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minibus",
+            "mini-bus"
+        ],
+        "ga": "mionbhus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "delay"
+        ],
+        "ga": "moill",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "demurrage"
+        ],
+        "ga": "moillráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ocean transport",
+            "sea transport"
+        ],
+        "ga": "muiriompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "king lever"
+        ],
+        "ga": "máistir-luamhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "disabled person"
+        ],
+        "ga": "míchumasach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "super high cube container"
+        ],
+        "ga": "ollchoimeádán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bulk carrier"
+        ],
+        "ga": "olliompróir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gross ton"
+        ],
+        "ga": "olltonna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "passenger"
+        ],
+        "ga": "paisinéir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "route corridor"
+        ],
+        "ga": "pasáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "principal road"
+        ],
+        "ga": "príomhbhóthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "main line"
+        ],
+        "ga": "príomhlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "parking"
+        ],
+        "ga": "páirceáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pay load",
+            "payload"
+        ],
+        "ga": "pálasta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "track"
+        ],
+        "ga": "rian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rolling stock"
+        ],
+        "ga": "rothstoc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "electronic clearance"
+        ],
+        "ga": "ríomh-imréiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "electronic log book"
+        ],
+        "ga": "ríomh-logleabhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "e-toll"
+        ],
+        "ga": "ríomhdhola",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "routeway"
+        ],
+        "ga": "ródbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "assignment"
+        ],
+        "ga": "sannachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "freeway"
+        ],
+        "ga": "saorbhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "free travel"
+        ],
+        "ga": "saorthaisteal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "free traveller",
+            "free rider"
+        ],
+        "ga": "saorthaistealaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shieldwire"
+        ],
+        "ga": "sciathshreang",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "screw-propeller"
+        ],
+        "ga": "scriú-lián",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shadow toll"
+        ],
+        "ga": "scáthdhola",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chicane"
+        ],
+        "ga": "siceán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "walkway"
+        ],
+        "ga": "siúlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "flow"
+        ],
+        "ga": "sruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stevedore"
+        ],
+        "ga": "stíbheadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sulky",
+            "gig",
+            "cart"
+        ],
+        "ga": "sulcaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seat-kilometre"
+        ],
+        "ga": "suíochánchiliméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "taxi"
+        ],
+        "ga": "tacsaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "siding"
+        ],
+        "ga": "taobhlach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "side track"
+        ],
+        "ga": "taobhrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "side impact"
+        ],
+        "ga": "taobhthuairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "haulier"
+        ],
+        "ga": "tarlóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "arrivals",
+            "inbound"
+        ],
+        "ga": "teacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "motorman",
+            "engineman"
+        ],
+        "ga": "tiománaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "train"
+        ],
+        "ga": "traein",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tram"
+        ],
+        "ga": "tram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tramway"
+        ],
+        "ga": "trambhealach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tramtrack"
+        ],
+        "ga": "tramrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "overthrow"
+        ],
+        "ga": "traschaitheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crossover"
+        ],
+        "ga": "trasnasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "guideway",
+            "permanent way"
+        ],
+        "ga": "treoir-raon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "van"
+        ],
+        "ga": "veain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "flyunder"
+        ],
+        "ga": "íosbhealach",
+        "gender": "masculine"
+    }
+]

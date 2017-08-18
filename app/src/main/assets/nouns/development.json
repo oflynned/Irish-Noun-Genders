@@ -1,0 +1,350 @@
+[
+    {
+        "declension": 3,
+        "en": [
+            "anthropology"
+        ],
+        "ga": "antraipeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rezoning"
+        ],
+        "ga": "athzónáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "poverty"
+        ],
+        "ga": "bochtaineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "transformationalist"
+        ],
+        "ga": "claochlaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "boardwalk"
+        ],
+        "ga": "clárchosán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "protectionist"
+        ],
+        "ga": "cosantaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "core strategy"
+        ],
+        "ga": "croístraitéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "communism"
+        ],
+        "ga": "cumannachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "key development"
+        ],
+        "ga": "eochairfhorbairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vehicle"
+        ],
+        "ga": "feithicil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "feudalism"
+        ],
+        "ga": "feodachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subcatchment"
+        ],
+        "ga": "fo-dhobharcheantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "development"
+        ],
+        "ga": "forás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "group housing"
+        ],
+        "ga": "grúpthithíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hyperglobalist"
+        ],
+        "ga": "hipeardhomhandaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "imperialism"
+        ],
+        "ga": "impiriúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "individualism"
+        ],
+        "ga": "indibhidiúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "infrastructure"
+        ],
+        "ga": "infreastruchtúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "liberal"
+        ],
+        "ga": "liobrálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "literacy"
+        ],
+        "ga": "litearthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "modernity"
+        ],
+        "ga": "nua-aimsearthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neo-liberalism"
+        ],
+        "ga": "nualiobrálachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "innovation"
+        ],
+        "ga": "nuáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "innovation"
+        ],
+        "ga": "nuálaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nation-state",
+            "nationstate",
+            "nation state"
+        ],
+        "ga": "náisiúnstát",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "plan boundary"
+        ],
+        "ga": "pleanteorainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "planning"
+        ],
+        "ga": "pleanáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "planner"
+        ],
+        "ga": "pleanálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "parklet"
+        ],
+        "ga": "páircín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "radical"
+        ],
+        "ga": "radacaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "walkover survey"
+        ],
+        "ga": "réamhshuirbhé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "forerunner",
+            "fore-runner"
+        ],
+        "ga": "réamhtheachtaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "screen planting"
+        ],
+        "ga": "scáthphlandáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "setback"
+        ],
+        "ga": "slánachar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "streetscape"
+        ],
+        "ga": "sráid-dreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "structuralism"
+        ],
+        "ga": "struchtúrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "socialism"
+        ],
+        "ga": "sóisialachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "industrialization",
+            "industrialisation"
+        ],
+        "ga": "tionsclaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "industrialism"
+        ],
+        "ga": "tionsclaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "consumerism"
+        ],
+        "ga": "tomhaltachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "zoning"
+        ],
+        "ga": "zónáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ecosystem"
+        ],
+        "ga": "éiceachóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ecology"
+        ],
+        "ga": "éiceolaíocht",
+        "gender": "feminine"
+    }
+]

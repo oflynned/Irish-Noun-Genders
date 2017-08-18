@@ -1,0 +1,927 @@
+[
+    {
+        "declension": 4,
+        "en": [
+            "liver"
+        ],
+        "ga": "ae",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ripener"
+        ],
+        "ga": "aibitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "anchovy"
+        ],
+        "ga": "ainseabhaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "alcohol"
+        ],
+        "ga": "alcól",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "monkfish"
+        ],
+        "ga": "anglait",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "arrack"
+        ],
+        "ga": "arac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bacon"
+        ],
+        "ga": "bagún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bap"
+        ],
+        "ga": "bapa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "buffet"
+        ],
+        "ga": "biachuntar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bubbler"
+        ],
+        "ga": "boilgeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cake"
+        ],
+        "ga": "borróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trout"
+        ],
+        "ga": "breac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "biscuit",
+            "cookie"
+        ],
+        "ga": "briosca",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brisket cut"
+        ],
+        "ga": "briscéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "batch loaf"
+        ],
+        "ga": "bruthóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crushing"
+        ],
+        "ga": "brú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "masher"
+        ],
+        "ga": "brúiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bagel"
+        ],
+        "ga": "béigeal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "meal"
+        ],
+        "ga": "béile",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "butyrometer"
+        ],
+        "ga": "bútraiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "haddock"
+        ],
+        "ga": "cadóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wholemeal bread"
+        ],
+        "ga": "caiscín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cartomiser"
+        ],
+        "ga": "cartadamhóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "headland"
+        ],
+        "ga": "cinnfhearann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chicken"
+        ],
+        "ga": "circeoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "grip"
+        ],
+        "ga": "cluas",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lid"
+        ],
+        "ga": "clár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nut cracker"
+        ],
+        "ga": "cnóire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rabbit"
+        ],
+        "ga": "coinín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pigeon"
+        ],
+        "ga": "colúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "corkscrew"
+        ],
+        "ga": "corcscriú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crescent shaped cutter",
+            "crescent"
+        ],
+        "ga": "corrónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "handle"
+        ],
+        "ga": "cos",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "kromeski"
+        ],
+        "ga": "cromascaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "crumpet"
+        ],
+        "ga": "crompóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "corer"
+        ],
+        "ga": "croíghearrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "back"
+        ],
+        "ga": "cúl",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oxtail"
+        ],
+        "ga": "damheireaball",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "demijohn"
+        ],
+        "ga": "deimiseon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "loop handle"
+        ],
+        "ga": "drol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dehydrator"
+        ],
+        "ga": "díhiodráiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "extruder"
+        ],
+        "ga": "easbhrúiteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "venison"
+        ],
+        "ga": "fiafheoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "wrap"
+        ],
+        "ga": "fillteog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "remainder",
+            "remnants"
+        ],
+        "ga": "fuílleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gammon"
+        ],
+        "ga": "gambún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tail end"
+        ],
+        "ga": "geadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ordinary cutter"
+        ],
+        "ga": "gnáthghearrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ordinary knife"
+        ],
+        "ga": "gnáthscian",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bread crumber"
+        ],
+        "ga": "grabhrógaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "syllabub"
+        ],
+        "ga": "gruthrach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "shoulder"
+        ],
+        "ga": "gualainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gas-ring"
+        ],
+        "ga": "gásfháinne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "goose"
+        ],
+        "ga": "gé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "haggis"
+        ],
+        "ga": "hagaois",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "halibut"
+        ],
+        "ga": "haileabó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "multicooker"
+        ],
+        "ga": "ilchócaireán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "multicutter"
+        ],
+        "ga": "ilghearrthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "simulator"
+        ],
+        "ga": "ionsamhlóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sausage"
+        ],
+        "ga": "ispín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "duckling",
+            "duck"
+        ],
+        "ga": "lacha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "long handled spoon"
+        ],
+        "ga": "ladar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "veal"
+        ],
+        "ga": "laofheoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "liquidizer",
+            "liquidiser"
+        ],
+        "ga": "leachtaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ham"
+        ],
+        "ga": "liamhás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "punt"
+        ],
+        "ga": "log",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "losset"
+        ],
+        "ga": "losaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "angler",
+            "anglerfish",
+            "monk",
+            "monkfish"
+        ],
+        "ga": "láimhíneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "handle"
+        ],
+        "ga": "lámh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "middle-neck"
+        ],
+        "ga": "lármhuineál",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lupulin"
+        ],
+        "ga": "lúpailin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mash"
+        ],
+        "ga": "maistreán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "swabbing"
+        ],
+        "ga": "mapaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dishwasher"
+        ],
+        "ga": "miasniteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "meat grinder"
+        ],
+        "ga": "miontóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "meat mincer"
+        ],
+        "ga": "miontóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pork"
+        ],
+        "ga": "muiceoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "muffin"
+        ],
+        "ga": "muifín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "master case"
+        ],
+        "ga": "máistirchás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nano filtration",
+            "nanofiltration"
+        ],
+        "ga": "nanascagachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ice wine"
+        ],
+        "ga": "oighearfhíon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gross lees"
+        ],
+        "ga": "ollmhoirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "paneer"
+        ],
+        "ga": "painír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "treading"
+        ],
+        "ga": "pasáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pilchard"
+        ],
+        "ga": "pilséar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crab"
+        ],
+        "ga": "portán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chump"
+        ],
+        "ga": "punt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "roll"
+        ],
+        "ga": "rollóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mackerel"
+        ],
+        "ga": "ronnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cockle"
+        ],
+        "ga": "ruacan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tripe"
+        ],
+        "ga": "ruipleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rice paper"
+        ],
+        "ga": "ríspháipéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "salami"
+        ],
+        "ga": "salámaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "herring"
+        ],
+        "ga": "scadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "peeler"
+        ],
+        "ga": "scamhaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scampi"
+        ],
+        "ga": "sceaimpí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "raja ray"
+        ],
+        "ga": "sciata",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cleaver"
+        ],
+        "ga": "scoiltire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "squid"
+        ],
+        "ga": "scuid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chartreuse"
+        ],
+        "ga": "seártrús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "spray process"
+        ],
+        "ga": "spraephróiseas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "can opener"
+        ],
+        "ga": "stánosclóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vintage"
+        ],
+        "ga": "sárbhliain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "shrimp"
+        ],
+        "ga": "séacla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tamis",
+            "tammy"
+        ],
+        "ga": "tamaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tongue"
+        ],
+        "ga": "teanga",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tobacco"
+        ],
+        "ga": "tobac",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "topinambur"
+        ],
+        "ga": "topinambur",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pestle"
+        ],
+        "ga": "tuairgnín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tunafish",
+            "tuna"
+        ],
+        "ga": "tuinnín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "immersion freezing"
+        ],
+        "ga": "tumreo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "turkey"
+        ],
+        "ga": "turcaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lamb meat",
+            "lamb"
+        ],
+        "ga": "uaineoil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oval cutter",
+            "oval"
+        ],
+        "ga": "ubhchruthach",
+        "gender": "masculine"
+    }
+]

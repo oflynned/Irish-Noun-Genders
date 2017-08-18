@@ -1,0 +1,26 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "whip"
+        ],
+        "ga": "fuip",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tentering"
+        ],
+        "ga": "teannadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tower mill"
+        ],
+        "ga": "túrmhuileann",
+        "gender": "masculine"
+    }
+]

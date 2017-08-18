@@ -1,0 +1,6660 @@
+[
+    {
+        "declension": 2,
+        "en": [
+            "hundred square"
+        ],
+        "ga": "100-chearnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "4-gon"
+        ],
+        "ga": "4-gán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Aristarchus",
+            "Aristarchus of Samos"
+        ],
+        "ga": "Arastarchas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "a-axis"
+        ],
+        "ga": "a-ais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "abacus"
+        ],
+        "ga": "abacas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "area"
+        ],
+        "ga": "achar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "centre of area"
+        ],
+        "ga": "acharlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acnode"
+        ],
+        "ga": "acnód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "front elevation"
+        ],
+        "ga": "aghaidhchló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "abscissa"
+        ],
+        "ga": "aibsíosa",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "axiom"
+        ],
+        "ga": "aicsím",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "algebra"
+        ],
+        "ga": "ailgéabar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "denominator"
+        ],
+        "ga": "ainmneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rise"
+        ],
+        "ga": "airde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "height"
+        ],
+        "ga": "airde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "currency"
+        ],
+        "ga": "airgeadra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "property",
+            "attribute",
+            "characteristic"
+        ],
+        "ga": "airí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transitivity"
+        ],
+        "ga": "aistreacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "repayment"
+        ],
+        "ga": "aisíocaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alpha"
+        ],
+        "ga": "alfa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "unknown"
+        ],
+        "ga": "anaithnid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "attractor"
+        ],
+        "ga": "aomthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "unit"
+        ],
+        "ga": "aon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "unit"
+        ],
+        "ga": "aonad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "unit"
+        ],
+        "ga": "aonad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "unit length"
+        ],
+        "ga": "aonadfhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "unit point"
+        ],
+        "ga": "aonadphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "unit tangent"
+        ],
+        "ga": "aonadtadhall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "unit vector"
+        ],
+        "ga": "aonadveicteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "unity"
+        ],
+        "ga": "aontacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "advanced mathematics"
+        ],
+        "ga": "ardmhatamaitic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "couple"
+        ],
+        "ga": "ardphéire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "high threshold"
+        ],
+        "ga": "ardtairseach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "argument"
+        ],
+        "ga": "argóint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "asymptote"
+        ],
+        "ga": "asamtóit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "deduction"
+        ],
+        "ga": "asbhaint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "deduction"
+        ],
+        "ga": "asbheirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oscillograph"
+        ],
+        "ga": "ascalagraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oscillogram"
+        ],
+        "ga": "ascalagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oscilloscope"
+        ],
+        "ga": "ascalascóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "recurrence",
+            "recursion"
+        ],
+        "ga": "athfhilleadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tautology"
+        ],
+        "ga": "athluaiteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "variant"
+        ],
+        "ga": "athraitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "variable"
+        ],
+        "ga": "athróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "variation"
+        ],
+        "ga": "athrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "iteration"
+        ],
+        "ga": "atriall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "township"
+        ],
+        "ga": "bailecheantar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "element"
+        ],
+        "ga": "ball",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cubit"
+        ],
+        "ga": "banlámh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "barograph"
+        ],
+        "ga": "baragraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "top"
+        ],
+        "ga": "barr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bar"
+        ],
+        "ga": "barra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bar chart"
+        ],
+        "ga": "barrachairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "surjection"
+        ],
+        "ga": "barrtheilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "billion"
+        ],
+        "ga": "billiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "block graph"
+        ],
+        "ga": "blocghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bow pencil"
+        ],
+        "ga": "boghphionsail",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "base"
+        ],
+        "ga": "bonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "base station",
+            "base"
+        ],
+        "ga": "bonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "run"
+        ],
+        "ga": "bonnfhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "base angle"
+        ],
+        "ga": "bonnuillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "base number",
+            "radix",
+            "base"
+        ],
+        "ga": "bonnuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "base vector"
+        ],
+        "ga": "bonnveicteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "basis vector"
+        ],
+        "ga": "bonnveicteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "profit"
+        ],
+        "ga": "brabús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "branch"
+        ],
+        "ga": "brainse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "branch point",
+            "branchpoint"
+        ],
+        "ga": "brainsephointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cluster"
+        ],
+        "ga": "braisle",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cluster integral"
+        ],
+        "ga": "braisleshuimeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plot"
+        ],
+        "ga": "breacadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "extra"
+        ],
+        "ga": "breis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "permanent set"
+        ],
+        "ga": "buantéachtán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wad"
+        ],
+        "ga": "builcín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "basis"
+        ],
+        "ga": "bun",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "base"
+        ],
+        "ga": "bun",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "axis of origin"
+        ],
+        "ga": "bun-ais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "object"
+        ],
+        "ga": "bunfhíor",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "origin"
+        ],
+        "ga": "bunphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cost price"
+        ],
+        "ga": "bunphraghas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "basic rate"
+        ],
+        "ga": "bunráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "primitive term"
+        ],
+        "ga": "buntéarma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "loss"
+        ],
+        "ga": "caillteanas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "quantity"
+        ],
+        "ga": "cainníocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chart"
+        ],
+        "ga": "cairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cathetus"
+        ],
+        "ga": "caitéatas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "catenary"
+        ],
+        "ga": "caitéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cardioid"
+        ],
+        "ga": "cardóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "twisted curve"
+        ],
+        "ga": "caschuar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "quadratics"
+        ],
+        "ga": "cearnaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "square"
+        ],
+        "ga": "cearnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "strict maximum"
+        ],
+        "ga": "ceart-uasluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "strict minimum"
+        ],
+        "ga": "ceart-íosluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "proper fraction"
+        ],
+        "ga": "ceartchodán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vertical"
+        ],
+        "ga": "ceartingear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quaternion"
+        ],
+        "ga": "ceathairníon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quadrilateral"
+        ],
+        "ga": "ceathairshleasán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quadrinomial"
+        ],
+        "ga": "ceathairthéarmach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "quadrangle"
+        ],
+        "ga": "ceathairuilleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "quadrant"
+        ],
+        "ga": "ceathrú",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "centigram"
+        ],
+        "ga": "ceinteagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "centipoise"
+        ],
+        "ga": "ceinteapoise",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "centrad"
+        ],
+        "ga": "ceintearad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "centilitre",
+            "cl"
+        ],
+        "ga": "ceintilítear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "centimetre",
+            "cm"
+        ],
+        "ga": "ceintiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kilogram",
+            "kg"
+        ],
+        "ga": "cileagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kilolitre",
+            "kl"
+        ],
+        "ga": "cililítear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "kilometre",
+            "km",
+            "kilometer"
+        ],
+        "ga": "ciliméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "certainty"
+        ],
+        "ga": "cinnteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "kinetics"
+        ],
+        "ga": "cinéitic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cycle"
+        ],
+        "ga": "ciogal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cube"
+        ],
+        "ga": "ciúb",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cubo-octahedron"
+        ],
+        "ga": "ciúb-ochtaihéadrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cuboid"
+        ],
+        "ga": "ciúbóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slant-height",
+            "slant height"
+        ],
+        "ga": "claonairde",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "slant distance"
+        ],
+        "ga": "claonfhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stone",
+            "st."
+        ],
+        "ga": "cloch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "clock arithmetic"
+        ],
+        "ga": "cloguimhríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "clothoid",
+            "Cornu's spiral"
+        ],
+        "ga": "clótóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "accumulation point"
+        ],
+        "ga": "cnuasphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fractal"
+        ],
+        "ga": "codach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fraction"
+        ],
+        "ga": "codán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "relation"
+        ],
+        "ga": "coibhneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "relativity"
+        ],
+        "ga": "coibhneasacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "equivalence"
+        ],
+        "ga": "coibhéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "converse"
+        ],
+        "ga": "coinbhéarta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "convergence"
+        ],
+        "ga": "coinbhéirseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "convergency"
+        ],
+        "ga": "coinbhéirseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "same area"
+        ],
+        "ga": "comhachar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "equipollence"
+        ],
+        "ga": "comhacmhainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "common denominator"
+        ],
+        "ga": "comhainmneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "counting"
+        ],
+        "ga": "comhaireamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sign"
+        ],
+        "ga": "comhartha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "common difference"
+        ],
+        "ga": "comhbhreis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "correlation"
+        ],
+        "ga": "comhchoibhneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "simultaneous equation"
+        ],
+        "ga": "comhchothromóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conjugate"
+        ],
+        "ga": "comhchuingeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "concurrency"
+        ],
+        "ga": "comhchumaracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "concurrence"
+        ],
+        "ga": "comhchumaracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "joint probability"
+        ],
+        "ga": "comhdhóchúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "co-factor",
+            "cofactor"
+        ],
+        "ga": "comhfhachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "same length"
+        ],
+        "ga": "comhfhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "correspondence"
+        ],
+        "ga": "comhfhreagairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "convention"
+        ],
+        "ga": "comhghnás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "common ratio"
+        ],
+        "ga": "comhiolraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "common multiple"
+        ],
+        "ga": "comhiolraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "aggregate"
+        ],
+        "ga": "comhiomlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cologarithm"
+        ],
+        "ga": "comhlogartam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "coordinate",
+            "co-ordinate"
+        ],
+        "ga": "comhordanáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contour",
+            "contour line"
+        ],
+        "ga": "comhrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "proportion"
+        ],
+        "ga": "comhréir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "consistence"
+        ],
+        "ga": "comhsheasmhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "consistency"
+        ],
+        "ga": "comhsheasmhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cosecant"
+        ],
+        "ga": "comhsheiceant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cosine"
+        ],
+        "ga": "comhshíneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coset"
+        ],
+        "ga": "comhthacar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cotangent"
+        ],
+        "ga": "comhthadhlaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cosecant"
+        ],
+        "ga": "comhtheascaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "associativity"
+        ],
+        "ga": "comhthiomsaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parallelogram"
+        ],
+        "ga": "comhthreomharán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "parallelepiped"
+        ],
+        "ga": "comhthreomharóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "component"
+        ],
+        "ga": "comhábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ingredient"
+        ],
+        "ga": "comhábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "coefficient"
+        ],
+        "ga": "comhéifeacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "path"
+        ],
+        "ga": "conair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chord"
+        ],
+        "ga": "corda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "body",
+            "object"
+        ],
+        "ga": "corp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "body cone"
+        ],
+        "ga": "corpchón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "perturbation"
+        ],
+        "ga": "corraíl",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "odd number"
+        ],
+        "ga": "corruimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "horizontal"
+        ],
+        "ga": "cothromán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "branch"
+        ],
+        "ga": "craobh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "skeleton"
+        ],
+        "ga": "creatlach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "zone chart"
+        ],
+        "ga": "crioschairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "zonation"
+        ],
+        "ga": "criosúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cross-product"
+        ],
+        "ga": "crostoradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "shape"
+        ],
+        "ga": "cruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "proof"
+        ],
+        "ga": "cruthúnas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pipeclay triangle"
+        ],
+        "ga": "créthriantán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "finiteness"
+        ],
+        "ga": "críochtacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "final vector"
+        ],
+        "ga": "críochveicteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "horseshoe mapping"
+        ],
+        "ga": "crú-mhapáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quadric"
+        ],
+        "ga": "cuadrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quantic"
+        ],
+        "ga": "cuantach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "circumference"
+        ],
+        "ga": "cuar-imlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "curved line"
+        ],
+        "ga": "cuarlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "curve fitting",
+            "curve-fitting"
+        ],
+        "ga": "cuaroiriúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "contour integral"
+        ],
+        "ga": "cuarshuimeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "portion"
+        ],
+        "ga": "cuid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "component"
+        ],
+        "ga": "cuidí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bound"
+        ],
+        "ga": "cuimse",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "adjoint"
+        ],
+        "ga": "cuingeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "power"
+        ],
+        "ga": "cumhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "power series"
+        ],
+        "ga": "cumhachtsraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cup"
+        ],
+        "ga": "cup",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "curl"
+        ],
+        "ga": "curla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "first component"
+        ],
+        "ga": "céadchuidí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "identity"
+        ],
+        "ga": "céannacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "percentage"
+        ],
+        "ga": "céatadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stepping"
+        ],
+        "ga": "céimthomhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rationalization",
+            "rationalisation"
+        ],
+        "ga": "cóimheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "ratio"
+        ],
+        "ga": "cóimheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "control"
+        ],
+        "ga": "cóimheastóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "commutativity"
+        ],
+        "ga": "cómhalartacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "commutator"
+        ],
+        "ga": "cómhalartán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "conic"
+        ],
+        "ga": "cónach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "backward difference"
+        ],
+        "ga": "cúldifríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "backsight"
+        ],
+        "ga": "cúltreoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "couple"
+        ],
+        "ga": "cúpla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colour triangle"
+        ],
+        "ga": "dath-thriantán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "decagram",
+            "dekagram",
+            "dag"
+        ],
+        "ga": "deacagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "decahedron"
+        ],
+        "ga": "deacaihéadrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "decalitre"
+        ],
+        "ga": "deacailítear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "decimal"
+        ],
+        "ga": "deachúil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "absolute coordinate"
+        ],
+        "ga": "dearbh-chomhordanáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "absolute error"
+        ],
+        "ga": "dearbhearráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sight"
+        ],
+        "ga": "dearcadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "decigram",
+            "dg"
+        ],
+        "ga": "deiceagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "decilitre"
+        ],
+        "ga": "deicilítear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "decimetre",
+            "dm"
+        ],
+        "ga": "deiciméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "partitioning"
+        ],
+        "ga": "deighilt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "partition"
+        ],
+        "ga": "deighleoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "del",
+            "del operator",
+            "nabla",
+            "del-operator"
+        ],
+        "ga": "deil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "delta function"
+        ],
+        "ga": "deilte-fheidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reciprocal"
+        ],
+        "ga": "deilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "multiplication inverse",
+            "reciprocal"
+        ],
+        "ga": "deilín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "south",
+            "S"
+        ],
+        "ga": "deisceart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "determinant"
+        ],
+        "ga": "deitéarmanant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "deviation"
+        ],
+        "ga": "diall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "saddle-node"
+        ],
+        "ga": "diallaitnód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "difference equation"
+        ],
+        "ga": "difearchothromóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "differentiation"
+        ],
+        "ga": "difreáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "differential"
+        ],
+        "ga": "difreálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "differentiator"
+        ],
+        "ga": "difreálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "difference"
+        ],
+        "ga": "difríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "digit"
+        ],
+        "ga": "digit",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dense orbit"
+        ],
+        "ga": "dlúthfhithis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "compact operator"
+        ],
+        "ga": "dlúthoibreoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "compact space"
+        ],
+        "ga": "dlúthspás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "invariant"
+        ],
+        "ga": "do-athraitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "invariance"
+        ],
+        "ga": "do-athraitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "invariable"
+        ],
+        "ga": "do-athróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "stiff equation"
+        ],
+        "ga": "dochtchothromóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rigidity"
+        ],
+        "ga": "doichte",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "indivisibility"
+        ],
+        "ga": "doroinnteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "incomputability"
+        ],
+        "ga": "doríofacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dozen",
+            "doz."
+        ],
+        "ga": "dosaen",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "set square",
+            "set-square"
+        ],
+        "ga": "dronbhacart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rectangle"
+        ],
+        "ga": "dronuilleog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "right angle"
+        ],
+        "ga": "dronuillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "characteristic polynomial"
+        ],
+        "ga": "dual-iltéarmach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "characteristic number",
+            "characteristic value",
+            "eigenvalue",
+            "proper value"
+        ],
+        "ga": "dual-luach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "eigenfunction",
+            "proper function",
+            "characteristic function"
+        ],
+        "ga": "dualfheidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "eigenstate"
+        ],
+        "ga": "dualstaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "characteristic vector",
+            "eigenvector"
+        ],
+        "ga": "dualveicteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dualism"
+        ],
+        "ga": "déachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "duality"
+        ],
+        "ga": "déacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dihedron"
+        ],
+        "ga": "déhéadrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "binormal"
+        ],
+        "ga": "dénormal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "binary"
+        ],
+        "ga": "dénárthán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bisector"
+        ],
+        "ga": "déroinnteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "binostat"
+        ],
+        "ga": "déstat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bijection"
+        ],
+        "ga": "détheilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "elimination"
+        ],
+        "ga": "díbirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "eliminant"
+        ],
+        "ga": "díbreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "eliminator"
+        ],
+        "ga": "díbreoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "direct sum"
+        ],
+        "ga": "dírshuim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "direct integral"
+        ],
+        "ga": "dírshuimeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "probability"
+        ],
+        "ga": "dóchúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "duodecimal"
+        ],
+        "ga": "dódheachúil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "double"
+        ],
+        "ga": "dúbailt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "horsepower",
+            "horse-power",
+            "HP"
+        ],
+        "ga": "each-chumhacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "array"
+        ],
+        "ga": "eagar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "grid"
+        ],
+        "ga": "eangach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "net"
+        ],
+        "ga": "eangach",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tail event"
+        ],
+        "ga": "earrtheagmhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "centre of escribed circle"
+        ],
+        "ga": "easlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "exponent"
+        ],
+        "ga": "easpónant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interval"
+        ],
+        "ga": "eatramh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "element line"
+        ],
+        "ga": "eilimintlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "epitrochoid"
+        ],
+        "ga": "eipeactrocóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "epicycloid"
+        ],
+        "ga": "eipicioglóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "escribed circle"
+        ],
+        "ga": "eischiorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "excircle"
+        ],
+        "ga": "eischiorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "existence"
+        ],
+        "ga": "eiseadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "factor"
+        ],
+        "ga": "fachtóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "length"
+        ],
+        "ga": "fad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "duration"
+        ],
+        "ga": "fad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "distance"
+        ],
+        "ga": "fad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "distance function"
+        ],
+        "ga": "fadfheidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ring"
+        ],
+        "ga": "fail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "edge"
+        ],
+        "ga": "faobhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "domain"
+        ],
+        "ga": "fearann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "functor"
+        ],
+        "ga": "feidhmeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "functional"
+        ],
+        "ga": "feidhmeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "oblique coordinate"
+        ],
+        "ga": "fiarchomhordanáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oblique cone"
+        ],
+        "ga": "fiarchón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oblique projection"
+        ],
+        "ga": "fiartheilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vigesimal"
+        ],
+        "ga": "fichiúil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "numeral"
+        ],
+        "ga": "figiúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "figure"
+        ],
+        "ga": "figiúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "crease"
+        ],
+        "ga": "filltín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "submultiple"
+        ],
+        "ga": "fo-iolraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subfactorial"
+        ],
+        "ga": "fo-iolrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subgroup"
+        ],
+        "ga": "foghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "end point",
+            "end-point"
+        ],
+        "ga": "foirceann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "extremum"
+        ],
+        "ga": "foircneán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "formalism"
+        ],
+        "ga": "foirmiúlachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subfield"
+        ],
+        "ga": "foréimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "assumption"
+        ],
+        "ga": "foshuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sub",
+            "subset"
+        ],
+        "ga": "fothacar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subtangent"
+        ],
+        "ga": "fothadhlaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "result"
+        ],
+        "ga": "freagra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contravariance"
+        ],
+        "ga": "frith-athraitheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "anticommutation"
+        ],
+        "ga": "frith-chómhalartacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contrapositive"
+        ],
+        "ga": "frithdheimhneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "antidifferentiation"
+        ],
+        "ga": "frithdhifreáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anti-derivative"
+        ],
+        "ga": "frithdhíorthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contragradient"
+        ],
+        "ga": "frithghrádán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "antilogarithm"
+        ],
+        "ga": "frithlogartam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "radix",
+            "root"
+        ],
+        "ga": "fréamh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "root"
+        ],
+        "ga": "fréamh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "remainder"
+        ],
+        "ga": "fuílleach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "annulus"
+        ],
+        "ga": "fáinne",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fence diagram"
+        ],
+        "ga": "fál-léaráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "slope"
+        ],
+        "ga": "fána",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "self-similarity"
+        ],
+        "ga": "féinchosúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "true area"
+        ],
+        "ga": "fíorachar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "true equation"
+        ],
+        "ga": "fíorchothromóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "real distance"
+        ],
+        "ga": "fíorfhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "true length"
+        ],
+        "ga": "fíorfhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "boundary"
+        ],
+        "ga": "fóir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "boundary condition"
+        ],
+        "ga": "fóirchoinníoll",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phot"
+        ],
+        "ga": "fót",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "radius"
+        ],
+        "ga": "ga",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gallon"
+        ],
+        "ga": "galún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "relationship"
+        ],
+        "ga": "gaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rough estimate"
+        ],
+        "ga": "garmheastachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ray"
+        ],
+        "ga": "gathán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "geometry"
+        ],
+        "ga": "geoiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gillion",
+            "American billion",
+            "109"
+        ],
+        "ga": "gilliún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pure mathematics"
+        ],
+        "ga": "glanmhatamaitic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nett weight",
+            "net weight"
+        ],
+        "ga": "glanmheáchan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "net yield",
+            "net result"
+        ],
+        "ga": "glantoradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vulgar fraction"
+        ],
+        "ga": "gnáthchodán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "normal rate"
+        ],
+        "ga": "gnáthráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "graph"
+        ],
+        "ga": "graf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "graphicacy"
+        ],
+        "ga": "grafacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "graph plotter"
+        ],
+        "ga": "grafbhreacaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gram",
+            "gramme",
+            "g"
+        ],
+        "ga": "gram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "grid"
+        ],
+        "ga": "greille",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gradient",
+            "grad"
+        ],
+        "ga": "grádán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "grouping"
+        ],
+        "ga": "grúpáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "instalment"
+        ],
+        "ga": "gála",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "acute angle"
+        ],
+        "ga": "géaruillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "steepness"
+        ],
+        "ga": "géire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hexomino"
+        ],
+        "ga": "heacsomanó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hexagram"
+        ],
+        "ga": "heicseagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hexiamond"
+        ],
+        "ga": "heicsiamant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hexahedron"
+        ],
+        "ga": "heicsihéadrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hectogram"
+        ],
+        "ga": "heicteagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hectare"
+        ],
+        "ga": "heicteár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hectolitre"
+        ],
+        "ga": "heictilítear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hectometre",
+            "hm"
+        ],
+        "ga": "heictiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heptagon"
+        ],
+        "ga": "heipteagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heptahedron"
+        ],
+        "ga": "heiptihéadrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "heuristics"
+        ],
+        "ga": "heorastaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hyperbola"
+        ],
+        "ga": "hipearbóil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "hyperbolicity"
+        ],
+        "ga": "hipearbóileacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hyperboloid"
+        ],
+        "ga": "hipearbólóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hypotrochoid"
+        ],
+        "ga": "hipeatrocóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hypocycloid"
+        ],
+        "ga": "hipicioglóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "homeomorphism"
+        ],
+        "ga": "hoiméamorfachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "closure"
+        ],
+        "ga": "iamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "balance"
+        ],
+        "ga": "iarmhéid",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "west",
+            "W"
+        ],
+        "ga": "iarthar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "icosidodecahedron"
+        ],
+        "ga": "iciseadóideacaihéadrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "intercept"
+        ],
+        "ga": "idirlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "intersection"
+        ],
+        "ga": "idirmhír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interpolation"
+        ],
+        "ga": "idirshuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "polyline"
+        ],
+        "ga": "il-líne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "manifold"
+        ],
+        "ga": "ilfhillteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "multiple root",
+            "repeated root"
+        ],
+        "ga": "ilfhréamh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "multiplex"
+        ],
+        "ga": "ilphléacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polynomial"
+        ],
+        "ga": "iltéarmach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "circumcircle"
+        ],
+        "ga": "imchiorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "departure"
+        ],
+        "ga": "imeacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "edge"
+        ],
+        "ga": "imeall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "circumcentre"
+        ],
+        "ga": "imlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "perimeter"
+        ],
+        "ga": "imlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "implication"
+        ],
+        "ga": "impleacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "invertibility"
+        ],
+        "ga": "in-inbhéartaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "variability"
+        ],
+        "ga": "inathraitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "inverse"
+        ],
+        "ga": "inbhéarta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "incircle"
+        ],
+        "ga": "inchiorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "increment"
+        ],
+        "ga": "incrimint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "perpendicular"
+        ],
+        "ga": "ingear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "perpendicularity"
+        ],
+        "ga": "ingearacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orthocentre"
+        ],
+        "ga": "ingearlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "inclusion"
+        ],
+        "ga": "iniamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "index"
+        ],
+        "ga": "innéacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "divisibility"
+        ],
+        "ga": "inroinnteacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "integrability"
+        ],
+        "ga": "insuimeálacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "injection"
+        ],
+        "ga": "inteilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "product"
+        ],
+        "ga": "iolrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "multiplicity"
+        ],
+        "ga": "iolracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "multiplier"
+        ],
+        "ga": "iolraitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "multiple"
+        ],
+        "ga": "iolraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "factorial"
+        ],
+        "ga": "iolrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "multiplication"
+        ],
+        "ga": "iolrúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "commutant"
+        ],
+        "ga": "iomalartaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "congruence"
+        ],
+        "ga": "iomchuibheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "total"
+        ],
+        "ga": "iomlán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "position"
+        ],
+        "ga": "ionad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "substitution"
+        ],
+        "ga": "ionadaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "place value"
+        ],
+        "ga": "ionadluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "substituent"
+        ],
+        "ga": "ionadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "substitute"
+        ],
+        "ga": "ionadán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "involute"
+        ],
+        "ga": "ionbhlóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ungula"
+        ],
+        "ga": "iongán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "integrand"
+        ],
+        "ga": "ionsuimeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "isogram"
+        ],
+        "ga": "iseagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "isomorphism"
+        ],
+        "ga": "iseamorfacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "isoplane"
+        ],
+        "ga": "iseaplána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "isostasy"
+        ],
+        "ga": "iseastatacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "isometry"
+        ],
+        "ga": "isiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "isoseismal"
+        ],
+        "ga": "isiseismeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lattice"
+        ],
+        "ga": "laitís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "allowance"
+        ],
+        "ga": "lamháltas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "bias"
+        ],
+        "ga": "laofacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "continuity"
+        ],
+        "ga": "leanúnachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "improper fraction",
+            "top-heavy fraction"
+        ],
+        "ga": "leaschodán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "semicircle",
+            "semi-circle"
+        ],
+        "ga": "leathchiorcal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "half share"
+        ],
+        "ga": "leathchuid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "half-width"
+        ],
+        "ga": "leathleithead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "half-line"
+        ],
+        "ga": "leathlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hemisphere"
+        ],
+        "ga": "leathsféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "half angle"
+        ],
+        "ga": "leathuillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "leveller"
+        ],
+        "ga": "leibhéalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lemniscate"
+        ],
+        "ga": "leimneascáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "width"
+        ],
+        "ga": "leithead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "breadth"
+        ],
+        "ga": "leithead",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "counter"
+        ],
+        "ga": "licín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "logarithm"
+        ],
+        "ga": "logartam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "log"
+        ],
+        "ga": "logartam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "value"
+        ],
+        "ga": "luach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "manipulative"
+        ],
+        "ga": "láimhseog",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "diameter"
+        ],
+        "ga": "lárlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "middle point",
+            "mid-point",
+            "midpoint"
+        ],
+        "ga": "lárphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "centre"
+        ],
+        "ga": "lárphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "central angle"
+        ],
+        "ga": "láruillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "illustration",
+            "graphic"
+        ],
+        "ga": "léaráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plateau"
+        ],
+        "ga": "léibheann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "explicit function"
+        ],
+        "ga": "léirfheidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "line"
+        ],
+        "ga": "líne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "linearity"
+        ],
+        "ga": "líneacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "line graph"
+        ],
+        "ga": "líneghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "line defect"
+        ],
+        "ga": "línelocht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "line symmetry"
+        ],
+        "ga": "líneshiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "line segment"
+        ],
+        "ga": "línetheascán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "limaçon"
+        ],
+        "ga": "líomasan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quotient"
+        ],
+        "ga": "líon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "network"
+        ],
+        "ga": "líonra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quotient space"
+        ],
+        "ga": "líonspás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "quotient topology"
+        ],
+        "ga": "líontoipeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "litre",
+            "l"
+        ],
+        "ga": "lítear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "link"
+        ],
+        "ga": "lúb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "parenthesis",
+            "bracket"
+        ],
+        "ga": "lúibín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mass"
+        ],
+        "ga": "mais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "mass number"
+        ],
+        "ga": "maisuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "opposite number"
+        ],
+        "ga": "malairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flatness"
+        ],
+        "ga": "maoile",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "obtuse angle"
+        ],
+        "ga": "maoluillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sale"
+        ],
+        "ga": "margadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mathematician"
+        ],
+        "ga": "matamaiticeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "megalitre"
+        ],
+        "ga": "meigilítear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "balance"
+        ],
+        "ga": "meá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "weighing scales",
+            "scale"
+        ],
+        "ga": "meá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "weight"
+        ],
+        "ga": "meáchan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mean zero"
+        ],
+        "ga": "meán-nialas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mean deviation"
+        ],
+        "ga": "meándiall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mean difference"
+        ],
+        "ga": "meándifríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mediator"
+        ],
+        "ga": "meáningear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "average speed"
+        ],
+        "ga": "meánluas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "median"
+        ],
+        "ga": "meánlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "milligram"
+        ],
+        "ga": "milleagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "millilitre",
+            "ml"
+        ],
+        "ga": "millilítear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "millimetre",
+            "millimeter",
+            "mm"
+        ],
+        "ga": "milliméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "million"
+        ],
+        "ga": "milliún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "minor axis"
+        ],
+        "ga": "mion-ais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "minor arc"
+        ],
+        "ga": "mionstua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minor segment"
+        ],
+        "ga": "mionteascán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minor"
+        ],
+        "ga": "mionúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mensuration"
+        ],
+        "ga": "miosúireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mode"
+        ],
+        "ga": "modh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mesh fraction"
+        ],
+        "ga": "mogallchodán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "meter"
+        ],
+        "ga": "méadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "metre stick",
+            "meterstick",
+            "meter stick"
+        ],
+        "ga": "méadarshlat",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "metric"
+        ],
+        "ga": "méadrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "finger calculation"
+        ],
+        "ga": "méaráireamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "amount"
+        ],
+        "ga": "méid",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "size"
+        ],
+        "ga": "méid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "thousand"
+        ],
+        "ga": "míle",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "minus"
+        ],
+        "ga": "míneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "abnormality"
+        ],
+        "ga": "mínormalacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "item"
+        ],
+        "ga": "mír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "segment"
+        ],
+        "ga": "mírlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "line segment"
+        ],
+        "ga": "mírlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mode"
+        ],
+        "ga": "mód",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "major arc"
+        ],
+        "ga": "mórstua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "major segment"
+        ],
+        "ga": "mórtheascán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "nanoscale"
+        ],
+        "ga": "nanascála",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "linkage"
+        ],
+        "ga": "nascáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "asymmetry"
+        ],
+        "ga": "neamhshiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "non-symmetry"
+        ],
+        "ga": "neamhshiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "approximate value"
+        ],
+        "ga": "neasluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "approximant"
+        ],
+        "ga": "neastacar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "approximation"
+        ],
+        "ga": "neastachán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "notation"
+        ],
+        "ga": "nodaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "normal"
+        ],
+        "ga": "normal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "normality"
+        ],
+        "ga": "normalacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "modern mathematics"
+        ],
+        "ga": "nuamhatamaitic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "nought"
+        ],
+        "ga": "náid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "napier",
+            "neper"
+        ],
+        "ga": "néipear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nomogram"
+        ],
+        "ga": "nómagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gnomon"
+        ],
+        "ga": "nóman",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "octagon"
+        ],
+        "ga": "ochtagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "octet"
+        ],
+        "ga": "ochtréad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "octode"
+        ],
+        "ga": "ochtóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "operand"
+        ],
+        "ga": "oibreann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "east",
+            "E"
+        ],
+        "ga": "oirthear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ordinate"
+        ],
+        "ga": "ordanáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "order relation"
+        ],
+        "ga": "ordghaol",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ordered pair"
+        ],
+        "ga": "ordphéire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ordered set"
+        ],
+        "ga": "ordtacar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "ordinal"
+        ],
+        "ga": "orduimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orthogon"
+        ],
+        "ga": "ortagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "orthogonality"
+        ],
+        "ga": "ortagánacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orthonormal"
+        ],
+        "ga": "ortanormal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "parcel"
+        ],
+        "ga": "pacáiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "parity"
+        ],
+        "ga": "paireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pantometer"
+        ],
+        "ga": "pantaiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "parabola"
+        ],
+        "ga": "parabóil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "parameter"
+        ],
+        "ga": "paraiméadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "phase"
+        ],
+        "ga": "pas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "phase space"
+        ],
+        "ga": "pas-spás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "phase group"
+        ],
+        "ga": "pasghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pentomino"
+        ],
+        "ga": "peantomanó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pentagram"
+        ],
+        "ga": "peinteagram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pentadecagon"
+        ],
+        "ga": "peintideacagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pentahedron"
+        ],
+        "ga": "peintihéadrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "perigon"
+        ],
+        "ga": "peireagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "peseta"
+        ],
+        "ga": "peseta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "penalty function"
+        ],
+        "ga": "pionósfheidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plus"
+        ],
+        "ga": "plus",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plane"
+        ],
+        "ga": "plána",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plane table"
+        ],
+        "ga": "plánchlár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plane motion"
+        ],
+        "ga": "plánghluaisne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "plane angle"
+        ],
+        "ga": "plánuillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "point"
+        ],
+        "ga": "pointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "polycube"
+        ],
+        "ga": "polaiciúb",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "polyomino"
+        ],
+        "ga": "polomanó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dot"
+        ],
+        "ga": "ponc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dot product"
+        ],
+        "ga": "ponciolrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dot notation"
+        ],
+        "ga": "poncnodaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "postulate"
+        ],
+        "ga": "postaláid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "price"
+        ],
+        "ga": "praghas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "predicate"
+        ],
+        "ga": "preideacáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "principal axis"
+        ],
+        "ga": "príomh-ais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "pro-numeral"
+        ],
+        "ga": "pró-uimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "probit"
+        ],
+        "ga": "próibit",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tent map"
+        ],
+        "ga": "puballmhapa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pound"
+        ],
+        "ga": "punt",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "partial isometry"
+        ],
+        "ga": "páirt-isiméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "partial product"
+        ],
+        "ga": "páirt-toradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "partial fraction"
+        ],
+        "ga": "páirtchodán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "partial derivative"
+        ],
+        "ga": "páirtdíorthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "partial sum"
+        ],
+        "ga": "páirtsuim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "partial integral"
+        ],
+        "ga": "páirtsuimeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pair"
+        ],
+        "ga": "péire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pi"
+        ],
+        "ga": "pí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pie chart"
+        ],
+        "ga": "píchairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pie graph"
+        ],
+        "ga": "píghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "radicand"
+        ],
+        "ga": "radacann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "radian"
+        ],
+        "ga": "raidian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "partition"
+        ],
+        "ga": "rann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dividend"
+        ],
+        "ga": "rannann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "range"
+        ],
+        "ga": "raon",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "straight edge"
+        ],
+        "ga": "riailchiumhais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "rule",
+            "ruler"
+        ],
+        "ga": "rialóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trace",
+            "path"
+        ],
+        "ga": "rian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tracer"
+        ],
+        "ga": "rianaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "corner"
+        ],
+        "ga": "rinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vertex"
+        ],
+        "ga": "rinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rhombicosidodecahedron"
+        ],
+        "ga": "roimbiciseadóideacaihéadrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "division"
+        ],
+        "ga": "roinnt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "divider"
+        ],
+        "ga": "roinnteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "divisor"
+        ],
+        "ga": "roinnteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rhombohedron"
+        ],
+        "ga": "rombaihéadrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rhombus"
+        ],
+        "ga": "rombas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rhomboid"
+        ],
+        "ga": "rombóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "loxodrome",
+            "rhumb line"
+        ],
+        "ga": "rumlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "statement"
+        ],
+        "ga": "ráiteas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rate equation"
+        ],
+        "ga": "rátachothromóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "even number"
+        ],
+        "ga": "ré-uimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "object"
+        ],
+        "ga": "réad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "real number"
+        ],
+        "ga": "réaduimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prediction",
+            "scientifically performed estimate"
+        ],
+        "ga": "réamh-mheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "reconnaissance"
+        ],
+        "ga": "réamhshuirbhé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "antecedent"
+        ],
+        "ga": "réamhtheachtach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "field theory"
+        ],
+        "ga": "réimsetheoiric",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solution"
+        ],
+        "ga": "réiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "root"
+        ],
+        "ga": "réiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "even parity"
+        ],
+        "ga": "réphaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "arrow graph",
+            "arrowgraph"
+        ],
+        "ga": "saigheadghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "arrow diagram"
+        ],
+        "ga": "saigheadléaráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "characteristic equation"
+        ],
+        "ga": "sainchothromóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "characteristic curve",
+            "characteristic"
+        ],
+        "ga": "sainchuar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "characteristic length"
+        ],
+        "ga": "sainfhad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "characteristic function"
+        ],
+        "ga": "sainfheidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "specific theorem"
+        ],
+        "ga": "sainteoirim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "characteristic"
+        ],
+        "ga": "sainuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sale"
+        ],
+        "ga": "saor-reic",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "free line"
+        ],
+        "ga": "saorlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scattergraph",
+            "scatter graph"
+        ],
+        "ga": "scaipghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scatter plot",
+            "scatter diagram"
+        ],
+        "ga": "scaipghram",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "share"
+        ],
+        "ga": "sciar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scale"
+        ],
+        "ga": "scála",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "chance"
+        ],
+        "ga": "seansúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "secant"
+        ],
+        "ga": "seiceant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "check",
+            "checking"
+        ],
+        "ga": "seiceáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "check",
+            "checking"
+        ],
+        "ga": "seiceáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "progression"
+        ],
+        "ga": "seicheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sequence"
+        ],
+        "ga": "seicheamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sextillion"
+        ],
+        "ga": "seisilliún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sphere"
+        ],
+        "ga": "sféar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spheroidicity"
+        ],
+        "ga": "sféaróideacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "simplex"
+        ],
+        "ga": "simpléacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "symmetry"
+        ],
+        "ga": "siméadracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "yard"
+        ],
+        "ga": "slat",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "edge"
+        ],
+        "ga": "slios",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "expression"
+        ],
+        "ga": "slonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "complete reducibility"
+        ],
+        "ga": "slán-inlaghdaitheacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "perfect square"
+        ],
+        "ga": "slánchearnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "aliquot",
+            "aliquot part"
+        ],
+        "ga": "slánchuid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "total-differential"
+        ],
+        "ga": "slándifreálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "integral domain"
+        ],
+        "ga": "slánfhearann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "complete space"
+        ],
+        "ga": "slánspás",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "round sum"
+        ],
+        "ga": "slánsuim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "integer",
+            "whole number"
+        ],
+        "ga": "slánuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "integers"
+        ],
+        "ga": "slánuimhreacha",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "floating point"
+        ],
+        "ga": "snámhphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "container"
+        ],
+        "ga": "soitheach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "solid"
+        ],
+        "ga": "solad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cylinder"
+        ],
+        "ga": "sorcóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "objective function"
+        ],
+        "ga": "spriocfheidhm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "space group"
+        ],
+        "ga": "spásghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "row"
+        ],
+        "ga": "sraith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "series limit"
+        ],
+        "ga": "sraith-theorainn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "series connection"
+        ],
+        "ga": "sraithnasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "series solution"
+        ],
+        "ga": "sraithréiteach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "serial number"
+        ],
+        "ga": "sraithuimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "flow diagram"
+        ],
+        "ga": "sreabhléaráid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rod"
+        ],
+        "ga": "stafóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "staff"
+        ],
+        "ga": "stafóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "state variable"
+        ],
+        "ga": "staid-athróg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "statistics"
+        ],
+        "ga": "staidreamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "statistic"
+        ],
+        "ga": "staidreamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "statistic"
+        ],
+        "ga": "staitistic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "steradian"
+        ],
+        "ga": "stearaidian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sterling",
+            "stg"
+        ],
+        "ga": "steirling",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "strip"
+        ],
+        "ga": "stiall",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "strophoid"
+        ],
+        "ga": "strofóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "arc"
+        ],
+        "ga": "stua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "vertex"
+        ],
+        "ga": "stuaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "arc elasticity"
+        ],
+        "ga": "stualeaisteachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sum"
+        ],
+        "ga": "suim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "disjunction"
+        ],
+        "ga": "suim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "integration"
+        ],
+        "ga": "suimeáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "integral"
+        ],
+        "ga": "suimeálaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "survey"
+        ],
+        "ga": "suirbhé",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "surd"
+        ],
+        "ga": "surda",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "location",
+            "situation",
+            "setting",
+            "position"
+        ],
+        "ga": "suíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "position"
+        ],
+        "ga": "suíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "position vector"
+        ],
+        "ga": "suíomhveicteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "osculation"
+        ],
+        "ga": "sárthadhall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "index"
+        ],
+        "ga": "séan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sine",
+            "sin"
+        ],
+        "ga": "síneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sinusoid"
+        ],
+        "ga": "síneasóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "soma cube"
+        ],
+        "ga": "sómachiúb",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pseudotensor",
+            "pseudo-tensor"
+        ],
+        "ga": "súdaiteinseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pseudo-scalar"
+        ],
+        "ga": "súdascálach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tableau"
+        ],
+        "ga": "tabló",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "set"
+        ],
+        "ga": "tacar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "set theory"
+        ],
+        "ga": "tacartheoiric",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "contact"
+        ],
+        "ga": "tadhall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tangential component"
+        ],
+        "ga": "tadhallchuidí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tangent"
+        ],
+        "ga": "tadhlaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tangency"
+        ],
+        "ga": "tadhlaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "resolution",
+            "res."
+        ],
+        "ga": "taifeach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "proposition"
+        ],
+        "ga": "tairiscint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "constant"
+        ],
+        "ga": "tairiseach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tan",
+            "tangent"
+        ],
+        "ga": "tangant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "side"
+        ],
+        "ga": "taobh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hypotenuse"
+        ],
+        "ga": "taobhagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "square offset"
+        ],
+        "ga": "taobhingear",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "arrival"
+        ],
+        "ga": "teacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "combination"
+        ],
+        "ga": "teaglaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "event"
+        ],
+        "ga": "teagmhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "truncate"
+        ],
+        "ga": "teasc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "secant"
+        ],
+        "ga": "teascaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "segment"
+        ],
+        "ga": "teascán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tetromino"
+        ],
+        "ga": "teatromanó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "projectile"
+        ],
+        "ga": "teilgeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tensor"
+        ],
+        "ga": "teinseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "therm"
+        ],
+        "ga": "teirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "theorem"
+        ],
+        "ga": "teoirim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "fall"
+        ],
+        "ga": "titim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thickness"
+        ],
+        "ga": "tiús",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "volume"
+        ],
+        "ga": "toirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "measure"
+        ],
+        "ga": "toise",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "measure"
+        ],
+        "ga": "toise",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "measurement"
+        ],
+        "ga": "toise",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rectifying"
+        ],
+        "ga": "tomhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "measurement"
+        ],
+        "ga": "tomhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tonne"
+        ],
+        "ga": "tona",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "product"
+        ],
+        "ga": "toradh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "toroidal"
+        ],
+        "ga": "toróideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trapezoid"
+        ],
+        "ga": "traipéasóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "trapezium"
+        ],
+        "ga": "traipéisiam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "cross ratio"
+        ],
+        "ga": "traschóimheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "transform"
+        ],
+        "ga": "trasfhoirm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cross product",
+            "vector cross product",
+            "vector product"
+        ],
+        "ga": "trasiolrach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "transversal"
+        ],
+        "ga": "trasnaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transversality"
+        ],
+        "ga": "trasnaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "transverse"
+        ],
+        "ga": "trasnáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "diagonal"
+        ],
+        "ga": "trasnán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "intercept"
+        ],
+        "ga": "trasphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "diameter"
+        ],
+        "ga": "trastomhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "transposition"
+        ],
+        "ga": "trasuíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "direction"
+        ],
+        "ga": "treo",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "direction cosine"
+        ],
+        "ga": "treo-chomhshíneas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bearing"
+        ],
+        "ga": "treo-uillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trend"
+        ],
+        "ga": "treocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "directional derivative"
+        ],
+        "ga": "treodhíorthach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trend graph"
+        ],
+        "ga": "treoghraf",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "index property"
+        ],
+        "ga": "treoir-airí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "index contour"
+        ],
+        "ga": "treoir-chomhrian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "index cycle"
+        ],
+        "ga": "treoir-thimthriall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "directrix"
+        ],
+        "ga": "treoirlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "director"
+        ],
+        "ga": "treoraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "triamond"
+        ],
+        "ga": "triamant",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "third"
+        ],
+        "ga": "trian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trigonometry"
+        ],
+        "ga": "triantánacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trillion"
+        ],
+        "ga": "trilliún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trochoid"
+        ],
+        "ga": "trocóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "foot"
+        ],
+        "ga": "troigh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tromino"
+        ],
+        "ga": "tromanó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trisection"
+        ],
+        "ga": "tríroinnt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "trisectrix"
+        ],
+        "ga": "tríroinnteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "north",
+            "N"
+        ],
+        "ga": "tuaisceart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anticlockwise direction",
+            "anti-clockwise direction",
+            "counterclockwise direction",
+            "left-hand direction"
+        ],
+        "ga": "tuathal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "forward difference"
+        ],
+        "ga": "tuldifríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "table"
+        ],
+        "ga": "tábla",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "indicatrix"
+        ],
+        "ga": "táscóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "construction"
+        ],
+        "ga": "tógáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "initial vector"
+        ],
+        "ga": "túsveicteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hour",
+            "h"
+        ],
+        "ga": "uair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "hour rate",
+            "hourly rate"
+        ],
+        "ga": "uair-ráta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "hour angle",
+            "hour-angle"
+        ],
+        "ga": "uair-uillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maximal subgroup"
+        ],
+        "ga": "uas-fhoghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "maximum value",
+            "maximum"
+        ],
+        "ga": "uasluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "maximum point"
+        ],
+        "ga": "uasphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "automorphism"
+        ],
+        "ga": "uathmhorfacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "oval"
+        ],
+        "ga": "ubhchruth",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ovoid"
+        ],
+        "ga": "ubhchruthóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "universal set"
+        ],
+        "ga": "uilethacar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "angle"
+        ],
+        "ga": "uillinn",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "angle criterion"
+        ],
+        "ga": "uillinnchritéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "protractor"
+        ],
+        "ga": "uillinntomhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "number",
+            "no."
+        ],
+        "ga": "uimhir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "number sentence"
+        ],
+        "ga": "uimhir-abairt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "number field"
+        ],
+        "ga": "uimhir-réimse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "number base"
+        ],
+        "ga": "uimhirbhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "number system"
+        ],
+        "ga": "uimhirchóras",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "number word"
+        ],
+        "ga": "uimhirfhocal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "number line",
+            "number-line"
+        ],
+        "ga": "uimhirlíne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "number balance"
+        ],
+        "ga": "uimhirmheá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "number theory"
+        ],
+        "ga": "uimhirtheoiric",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "number term"
+        ],
+        "ga": "uimhirthéarma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "arithmagon"
+        ],
+        "ga": "uimhreagán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "number"
+        ],
+        "ga": "uimhreas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "numerator"
+        ],
+        "ga": "uimhreoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "arithmetic"
+        ],
+        "ga": "uimhríocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "instrument"
+        ],
+        "ga": "uirlis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "vector"
+        ],
+        "ga": "veicteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "versor"
+        ],
+        "ga": "veirseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "x-axis"
+        ],
+        "ga": "x-ais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "x-coordinate"
+        ],
+        "ga": "x-chomhordanáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "x-value"
+        ],
+        "ga": "x-luach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "y-axis"
+        ],
+        "ga": "y-ais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "y-coordinate"
+        ],
+        "ga": "y-chomhordanáid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "y-value"
+        ],
+        "ga": "y-luach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subject"
+        ],
+        "ga": "ábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "calculation"
+        ],
+        "ga": "áireamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "calculation"
+        ],
+        "ga": "áireamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "are",
+            "a"
+        ],
+        "ga": "ár",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "evolute"
+        ],
+        "ga": "éabhlóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "inequality"
+        ],
+        "ga": "éagothroime",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "inequation"
+        ],
+        "ga": "éagothromóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "inequality"
+        ],
+        "ga": "éagothromóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "down payment",
+            "payment on account",
+            "deposit"
+        ],
+        "ga": "éarlais",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "repeller"
+        ],
+        "ga": "éarthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "infinity"
+        ],
+        "ga": "éigríoch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ellipsoid"
+        ],
+        "ga": "éileapsóideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "ellipse"
+        ],
+        "ga": "éilips",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "image"
+        ],
+        "ga": "íomhá",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "least square"
+        ],
+        "ga": "íoschearnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "minimum value",
+            "minimum"
+        ],
+        "ga": "íosluach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "interest"
+        ],
+        "ga": "ús",
+        "gender": "masculine"
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "agar"
+        ],
+        "ga": "agar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "2-(4-aminobutyl)guanidine",
+            "agmatine"
+        ],
+        "ga": "agmaitín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acinetobacter"
+        ],
+        "ga": "aicinéatabaictéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "acetobacter",
+            "vinegar bacteria"
+        ],
+        "ga": "aicéatabaictéar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "E. coli L-asparagine amidohydrolase",
+            "asparaginase"
+        ],
+        "ga": "asparaigionáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bacteriostat",
+            "bacteriostatic"
+        ],
+        "ga": "baictéarastat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "biovolume"
+        ],
+        "ga": "biotoirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "biomechanics"
+        ],
+        "ga": "bithmheicnic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pentane-1,5-diamine",
+            "cadaverine"
+        ],
+        "ga": "cadavairín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quad",
+            "quadruplet"
+        ],
+        "ga": "ceathrairín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chemotaxis"
+        ],
+        "ga": "ceimealuadar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cysticercosis",
+            "beef cysticercosis",
+            "beef measles",
+            "bovine cysticercosis"
+        ],
+        "ga": "cisticearcóis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cryptococcus"
+        ],
+        "ga": "cripteacocas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "casein-sucrose-yeast"
+        ],
+        "ga": "cáiséin/siúcrós/giosta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "quintuplet"
+        ],
+        "ga": "cúigrín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "17β-hydroxysteroid dehydrogenase ",
+            "17-beta-hydroxysteroid dehydrogenase",
+            "17 beta-hydroxysteroid dehydrogenase",
+            "17β-HSD"
+        ],
+        "ga": "dihidrigionáis-17-béite-hiodrocsastéaróidigh",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "artefact"
+        ],
+        "ga": "déantán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "enterococcus"
+        ],
+        "ga": "eintreacocas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "eosin"
+        ],
+        "ga": "eoisin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "enhancer"
+        ],
+        "ga": "feabhsaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "idiotope"
+        ],
+        "ga": "iditíopa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "immunoblot"
+        ],
+        "ga": "imdhíonbhlab",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "lactobacillus"
+        ],
+        "ga": "lachtbhachaillín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "listeria"
+        ],
+        "ga": "listéire",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "whole virus"
+        ],
+        "ga": "lánvíreas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "methanogenesis"
+        ],
+        "ga": "meatánaigineas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "micrococcus"
+        ],
+        "ga": "micreacocas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "microbiologist"
+        ],
+        "ga": "micribhitheolaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mycoprotein"
+        ],
+        "ga": "míceaphróitéin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prion",
+            "PrP",
+            "prion protein",
+            "proteinase-resistant protein",
+            "protease-resistant protein"
+        ],
+        "ga": "prión",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "butane-1,4-diamine",
+            "putrescine"
+        ],
+        "ga": "pútraiscín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sarkomycin"
+        ],
+        "ga": "sarcaimícin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "spectinomycin"
+        ],
+        "ga": "speictinimícin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "stock culture"
+        ],
+        "ga": "stocshaothrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "streptomyces"
+        ],
+        "ga": "streiptimíceas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "4-(2-aminoethyl)phenol",
+            "tyramine"
+        ],
+        "ga": "tioraimín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "thyrostat"
+        ],
+        "ga": "tíreastat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "verotoxin"
+        ],
+        "ga": "véaratocsain",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "virion"
+        ],
+        "ga": "víorón",
+        "gender": "masculine"
+    }
+]

@@ -1,0 +1,171 @@
+[
+    {
+        "declension": 5,
+        "en": [
+            "highchair"
+        ],
+        "ga": "ardchathaoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "banister"
+        ],
+        "ga": "banastar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bench"
+        ],
+        "ga": "binse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "table"
+        ],
+        "ga": "bord",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cabinet"
+        ],
+        "ga": "caibinéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "chair"
+        ],
+        "ga": "cathaoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "musical cabinet"
+        ],
+        "ga": "ceolchaibinéad",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "basketware"
+        ],
+        "ga": "cis-earraí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cot"
+        ],
+        "ga": "cruib",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "press"
+        ],
+        "ga": "cófra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "pooch bed"
+        ],
+        "ga": "cúil-leaba",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sink"
+        ],
+        "ga": "doirteal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fireplace surround"
+        ],
+        "ga": "forthinteán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "iroko",
+            "African teak"
+        ],
+        "ga": "iorócó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "bail handle"
+        ],
+        "ga": "lúb",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mantelpiece"
+        ],
+        "ga": "matal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "podium"
+        ],
+        "ga": "póidiam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "suite"
+        ],
+        "ga": "svuít",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "mattress"
+        ],
+        "ga": "tocht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "furniture"
+        ],
+        "ga": "troscán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "wenge"
+        ],
+        "ga": "uainge",
+        "gender": "masculine"
+    }
+]

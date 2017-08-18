@@ -1,0 +1,981 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "ocean blue"
+        ],
+        "ga": "aigéanghorm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "alizarin"
+        ],
+        "ga": "alasairín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tan"
+        ],
+        "ga": "bearcáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "primary colour"
+        ],
+        "ga": "bundath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "burgundy"
+        ],
+        "ga": "burgúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "yellow"
+        ],
+        "ga": "buí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "yellow-brown"
+        ],
+        "ga": "buídhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "yellow-green"
+        ],
+        "ga": "buíghlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "white"
+        ],
+        "ga": "bán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pale blue"
+        ],
+        "ga": "bánghorm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bistre",
+            "bister"
+        ],
+        "ga": "bíostar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "khaki"
+        ],
+        "ga": "caicí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cadmium"
+        ],
+        "ga": "caidmiam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "carmine"
+        ],
+        "ga": "cairmín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cyan"
+        ],
+        "ga": "cian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "cyan-blue",
+            "cyan"
+        ],
+        "ga": "cian",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "midnight black"
+        ],
+        "ga": "ciardhubh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "flesh tint",
+            "flesh-tint"
+        ],
+        "ga": "cneaslí",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "coral"
+        ],
+        "ga": "coiréalach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crimson"
+        ],
+        "ga": "corcairdhearg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "purple-brown"
+        ],
+        "ga": "corcairdhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "violet"
+        ],
+        "ga": "corcairghorm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "purple"
+        ],
+        "ga": "corcra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bronze"
+        ],
+        "ga": "cré-umha",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "earth colour"
+        ],
+        "ga": "crédhath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "orange-yellow"
+        ],
+        "ga": "cróchbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orange-red"
+        ],
+        "ga": "cróchdhearg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orange brown"
+        ],
+        "ga": "cróchdhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blood-red",
+            "crimson colour",
+            "crimson"
+        ],
+        "ga": "cródhearg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chrome yellow"
+        ],
+        "ga": "crómbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "chromium oxide"
+        ],
+        "ga": "crómocsaíd",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chestnut"
+        ],
+        "ga": "crón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tan"
+        ],
+        "ga": "crón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "copper-beech"
+        ],
+        "ga": "crónchopar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "quinacridone"
+        ],
+        "ga": "cuineacradón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cocoa"
+        ],
+        "ga": "cócó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "red"
+        ],
+        "ga": "dearg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "red-purple"
+        ],
+        "ga": "deargchorcra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "plain brown"
+        ],
+        "ga": "donn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brown"
+        ],
+        "ga": "donn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "brownish-yellow"
+        ],
+        "ga": "donnbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "buff-white"
+        ],
+        "ga": "donnbhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brownish-green"
+        ],
+        "ga": "donnghlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "brownish-grey"
+        ],
+        "ga": "donnliath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "brick-red"
+        ],
+        "ga": "donnrua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chocolate-brown"
+        ],
+        "ga": "donnrua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bay"
+        ],
+        "ga": "donnrua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "chestnut"
+        ],
+        "ga": "donnrua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "russet"
+        ],
+        "ga": "donnrua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "black"
+        ],
+        "ga": "dubh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dark teal"
+        ],
+        "ga": "dú-théalghorm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dark yellow"
+        ],
+        "ga": "dúbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dark purple"
+        ],
+        "ga": "dúchorcra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bottle-green"
+        ],
+        "ga": "dúghlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dark green"
+        ],
+        "ga": "dúghlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "buff-brown"
+        ],
+        "ga": "fionndonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "light grey"
+        ],
+        "ga": "fionnliath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "vermillion",
+            "vermilion"
+        ],
+        "ga": "flanndearg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sand"
+        ],
+        "ga": "gaineamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gamboge"
+        ],
+        "ga": "gambóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "silver-yellow"
+        ],
+        "ga": "gealbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aurora yellow"
+        ],
+        "ga": "gealánbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "yellowish-green",
+            "olive-green"
+        ],
+        "ga": "glasbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "green brown"
+        ],
+        "ga": "glasdonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "olive-grey"
+        ],
+        "ga": "glasliath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "green-grey"
+        ],
+        "ga": "glasliath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bright green"
+        ],
+        "ga": "gléghlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blue"
+        ],
+        "ga": "gorm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "bluish purple"
+        ],
+        "ga": "gormchorcra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "blue-purple"
+        ],
+        "ga": "gormchorcra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blue-black"
+        ],
+        "ga": "gormdhubh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "blue-green",
+            "blue green"
+        ],
+        "ga": "gormuaine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "blue-violet"
+        ],
+        "ga": "gormvialait",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sun yellow"
+        ],
+        "ga": "grianbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gun-metal"
+        ],
+        "ga": "gunnamhiotal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "indigo"
+        ],
+        "ga": "indeagó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lavender"
+        ],
+        "ga": "labhandar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mouse-brown"
+        ],
+        "ga": "leamhdhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grey-brown"
+        ],
+        "ga": "liathdhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "blue-silver"
+        ],
+        "ga": "liathgheal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "grey green"
+        ],
+        "ga": "liathghlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lake"
+        ],
+        "ga": "léic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "lime green"
+        ],
+        "ga": "líoma-ghlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "madder"
+        ],
+        "ga": "madar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "magenta"
+        ],
+        "ga": "maigeanta",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "faint pink"
+        ],
+        "ga": "meath-bhándearg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "faint white"
+        ],
+        "ga": "meathbhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "metamerism"
+        ],
+        "ga": "meitiméireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "medium red"
+        ],
+        "ga": "meándearg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "seagreen"
+        ],
+        "ga": "muirghlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "mustard"
+        ],
+        "ga": "mustard",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mustard yellow"
+        ],
+        "ga": "mustardbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "off white",
+            "off-white"
+        ],
+        "ga": "neasbhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "pearly white"
+        ],
+        "ga": "niamhbhán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "metallic blue"
+        ],
+        "ga": "niamhghorm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ice blue"
+        ],
+        "ga": "oighearghorm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "orange"
+        ],
+        "ga": "oráiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "fawn"
+        ],
+        "ga": "osbhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plum"
+        ],
+        "ga": "plumchorcra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "rust"
+        ],
+        "ga": "rua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dyer"
+        ],
+        "ga": "ruaimneoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rich brown"
+        ],
+        "ga": "rídhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rose pink"
+        ],
+        "ga": "rós-bhándearg",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "willow",
+            "willow-green"
+        ],
+        "ga": "sailghlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "dirty brown"
+        ],
+        "ga": "smúrdhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "spectrum yellow"
+        ],
+        "ga": "speictreambhuí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "sky-blue"
+        ],
+        "ga": "spéirghorm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sepia"
+        ],
+        "ga": "séipia",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "technicolour"
+        ],
+        "ga": "teicnidhath",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "turquoise"
+        ],
+        "ga": "turcaid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "turquoise blue"
+        ],
+        "ga": "turcaidghorm",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "teal"
+        ],
+        "ga": "téal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "taupe"
+        ],
+        "ga": "tóp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "green"
+        ],
+        "ga": "uaine",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ultramarine"
+        ],
+        "ga": "ultramhuiríneach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bronze-green"
+        ],
+        "ga": "umha-ghlas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "viridian",
+            "veridian"
+        ],
+        "ga": "virideach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "ochre"
+        ],
+        "ga": "ócar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "gold"
+        ],
+        "ga": "ór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "golden-brown"
+        ],
+        "ga": "órdhonn",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "golden brown"
+        ],
+        "ga": "órdhonn",
+        "gender": "masculine"
+    }
+]

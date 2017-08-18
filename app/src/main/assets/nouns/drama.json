@@ -1,0 +1,2177 @@
+[
+    {
+        "declension": 1,
+        "en": [
+            "Aeschylus"
+        ],
+        "ga": "Aescaileas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Dada"
+        ],
+        "ga": "Dadachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Dadaism"
+        ],
+        "ga": "Dadachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Pantaloon"
+        ],
+        "ga": "Pantalún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Romanticism"
+        ],
+        "ga": "Rómánsachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "aesthete"
+        ],
+        "ga": "aeistéitire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "colloquy"
+        ],
+        "ga": "agallamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "afterpiece"
+        ],
+        "ga": "aguisín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "agon"
+        ],
+        "ga": "agón",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "archetype"
+        ],
+        "ga": "aircitíopa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "percipient"
+        ],
+        "ga": "airitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "harlequin"
+        ],
+        "ga": "airleacán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "actor"
+        ],
+        "ga": "aisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "player",
+            "actor"
+        ],
+        "ga": "aisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "actress"
+        ],
+        "ga": "aisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "thespian"
+        ],
+        "ga": "aisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "acting"
+        ],
+        "ga": "aisteoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "mimesis",
+            "imitation"
+        ],
+        "ga": "aithris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "recitation"
+        ],
+        "ga": "aithriseoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "theatre"
+        ],
+        "ga": "amharclannaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "theatre-maker"
+        ],
+        "ga": "amharclannóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "anagnorisis"
+        ],
+        "ga": "anagnairisis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lampoon",
+            "satire"
+        ],
+        "ga": "aoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "curtain call"
+        ],
+        "ga": "athghairm",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "heroine"
+        ],
+        "ga": "banlaoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "biography"
+        ],
+        "ga": "beathaisnéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "villain"
+        ],
+        "ga": "bithiúnach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "biomechanics"
+        ],
+        "ga": "bithmheicnic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "blocking"
+        ],
+        "ga": "blocáil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "clown"
+        ],
+        "ga": "bobaide",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "curtain"
+        ],
+        "ga": "brat",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "observer",
+            "spectator",
+            "viewer"
+        ],
+        "ga": "breathnóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "climax"
+        ],
+        "ga": "buaicphointe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "original play"
+        ],
+        "ga": "bundráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "elision"
+        ],
+        "ga": "bá",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "muse"
+        ],
+        "ga": "bé",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "speech"
+        ],
+        "ga": "caint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "canticum"
+        ],
+        "ga": "caintic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "caricature"
+        ],
+        "ga": "caracatúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "character"
+        ],
+        "ga": "carachtar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "characterisation",
+            "characterization"
+        ],
+        "ga": "carachtracht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "catharsis"
+        ],
+        "ga": "catairsis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "catastrophe"
+        ],
+        "ga": "catastróf",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "catastasis"
+        ],
+        "ga": "catastáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "composition"
+        ],
+        "ga": "ceapadóireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "extempore verse"
+        ],
+        "ga": "ceapóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "musical theatre"
+        ],
+        "ga": "ceolamharclannaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "opera"
+        ],
+        "ga": "ceoldráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "operatic art",
+            "opera"
+        ],
+        "ga": "ceoldrámaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "censorship"
+        ],
+        "ga": "cinsireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "cue"
+        ],
+        "ga": "ciú",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "rehearsal"
+        ],
+        "ga": "cleachtadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "mummer"
+        ],
+        "ga": "cleamaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "joker"
+        ],
+        "ga": "cleasaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "cast"
+        ],
+        "ga": "cliar",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "audiovisual theatre"
+        ],
+        "ga": "closamharclann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "foil"
+        ],
+        "ga": "codarsnacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "conflict"
+        ],
+        "ga": "coimhlint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "distancing"
+        ],
+        "ga": "coimhthíos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "bardic rhyme"
+        ],
+        "ga": "comhardadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "collective"
+        ],
+        "ga": "comharghrúpa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "joint workshop"
+        ],
+        "ga": "comhcheardlann",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "parallelism"
+        ],
+        "ga": "comhthreomhaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "context"
+        ],
+        "ga": "comhthéacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "criticism"
+        ],
+        "ga": "critic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "critic",
+            "reviewer"
+        ],
+        "ga": "criticeoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "critique"
+        ],
+        "ga": "critíc",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "jester"
+        ],
+        "ga": "crosán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "ending"
+        ],
+        "ga": "críoch",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "guild"
+        ],
+        "ga": "cuallacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "decorum"
+        ],
+        "ga": "cuibhiúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "costumery",
+            "dress"
+        ],
+        "ga": "culaith",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "protasis"
+        ],
+        "ga": "céadbheart",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "chorus"
+        ],
+        "ga": "cór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "coryphaeus"
+        ],
+        "ga": "córchinnire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "backdrop"
+        ],
+        "ga": "cúlra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "designer"
+        ],
+        "ga": "dearthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dialectics",
+            "dialectic"
+        ],
+        "ga": "dialachtaic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dialogue"
+        ],
+        "ga": "dialóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "royalty"
+        ],
+        "ga": "dleacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "baddie"
+        ],
+        "ga": "do-dhuine",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "expression"
+        ],
+        "ga": "dreach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stage-play",
+            "play",
+            "drama"
+        ],
+        "ga": "dráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "dramatist",
+            "playwright"
+        ],
+        "ga": "drámadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "drama",
+            "dramatic art"
+        ],
+        "ga": "drámaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "dualogue",
+            "duologue"
+        ],
+        "ga": "délóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "buff"
+        ],
+        "ga": "díograiseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "otherness",
+            "alterity"
+        ],
+        "ga": "eachtarthacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "exodus"
+        ],
+        "ga": "eacsadas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "interlude"
+        ],
+        "ga": "eadarlúid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "epode"
+        ],
+        "ga": "eapóid",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "epilogue"
+        ],
+        "ga": "eipealóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "epitasis"
+        ],
+        "ga": "eipeatáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "expressionism"
+        ],
+        "ga": "eispriseanachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "expressionist"
+        ],
+        "ga": "eispriseanaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sub-plot"
+        ],
+        "ga": "fo-phlota",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "subtext"
+        ],
+        "ga": "fo-théacs",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "proscenium arch"
+        ],
+        "ga": "forstua",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "anti-theatre"
+        ],
+        "ga": "frithamharclannaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "anti-hero"
+        ],
+        "ga": "frithlaoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "antimasque"
+        ],
+        "ga": "frithmhasc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "anti-realist"
+        ],
+        "ga": "frithréalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "antistrophe"
+        ],
+        "ga": "frithstróf",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "antithesis"
+        ],
+        "ga": "fritéis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "farce"
+        ],
+        "ga": "fronsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "sound"
+        ],
+        "ga": "fuaim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "acoustics"
+        ],
+        "ga": "fuaimíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "resolution"
+        ],
+        "ga": "fuascailt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comedian"
+        ],
+        "ga": "fuirseoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "allegory"
+        ],
+        "ga": "fáthscéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "allegorist"
+        ],
+        "ga": "fáthscéalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "soliloquy"
+        ],
+        "ga": "féinuiríoll",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "video"
+        ],
+        "ga": "físeán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "pantomime"
+        ],
+        "ga": "geamaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "comic drama",
+            "comedy"
+        ],
+        "ga": "geandrámaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "short play"
+        ],
+        "ga": "gearrdhráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "move"
+        ],
+        "ga": "gluaiseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "featured actor"
+        ],
+        "ga": "gné-aisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "action"
+        ],
+        "ga": "gníomhaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "gestus"
+        ],
+        "ga": "goic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "award"
+        ],
+        "ga": "gradam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tragicomedy",
+            "tragi-comedy"
+        ],
+        "ga": "greanntraigéide",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "voice-over artist"
+        ],
+        "ga": "guthóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gobo"
+        ],
+        "ga": "góbó",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "postmodernism",
+            "post-modernism"
+        ],
+        "ga": "iar-nua-aoiseachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "post-modernist"
+        ],
+        "ga": "iar-nua-aoisí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "post-colonialism",
+            "postcolonialism "
+        ],
+        "ga": "iarchoilíneachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "post-structuralism"
+        ],
+        "ga": "iarstruchtúrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "intertextuality"
+        ],
+        "ga": "idirthéacsúlacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "variorum edition"
+        ],
+        "ga": "ileagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "variorum"
+        ],
+        "ga": "ileagrán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "vaudeville",
+            "variety show",
+            "revue"
+        ],
+        "ga": "ilsiamsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "exit"
+        ],
+        "ga": "imeacht",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "fringe"
+        ],
+        "ga": "imeall",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "gender"
+        ],
+        "ga": "inscne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "narrative",
+            "narration"
+        ],
+        "ga": "insint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "behaviour"
+        ],
+        "ga": "iompar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "hero"
+        ],
+        "ga": "laoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "couplet"
+        ],
+        "ga": "leathrann",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "prompter"
+        ],
+        "ga": "leideoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "comedy of humours"
+        ],
+        "ga": "lionnchoiméide",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "orchestra pit"
+        ],
+        "ga": "log",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "total theatre"
+        ],
+        "ga": "lán-amharclannaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "reading"
+        ],
+        "ga": "léamh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "director"
+        ],
+        "ga": "léiritheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "production"
+        ],
+        "ga": "léiriúchán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "review",
+            "assessment"
+        ],
+        "ga": "léirmheas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "line"
+        ],
+        "ga": "líne",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sung dialogue"
+        ],
+        "ga": "lúibín",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "replica",
+            "copy",
+            "reproduction"
+        ],
+        "ga": "macasamhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "stewarding"
+        ],
+        "ga": "maoirseacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "dirge",
+            "elegy",
+            "threnody"
+        ],
+        "ga": "marbhna",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "metaphor"
+        ],
+        "ga": "meafar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "metatheatre"
+        ],
+        "ga": "meitea-amharclannaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "method acting"
+        ],
+        "ga": "modhaisteoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "adjudicator"
+        ],
+        "ga": "moltóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "monodrama"
+        ],
+        "ga": "monadhráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "monologue"
+        ],
+        "ga": "monalóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "montage"
+        ],
+        "ga": "montáis",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "melodrama"
+        ],
+        "ga": "méaldráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "melodrama"
+        ],
+        "ga": "méaldrámatacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "item"
+        ],
+        "ga": "mír",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "modernism"
+        ],
+        "ga": "nua-aoiseachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "modernist"
+        ],
+        "ga": "nua-aoisí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neoclassicism"
+        ],
+        "ga": "nuachlasaiceachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "neoclassicist"
+        ],
+        "ga": "nuachlasaicíoch",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "naturalism"
+        ],
+        "ga": "nádúrachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "superobjective"
+        ],
+        "ga": "ollchuspóir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "oratorio"
+        ],
+        "ga": "oratóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "surrealism"
+        ],
+        "ga": "osréalachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "pastiche",
+            "miscellany"
+        ],
+        "ga": "paistís",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "paradox"
+        ],
+        "ga": "paradacsa",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "peripeteia"
+        ],
+        "ga": "peiripité",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "plot"
+        ],
+        "ga": "plota",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "polemic"
+        ],
+        "ga": "poileimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "polemicist"
+        ],
+        "ga": "poileimiceoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lilting"
+        ],
+        "ga": "portaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "happening"
+        ],
+        "ga": "preabtharlúint",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "proxemics"
+        ],
+        "ga": "procsaeimic",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "leading actor",
+            "lead actor"
+        ],
+        "ga": "príomhaisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lead"
+        ],
+        "ga": "príomhaisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "principal boy"
+        ],
+        "ga": "príomhbhuachaill",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "main character",
+            "protagonist"
+        ],
+        "ga": "príomhcharachtar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "lead role",
+            "main part",
+            "leading role"
+        ],
+        "ga": "príomhpháirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "prologue"
+        ],
+        "ga": "prólóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "prose"
+        ],
+        "ga": "prós",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "part"
+        ],
+        "ga": "páirt",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "nonsense rhyme"
+        ],
+        "ga": "rabhdalam",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "scene"
+        ],
+        "ga": "radharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "scenography"
+        ],
+        "ga": "radharcagrafaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "scenery"
+        ],
+        "ga": "radharcra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "participant",
+            "participator"
+        ],
+        "ga": "rannpháirtí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "verse tale"
+        ],
+        "ga": "rannscéal",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "narrator"
+        ],
+        "ga": "reacaire",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "narratology"
+        ],
+        "ga": "reiceolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rhetoric"
+        ],
+        "ga": "reitric",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "run"
+        ],
+        "ga": "rith",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rhythm"
+        ],
+        "ga": "rithim",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "elegy"
+        ],
+        "ga": "rosc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "declamation"
+        ],
+        "ga": "roscaireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "realism"
+        ],
+        "ga": "réalachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "antecedent"
+        ],
+        "ga": "réamhtheachtaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "rhyme"
+        ],
+        "ga": "rím",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "role"
+        ],
+        "ga": "ról",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "romance"
+        ],
+        "ga": "rómáns",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "Romanticism"
+        ],
+        "ga": "rómánsaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "simile"
+        ],
+        "ga": "samhail",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "imagination"
+        ],
+        "ga": "samhlaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "senex"
+        ],
+        "ga": "saoi",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "oeuvre"
+        ],
+        "ga": "saothar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "sketch"
+        ],
+        "ga": "sceitse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "farceur"
+        ],
+        "ga": "scigaisteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "burlesque",
+            "parody"
+        ],
+        "ga": "scigaithris",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "farceur"
+        ],
+        "ga": "scigdhrámadóir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "skill"
+        ],
+        "ga": "scil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "script"
+        ],
+        "ga": "script",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "writing"
+        ],
+        "ga": "scríbhneoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "border"
+        ],
+        "ga": "scáthchlúdach",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "story drama"
+        ],
+        "ga": "scéaldráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "story drama"
+        ],
+        "ga": "scéaldrámaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "thriller"
+        ],
+        "ga": "scéinséir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "genre"
+        ],
+        "ga": "seánra",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "pretext"
+        ],
+        "ga": "siocair",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "symbolism"
+        ],
+        "ga": "siombalachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "crowd scene"
+        ],
+        "ga": "sluaradharc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "make-up"
+        ],
+        "ga": "smideadh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "make-up artistry"
+        ],
+        "ga": "smideoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "through-line",
+            "through line"
+        ],
+        "ga": "snáithe",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "sociodrama"
+        ],
+        "ga": "sochdhrámaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "interval"
+        ],
+        "ga": "sos",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "spontaneity"
+        ],
+        "ga": "spontáineacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "structure"
+        ],
+        "ga": "struchtúr",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "stage",
+            "platform"
+        ],
+        "ga": "stáitse",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "repertory"
+        ],
+        "ga": "stór",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "situation"
+        ],
+        "ga": "suíomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "semiotics"
+        ],
+        "ga": "séimeolaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "psychodrama"
+        ],
+        "ga": "síceadhráma",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "psychodrama"
+        ],
+        "ga": "síceadhrámaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "socialism"
+        ],
+        "ga": "sóisialachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "performance art"
+        ],
+        "ga": "taibhealaín",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "performer",
+            "artiste"
+        ],
+        "ga": "taibheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "encounter"
+        ],
+        "ga": "teagmhas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "tension",
+            "suspense"
+        ],
+        "ga": "teannas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "projection"
+        ],
+        "ga": "teilgean",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "tetralogy"
+        ],
+        "ga": "teitrealóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "accompaniment"
+        ],
+        "ga": "tionlacan",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "futurism"
+        ],
+        "ga": "todhchaíochas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "tragedy"
+        ],
+        "ga": "traigéide",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "tragidian"
+        ],
+        "ga": "traigéideoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 5,
+        "en": [
+            "brief"
+        ],
+        "ga": "treoir",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "pathos"
+        ],
+        "ga": "truamhéala",
+        "gender": "feminine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "trilogy"
+        ],
+        "ga": "tríológ",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "trope"
+        ],
+        "ga": "tróp",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "theme"
+        ],
+        "ga": "téama",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "constructivism"
+        ],
+        "ga": "tógachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "verse"
+        ],
+        "ga": "véarsaíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "material"
+        ],
+        "ga": "ábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subject"
+        ],
+        "ga": "ábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "subject matter"
+        ],
+        "ga": "ábhar",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "clown"
+        ],
+        "ga": "áilteoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "clowning"
+        ],
+        "ga": "áilteoireacht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "absurdism"
+        ],
+        "ga": "éigiallachas",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "groundling"
+        ],
+        "ga": "íochtarán",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "irony"
+        ],
+        "ga": "íoróin",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "orator"
+        ],
+        "ga": "óráidí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "oratory"
+        ],
+        "ga": "óráidíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "authorship"
+        ],
+        "ga": "údarthacht",
+        "gender": "feminine"
+    }
+]
