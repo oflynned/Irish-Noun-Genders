@@ -3,16 +3,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.syzible.irishnoungenders.MainActivity"
-    android:background="@color/colorAccent">
+    android:background="@color/colorAccent"
+    tools:context="com.syzible.irishnoungenders.MainActivity">
 
     <TextView
+        android:id="@+id/masculine_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="Masculine"
         android:rotation="-90"
-        android:textSize="48sp"
-        android:textColor="@android:color/white"/>
+        android:text="Masculine"
+        android:textColor="@android:color/white"
+        android:textSize="48sp" />
 
 </RelativeLayout>

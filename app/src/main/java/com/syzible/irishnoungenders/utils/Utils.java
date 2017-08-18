@@ -1,9 +1,7 @@
 package com.syzible.irishnoungenders.utils;
 
-import android.app.Activity;
 import android.content.Context;
 import android.os.Handler;
-import android.support.v4.view.ViewPager;
 
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.objects.Noun;

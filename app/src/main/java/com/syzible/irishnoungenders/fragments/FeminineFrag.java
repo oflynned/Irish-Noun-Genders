@@ -1,11 +1,13 @@
 package com.syzible.irishnoungenders.fragments;
 
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.syzible.irishnoungenders.MainActivity;
@@ -21,12 +23,13 @@ import static com.syzible.irishnoungenders.MainActivity.currentNoun;
 public class FeminineFrag extends Fragment {
 
     private static final int FRAGMENT_INDEX = 2;
-    private static final int MAIN_INDEX = 1;
+    private View view;
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fem_frag, container, false);
+        view = inflater.inflate(R.layout.fem_frag, container, false);
+        return view;
     }
 
     @Override
@@ -34,6 +37,8 @@ public class FeminineFrag extends Fragment {
         super.setUserVisibleHint(isVisibleToUser);
 
         if (isVisible()) {
+            final TextView feminineText = (TextView) view.findViewById(R.id.feminine_text);
+            feminineText.animate().rotation(0).start();
             int currentPage = ((MainActivity) getActivity()).getViewPagerIndex();
             if (currentPage == FRAGMENT_INDEX) {
                 if(!currentNoun.isMasculine()) {
@@ -42,6 +47,28 @@ public class FeminineFrag extends Fragment {
                     MainActivity.answer.onWrongAnswer();
                 }
             }
+
+            final Handler handler = new Handler();
+            final Runnable returnAction = new Runnable() {
+                @Override
+                public void run() {
+                    feminineText.animate().rotation(90).start();
+                }
+            };
+
+            Runnable background = new Runnable() {
+                @Override
+                public void run() {
+                    try {
+                        Thread.sleep(1000);
+                        handler.post(returnAction);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                }
+            };
+
+            new Thread(background).start();
         }
     }
 }

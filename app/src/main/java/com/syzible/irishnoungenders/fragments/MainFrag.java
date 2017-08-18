@@ -3,6 +3,7 @@ package com.syzible.irishnoungenders.fragments;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.support.v7.app.AlertDialog;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -13,8 +14,9 @@ import android.widget.TextView;
 
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
+import com.syzible.irishnoungenders.objects.Noun;
 import com.syzible.irishnoungenders.utils.LocalStorage;
-import com.syzible.irishnoungenders.utils.PulseAnimation;
+import com.syzible.irishnoungenders.utils.AnimationsHelper;
 import com.syzible.irishnoungenders.utils.Utils;
 
 import org.json.JSONArray;
@@ -35,13 +37,12 @@ public class MainFrag extends Fragment {
     private JSONArray nouns, domains;
     private JSONObject hints;
     private TextView gaNounTV, gaNounHintTV, gaNounOtherTV, enTranslationTV, highScoreTV;
+    private Noun lastReceivedNoun;
 
     private boolean hasAnimatedNewHighScore = false;
 
     public static int currentScore = 0;
     public static int currentIteration = 0;
-
-    private Spinner categoryList;
 
     @Nullable
     @Override
@@ -53,11 +54,21 @@ public class MainFrag extends Fragment {
         gaNounOtherTV = (TextView) view.findViewById(R.id.ga_other_words);
         enTranslationTV = (TextView) view.findViewById(R.id.en_translation);
         highScoreTV = (TextView) view.findViewById(R.id.high_score);
+        highScoreTV.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                new AlertDialog.Builder(getActivity())
+                        .setTitle("Longest Noun Streak")
+                        .setMessage(LocalStorage.getHighScore(getActivity()) + " is the highest streak so far.")
+                        .setPositiveButton("OK", null)
+                        .show();
+            }
+        });
 
         hints = Utils.loadNounHints(getActivity());
         domains = Utils.loadDomainCategories(getActivity());
 
-        categoryList = (Spinner) view.findViewById(R.id.current_category);
+        Spinner categoryList = (Spinner) view.findViewById(R.id.current_category);
         final ArrayList<String> adapterDomains = new ArrayList<>();
         adapterDomains.add("All Categories");
         for (int i = 0; i < domains.length(); i++) {
@@ -73,6 +84,7 @@ public class MainFrag extends Fragment {
         ArrayAdapter<String> categoryAdapter = new ArrayAdapter<>(getActivity(),
                 android.R.layout.simple_dropdown_item_1line, adapterDomains);
         categoryList.setAdapter(categoryAdapter);
+        categoryList.setSelection(2); // All categories as the first selected on start
         categoryList.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
@@ -105,6 +117,7 @@ public class MainFrag extends Fragment {
             public void onWrongAnswer() {
                 Utils.returnToMainFrag(getActivity());
                 resetScore();
+                AnimationsHelper.shakeAnimation(highScoreTV);
             }
         };
 
@@ -113,12 +126,10 @@ public class MainFrag extends Fragment {
 
     private void generateNewNoun(String domain, boolean wasCategoryChanged) {
         if (domain.equals("*")) {
-            System.out.println(currentIteration);
             if (currentIteration % 5 == 0) {
                 try {
                     int randomIndex = new Random().nextInt(domains.length());
                     String newDomain = domains.getString(randomIndex);
-                    System.out.println(newDomain);
                     nouns = Utils.loadNounList(getActivity(), newDomain);
                 } catch (JSONException e) {
                     e.printStackTrace();
@@ -132,6 +143,13 @@ public class MainFrag extends Fragment {
             currentIteration++;
 
         currentNoun = Utils.getRandomNoun(nouns);
+
+        if (currentIteration == 0)
+            lastReceivedNoun = currentNoun;
+
+        if (currentNoun == lastReceivedNoun)
+            generateNewNoun(domain, wasCategoryChanged);
+
         boolean shouldShowHints = Utils.shouldShowNounHint(currentNoun, hints);
 
         if (!shouldShowHints) {
@@ -167,7 +185,7 @@ public class MainFrag extends Fragment {
 
             if (!hasAnimatedNewHighScore) {
                 hasAnimatedNewHighScore = true;
-                PulseAnimation.animateView(highScoreTV);
+                AnimationsHelper.pulseAnimation(highScoreTV);
             }
         }
     }
