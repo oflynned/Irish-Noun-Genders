@@ -41,29 +41,14 @@ public class MainFrag extends Fragment {
     private String category;
     private boolean hasAnimatedNewHighScore = false;
 
+    private View view;
+
     public static int currentScore = 0;
     public static int currentIteration = 0;
 
-    @Nullable
     @Override
-    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-        ViewGroup view = (ViewGroup) inflater.inflate(R.layout.main_frag, container, false);
-
-        gaNounTV = (TextView) view.findViewById(R.id.ga_noun);
-        gaNounHintTV = (TextView) view.findViewById(R.id.ga_hint);
-        gaNounOtherTV = (TextView) view.findViewById(R.id.ga_other_words);
-        enTranslationTV = (TextView) view.findViewById(R.id.en_translation);
-        highScoreTV = (TextView) view.findViewById(R.id.high_score);
-        highScoreTV.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                new AlertDialog.Builder(getActivity())
-                        .setTitle("Longest Noun Streak")
-                        .setMessage(LocalStorage.getHighScore(getActivity()) + " is the highest streak so far.")
-                        .setPositiveButton("OK", null)
-                        .show();
-            }
-        });
+    public void onResume() {
+        super.onResume();
 
         hints = Utils.loadNounHints(getActivity());
         domains = Utils.loadDomainCategories(getActivity());
@@ -118,6 +103,28 @@ public class MainFrag extends Fragment {
 
         generateNewNoun(category, false);
         resetScore();
+    }
+
+    @Nullable
+    @Override
+    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
+        view = inflater.inflate(R.layout.main_frag, container, false);
+
+        gaNounTV = (TextView) view.findViewById(R.id.ga_noun);
+        gaNounHintTV = (TextView) view.findViewById(R.id.ga_hint);
+        gaNounOtherTV = (TextView) view.findViewById(R.id.ga_other_words);
+        enTranslationTV = (TextView) view.findViewById(R.id.en_translation);
+        highScoreTV = (TextView) view.findViewById(R.id.high_score);
+        highScoreTV.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                new AlertDialog.Builder(getActivity())
+                        .setTitle("Longest Noun Streak")
+                        .setMessage(LocalStorage.getHighScore(getActivity()) + " is the highest streak so far.")
+                        .setPositiveButton("OK", null)
+                        .show();
+            }
+        });
 
         return view;
     }
