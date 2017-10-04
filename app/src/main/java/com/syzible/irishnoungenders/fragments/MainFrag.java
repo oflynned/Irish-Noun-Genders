@@ -14,9 +14,8 @@ import android.widget.TextView;
 
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
-import com.syzible.irishnoungenders.objects.Noun;
-import com.syzible.irishnoungenders.utils.LocalStorage;
 import com.syzible.irishnoungenders.utils.AnimationsHelper;
+import com.syzible.irishnoungenders.utils.LocalStorage;
 import com.syzible.irishnoungenders.utils.Utils;
 
 import org.json.JSONArray;
@@ -36,9 +35,9 @@ import static com.syzible.irishnoungenders.MainActivity.currentNoun;
 public class MainFrag extends Fragment {
     private JSONArray nouns, domains;
     private JSONObject hints;
-    private TextView gaNounTV, gaNounHintTV, gaNounOtherTV, enTranslationTV, highScoreTV;
+    private TextView gaNounTV, gaNounHintTV, gaNounOtherTV, enTranslationTV, highScoreTV, categoryTV;
 
-    private String category;
+    private String category, newDomain;
     private boolean hasAnimatedNewHighScore = false;
 
     private View view;
@@ -114,6 +113,7 @@ public class MainFrag extends Fragment {
         gaNounHintTV = (TextView) view.findViewById(R.id.ga_hint);
         gaNounOtherTV = (TextView) view.findViewById(R.id.ga_other_words);
         enTranslationTV = (TextView) view.findViewById(R.id.en_translation);
+        categoryTV = (TextView) view.findViewById(R.id.word_category);
         highScoreTV = (TextView) view.findViewById(R.id.high_score);
         highScoreTV.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -134,7 +134,7 @@ public class MainFrag extends Fragment {
             if (currentIteration % 5 == 0) {
                 try {
                     int randomIndex = new Random().nextInt(domains.length());
-                    String newDomain = domains.getString(randomIndex);
+                    newDomain = domains.getString(randomIndex);
                     nouns = Utils.loadNounList(getActivity(), newDomain);
                 } catch (JSONException e) {
                     e.printStackTrace();
@@ -172,6 +172,13 @@ public class MainFrag extends Fragment {
         }
 
         enTranslationTV.setText(currentNoun.getEnglishTranslation());
+
+        if (category.equals("*") && !newDomain.equals("")) {
+            categoryTV.setVisibility(View.VISIBLE);
+            categoryTV.setText("(" + newDomain.toLowerCase() + ")");
+        } else {
+            categoryTV.setVisibility(View.INVISIBLE);
+        }
     }
 
 
