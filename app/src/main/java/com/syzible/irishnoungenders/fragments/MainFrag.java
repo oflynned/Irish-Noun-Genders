@@ -1,5 +1,6 @@
 package com.syzible.irishnoungenders.fragments;
 
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -176,6 +177,7 @@ public class MainFrag extends Fragment {
         if (category.equals("*") && !newDomain.equals("")) {
             categoryTV.setVisibility(View.VISIBLE);
             categoryTV.setText("(" + newDomain.toLowerCase() + ")");
+            categoryTV.setTypeface(null, Typeface.ITALIC);
         } else {
             categoryTV.setVisibility(View.INVISIBLE);
         }
