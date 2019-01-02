@@ -85,7 +85,7 @@ public class MainFrag extends Fragment {
             }
         });
 
-        MainActivity.answer = new IAnswer() {
+        MainActivity.answer = new Answerable() {
             @Override
             public void onCorrectAnswer() {
                 Utils.delay(getActivity());

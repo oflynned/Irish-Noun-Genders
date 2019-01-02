@@ -8,22 +8,12 @@ import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
-import android.widget.Spinner;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import com.syzible.irishnoungenders.fragments.FeminineFrag;
-import com.syzible.irishnoungenders.fragments.IAnswer;
+import com.syzible.irishnoungenders.fragments.Answerable;
 import com.syzible.irishnoungenders.fragments.MainFrag;
 import com.syzible.irishnoungenders.fragments.MasculineFrag;
 import com.syzible.irishnoungenders.objects.Noun;
-
-import org.json.JSONArray;
-import org.json.JSONObject;
-
-import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -31,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     private ViewPager viewPager;
     private PagerAdapter pagerAdapter;
 
-    public static IAnswer answer;
+    public static Answerable answer;
     public static Noun currentNoun;
 
     @Override
@@ -52,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
     public int getViewPagerIndex() {
         if (viewPager == null) {
-            viewPager = (ViewPager) findViewById(R.id.view_pager);
+            viewPager = findViewById(R.id.view_pager);
         }
 
         return viewPager.getCurrentItem();
@@ -60,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
     public ViewPager getViewPager() {
         if (viewPager == null) {
-            viewPager = (ViewPager) findViewById(R.id.view_pager);
+            viewPager = findViewById(R.id.view_pager);
         }
 
         return viewPager;
