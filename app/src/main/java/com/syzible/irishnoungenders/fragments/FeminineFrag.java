@@ -2,17 +2,20 @@ package com.syzible.irishnoungenders.fragments;
 
 import android.os.Bundle;
 import android.os.Handler;
+import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
-import com.syzible.irishnoungenders.utils.Utils;
+
+import butterknife.BindView;
+import butterknife.ButterKnife;
+import butterknife.Unbinder;
 
 import static com.syzible.irishnoungenders.MainActivity.currentNoun;
 
@@ -23,13 +26,36 @@ import static com.syzible.irishnoungenders.MainActivity.currentNoun;
 public class FeminineFrag extends Fragment {
 
     private static final int FRAGMENT_INDEX = 2;
-    private View view;
+
+    private Unbinder unbinder;
+
+    @BindView(R.id.feminine_text)
+    TextView feminineText;
+
+    public FeminineFrag() {
+
+    }
+
+    public static FeminineFrag getInstance() {
+        return new FeminineFrag();
+    }
 
     @Nullable
     @Override
-    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-        view = inflater.inflate(R.layout.fem_frag, container, false);
-        return view;
+    public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
+        return inflater.inflate(R.layout.fem_frag, container, false);
+    }
+
+    @Override
+    public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
+        super.onViewCreated(view, savedInstanceState);
+        unbinder = ButterKnife.bind(this, view);
+    }
+
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        unbinder.unbind();
     }
 
     @Override
@@ -37,11 +63,10 @@ public class FeminineFrag extends Fragment {
         super.setUserVisibleHint(isVisibleToUser);
 
         if (isVisible()) {
-            final TextView feminineText = (TextView) view.findViewById(R.id.feminine_text);
             feminineText.animate().rotation(0).start();
             int currentPage = ((MainActivity) getActivity()).getViewPagerIndex();
             if (currentPage == FRAGMENT_INDEX) {
-                if(!currentNoun.isMasculine()) {
+                if (!currentNoun.isMasculine()) {
                     MainActivity.answer.onCorrectAnswer();
                 } else {
                     MainActivity.answer.onWrongAnswer();

@@ -13,7 +13,9 @@ import com.syzible.irishnoungenders.R;
  */
 
 public class AnimationsHelper {
+    private static final float SCALING_FACTOR = 1.5f;
     private static final int REPEAT_COUNT = 5;
+    private static final int DURATION_MS = 500;
 
     public static void shakeAnimation(View view) {
         Animation shake = AnimationUtils.loadAnimation(view.getContext(), R.anim.shake);
@@ -22,9 +24,9 @@ public class AnimationsHelper {
 
     public static void pulseAnimation(View view) {
         ObjectAnimator scaleDown = ObjectAnimator.ofPropertyValuesHolder(view,
-                PropertyValuesHolder.ofFloat("scaleX", 1.5f),
-                PropertyValuesHolder.ofFloat("scaleY", 1.5f));
-        scaleDown.setDuration(500);
+                PropertyValuesHolder.ofFloat("scaleX", SCALING_FACTOR),
+                PropertyValuesHolder.ofFloat("scaleY", SCALING_FACTOR));
+        scaleDown.setDuration(DURATION_MS);
 
         scaleDown.setRepeatCount(REPEAT_COUNT);
         scaleDown.setRepeatMode(ObjectAnimator.REVERSE);

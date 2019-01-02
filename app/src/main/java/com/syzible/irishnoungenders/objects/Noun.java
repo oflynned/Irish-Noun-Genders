@@ -46,18 +46,14 @@ public class Noun {
     }
 
     public String getEnglishTranslation() {
-        String output = "";
+        StringBuilder output = new StringBuilder();
         for (int i = 0; i < englishTranslation.size(); i++) {
-            output += englishTranslation.get(i);
+            output.append(englishTranslation.get(i));
             // second last noun should be the limit for adding commas
             if (i < englishTranslation.size() - 1)
-                output += ", ";
+                output.append(", ");
         }
 
-        return output;
-    }
-
-    public ArrayList<String> getDomains() {
-        return domains;
+        return output.toString();
     }
 }

@@ -2,6 +2,7 @@ package com.syzible.irishnoungenders.fragments;
 
 import android.os.Bundle;
 import android.os.Handler;
+import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -11,7 +12,10 @@ import android.widget.TextView;
 
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
-import com.syzible.irishnoungenders.utils.Utils;
+
+import butterknife.BindView;
+import butterknife.ButterKnife;
+import butterknife.Unbinder;
 
 import static com.syzible.irishnoungenders.MainActivity.currentNoun;
 
@@ -23,13 +27,35 @@ public class MasculineFrag extends Fragment {
 
     private static final int FRAGMENT_INDEX = 0;
 
-    private View view;
+    private Unbinder unbinder;
+
+    @BindView(R.id.masculine_text)
+    TextView masculineText;
+
+    public MasculineFrag() {
+
+    }
+
+    public static MasculineFrag getInstance() {
+        return new MasculineFrag();
+    }
+
+    @Override
+    public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
+        super.onViewCreated(view, savedInstanceState);
+        unbinder = ButterKnife.bind(this, view);
+    }
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-        view = inflater.inflate(R.layout.masc_frag, container, false);
-        return view;
+        return inflater.inflate(R.layout.masc_frag, container, false);
+    }
+
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        unbinder.unbind();
     }
 
     @Override
@@ -37,7 +63,6 @@ public class MasculineFrag extends Fragment {
         super.setUserVisibleHint(isVisibleToUser);
 
         if (isVisible()) {
-            final TextView masculineText = (TextView) view.findViewById(R.id.masculine_text);
             masculineText.animate().rotation(0).start();
             int currentPage = ((MainActivity) getActivity()).getViewPagerIndex();
             if (currentPage == FRAGMENT_INDEX) {

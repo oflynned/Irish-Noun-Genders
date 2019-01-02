@@ -2,6 +2,7 @@ package com.syzible.irishnoungenders.fragments;
 
 import android.graphics.Typeface;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.AlertDialog;
@@ -27,6 +28,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
 
+import butterknife.BindView;
+import butterknife.ButterKnife;
+import butterknife.Unbinder;
+
 import static com.syzible.irishnoungenders.MainActivity.currentNoun;
 
 /**
@@ -34,17 +39,67 @@ import static com.syzible.irishnoungenders.MainActivity.currentNoun;
  */
 
 public class MainFrag extends Fragment {
+    private Unbinder unbinder;
+
+    @BindView(R.id.current_category)
+    Spinner categoryList;
+
+    @BindView(R.id.ga_noun)
+    TextView gaNounTV;
+
+    @BindView(R.id.ga_hint)
+    TextView gaNounHintTV;
+
+    @BindView(R.id.ga_other_words)
+    TextView gaNounOtherTV;
+
+    @BindView(R.id.en_translation)
+    TextView enTranslationTV;
+
+    @BindView(R.id.word_category)
+    TextView categoryTV;
+
+    @BindView(R.id.high_score)
+    TextView highScoreTV;
+
     private JSONArray nouns, domains;
     private JSONObject hints;
-    private TextView gaNounTV, gaNounHintTV, gaNounOtherTV, enTranslationTV, highScoreTV, categoryTV;
 
     private String category, newDomain;
     private boolean hasAnimatedNewHighScore = false;
 
-    private View view;
-
     public static int currentScore = 0;
     public static int currentIteration = 0;
+
+    public MainFrag() {
+
+    }
+
+    public static Fragment getInstance() {
+        return new MainFrag();
+    }
+
+    @Nullable
+    @Override
+    public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
+        return inflater.inflate(R.layout.main_frag, container, false);
+    }
+
+    @Override
+    public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
+        super.onViewCreated(view, savedInstanceState);
+        unbinder = ButterKnife.bind(this, view);
+        highScoreTV.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                new AlertDialog.Builder(getActivity())
+                        .setTitle("Longest Noun Streak")
+                        .setMessage(LocalStorage.getHighScore(getActivity()) + " is the highest streak so far.")
+                        .setPositiveButton("OK", null)
+                        .show();
+            }
+        });
+    }
 
     @Override
     public void onResume() {
@@ -53,7 +108,6 @@ public class MainFrag extends Fragment {
         hints = Utils.loadNounHints(getActivity());
         domains = Utils.loadDomainCategories(getActivity());
 
-        Spinner categoryList = (Spinner) view.findViewById(R.id.current_category);
         final ArrayList<String> adapterDomains = new ArrayList<>();
         adapterDomains.add("All Categories");
         for (int i = 0; i < domains.length(); i++) {
@@ -105,29 +159,10 @@ public class MainFrag extends Fragment {
         resetScore();
     }
 
-    @Nullable
     @Override
-    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-        view = inflater.inflate(R.layout.main_frag, container, false);
-
-        gaNounTV = (TextView) view.findViewById(R.id.ga_noun);
-        gaNounHintTV = (TextView) view.findViewById(R.id.ga_hint);
-        gaNounOtherTV = (TextView) view.findViewById(R.id.ga_other_words);
-        enTranslationTV = (TextView) view.findViewById(R.id.en_translation);
-        categoryTV = (TextView) view.findViewById(R.id.word_category);
-        highScoreTV = (TextView) view.findViewById(R.id.high_score);
-        highScoreTV.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                new AlertDialog.Builder(getActivity())
-                        .setTitle("Longest Noun Streak")
-                        .setMessage(LocalStorage.getHighScore(getActivity()) + " is the highest streak so far.")
-                        .setPositiveButton("OK", null)
-                        .show();
-            }
-        });
-
-        return view;
+    public void onDestroyView() {
+        super.onDestroyView();
+        unbinder.unbind();
     }
 
     private void generateNewNoun(String domain, boolean wasCategoryChanged) {
