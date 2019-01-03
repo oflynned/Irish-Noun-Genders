@@ -38,7 +38,7 @@ import static com.syzible.irishnoungenders.MainActivity.currentNoun;
  * Created by ed on 15/08/2017.
  */
 
-public class MainFrag extends Fragment {
+public class WordChoiceFragment extends Fragment {
     private Unbinder unbinder;
 
     @BindView(R.id.current_category)
@@ -71,12 +71,12 @@ public class MainFrag extends Fragment {
     public static int currentScore = 0;
     public static int currentIteration = 0;
 
-    public MainFrag() {
+    public WordChoiceFragment() {
 
     }
 
     public static Fragment getInstance() {
-        return new MainFrag();
+        return new WordChoiceFragment();
     }
 
     @Nullable

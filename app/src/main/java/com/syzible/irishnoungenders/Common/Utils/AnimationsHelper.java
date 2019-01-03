@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.utils;
+package com.syzible.irishnoungenders.Common.Utils;
 
 import android.animation.ObjectAnimator;
 import android.animation.PropertyValuesHolder;
@@ -15,7 +15,7 @@ import com.syzible.irishnoungenders.R;
 public class AnimationsHelper {
     private static final float SCALING_FACTOR = 1.5f;
     private static final int REPEAT_COUNT = 5;
-    private static final int DURATION_MS = 500;
+    public static final int DURATION_MS = 500;
 
     public static void shakeAnimation(View view) {
         Animation shake = AnimationUtils.loadAnimation(view.getContext(), R.anim.shake);
