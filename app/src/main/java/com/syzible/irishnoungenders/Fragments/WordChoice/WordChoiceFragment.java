@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.fragments;
+package com.syzible.irishnoungenders.Fragments.WordChoice;
 
 import android.graphics.Typeface;
 import android.os.Bundle;
@@ -16,9 +16,11 @@ import android.widget.TextView;
 
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
-import com.syzible.irishnoungenders.utils.AnimationsHelper;
-import com.syzible.irishnoungenders.utils.LocalStorage;
-import com.syzible.irishnoungenders.utils.Utils;
+import com.syzible.irishnoungenders.Fragments.Answerable;
+import com.syzible.irishnoungenders.Common.Pojo.Noun;
+import com.syzible.irishnoungenders.Common.Utils.AnimationsHelper;
+import com.syzible.irishnoungenders.Common.Utils.LocalStorage;
+import com.syzible.irishnoungenders.Common.Utils.Utils;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -38,7 +40,8 @@ import static com.syzible.irishnoungenders.MainActivity.currentNoun;
  * Created by ed on 15/08/2017.
  */
 
-public class WordChoiceFragment extends Fragment {
+public class WordChoiceFragment extends Fragment implements WordChoiceView {
+
     private Unbinder unbinder;
 
     @BindView(R.id.current_category)
@@ -233,9 +236,30 @@ public class WordChoiceFragment extends Fragment {
         }
     }
 
-    private void resetScore() {
+    @Override
+    public void resetScore() {
         currentScore = 0;
         highScoreTV.setText(String.valueOf(currentScore));
         hasAnimatedNewHighScore = false;
+    }
+
+    @Override
+    public void showNewGuess(Noun noun) {
+
+    }
+
+    @Override
+    public void onHighScore() {
+
+    }
+
+    @Override
+    public void onCorrectAnswer() {
+
+    }
+
+    @Override
+    public void onWrongAnswer() {
+
     }
 }

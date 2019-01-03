@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.fragments;
+package com.syzible.irishnoungenders.Fragments.Masculine;
 
 import android.os.Bundle;
 import android.os.Handler;

@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.fragments;
+package com.syzible.irishnoungenders.Fragments;
 
 /**
  * Created by ed on 15/08/2017.
