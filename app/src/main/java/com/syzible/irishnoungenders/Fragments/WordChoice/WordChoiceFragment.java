@@ -1,7 +1,8 @@
-package com.syzible.irishnoungenders.fragments;
+package com.syzible.irishnoungenders.Fragments.WordChoice;
 
 import android.graphics.Typeface;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.AlertDialog;
@@ -15,9 +16,11 @@ import android.widget.TextView;
 
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
-import com.syzible.irishnoungenders.utils.AnimationsHelper;
-import com.syzible.irishnoungenders.utils.LocalStorage;
-import com.syzible.irishnoungenders.utils.Utils;
+import com.syzible.irishnoungenders.Fragments.Answerable;
+import com.syzible.irishnoungenders.Common.Pojo.Noun;
+import com.syzible.irishnoungenders.Common.Utils.AnimationsHelper;
+import com.syzible.irishnoungenders.Common.Utils.LocalStorage;
+import com.syzible.irishnoungenders.Common.Utils.Utils;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -27,24 +30,79 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
 
+import butterknife.BindView;
+import butterknife.ButterKnife;
+import butterknife.Unbinder;
+
 import static com.syzible.irishnoungenders.MainActivity.currentNoun;
 
 /**
  * Created by ed on 15/08/2017.
  */
 
-public class MainFrag extends Fragment {
+public class WordChoiceFragment extends Fragment implements WordChoiceView {
+
+    private Unbinder unbinder;
+
+    @BindView(R.id.current_category)
+    Spinner categoryList;
+
+    @BindView(R.id.ga_noun)
+    TextView gaNounTV;
+
+    @BindView(R.id.ga_hint)
+    TextView gaNounHintTV;
+
+    @BindView(R.id.ga_other_words)
+    TextView gaNounOtherTV;
+
+    @BindView(R.id.en_translation)
+    TextView enTranslationTV;
+
+    @BindView(R.id.word_category)
+    TextView categoryTV;
+
+    @BindView(R.id.high_score)
+    TextView highScoreTV;
+
     private JSONArray nouns, domains;
     private JSONObject hints;
-    private TextView gaNounTV, gaNounHintTV, gaNounOtherTV, enTranslationTV, highScoreTV, categoryTV;
 
     private String category, newDomain;
     private boolean hasAnimatedNewHighScore = false;
 
-    private View view;
-
     public static int currentScore = 0;
     public static int currentIteration = 0;
+
+    public WordChoiceFragment() {
+
+    }
+
+    public static Fragment getInstance() {
+        return new WordChoiceFragment();
+    }
+
+    @Nullable
+    @Override
+    public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
+        return inflater.inflate(R.layout.main_frag, container, false);
+    }
+
+    @Override
+    public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
+        super.onViewCreated(view, savedInstanceState);
+        unbinder = ButterKnife.bind(this, view);
+        highScoreTV.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                new AlertDialog.Builder(getActivity())
+                        .setTitle("Longest Noun Streak")
+                        .setMessage(LocalStorage.getHighScore(getActivity()) + " is the highest streak so far.")
+                        .setPositiveButton("OK", null)
+                        .show();
+            }
+        });
+    }
 
     @Override
     public void onResume() {
@@ -53,7 +111,6 @@ public class MainFrag extends Fragment {
         hints = Utils.loadNounHints(getActivity());
         domains = Utils.loadDomainCategories(getActivity());
 
-        Spinner categoryList = (Spinner) view.findViewById(R.id.current_category);
         final ArrayList<String> adapterDomains = new ArrayList<>();
         adapterDomains.add("All Categories");
         for (int i = 0; i < domains.length(); i++) {
@@ -85,7 +142,7 @@ public class MainFrag extends Fragment {
             }
         });
 
-        MainActivity.answer = new IAnswer() {
+        MainActivity.answer = new Answerable() {
             @Override
             public void onCorrectAnswer() {
                 Utils.delay(getActivity());
@@ -105,29 +162,10 @@ public class MainFrag extends Fragment {
         resetScore();
     }
 
-    @Nullable
     @Override
-    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
-        view = inflater.inflate(R.layout.main_frag, container, false);
-
-        gaNounTV = (TextView) view.findViewById(R.id.ga_noun);
-        gaNounHintTV = (TextView) view.findViewById(R.id.ga_hint);
-        gaNounOtherTV = (TextView) view.findViewById(R.id.ga_other_words);
-        enTranslationTV = (TextView) view.findViewById(R.id.en_translation);
-        categoryTV = (TextView) view.findViewById(R.id.word_category);
-        highScoreTV = (TextView) view.findViewById(R.id.high_score);
-        highScoreTV.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                new AlertDialog.Builder(getActivity())
-                        .setTitle("Longest Noun Streak")
-                        .setMessage(LocalStorage.getHighScore(getActivity()) + " is the highest streak so far.")
-                        .setPositiveButton("OK", null)
-                        .show();
-            }
-        });
-
-        return view;
+    public void onDestroyView() {
+        super.onDestroyView();
+        unbinder.unbind();
     }
 
     private void generateNewNoun(String domain, boolean wasCategoryChanged) {
@@ -198,9 +236,30 @@ public class MainFrag extends Fragment {
         }
     }
 
-    private void resetScore() {
+    @Override
+    public void resetScore() {
         currentScore = 0;
         highScoreTV.setText(String.valueOf(currentScore));
         hasAnimatedNewHighScore = false;
+    }
+
+    @Override
+    public void showNewGuess(Noun noun) {
+
+    }
+
+    @Override
+    public void onHighScore() {
+
+    }
+
+    @Override
+    public void onCorrectAnswer() {
+
+    }
+
+    @Override
+    public void onWrongAnswer() {
+
     }
 }

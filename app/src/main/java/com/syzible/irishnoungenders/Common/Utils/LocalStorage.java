@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.utils;
+package com.syzible.irishnoungenders.Common.Utils;
 
 import android.content.Context;
 import android.preference.PreferenceManager;

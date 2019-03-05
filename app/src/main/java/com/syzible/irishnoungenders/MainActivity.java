@@ -1,5 +1,6 @@
 package com.syzible.irishnoungenders;
 
+import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -7,31 +8,24 @@ import android.support.v4.app.FragmentStatePagerAdapter;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
-import android.widget.Spinner;
-import android.widget.TextView;
-import android.widget.Toast;
 
-import com.syzible.irishnoungenders.fragments.FeminineFrag;
-import com.syzible.irishnoungenders.fragments.IAnswer;
-import com.syzible.irishnoungenders.fragments.MainFrag;
-import com.syzible.irishnoungenders.fragments.MasculineFrag;
-import com.syzible.irishnoungenders.objects.Noun;
+import com.syzible.irishnoungenders.Common.Pojo.Noun;
+import com.syzible.irishnoungenders.Fragments.Answerable;
+import com.syzible.irishnoungenders.Fragments.Feminine.FeminineFrag;
+import com.syzible.irishnoungenders.Fragments.Masculine.MasculineFrag;
+import com.syzible.irishnoungenders.Fragments.WordChoice.WordChoiceFragment;
 
-import org.json.JSONArray;
-import org.json.JSONObject;
-
-import java.util.ArrayList;
+import butterknife.BindView;
+import butterknife.ButterKnife;
 
 public class MainActivity extends AppCompatActivity {
 
     private static final int PAGER_SIZE = 3;
-    private ViewPager viewPager;
-    private PagerAdapter pagerAdapter;
 
-    public static IAnswer answer;
+    @BindView(R.id.view_pager)
+    ViewPager viewPager;
+
+    public static Answerable answer;
     public static Noun currentNoun;
 
     @Override
@@ -39,8 +33,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        viewPager = (ViewPager) findViewById(R.id.view_pager);
-        pagerAdapter = new PageAdapter(getSupportFragmentManager());
+        ButterKnife.bind(this);
+        PagerAdapter pagerAdapter = new PageAdapter(getSupportFragmentManager());
         viewPager.setAdapter(pagerAdapter);
         viewPager.setCurrentItem(1);
     }
@@ -51,18 +45,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public int getViewPagerIndex() {
-        if (viewPager == null) {
-            viewPager = (ViewPager) findViewById(R.id.view_pager);
-        }
-
         return viewPager.getCurrentItem();
     }
 
     public ViewPager getViewPager() {
-        if (viewPager == null) {
-            viewPager = (ViewPager) findViewById(R.id.view_pager);
-        }
-
         return viewPager;
     }
 
@@ -77,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
                 case 0:
                     return new MasculineFrag();
                 case 1:
-                    return new MainFrag();
+                    return new WordChoiceFragment();
                 case 2:
                     return new FeminineFrag();
             }

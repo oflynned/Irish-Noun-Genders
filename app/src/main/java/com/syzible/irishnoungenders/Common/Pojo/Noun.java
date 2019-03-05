@@ -1,10 +1,11 @@
-package com.syzible.irishnoungenders.objects;
+package com.syzible.irishnoungenders.Common.Pojo;
+
+import android.support.annotation.NonNull;
 
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 /**
@@ -13,19 +14,21 @@ import java.util.ArrayList;
 
 public class Noun {
     private enum Gender {
-        masculine, feminine
+        MASCULINE, FEMININE
     }
 
     private Gender gender;
     private String irishWord;
     private ArrayList<String> englishTranslation = new ArrayList<>();
-    private ArrayList<String> domains = new ArrayList<>();
 
-    public Noun(JSONObject o) throws JSONException {
-        this(Gender.valueOf(o.getString("gender")), o.getString("ga"), o.getJSONArray("en"));
+    public Noun(@NonNull JSONObject o) throws JSONException {
+        this(Gender.valueOf(o.getString("gender")),
+                o.getString("ga"),
+                o.getJSONArray("en")
+        );
     }
 
-    private Noun(Gender gender, String irishWord, JSONArray englishTranslation) throws JSONException {
+    private Noun(@NonNull Gender gender, @NonNull String irishWord, @NonNull JSONArray englishTranslation) throws JSONException {
         this.gender = gender;
         this.irishWord = irishWord;
 
@@ -38,7 +41,7 @@ public class Noun {
     }
 
     public boolean isMasculine() {
-        return gender.equals(Gender.masculine);
+        return gender.equals(Gender.MASCULINE);
     }
 
     public String getIrishWord() {
@@ -46,18 +49,14 @@ public class Noun {
     }
 
     public String getEnglishTranslation() {
-        String output = "";
+        StringBuilder output = new StringBuilder();
         for (int i = 0; i < englishTranslation.size(); i++) {
-            output += englishTranslation.get(i);
+            output.append(englishTranslation.get(i));
             // second last noun should be the limit for adding commas
             if (i < englishTranslation.size() - 1)
-                output += ", ";
+                output.append(", ");
         }
 
-        return output;
-    }
-
-    public ArrayList<String> getDomains() {
-        return domains;
+        return output.toString();
     }
 }

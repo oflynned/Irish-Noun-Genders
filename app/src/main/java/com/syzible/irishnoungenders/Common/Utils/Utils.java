@@ -1,10 +1,10 @@
-package com.syzible.irishnoungenders.utils;
+package com.syzible.irishnoungenders.Common.Utils;
 
 import android.content.Context;
 import android.os.Handler;
 
 import com.syzible.irishnoungenders.MainActivity;
-import com.syzible.irishnoungenders.objects.Noun;
+import com.syzible.irishnoungenders.Common.Pojo.Noun;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -19,7 +19,6 @@ import java.util.Random;
  */
 
 public class Utils {
-    private static final int DELAY = 500;
 
     public static void returnToMainFrag(Context context) {
         ((MainActivity) context).getViewPager().setCurrentItem(1);
@@ -39,7 +38,7 @@ public class Utils {
             @Override
             public void run() {
                 try {
-                    Thread.sleep(DELAY);
+                    Thread.sleep(AnimationsHelper.DURATION_MS);
                     handler.post(returnAction);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
