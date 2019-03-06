@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.Common.Utils;
+package com.syzible.irishnoungenders.deprecated.Utils;
 
 import android.content.Context;
 import android.os.Handler;
@@ -17,6 +17,7 @@ import java.util.Random;
  * Created by ed on 15/08/2017.
  */
 
+@Deprecated
 public class Utils {
 
     public static void delay(final Context context) {

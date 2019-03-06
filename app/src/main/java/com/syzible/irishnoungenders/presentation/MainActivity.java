@@ -38,7 +38,7 @@ public class MainActivity extends BaseActivity implements DashboardPresenter.Vie
     @Override
     public void showNouns(List<Noun> nounList) {
         for (Noun noun : nounList) {
-            System.out.println(noun.getIrishForm());
+            System.out.println(noun.toString());
         }
     }
 

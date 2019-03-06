@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.Common.Utils;
+package com.syzible.irishnoungenders.deprecated.Utils;
 
 import android.content.Context;
 import android.preference.PreferenceManager;
@@ -7,6 +7,7 @@ import android.preference.PreferenceManager;
  * Created by ed on 15/08/2017.
  */
 
+@Deprecated
 public class LocalStorage {
     public static int getHighScore(Context context) {
         return PreferenceManager.getDefaultSharedPreferences(context).getInt("high_score", 0);

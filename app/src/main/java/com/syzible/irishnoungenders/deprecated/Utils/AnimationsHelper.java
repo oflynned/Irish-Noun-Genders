@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.Common.Utils;
+package com.syzible.irishnoungenders.deprecated.Utils;
 
 import android.animation.ObjectAnimator;
 import android.animation.PropertyValuesHolder;
@@ -12,6 +12,7 @@ import com.syzible.irishnoungenders.R;
  * Created by ed on 15/08/2017.
  */
 
+@Deprecated
 public class AnimationsHelper {
     private static final float SCALING_FACTOR = 1.5f;
     private static final int REPEAT_COUNT = 5;
