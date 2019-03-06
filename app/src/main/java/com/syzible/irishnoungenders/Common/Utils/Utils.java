@@ -3,8 +3,7 @@ package com.syzible.irishnoungenders.Common.Utils;
 import android.content.Context;
 import android.os.Handler;
 
-import com.syzible.irishnoungenders.MainActivity;
-import com.syzible.irishnoungenders.Common.Pojo.Noun;
+import com.syzible.irishnoungenders.domain.model.Noun;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -20,17 +19,13 @@ import java.util.Random;
 
 public class Utils {
 
-    public static void returnToMainFrag(Context context) {
-        ((MainActivity) context).getViewPager().setCurrentItem(1);
-    }
-
     public static void delay(final Context context) {
         final Handler handler = new Handler();
 
         final Runnable returnAction = new Runnable() {
             @Override
             public void run() {
-                returnToMainFrag(context);
+//                returnToMainFrag(context);
             }
         };
 
@@ -105,8 +100,8 @@ public class Utils {
     public static String getHint(Noun noun, JSONObject hints) {
         try {
             // get first noun if there are spaces
-            JSONArray endings = hints.getJSONArray(noun.getGender());
-            String groomedNoun = noun.getIrishWord().split(" ")[0];
+            JSONArray endings = hints.getJSONArray(noun.getGender().name());
+            String groomedNoun = noun.getIrishForm().split(" ")[0];
             for (int i = 0; i < endings.length(); i++) {
                 String ending = endings.getString(i);
                 if (groomedNoun.endsWith(ending))
@@ -122,8 +117,8 @@ public class Utils {
     public static boolean shouldShowNounHint(Noun noun, JSONObject hints) {
         try {
             // get first noun if there are spaces
-            JSONArray endings = hints.getJSONArray(noun.getGender());
-            String groomedNoun = noun.getIrishWord().split(" ")[0];
+            JSONArray endings = hints.getJSONArray(noun.getGender().name());
+            String groomedNoun = noun.getIrishForm().split(" ")[0];
             for (int i = 0; i < endings.length(); i++) {
                 String ending = endings.getString(i);
                 if (groomedNoun.endsWith(ending))
@@ -137,14 +132,8 @@ public class Utils {
     }
 
     public static Noun getRandomNoun(JSONArray nouns) {
-        try {
-            int count = nouns.length();
-            int randomIndex = new Random().nextInt(count);
-            return new Noun(nouns.getJSONObject(randomIndex));
-        } catch (JSONException e) {
-            e.printStackTrace();
-        }
-
+        int count = nouns.length();
+        int randomIndex = new Random().nextInt(count);
         return null;
     }
 }
