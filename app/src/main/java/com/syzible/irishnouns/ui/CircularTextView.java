@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.games.ui;
+package com.syzible.irishnouns.ui;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -27,7 +27,7 @@ public class CircularTextView extends AppCompatTextView {
 
     @Override
     public void draw(Canvas canvas) {
-        setStrokeWidth(1);
+        setStrokeWidth(2);
         setSolidColor(R.color.action);
         setStrokeColor(R.color.white);
 
