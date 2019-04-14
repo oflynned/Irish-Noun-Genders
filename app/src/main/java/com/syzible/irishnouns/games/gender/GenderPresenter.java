@@ -1,4 +1,6 @@
 package com.syzible.irishnouns.games.gender;
 
-public class GenderPresenter {
+import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
+
+class GenderPresenter extends MvpBasePresenter<GenderView> {
 }
