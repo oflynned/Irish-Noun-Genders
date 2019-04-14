@@ -43,8 +43,9 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
         super.onViewCreated(view, savedInstanceState);
         unbinder = ButterKnife.bind(this, view);
 
-        showTitle("hello");
-        showTranslation("world");
+        presenter.fetchNouns();
+        showTitle("fear");
+        showTranslation("man");
     }
 
     @Override
