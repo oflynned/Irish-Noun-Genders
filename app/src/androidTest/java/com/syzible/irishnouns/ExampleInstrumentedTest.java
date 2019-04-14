@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders;
+package com.syzible.irishnouns;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
