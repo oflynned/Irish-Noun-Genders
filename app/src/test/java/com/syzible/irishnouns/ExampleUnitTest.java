@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders;
+package com.syzible.irishnouns;
 
 import org.junit.Test;
 
