@@ -60,6 +60,7 @@
             android:layout_weight="1">
 
             <com.syzible.irishnouns.ui.CircularTextView
+                android:id="@+id/male_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
@@ -76,6 +77,7 @@
             android:layout_weight="1">
 
             <com.syzible.irishnouns.ui.CircularTextView
+                android:id="@+id/female_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"

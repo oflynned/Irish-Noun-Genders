@@ -7,23 +7,33 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnouns.R;
+import com.syzible.irishnouns.ui.CircularTextView;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
-public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> implements GenderView {
+public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
+        implements GenderView, View.OnClickListener {
 
     private Unbinder unbinder;
+    private Toast toast;
 
     @BindView(R.id.card_title)
     TextView cardTitle;
 
     @BindView(R.id.card_translation)
     TextView cardTranslation;
+
+    @BindView(R.id.male_button)
+    CircularTextView maleButton;
+
+    @BindView(R.id.female_button)
+    CircularTextView femaleButton;
 
     public GenderFragment() {
     }
@@ -43,9 +53,11 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
         super.onViewCreated(view, savedInstanceState);
         unbinder = ButterKnife.bind(this, view);
 
+        maleButton.setOnClickListener(this);
+        femaleButton.setOnClickListener(this);
+
         presenter.fetchNouns();
-        showTitle("fear");
-        showTranslation("man");
+        presenter.pickNoun();
     }
 
     @Override
@@ -73,5 +85,33 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     @Override
     public void showHint() {
 
+    }
+
+    @Override
+    public void notifyCorrectGuess() {
+        showMessage("Correct!");
+    }
+
+    @Override
+    public void notifyWrongGuess() {
+        showMessage("Wrong!");
+    }
+
+    @Override
+    public void notifyNoMoreNouns() {
+        showMessage("No more nouns!");
+    }
+
+    @Override
+    public void onClick(View view) {
+        presenter.pickNoun();
+    }
+
+    private void showMessage(String message) {
+        if (toast != null)
+            toast.cancel();
+
+        toast = Toast.makeText(getActivity(), message, Toast.LENGTH_SHORT);
+        toast.show();
     }
 }

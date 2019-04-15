@@ -5,10 +5,16 @@ import android.support.annotation.NonNull;
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.syzible.irishnouns.common.models.Noun;
 
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 class GenderPresenter extends MvpBasePresenter<GenderView> {
     private GenderInteractor interactor;
+
+    private List<Noun> shownNouns;
+    private List<Noun> remainingNouns;
+    private Noun currentNoun;
 
     @Override
     public void attachView(@NonNull GenderView view) {
@@ -17,13 +23,42 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
     }
 
     public void fetchNouns() {
-        List<Noun> nouns;
         try {
-            nouns = interactor.fetchNouns("accounting");
-            for (Noun noun : nouns)
-                System.out.println(noun);
+            shownNouns = new ArrayList<>();
+            remainingNouns = interactor.fetchNouns("accounting");
         } catch (DomainNotFoundException | MalformedFileException e) {
             e.printStackTrace();
         }
+    }
+
+    public void pickNoun() {
+        if (remainingNouns.size() == 0) {
+            getView().notifyNoMoreNouns();
+            return;
+        }
+
+        Collections.shuffle(remainingNouns);
+        currentNoun = remainingNouns.get(0);
+        getView().showTitle(currentNoun.getTitle());
+        getView().showTranslation(currentNoun.getTranslations());
+    }
+
+    public void makeGuess(Noun.Gender gender) {
+        if (isGuessCorrect(gender)) {
+            shownNouns.add(currentNoun);
+            remainingNouns.remove(currentNoun);
+            pickNoun();
+            getView().notifyCorrectGuess();
+        } else {
+            getView().notifyWrongGuess();
+        }
+    }
+
+    private boolean isGuessCorrect(Noun.Gender gender) {
+        return currentNoun.getGender() == gender;
+    }
+
+    private boolean shouldShowHint(Noun noun) {
+        return false;
     }
 }

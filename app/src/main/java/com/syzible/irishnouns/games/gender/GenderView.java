@@ -8,4 +8,10 @@ public interface GenderView extends MvpView {
     void showTranslation(String translation);
 
     void showHint();
+
+    void notifyCorrectGuess();
+
+    void notifyWrongGuess();
+
+    void notifyNoMoreNouns();
 }

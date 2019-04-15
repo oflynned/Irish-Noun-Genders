@@ -39,8 +39,16 @@ public class Noun {
         return title;
     }
 
-    public List<String> getTranslations() {
-        return translations;
+    public String getTranslations() {
+        StringBuilder builder = new StringBuilder();
+        for (int i = 0; i < translations.size(); i++) {
+            builder.append(translations.get(i));
+            if (i < translations.size() - 1) {
+                builder.append(", ");
+            }
+        }
+
+        return builder.toString();
     }
 
     public Gender getGender() {
