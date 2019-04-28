@@ -1,5 +1,6 @@
 package com.syzible.irishnouns.games.gender;
 
+import android.app.AlertDialog;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -55,7 +56,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
         unbinder = ButterKnife.bind(this, view);
 
         maleButton.setOnClickListener(v -> presenter.makeGuess(Noun.Gender.MASCULINE));
-        femaleButton.setOnClickListener(v ->presenter.makeGuess(Noun.Gender.FEMININE));
+        femaleButton.setOnClickListener(v -> presenter.makeGuess(Noun.Gender.FEMININE));
 
         presenter.fetchNouns();
         presenter.pickNoun();
@@ -99,8 +100,16 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     }
 
     @Override
-    public void notifyNoMoreNouns() {
-        showMessage("No more nouns!");
+    public void notifyEndOfDeck(String currentDomain, int deckSize) {
+        new AlertDialog.Builder(getActivity())
+                .setTitle("End of deck")
+                .setMessage("The end of the current deck of nouns has been reached (" +
+                        currentDomain + ", " + deckSize + " nouns). Would you like to go again or choose another deck?")
+                .setPositiveButton("New Deck", (dialogInterface, i) -> {
+                })
+                .setNegativeButton("Restart", ((dialogInterface, i) -> {
+                }))
+                .show();
     }
 
     private void showMessage(String message) {

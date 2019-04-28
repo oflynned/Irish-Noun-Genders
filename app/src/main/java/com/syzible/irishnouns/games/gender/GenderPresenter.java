@@ -12,6 +12,7 @@ import java.util.List;
 class GenderPresenter extends MvpBasePresenter<GenderView> {
     private GenderInteractor interactor;
 
+    private String currentDomain = "accounting";
     private List<Noun> shownNouns;
     private List<Noun> remainingNouns;
     private Noun currentNoun;
@@ -25,7 +26,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
     public void fetchNouns() {
         try {
             shownNouns = new ArrayList<>();
-            remainingNouns = interactor.fetchNouns("accounting");
+            remainingNouns = interactor.fetchNouns(currentDomain);
         } catch (DomainNotFoundException | MalformedFileException e) {
             e.printStackTrace();
         }
@@ -33,7 +34,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
 
     public void pickNoun() {
         if (remainingNouns.size() == 0) {
-            getView().notifyNoMoreNouns();
+            getView().notifyEndOfDeck(currentDomain, shownNouns.size());
             return;
         }
 
@@ -47,11 +48,12 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         if (isGuessCorrect(gender)) {
             shownNouns.add(currentNoun);
             remainingNouns.remove(currentNoun);
-            pickNoun();
             getView().notifyCorrectGuess();
         } else {
             getView().notifyWrongGuess();
         }
+
+        pickNoun();
     }
 
     private boolean isGuessCorrect(Noun.Gender gender) {
