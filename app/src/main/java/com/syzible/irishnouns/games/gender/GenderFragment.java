@@ -68,7 +68,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
         maleButton.setOnClickListener(v -> presenter.makeGuess(Noun.Gender.MASCULINE));
         femaleButton.setOnClickListener(v -> presenter.makeGuess(Noun.Gender.FEMININE));
 
-        presenter.fetchNouns();
+        presenter.fetchNouns(getActivity());
         presenter.pickNoun();
     }
 

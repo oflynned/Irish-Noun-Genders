@@ -1,11 +1,13 @@
 package com.syzible.irishnouns.games.gender;
 
+import android.content.Context;
 import android.support.annotation.NonNull;
 
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.syzible.irishnouns.common.models.Noun;
 import com.syzible.irishnouns.common.persistence.DomainNotFoundException;
 import com.syzible.irishnouns.common.persistence.MalformedFileException;
+import com.syzible.irishnouns.games.Cache;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -17,7 +19,6 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
     private Noun currentNoun;
     private List<Noun> shownNouns;
     private List<Noun> remainingNouns;
-    private List<String> domains;
 
     private String currentDomain = "accounting";
     private int currentScore = 0;
@@ -28,12 +29,21 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         interactor = new GenderInteractor();
     }
 
-    public void fetchNouns() {
+    public void fetchNouns(Context context) {
+        shownNouns = new ArrayList<>();
+
         try {
-            shownNouns = new ArrayList<>();
-            domains = interactor.fetchDomains();
+            currentDomain = Cache.getLastChosenCategory(context);
+        } catch (DomainNotFoundException e) {
+            e.printStackTrace();
+            currentDomain = "accounting";
+        }
+
+        try {
             remainingNouns = interactor.fetchNouns(currentDomain);
-        } catch (DomainNotFoundException | MalformedFileException e) {
+        } catch (DomainNotFoundException e) {
+            e.printStackTrace();
+        } catch (MalformedFileException e) {
             e.printStackTrace();
         }
 
