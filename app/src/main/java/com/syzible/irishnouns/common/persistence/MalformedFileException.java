@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.games.gender;
+package com.syzible.irishnouns.common.persistence;
 
-class MalformedFileException extends Throwable {
+public class MalformedFileException extends Throwable {
 }

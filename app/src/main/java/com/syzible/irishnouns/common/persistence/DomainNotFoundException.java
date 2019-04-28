@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.games.gender;
+package com.syzible.irishnouns.common.persistence;
 
-class DomainNotFoundException extends Throwable {
+public class DomainNotFoundException extends Throwable {
 }
