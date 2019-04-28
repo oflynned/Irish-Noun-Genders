@@ -7,6 +7,7 @@ import android.support.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
@@ -18,11 +19,21 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
-public class GenderFragment
-        extends MvpFragment<GenderView, GenderPresenter>
-        implements GenderView {
+public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> implements GenderView {
 
     private Unbinder unbinder;
+
+    @BindView(R.id.gender_game_back_button)
+    ImageView backButton;
+
+    @BindView(R.id.gender_game_category)
+    TextView category;
+
+    @BindView(R.id.gender_game_high_score)
+    TextView highScore;
+
+    @BindView(R.id.gender_game_score_count)
+    TextView score;
 
     @BindView(R.id.gender_game_card_title)
     TextView cardTitle;
@@ -35,9 +46,6 @@ public class GenderFragment
 
     @BindView(R.id.gender_game_female_button)
     CircularTextView femaleButton;
-
-    @BindView(R.id.gender_game_score_count)
-    TextView score;
 
     public GenderFragment() {
     }
@@ -119,5 +127,10 @@ public class GenderFragment
     @Override
     public void setScore(String score) {
         this.score.setText(score);
+    }
+
+    @Override
+    public void setChosenCategory(String category) {
+        this.category.setText(category);
     }
 }

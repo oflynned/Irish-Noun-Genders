@@ -14,9 +14,10 @@ import java.util.List;
 class GenderPresenter extends MvpBasePresenter<GenderView> {
     private GenderInteractor interactor;
 
+    private Noun currentNoun;
     private List<Noun> shownNouns;
     private List<Noun> remainingNouns;
-    private Noun currentNoun;
+    private List<String> domains;
 
     private String currentDomain = "accounting";
     private int currentScore = 0;
@@ -30,10 +31,13 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
     public void fetchNouns() {
         try {
             shownNouns = new ArrayList<>();
+            domains = interactor.fetchDomains();
             remainingNouns = interactor.fetchNouns(currentDomain);
         } catch (DomainNotFoundException | MalformedFileException e) {
             e.printStackTrace();
         }
+
+        ifViewAttached(v -> v.setChosenCategory(currentDomain));
     }
 
     public void pickNoun() {
