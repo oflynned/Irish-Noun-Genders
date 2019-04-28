@@ -1,5 +1,6 @@
 package com.syzible.irishnouns.games.gender;
 
+import android.app.AlertDialog;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -11,6 +12,7 @@ import android.widget.Toast;
 
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnouns.R;
+import com.syzible.irishnouns.common.models.Noun;
 import com.syzible.irishnouns.ui.CircularTextView;
 
 import butterknife.BindView;
@@ -18,7 +20,7 @@ import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
 public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
-        implements GenderView, View.OnClickListener {
+        implements GenderView {
 
     private Unbinder unbinder;
     private Toast toast;
@@ -53,8 +55,8 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
         super.onViewCreated(view, savedInstanceState);
         unbinder = ButterKnife.bind(this, view);
 
-        maleButton.setOnClickListener(this);
-        femaleButton.setOnClickListener(this);
+        maleButton.setOnClickListener(v -> presenter.makeGuess(Noun.Gender.MASCULINE));
+        femaleButton.setOnClickListener(v -> presenter.makeGuess(Noun.Gender.FEMININE));
 
         presenter.fetchNouns();
         presenter.pickNoun();
@@ -98,13 +100,20 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     }
 
     @Override
-    public void notifyNoMoreNouns() {
-        showMessage("No more nouns!");
-    }
-
-    @Override
-    public void onClick(View view) {
-        presenter.pickNoun();
+    public void notifyEndOfDeck(String currentDomain, int deckSize) {
+        new AlertDialog.Builder(getActivity())
+                .setTitle("End of " + currentDomain + " deck")
+                .setMessage("The end of the current deck of " + deckSize + " nouns has been reached. " +
+                        "Would you like to go again or choose another deck?")
+                .setPositiveButton("New Deck", (dialogInterface, i) -> {
+                    presenter.resetCurrentDeck();
+                    presenter.pickNoun();
+                })
+                .setNegativeButton("Restart", ((dialogInterface, i) -> {
+                    presenter.resetCurrentDeck();
+                    presenter.pickNoun();
+                }))
+                .show();
     }
 
     private void showMessage(String message) {

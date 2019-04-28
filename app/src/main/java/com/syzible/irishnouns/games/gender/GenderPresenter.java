@@ -12,6 +12,7 @@ import java.util.List;
 class GenderPresenter extends MvpBasePresenter<GenderView> {
     private GenderInteractor interactor;
 
+    private String currentDomain = "accounting";
     private List<Noun> shownNouns;
     private List<Noun> remainingNouns;
     private Noun currentNoun;
@@ -25,7 +26,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
     public void fetchNouns() {
         try {
             shownNouns = new ArrayList<>();
-            remainingNouns = interactor.fetchNouns("accounting");
+            remainingNouns = interactor.fetchNouns(currentDomain);
         } catch (DomainNotFoundException | MalformedFileException e) {
             e.printStackTrace();
         }
@@ -33,25 +34,33 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
 
     public void pickNoun() {
         if (remainingNouns.size() == 0) {
-            getView().notifyNoMoreNouns();
+            ifViewAttached(v -> v.notifyEndOfDeck(currentDomain, shownNouns.size()));
             return;
         }
 
         Collections.shuffle(remainingNouns);
         currentNoun = remainingNouns.get(0);
-        getView().showTitle(currentNoun.getTitle());
-        getView().showTranslation(currentNoun.getTranslations());
+        ifViewAttached(v -> {
+            v.showTitle(currentNoun.getTitle());
+            v.showTranslation(currentNoun.getTranslations());
+        });
     }
 
     public void makeGuess(Noun.Gender gender) {
         if (isGuessCorrect(gender)) {
             shownNouns.add(currentNoun);
             remainingNouns.remove(currentNoun);
-            pickNoun();
-            getView().notifyCorrectGuess();
+            ifViewAttached(GenderView::notifyCorrectGuess);
         } else {
-            getView().notifyWrongGuess();
+            ifViewAttached(GenderView::notifyWrongGuess);
         }
+
+        pickNoun();
+    }
+
+    public void resetCurrentDeck() {
+        remainingNouns = shownNouns;
+        shownNouns = new ArrayList<>();
     }
 
     private boolean isGuessCorrect(Noun.Gender gender) {
