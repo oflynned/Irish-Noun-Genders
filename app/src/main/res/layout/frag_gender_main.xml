@@ -15,6 +15,17 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true" />
 
+        <TextView
+            android:id="@+id/gender_game_score_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="64dp"
+            android:text="0"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
     </RelativeLayout>
 
 </RelativeLayout>
