@@ -4,6 +4,8 @@ import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.syzible.irishnouns.common.models.Noun;
 import com.syzible.irishnouns.common.persistence.API;
+import com.syzible.irishnouns.common.persistence.DomainNotFoundException;
+import com.syzible.irishnouns.common.persistence.MalformedFileException;
 
 import org.json.JSONArray;
 import org.json.JSONException;

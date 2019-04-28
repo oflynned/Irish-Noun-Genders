@@ -14,4 +14,6 @@ public interface GenderView extends MvpView {
     void notifyWrongGuess();
 
     void notifyEndOfDeck(String currentDomain, int deckSize);
+
+    void setScore(String score);
 }
