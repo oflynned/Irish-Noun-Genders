@@ -34,23 +34,25 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
 
     public void pickNoun() {
         if (remainingNouns.size() == 0) {
-            getView().notifyEndOfDeck(currentDomain, shownNouns.size());
+            ifViewAttached(v -> v.notifyEndOfDeck(currentDomain, shownNouns.size()));
             return;
         }
 
         Collections.shuffle(remainingNouns);
         currentNoun = remainingNouns.get(0);
-        getView().showTitle(currentNoun.getTitle());
-        getView().showTranslation(currentNoun.getTranslations());
+        ifViewAttached(v -> {
+            v.showTitle(currentNoun.getTitle());
+            v.showTranslation(currentNoun.getTranslations());
+        });
     }
 
     public void makeGuess(Noun.Gender gender) {
         if (isGuessCorrect(gender)) {
             shownNouns.add(currentNoun);
             remainingNouns.remove(currentNoun);
-            getView().notifyCorrectGuess();
+            ifViewAttached(GenderView::notifyCorrectGuess);
         } else {
-            getView().notifyWrongGuess();
+            ifViewAttached(GenderView::notifyWrongGuess);
         }
 
         pickNoun();
