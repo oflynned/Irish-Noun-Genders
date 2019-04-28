@@ -103,11 +103,14 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     public void notifyEndOfDeck(String currentDomain, int deckSize) {
         new AlertDialog.Builder(getActivity())
                 .setTitle("End of deck")
-                .setMessage("The end of the current deck of nouns has been reached (" +
-                        currentDomain + ", " + deckSize + " nouns). Would you like to go again or choose another deck?")
+                .setMessage("The end of the current deck of nouns has been reached. Would you like to go again or choose another deck?")
                 .setPositiveButton("New Deck", (dialogInterface, i) -> {
+                    presenter.resetCurrentDeck();
+                    presenter.pickNoun();
                 })
                 .setNegativeButton("Restart", ((dialogInterface, i) -> {
+                    presenter.resetCurrentDeck();
+                    presenter.pickNoun();
                 }))
                 .show();
     }

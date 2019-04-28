@@ -56,6 +56,11 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         pickNoun();
     }
 
+    public void resetCurrentDeck() {
+        remainingNouns = shownNouns;
+        shownNouns = new ArrayList<>();
+    }
+
     private boolean isGuessCorrect(Noun.Gender gender) {
         return currentNoun.getGender() == gender;
     }
