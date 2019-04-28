@@ -30,9 +30,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
+                android:gravity="center_horizontal"
                 android:text="title"
                 android:textColor="@color/light_bg_dark_primary_text"
-                android:textSize="28sp" />
+                android:textSize="24sp" />
 
             <TextView
                 android:id="@+id/card_translation"
@@ -40,15 +41,17 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@id/card_title"
                 android:layout_centerHorizontal="true"
+                android:gravity="center_horizontal"
                 android:text="translation"
                 android:textColor="@color/light_bg_dark_secondary_text"
-                android:textSize="18sp" />
+                android:textSize="16sp" />
         </RelativeLayout>
     </android.support.v7.widget.CardView>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:baselineAligned="false"
         android:elevation="6dp"
         android:orientation="horizontal"
         app:layout_anchor="@+id/noun_card"
