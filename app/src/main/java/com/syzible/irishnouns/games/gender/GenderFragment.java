@@ -8,7 +8,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnouns.R;
@@ -19,23 +18,26 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
-public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
+public class GenderFragment
+        extends MvpFragment<GenderView, GenderPresenter>
         implements GenderView {
 
     private Unbinder unbinder;
-    private Toast toast;
 
-    @BindView(R.id.card_title)
+    @BindView(R.id.gender_game_card_title)
     TextView cardTitle;
 
-    @BindView(R.id.card_translation)
+    @BindView(R.id.gender_game_card_translation)
     TextView cardTranslation;
 
-    @BindView(R.id.male_button)
+    @BindView(R.id.gender_game_male_button)
     CircularTextView maleButton;
 
-    @BindView(R.id.female_button)
+    @BindView(R.id.gender_game_female_button)
     CircularTextView femaleButton;
+
+    @BindView(R.id.gender_game_score_count)
+    TextView score;
 
     public GenderFragment() {
     }
@@ -91,12 +93,10 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
 
     @Override
     public void notifyCorrectGuess() {
-        showMessage("Correct!");
     }
 
     @Override
     public void notifyWrongGuess() {
-        showMessage("Wrong!");
     }
 
     @Override
@@ -116,11 +116,8 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
                 .show();
     }
 
-    private void showMessage(String message) {
-        if (toast != null)
-            toast.cancel();
-
-        toast = Toast.makeText(getActivity(), message, Toast.LENGTH_SHORT);
-        toast.show();
+    @Override
+    public void setScore(String score) {
+        this.score.setText(score);
     }
 }
