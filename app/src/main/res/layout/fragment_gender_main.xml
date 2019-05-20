@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@drawable/background_gradient"
-    android:paddingTop="16dp"
-    android:paddingBottom="64dp">
+    android:layout_height="match_parent">
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -25,6 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:background="@drawable/chip"
+            android:fontFamily="@font/open_sans"
             android:text="accounting"
             android:textColor="@color/grey_200"
             android:textSize="16sp" />
@@ -39,6 +37,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:fontFamily="@font/open_sans"
                 android:text="high score:"
                 android:textColor="@color/grey_200"
                 android:textSize="16sp" />
@@ -48,6 +47,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
+                android:fontFamily="@font/open_sans"
                 android:text="0"
                 android:textColor="@color/white"
                 android:textSize="16sp" />
@@ -61,11 +61,13 @@
         android:layout_centerInParent="true" />
 
     <TextView
+        android:layout_marginBottom="8dp"
         android:id="@+id/gender_game_score_count"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
+        android:fontFamily="@font/open_sans"
         android:text="0"
         android:textColor="@color/white"
         android:textSize="24sp" />
