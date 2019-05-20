@@ -43,6 +43,7 @@ public class DomainAdaptor extends RecyclerView.Adapter<DomainAdaptor.GroupSelec
     public void onBindViewHolder(@NonNull GroupSelectionHolder groupSelectionHolder, int i) {
         Context context = groupSelectionHolder.itemView.getContext();
         Category category = categories.get(i);
+        groupSelectionHolder.setIsRecyclable(false);
         groupSelectionHolder.name.setText(category.getCategory());
         if (category.isChosen()) {
             groupSelectionHolder.name.setTypeface(groupSelectionHolder.name.getTypeface(), Typeface.BOLD);
