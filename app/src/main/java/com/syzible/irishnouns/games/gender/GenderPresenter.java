@@ -29,6 +29,14 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         interactor = new GenderInteractor();
     }
 
+    private void incrementScore() {
+        currentScore += 1;
+    }
+
+    private void resetScore() {
+        currentScore = 0;
+    }
+
     public void fetchNouns(Context context) {
         shownNouns = new ArrayList<>();
 
@@ -69,10 +77,10 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         if (isGuessCorrect(gender)) {
             shownNouns.add(currentNoun);
             remainingNouns.remove(currentNoun);
-            currentScore += 1;
+            incrementScore();
             ifViewAttached(GenderView::notifyCorrectGuess);
         } else {
-            currentScore = 0;
+            resetScore();
             ifViewAttached(GenderView::notifyWrongGuess);
         }
 
@@ -83,6 +91,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
     public void resetCurrentDeck() {
         remainingNouns = shownNouns;
         shownNouns = new ArrayList<>();
+        resetScore();
         ifViewAttached(v -> v.setScore("0"));
     }
 
