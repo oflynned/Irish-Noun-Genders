@@ -8,10 +8,10 @@
         android:id="@+id/noun_card"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="48dp"
         android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="48dp"
         app:cardBackgroundColor="@color/white"
         app:cardCornerRadius="2dp"
         app:cardElevation="4dp">
@@ -20,27 +20,30 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:layout_marginBottom="32dp"
             android:layout_marginLeft="8dp"
+            android:layout_marginTop="32dp"
             android:layout_marginRight="8dp"
-            android:layout_marginTop="32dp">
+            android:layout_marginBottom="32dp">
 
             <TextView
                 android:id="@+id/gender_game_card_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
+                android:fontFamily="@font/open_sans"
                 android:gravity="center_horizontal"
                 android:text="title"
                 android:textColor="@color/light_bg_dark_primary_text"
                 android:textSize="24sp" />
 
             <TextView
+                android:layout_marginTop="8dp"
                 android:id="@+id/gender_game_card_translation"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/gender_game_card_title"
                 android:layout_centerHorizontal="true"
+                android:fontFamily="@font/open_sans"
                 android:gravity="center_horizontal"
                 android:text="translation"
                 android:textColor="@color/light_bg_dark_secondary_text"
@@ -67,6 +70,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
+                android:fontFamily="@font/open_sans"
                 android:gravity="center"
                 android:padding="16dp"
                 android:text="m"
@@ -84,6 +88,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
+                android:fontFamily="@font/open_sans"
                 android:gravity="center"
                 android:padding="16dp"
                 android:text="f"
