@@ -37,12 +37,12 @@
                 android:textSize="24sp" />
 
             <TextView
-                android:layout_marginTop="8dp"
                 android:id="@+id/gender_game_card_translation"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/gender_game_card_title"
                 android:layout_centerHorizontal="true"
+                android:layout_marginTop="8dp"
                 android:fontFamily="@font/open_sans"
                 android:gravity="center_horizontal"
                 android:text="translation"
