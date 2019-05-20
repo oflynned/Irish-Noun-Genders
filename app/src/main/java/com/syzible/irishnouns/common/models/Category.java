@@ -27,4 +27,10 @@ public class Category {
                 .replace(" ", "_")
                 .replace("&", "and");
     }
+
+    public static String fileToDomain(String fileName) {
+        return fileName.toLowerCase()
+                .replace("_", " ")
+                .replace("and", "&");
+    }
 }
