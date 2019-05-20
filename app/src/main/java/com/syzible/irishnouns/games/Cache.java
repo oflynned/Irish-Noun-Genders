@@ -14,12 +14,12 @@ public class Cache {
         return LocalStorage.getIntegerPref(context, LocalStorage.Pref.HIGH_SCORE);
     }
 
-    public static void setLastChosenCategory(Context context, String category) {
-        LocalStorage.setStringPref(context, LocalStorage.Pref.LAST_CHOSEN_CATEGORY, category);
+    public static void setLastChosenCategoryFileName(Context context, String filename) {
+        LocalStorage.setStringPref(context, LocalStorage.Pref.CURRENT_CATEGORY, filename);
     }
 
     public static String getLastChosenCategory(Context context) throws DomainNotFoundException {
-        String lastChosenCategory = LocalStorage.getStringPref(context, LocalStorage.Pref.LAST_CHOSEN_CATEGORY);
+        String lastChosenCategory = LocalStorage.getStringPref(context, LocalStorage.Pref.CURRENT_CATEGORY);
         if (lastChosenCategory == null) {
             throw new DomainNotFoundException();
         }
