@@ -11,8 +11,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
+import com.syzible.irishnouns.MainActivity;
 import com.syzible.irishnouns.R;
 import com.syzible.irishnouns.common.models.Noun;
+import com.syzible.irishnouns.games.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnouns.ui.CircularTextView;
 
 import butterknife.BindView;
@@ -57,7 +59,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.frag_gender_main, container, false);
+        return inflater.inflate(R.layout.fragment_gender_main, container, false);
     }
 
     @Override
@@ -67,6 +69,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
 
         maleButton.setOnClickListener(v -> presenter.makeGuess(Noun.Gender.MASCULINE));
         femaleButton.setOnClickListener(v -> presenter.makeGuess(Noun.Gender.FEMININE));
+        category.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
 
         presenter.fetchNouns(getActivity());
         presenter.pickNoun();
@@ -110,17 +113,19 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     @Override
     public void notifyEndOfDeck(String currentDomain, int deckSize) {
         new AlertDialog.Builder(getActivity())
-                .setTitle("End of " + currentDomain + " deck")
+                .setTitle("End of " + currentDomain)
                 .setMessage("The end of the current deck of " + deckSize + " nouns has been reached. " +
-                        "Would you like to go again or choose another deck?")
+                        "Would you like to try again or choose another deck?")
                 .setPositiveButton("New Deck", (dialogInterface, i) -> {
                     presenter.resetCurrentDeck();
                     presenter.pickNoun();
+                    presenter.showCategoryScreen(getActivity());
                 })
                 .setNegativeButton("Restart", ((dialogInterface, i) -> {
                     presenter.resetCurrentDeck();
                     presenter.pickNoun();
                 }))
+                .setCancelable(false)
                 .show();
     }
 
@@ -132,5 +137,10 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     @Override
     public void setChosenCategory(String category) {
         this.category.setText(category);
+    }
+
+    @Override
+    public void showCategoryScreen(String currentCategory) {
+        MainActivity.setFragmentBackstack(getFragmentManager(), DomainChoiceFragment.getInstance());
     }
 }

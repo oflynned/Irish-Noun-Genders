@@ -36,6 +36,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
             currentDomain = Cache.getLastChosenCategory(context);
         } catch (DomainNotFoundException e) {
             e.printStackTrace();
+            Cache.setLastChosenCategoryFileName(context, "accounting");
             currentDomain = "accounting";
         }
 
@@ -47,7 +48,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
             e.printStackTrace();
         }
 
-        ifViewAttached(v -> v.setChosenCategory(currentDomain));
+        ifViewAttached(v -> v.setChosenCategory(currentDomain.toLowerCase()));
     }
 
     public void pickNoun() {
@@ -91,5 +92,17 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
 
     private boolean shouldShowHint(Noun noun) {
         return false;
+    }
+
+    public void showCategoryScreen(Context context) {
+        String currentCategory;
+        try {
+            currentCategory = Cache.getLastChosenCategory(context);
+        } catch (DomainNotFoundException e) {
+            e.printStackTrace();
+            return;
+        }
+
+        ifViewAttached(v -> v.showCategoryScreen(currentCategory));
     }
 }

@@ -18,4 +18,6 @@ public interface GenderView extends MvpView {
     void setScore(String score);
 
     void setChosenCategory(String category);
+
+    void showCategoryScreen(String currentCategory);
 }
