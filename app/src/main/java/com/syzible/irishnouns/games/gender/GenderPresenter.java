@@ -48,7 +48,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
             e.printStackTrace();
         }
 
-        ifViewAttached(v -> v.setChosenCategory(currentDomain.toLowerCase()));
+        ifViewAttached(v -> v.setChosenCategory(currentDomain));
     }
 
     public void pickNoun() {
