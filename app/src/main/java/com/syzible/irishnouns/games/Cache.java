@@ -2,6 +2,7 @@ package com.syzible.irishnouns.games;
 
 import android.content.Context;
 
+import com.syzible.irishnouns.common.models.Category;
 import com.syzible.irishnouns.common.persistence.DomainNotFoundException;
 import com.syzible.irishnouns.common.persistence.LocalStorage;
 
@@ -19,11 +20,11 @@ public class Cache {
     }
 
     public static String getLastChosenCategory(Context context) throws DomainNotFoundException {
-        String lastChosenCategory = LocalStorage.getStringPref(context, LocalStorage.Pref.CURRENT_CATEGORY);
-        if (lastChosenCategory == null) {
+        String lastChosenCategoryFile = LocalStorage.getStringPref(context, LocalStorage.Pref.CURRENT_CATEGORY);
+        if (lastChosenCategoryFile == null) {
             throw new DomainNotFoundException();
         }
 
-        return lastChosenCategory;
+        return Category.fileToDomain(lastChosenCategoryFile);
     }
 }
