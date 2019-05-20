@@ -1,10 +1,8 @@
-package com.syzible.irishnouns.games;
+package com.syzible.irishnouns.common.persistence;
 
 import android.content.Context;
 
 import com.syzible.irishnouns.common.models.Category;
-import com.syzible.irishnouns.common.persistence.DomainNotFoundException;
-import com.syzible.irishnouns.common.persistence.LocalStorage;
 
 public class Cache {
     public static void setNewHighScore(Context context, int value) {

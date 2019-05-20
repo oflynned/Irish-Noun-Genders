@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.games.domainchoice;
+package com.syzible.irishnouns.games.common.domainchoice;
 
 import android.content.Context;
 

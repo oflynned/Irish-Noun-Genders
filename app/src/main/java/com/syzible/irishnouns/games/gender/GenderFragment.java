@@ -14,7 +14,7 @@ import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnouns.MainActivity;
 import com.syzible.irishnouns.R;
 import com.syzible.irishnouns.common.models.Noun;
-import com.syzible.irishnouns.games.domainchoice.DomainChoiceFragment;
+import com.syzible.irishnouns.games.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnouns.ui.CircularTextView;
 
 import butterknife.BindView;

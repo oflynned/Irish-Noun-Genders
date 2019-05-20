@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.games.domainchoice;
+package com.syzible.irishnouns.games.common.domainchoice;
 
 import com.hannesdorfmann.mosby3.mvp.MvpView;
 import com.syzible.irishnouns.common.models.Category;

@@ -7,7 +7,7 @@ import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.syzible.irishnouns.common.models.Noun;
 import com.syzible.irishnouns.common.persistence.DomainNotFoundException;
 import com.syzible.irishnouns.common.persistence.MalformedFileException;
-import com.syzible.irishnouns.games.Cache;
+import com.syzible.irishnouns.common.persistence.Cache;
 
 import java.util.ArrayList;
 import java.util.Collections;
