@@ -23,5 +23,5 @@
         android:fontFamily="@font/open_sans"
         android:text="Politics"
         android:textColor="@color/white"
-        android:textSize="18sp" />
+        android:textSize="16sp" />
 </RelativeLayout>
