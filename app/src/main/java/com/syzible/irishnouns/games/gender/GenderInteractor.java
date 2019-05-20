@@ -14,9 +14,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GenderInteractor {
-
-    public List<String> fetchDomains() throws MalformedFileException {
+class GenderInteractor {
+    List<String> fetchDomains() throws MalformedFileException {
         JSONArray domains;
         try {
             domains = API.domainStore();
@@ -38,7 +37,7 @@ public class GenderInteractor {
         return domainList;
     }
 
-    public List<Noun> fetchNouns(String domain) throws DomainNotFoundException, MalformedFileException {
+    List<Noun> fetchNouns(String domain) throws DomainNotFoundException, MalformedFileException {
         JSONArray response;
         try {
             response = API.nounStore(domain);
