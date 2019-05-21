@@ -45,6 +45,7 @@ public class MainMenuFragment extends Fragment {
         super.onViewCreated(view, savedInstanceState);
         unbinder = ButterKnife.bind(this, view);
         genderMode.setOnClickListener(v -> MainActivity.setFragment(getFragmentManager(), GenderFragment.getInstance()));
+        settings.setOnClickListener(v -> MainActivity.setFragmentBackstack(getFragmentManager(), SettingsFragment.getInstance()));
     }
 
     @Override
