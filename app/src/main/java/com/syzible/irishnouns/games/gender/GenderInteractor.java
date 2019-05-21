@@ -13,8 +13,30 @@ import org.json.JSONException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 class GenderInteractor {
+    List<String> fetchHints(Noun.Gender gender) throws MalformedFileException {
+        JSONArray hints;
+        try {
+            hints = API.hintStore().getJSONArray(gender.name().toLowerCase(Locale.US));
+        } catch (JSONException | IOException e) {
+            e.printStackTrace();
+            throw new MalformedFileException();
+        }
+
+        List<String> hintsList = new ArrayList<>();
+        for (int i = 0; i < hints.length(); i++) {
+            try {
+                hintsList.add(hints.getString(i));
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+        }
+
+        return hintsList;
+    }
+
     List<String> fetchDomains() throws MalformedFileException {
         JSONArray domains;
         try {

@@ -19,6 +19,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
     private Noun currentNoun;
     private List<Noun> shownNouns;
     private List<Noun> remainingNouns;
+    private List<String> masculineHints, feminineHints;
 
     private String currentDomain = "accounting";
     private int currentScore = 0;
@@ -27,6 +28,17 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
     public void attachView(@NonNull GenderView view) {
         super.attachView(view);
         interactor = new GenderInteractor();
+        fetchHints();
+    }
+
+    private void fetchHints() {
+        try {
+            masculineHints = interactor.fetchHints(Noun.Gender.MASCULINE);
+            feminineHints = interactor.fetchHints(Noun.Gender.FEMININE);
+        } catch (MalformedFileException e) {
+            e.printStackTrace();
+            masculineHints = feminineHints = new ArrayList<>();
+        }
     }
 
     private void incrementScore() {
@@ -78,8 +90,9 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
 
         Collections.shuffle(remainingNouns);
         currentNoun = remainingNouns.get(0);
+        checkHintIsAvailable(currentNoun);
         ifViewAttached(v -> {
-            v.showTitle(currentNoun.getTitle());
+//            v.showTitle(currentNoun.getTitle());
             v.showTranslation(currentNoun.getTranslations());
         });
     }
@@ -111,8 +124,27 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         return currentNoun.getGender() == gender;
     }
 
-    private boolean shouldShowHint(Noun noun) {
-        return false;
+    private String trimHintFromTitle(Noun noun, String hint) {
+        return noun.getTitle().substring(0, noun.getTitle().length() - hint.length());
+    }
+
+    private void checkHintIsAvailable(Noun noun) {
+        List<String> hints = noun.getGender() == Noun.Gender.MASCULINE ? masculineHints : feminineHints;
+        for (String hint : hints) {
+            if (noun.getTitle().endsWith(hint)) {
+                String trimmedTitle = trimHintFromTitle(noun, hint);
+                ifViewAttached(v -> {
+                    v.showTitle(trimmedTitle);
+                    v.showHint(hint);
+                });
+                return;
+            }
+        }
+
+        ifViewAttached(v -> {
+            v.showTitle(noun.getTitle());
+            v.showHint("");
+        });
     }
 
     void changeCategory(Context context) {

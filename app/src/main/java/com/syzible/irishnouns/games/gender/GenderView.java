@@ -5,9 +5,9 @@ import com.hannesdorfmann.mosby3.mvp.MvpView;
 public interface GenderView extends MvpView {
     void showTitle(String noun);
 
-    void showTranslation(String translation);
+    void showHint(String hint);
 
-    void showHint();
+    void showTranslation(String translation);
 
     void notifyCorrectGuess();
 
