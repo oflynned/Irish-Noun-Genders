@@ -16,6 +16,7 @@ import com.syzible.irishnouns.R;
 import com.syzible.irishnouns.common.models.Noun;
 import com.syzible.irishnouns.games.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnouns.games.common.ui.CircularTextView;
+import com.syzible.irishnouns.mainmenu.MainMenuFragment;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -73,6 +74,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
         maleButton.setOnClickListener(v -> presenter.makeGuess(getActivity(), Noun.Gender.MASCULINE));
         femaleButton.setOnClickListener(v -> presenter.makeGuess(getActivity(), Noun.Gender.FEMININE));
         category.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
+        backButton.setOnClickListener(v -> presenter.returnToMainMenu());
 
         presenter.checkNewHighScore(getActivity());
         presenter.fetchNouns(getActivity());
@@ -139,6 +141,16 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     }
 
     @Override
+    public void notifyLeavingGame() {
+        new AlertDialog.Builder(getActivity())
+                .setTitle("Session in progress")
+                .setMessage("Are you sure you want to leave the current game? Your progress will be lost.")
+                .setPositiveButton("OK", (dialogInterface, i) -> returnToMainMenu())
+                .setNegativeButton("Cancel", null)
+                .show();
+    }
+
+    @Override
     public void notifyProgressLoss() {
         new AlertDialog.Builder(getActivity())
                 .setTitle("Session in progress")
@@ -161,5 +173,10 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     @Override
     public void showCategoryScreen(String currentCategory) {
         MainActivity.setFragmentBackstack(getFragmentManager(), DomainChoiceFragment.getInstance());
+    }
+
+    @Override
+    public void returnToMainMenu() {
+        MainActivity.setFragment(getFragmentManager(), MainMenuFragment.getInstance());
     }
 }

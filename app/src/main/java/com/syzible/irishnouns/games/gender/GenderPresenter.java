@@ -160,6 +160,15 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         ifViewAttached(v -> v.showCategoryScreen(currentCategory));
     }
 
+    void returnToMainMenu() {
+        if (currentScore > 0) {
+            ifViewAttached(GenderView::notifyLeavingGame);
+            return;
+        }
+
+        ifViewAttached(GenderView::returnToMainMenu);
+    }
+
     void showCategoryScreen(Context context) {
         if (currentScore > 0) {
             ifViewAttached(GenderView::notifyProgressLoss);
