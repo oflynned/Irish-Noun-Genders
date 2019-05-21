@@ -90,8 +90,9 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
 
         Collections.shuffle(remainingNouns);
         currentNoun = remainingNouns.get(0);
+        checkHintIsAvailable(currentNoun);
         ifViewAttached(v -> {
-            v.showTitle(currentNoun.getTitle());
+//            v.showTitle(currentNoun.getTitle());
             v.showTranslation(currentNoun.getTranslations());
         });
     }
@@ -123,15 +124,27 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         return currentNoun.getGender() == gender;
     }
 
-    private boolean shouldShowHint(Noun noun) {
+    private String trimHintFromTitle(Noun noun, String hint) {
+        return noun.getTitle().substring(0, noun.getTitle().length() - hint.length());
+    }
+
+    private void checkHintIsAvailable(Noun noun) {
         List<String> hints = noun.getGender() == Noun.Gender.MASCULINE ? masculineHints : feminineHints;
         for (String hint : hints) {
             if (noun.getTitle().endsWith(hint)) {
-                return true;
+                String trimmedTitle = trimHintFromTitle(noun, hint);
+                ifViewAttached(v -> {
+                    v.showTitle(trimmedTitle);
+                    v.showHint(hint);
+                });
+                return;
             }
         }
 
-        return false;
+        ifViewAttached(v -> {
+            v.showTitle(noun.getTitle());
+            v.showHint("");
+        });
     }
 
     void changeCategory(Context context) {
