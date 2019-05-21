@@ -15,7 +15,7 @@ import com.syzible.irishnouns.MainActivity;
 import com.syzible.irishnouns.R;
 import com.syzible.irishnouns.common.models.Noun;
 import com.syzible.irishnouns.games.common.domainchoice.DomainChoiceFragment;
-import com.syzible.irishnouns.ui.CircularTextView;
+import com.syzible.irishnouns.common.ui.CircularTextView;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
