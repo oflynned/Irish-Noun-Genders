@@ -19,6 +19,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
     private Noun currentNoun;
     private List<Noun> shownNouns;
     private List<Noun> remainingNouns;
+    private List<String> masculineHints, feminineHints;
 
     private String currentDomain = "accounting";
     private int currentScore = 0;
@@ -27,6 +28,17 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
     public void attachView(@NonNull GenderView view) {
         super.attachView(view);
         interactor = new GenderInteractor();
+        fetchHints();
+    }
+
+    private void fetchHints() {
+        try {
+            masculineHints = interactor.fetchHints(Noun.Gender.MASCULINE);
+            feminineHints = interactor.fetchHints(Noun.Gender.FEMININE);
+        } catch (MalformedFileException e) {
+            e.printStackTrace();
+            masculineHints = feminineHints = new ArrayList<>();
+        }
     }
 
     private void incrementScore() {
@@ -112,6 +124,13 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
     }
 
     private boolean shouldShowHint(Noun noun) {
+        List<String> hints = noun.getGender() == Noun.Gender.MASCULINE ? masculineHints : feminineHints;
+        for (String hint : hints) {
+            if (noun.getTitle().endsWith(hint)) {
+                return true;
+            }
+        }
+
         return false;
     }
 
