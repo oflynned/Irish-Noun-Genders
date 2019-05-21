@@ -2,6 +2,7 @@ package com.syzible.irishnouns.common.persistence;
 
 import org.json.JSONArray;
 import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -11,7 +12,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Objects;
 
 class FileLoader {
-    static JSONArray loadFile(String path) throws IOException, JSONException {
+    private static String loadFile(String path) throws IOException {
         InputStream is = Objects.requireNonNull(FileLoader.class.getClassLoader())
                 .getResourceAsStream("assets/" + path);
         InputStreamReader inputStreamReader = new InputStreamReader(is, StandardCharsets.UTF_8);
@@ -22,6 +23,16 @@ class FileLoader {
         while ((line = reader.readLine()) != null) {
             builder.append(line).append("\n");
         }
-        return new JSONArray(builder.toString());
+        return builder.toString();
+    }
+
+    static JSONArray loadJSONArrayFile(String path) throws IOException, JSONException {
+        String contents = loadFile(path);
+        return new JSONArray(contents);
+    }
+
+    static JSONObject loadJSONObjectFile(String path) throws IOException, JSONException {
+        String contents = loadFile(path);
+        return new JSONObject(contents);
     }
 }

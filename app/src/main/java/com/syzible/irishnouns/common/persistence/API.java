@@ -4,19 +4,20 @@ import com.syzible.irishnouns.common.models.Category;
 
 import org.json.JSONArray;
 import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.io.IOException;
 
 public class API {
     public static JSONArray domainStore() throws IOException, JSONException {
-        return FileLoader.loadFile("domains.json");
+        return FileLoader.loadJSONArrayFile("domains.json");
     }
 
-    public static JSONArray hintStore() throws IOException, JSONException {
-        return FileLoader.loadFile("hints.json");
+    public static JSONObject hintStore() throws IOException, JSONException {
+        return FileLoader.loadJSONObjectFile("gender_rules.json");
     }
 
     public static JSONArray nounStore(String domain) throws IOException, JSONException {
-        return FileLoader.loadFile("nouns/" + Category.domainToFile(domain) + ".json");
+        return FileLoader.loadJSONArrayFile("nouns/" + Category.domainToFile(domain) + ".json");
     }
 }
