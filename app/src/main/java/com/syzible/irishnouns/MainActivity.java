@@ -1,15 +1,14 @@
 package com.syzible.irishnouns;
 
+import android.app.AlertDialog;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
-import android.view.Window;
-import android.view.WindowManager;
 
-import com.syzible.irishnouns.games.gender.GenderFragment;
+import com.syzible.irishnouns.mainmenu.MainMenuFragment;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -17,7 +16,17 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setFragment(getSupportFragmentManager(), GenderFragment.getInstance());
+        setFragment(getSupportFragmentManager(), MainMenuFragment.getInstance());
+    }
+
+    @Override
+    public void onBackPressed() {
+        new AlertDialog.Builder(this)
+                .setTitle("Exit game?")
+                .setMessage("Click close below if you wish to exit the game")
+                .setPositiveButton("Close", (dialogInterface, i) -> MainActivity.this.finish())
+                .setNegativeButton("Cancel", null)
+                .show();
     }
 
     public static void setFragment(FragmentManager fragmentManager, Fragment fragment) {

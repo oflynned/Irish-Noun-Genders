@@ -17,6 +17,8 @@ public interface GenderView extends MvpView {
 
     void notifyEndOfDeck(String currentDomain, int deckSize);
 
+    void notifyLeavingGame();
+
     void notifyProgressLoss();
 
     void setScore(String score);
@@ -24,4 +26,6 @@ public interface GenderView extends MvpView {
     void setChosenCategory(String category);
 
     void showCategoryScreen(String currentCategory);
+
+    void returnToMainMenu();
 }
