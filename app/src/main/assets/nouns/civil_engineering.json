@@ -1,1701 +1,1725 @@
 [
-    {
-        "declension": 1,
-        "en": [
-            "National Museum"
-        ],
-        "ga": "Ard-Mhúsaem",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "Guard"
-        ],
-        "ga": "Garda",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "T-junction"
-        ],
-        "ga": "T-acomhal",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "junction"
-        ],
-        "ga": "acomhal",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "airport"
-        ],
-        "ga": "aerfort",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "avenue"
-        ],
-        "ga": "aibhinne",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "nameplate"
-        ],
-        "ga": "ainmchlár",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "caution"
-        ],
-        "ga": "aire",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "rise"
-        ],
-        "ga": "ard",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "terrace"
-        ],
-        "ga": "ardán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "review"
-        ],
-        "ga": "athbhreithniúchán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "villa"
-        ],
-        "ga": "bailtín",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "bar"
-        ],
-        "ga": "barra",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "bow"
-        ],
-        "ga": "bogha",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "soft engineering"
-        ],
-        "ga": "boginnealtóireacht",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "bracket"
-        ],
-        "ga": "brac",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "bank"
-        ],
-        "ga": "bruach",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "wale"
-        ],
-        "ga": "buinne",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "beam"
-        ],
-        "ga": "bíoma",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "boreen"
-        ],
-        "ga": "bóithrín",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "roadway"
-        ],
-        "ga": "bóthar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "road"
-        ],
-        "ga": "bóthar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "boulevard"
-        ],
-        "ga": "búlbhard",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "driveway"
-        ],
-        "ga": "cabhsán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "slip"
-        ],
-        "ga": "caolbhealach",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "alley"
-        ],
-        "ga": "caolsráid",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "turning circle"
-        ],
-        "ga": "caschiorcal",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "head restraint"
-        ],
-        "ga": "ceannbhac",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "glade"
-        ],
-        "ga": "ceapach",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "square"
-        ],
-        "ga": "cearnóg",
-        "gender": "feminine"
-    },
-    {
-        "declension": 5,
-        "en": [
-            "quarter"
-        ],
-        "ga": "ceathrú",
-        "gender": "feminine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "clamping"
-        ],
-        "ga": "clampáil",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "clinometer"
-        ],
-        "ga": "claonmhéadar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "close"
-        ],
-        "ga": "clós",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "yard"
-        ],
-        "ga": "clós",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "wood"
-        ],
-        "ga": "coill",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "pedestrian"
-        ],
-        "ga": "coisí",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "kerb"
-        ],
-        "ga": "colbha",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "colonnade"
-        ],
-        "ga": "colúnra",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "signalisation"
-        ],
-        "ga": "comharthaíocht",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "roundabout"
-        ],
-        "ga": "compal",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "danger"
-        ],
-        "ga": "contúirt",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "crescent"
-        ],
-        "ga": "corrán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "path"
-        ],
-        "ga": "cosán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "maintenance"
-        ],
-        "ga": "cothabháil",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "vibrometer"
-        ],
-        "ga": "crithmhéadar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "croft"
-        ],
-        "ga": "croit",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "cross-roads",
-            "cross"
-        ],
-        "ga": "crosaire",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "hard engineering"
-        ],
-        "ga": "crua-innealtóireacht",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "circular road"
-        ],
-        "ga": "cuarbhóthar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "ring road"
-        ],
-        "ga": "cuarbhóthar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 5,
-        "en": [
-            "tax"
-        ],
-        "ga": "cáin",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "quay",
-            "wharf",
-            "pier"
-        ],
-        "ga": "cé",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "drive"
-        ],
-        "ga": "céide",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "step"
-        ],
-        "ga": "céim",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "court"
-        ],
-        "ga": "cúirt",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "rear window"
-        ],
-        "ga": "cúlfhuinneog",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "good judgement"
-        ],
-        "ga": "dea-bhreithiúnas",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "right-hand direction"
-        ],
-        "ga": "deiseal",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "diamond"
-        ],
-        "ga": "diamant",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "demesne"
-        ],
-        "ga": "diméin",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "toll bridge",
-            "tollbridge"
-        ],
-        "ga": "dola-dhroichead",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "toll plaza"
-        ],
-        "ga": "dola-phlás",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "dolmen"
-        ],
-        "ga": "dolmain",
-        "gender": "feminine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "drainage"
-        ],
-        "ga": "draenáil",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "bridge"
-        ],
-        "ga": "droichead",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "bridge piece"
-        ],
-        "ga": "droichead",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "endorsement"
-        ],
-        "ga": "droimscríobh",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "surface"
-        ],
-        "ga": "dromchla",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "camber"
-        ],
-        "ga": "dronn",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "drum"
-        ],
-        "ga": "druma",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "dock"
-        ],
-        "ga": "duga",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "cobble lock"
-        ],
-        "ga": "duirleogaíocht",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "dune",
-            "sand dune"
-        ],
-        "ga": "dumhach",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "penthouse"
-        ],
-        "ga": "díonteach",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "chamber"
-        ],
-        "ga": "dúnpholl",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "territory",
-            "land"
-        ],
-        "ga": "fearann",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "farm"
-        ],
-        "ga": "feirm",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "deer"
-        ],
-        "ga": "fia",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "byroad"
-        ],
-        "ga": "fobhóthar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "dingle"
-        ],
-        "ga": "fothair",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "reflectorisation"
-        ],
-        "ga": "frithchaiteachas",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "gabion"
-        ],
-        "ga": "gaibiún",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "garden"
-        ],
-        "ga": "gairdín",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "grove"
-        ],
-        "ga": "garrán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "gate"
-        ],
-        "ga": "geata",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "geomembrane"
-        ],
-        "ga": "geoscannán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "brook"
-        ],
-        "ga": "glaise",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "clearway"
-        ],
-        "ga": "glanbhealach",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "clearance"
-        ],
-        "ga": "glanspás",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "valley"
-        ],
-        "ga": "gleann",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "glen"
-        ],
-        "ga": "gleann",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "dale"
-        ],
-        "ga": "gleanntán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "glebe"
-        ],
-        "ga": "gléib",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "garth"
-        ],
-        "ga": "goirtín",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "field"
-        ],
-        "ga": "gort",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "aggregate"
-        ],
-        "ga": "greanmheall",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "solarimeter"
-        ],
-        "ga": "grianmhéadar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "hamlet"
-        ],
-        "ga": "gráig",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "grange"
-        ],
-        "ga": "gráinseach",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "hazard"
-        ],
-        "ga": "guais",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "hall"
-        ],
-        "ga": "halla",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "engineer"
-        ],
-        "ga": "innealtóir",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "transport"
-        ],
-        "ga": "iompraíocht",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "inlet"
-        ],
-        "ga": "ionraon",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "cottage"
-        ],
-        "ga": "iostán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "haggard"
-        ],
-        "ga": "iothlainn",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "lay-by",
-            "layby"
-        ],
-        "ga": "leataobh",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "bank"
-        ],
-        "ga": "leathard",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "vale"
-        ],
-        "ga": "logán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 5,
-        "en": [
-            "speed limit"
-        ],
-        "ga": "luasteorainn",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "lane"
-        ],
-        "ga": "lána",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "median"
-        ],
-        "ga": "lárstráice",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "map"
-        ],
-        "ga": "léarscáil",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "leat"
-        ],
-        "ga": "léata",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "graticule"
-        ],
-        "ga": "líontán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "lantern"
-        ],
-        "ga": "lóchrann",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "lodge"
-        ],
-        "ga": "lóiste",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "manor"
-        ],
-        "ga": "mainéar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "mardyke"
-        ],
-        "ga": "mairdíog",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "brae"
-        ],
-        "ga": "mala",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "market"
-        ],
-        "ga": "margadh",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "mart"
-        ],
-        "ga": "marglann",
-        "gender": "feminine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "megatexture"
-        ],
-        "ga": "meaguigeacht",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "mall"
-        ],
-        "ga": "meal",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "mini roundabout"
-        ],
-        "ga": "mionchompal",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "meter parking"
-        ],
-        "ga": "méadar-pháirceáil",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "heath"
-        ],
-        "ga": "móinteach",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "moor",
-            "peat moor"
-        ],
-        "ga": "móinteán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "meadow"
-        ],
-        "ga": "móinéar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "major road"
-        ],
-        "ga": "mórbhóthar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "motorway"
-        ],
-        "ga": "mótarbhealach",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "autoroute"
-        ],
-        "ga": "mótarbhealach",
-        "gender": "masculine"
-    },
-    {
-        "declension": 5,
-        "en": [
-            "motor tax",
-            "motor taxation"
-        ],
-        "ga": "mótarcháin",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "opisometer"
-        ],
-        "ga": "opasaiméadar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "passage"
-        ],
-        "ga": "pasáiste",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "pedometer"
-        ],
-        "ga": "peidiméadar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "place"
-        ],
-        "ga": "plás",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "green"
-        ],
-        "ga": "plásóg",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "lawn"
-        ],
-        "ga": "plásóg",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "promenade"
-        ],
-        "ga": "promanáid",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "primary road"
-        ],
-        "ga": "príomhbhóthar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "main road"
-        ],
-        "ga": "príomhbhóthar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "main street"
-        ],
-        "ga": "príomhshráid",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "park"
-        ],
-        "ga": "páirc",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "pipeline"
-        ],
-        "ga": "píblíne",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "pile"
-        ],
-        "ga": "píle",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "piping"
-        ],
-        "ga": "píobánra",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "pound"
-        ],
-        "ga": "póna",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "warning"
-        ],
-        "ga": "rabhadh",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "beacon"
-        ],
-        "ga": "rabhchán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "row"
-        ],
-        "ga": "rae",
-        "gender": "feminine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "approach"
-        ],
-        "ga": "rochtain",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "rotary"
-        ],
-        "ga": "rothal",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "cycle track"
-        ],
-        "ga": "rothar-raon",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "wheelspin"
-        ],
-        "ga": "rothlam",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "railing"
-        ],
-        "ga": "ráille",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "over pre-revving"
-        ],
-        "ga": "ró-réamhreibheáil",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "road"
-        ],
-        "ga": "ród",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "sipe",
-            "lamelle"
-        ],
-        "ga": "saidhp",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "cill level",
-            "sill level"
-        ],
-        "ga": "sail-leibhéal",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "facility"
-        ],
-        "ga": "saoráid",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "alley"
-        ],
-        "ga": "scabhat",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "lot"
-        ],
-        "ga": "scair",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "pothole",
-            "pot-hole"
-        ],
-        "ga": "sclaig",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "by-pass",
-            "bypass"
-        ],
-        "ga": "seachbhóthar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "drainage"
-        ],
-        "ga": "siltean",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "gully"
-        ],
-        "ga": "silteán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "speed"
-        ],
-        "ga": "siúl",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "walkway"
-        ],
-        "ga": "siúlán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "walk"
-        ],
-        "ga": "siúlán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "slip road"
-        ],
-        "ga": "sliosbhóthar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "dell"
-        ],
-        "ga": "slád",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "integrity"
-        ],
-        "ga": "sláine",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "brace"
-        ],
-        "ga": "snaidhmeán",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "street"
-        ],
-        "ga": "sráid",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "village"
-        ],
-        "ga": "sráidbhaile",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "stop"
-        ],
-        "ga": "stop",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "centring",
-            "centering",
-            "centre"
-        ],
-        "ga": "stuachreatlach",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "arcade"
-        ],
-        "ga": "stuara",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "tacheometry"
-        ],
-        "ga": "taicéiméadracht",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "accident"
-        ],
-        "ga": "taisme",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "side road"
-        ],
-        "ga": "taobh-bhóthar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "tarmac",
-            "tarmacadam"
-        ],
-        "ga": "tarmac",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "dwelling"
-        ],
-        "ga": "teaghais",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "strut"
-        ],
-        "ga": "teanntóg",
-        "gender": "feminine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "driving"
-        ],
-        "ga": "tiomáint",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "excavation"
-        ],
-        "ga": "tochailt",
-        "gender": "feminine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "dimensions"
-        ],
-        "ga": "toisí",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "truck"
-        ],
-        "ga": "trucail",
-        "gender": "feminine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "traffic"
-        ],
-        "ga": "trácht",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "through road"
-        ],
-        "ga": "trébhóthar",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "through traffic"
-        ],
-        "ga": "tréthrácht",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "crash"
-        ],
-        "ga": "tuairt",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "tower"
-        ],
-        "ga": "túr",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "maximum clearance"
-        ],
-        "ga": "uas-ghlanspás",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "flyover"
-        ],
-        "ga": "uasbhealach",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "oval"
-        ],
-        "ga": "ubhchruth",
-        "gender": "masculine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "sleeping policeman",
-            "ramp"
-        ],
-        "ga": "uchtóg",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "y-junction"
-        ],
-        "ga": "y-achomhal",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "arch"
-        ],
-        "ga": "áirse",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "mansion"
-        ],
-        "ga": "áras",
-        "gender": "masculine"
-    },
-    {
-        "declension": 3,
-        "en": [
-            "emergency"
-        ],
-        "ga": "éigeandáil",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "pay machine"
-        ],
-        "ga": "íoc-inneall",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "minimum clearance"
-        ],
-        "ga": "íos-ghlanspás",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "underpass",
-            "space under a bridge",
-            "subway"
-        ],
-        "ga": "íosbhealach",
-        "gender": "masculine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "flyunder"
-        ],
-        "ga": "íosbhealach",
-        "gender": "masculine"
-    },
-    {
-        "declension": 4,
-        "en": [
-            "clearance gap"
-        ],
-        "ga": "íosbhearna",
-        "gender": "feminine"
-    },
-    {
-        "declension": 2,
-        "en": [
-            "clearance size"
-        ],
-        "ga": "íosmhéid",
-        "gender": "feminine"
-    },
-    {
-        "declension": 1,
-        "en": [
-            "orchard"
-        ],
-        "ga": "úllord",
-        "gender": "masculine"
-    }
+  {
+    "declension": 1,
+    "en": [
+      "National Museum"
+    ],
+    "ga": "Ard-Mhúsaem",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "Guard"
+    ],
+    "ga": "Garda",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "T-junction"
+    ],
+    "ga": "T-acomhal",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "junction"
+    ],
+    "ga": "acomhal",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "airport"
+    ],
+    "ga": "aerfort",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "avenue"
+    ],
+    "ga": "aibhinne",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "nameplate"
+    ],
+    "ga": "ainmchlár",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "caution"
+    ],
+    "ga": "aire",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "rise"
+    ],
+    "ga": "ard",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "terrace"
+    ],
+    "ga": "ardán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "review"
+    ],
+    "ga": "athbhreithniúchán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "villa"
+    ],
+    "ga": "bailtín",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "bar"
+    ],
+    "ga": "barra",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "bow"
+    ],
+    "ga": "bogha",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "soft engineering"
+    ],
+    "ga": "boginnealtóireacht",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "bracket"
+    ],
+    "ga": "brac",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "bank"
+    ],
+    "ga": "bruach",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "wale"
+    ],
+    "ga": "buinne",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "beam"
+    ],
+    "ga": "bíoma",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "boreen"
+    ],
+    "ga": "bóithrín",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "roadway"
+    ],
+    "ga": "bóthar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "road"
+    ],
+    "ga": "bóthar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "boulevard"
+    ],
+    "ga": "búlbhard",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "driveway"
+    ],
+    "ga": "cabhsán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "slip"
+    ],
+    "ga": "caolbhealach",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "alley"
+    ],
+    "ga": "caolsráid",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "turning circle"
+    ],
+    "ga": "caschiorcal",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "head restraint"
+    ],
+    "ga": "ceannbhac",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "glade"
+    ],
+    "ga": "ceapach",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "square"
+    ],
+    "ga": "cearnóg",
+    "gender": "feminine"
+  },
+  {
+    "declension": 5,
+    "en": [
+      "quarter"
+    ],
+    "ga": "ceathrú",
+    "gender": "feminine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "clamping"
+    ],
+    "ga": "clampáil",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "clinometer"
+    ],
+    "ga": "claonmhéadar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "close"
+    ],
+    "ga": "clós",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "yard"
+    ],
+    "ga": "clós",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "wood"
+    ],
+    "ga": "coill",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "pedestrian"
+    ],
+    "ga": "coisí",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "kerb"
+    ],
+    "ga": "colbha",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "colonnade"
+    ],
+    "ga": "colúnra",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "signalisation"
+    ],
+    "ga": "comharthaíocht",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "roundabout"
+    ],
+    "ga": "compal",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "danger"
+    ],
+    "ga": "contúirt",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "crescent"
+    ],
+    "ga": "corrán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "path"
+    ],
+    "ga": "cosán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "maintenance"
+    ],
+    "ga": "cothabháil",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "vibrometer"
+    ],
+    "ga": "crithmhéadar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "croft"
+    ],
+    "ga": "croit",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "cross-roads",
+      "cross"
+    ],
+    "ga": "crosaire",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "hard engineering"
+    ],
+    "ga": "crua-innealtóireacht",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "circular road"
+    ],
+    "ga": "cuarbhóthar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "ring road"
+    ],
+    "ga": "cuarbhóthar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 5,
+    "en": [
+      "tax"
+    ],
+    "ga": "cáin",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "quay",
+      "wharf",
+      "pier"
+    ],
+    "ga": "cé",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "drive"
+    ],
+    "ga": "céide",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "step"
+    ],
+    "ga": "céim",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "court"
+    ],
+    "ga": "cúirt",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "rear window"
+    ],
+    "ga": "cúlfhuinneog",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "good judgement"
+    ],
+    "ga": "dea-bhreithiúnas",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "right-hand direction"
+    ],
+    "ga": "deiseal",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "diamond"
+    ],
+    "ga": "diamant",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "demesne"
+    ],
+    "ga": "diméin",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "toll bridge",
+      "tollbridge"
+    ],
+    "ga": "dola-dhroichead",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "toll plaza"
+    ],
+    "ga": "dola-phlás",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "dolmen"
+    ],
+    "ga": "dolmain",
+    "gender": "feminine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "drainage"
+    ],
+    "ga": "draenáil",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "bridge"
+    ],
+    "ga": "droichead",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "bridge piece"
+    ],
+    "ga": "droichead",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "endorsement"
+    ],
+    "ga": "droimscríobh",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "surface"
+    ],
+    "ga": "dromchla",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "camber"
+    ],
+    "ga": "dronn",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "drum"
+    ],
+    "ga": "druma",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "dock"
+    ],
+    "ga": "duga",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "cobble lock"
+    ],
+    "ga": "duirleogaíocht",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "dune",
+      "sand dune"
+    ],
+    "ga": "dumhach",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "penthouse"
+    ],
+    "ga": "díonteach",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "chamber"
+    ],
+    "ga": "dúnpholl",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "territory",
+      "land"
+    ],
+    "ga": "fearann",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "farm"
+    ],
+    "ga": "feirm",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "deer"
+    ],
+    "ga": "fia",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "byroad"
+    ],
+    "ga": "fobhóthar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "dingle"
+    ],
+    "ga": "fothair",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "reflectorisation"
+    ],
+    "ga": "frithchaiteachas",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "gabion"
+    ],
+    "ga": "gaibiún",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "garden"
+    ],
+    "ga": "gairdín",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "grove"
+    ],
+    "ga": "garrán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "gate"
+    ],
+    "ga": "geata",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "geomembrane"
+    ],
+    "ga": "geoscannán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "brook"
+    ],
+    "ga": "glaise",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "clearway"
+    ],
+    "ga": "glanbhealach",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "clearance"
+    ],
+    "ga": "glanspás",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "valley"
+    ],
+    "ga": "gleann",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "glen"
+    ],
+    "ga": "gleann",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "dale"
+    ],
+    "ga": "gleanntán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "glebe"
+    ],
+    "ga": "gléib",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "garth"
+    ],
+    "ga": "goirtín",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "field"
+    ],
+    "ga": "gort",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "aggregate"
+    ],
+    "ga": "greanmheall",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "solarimeter"
+    ],
+    "ga": "grianmhéadar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "hamlet"
+    ],
+    "ga": "gráig",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "grange"
+    ],
+    "ga": "gráinseach",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "hazard"
+    ],
+    "ga": "guais",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "hall"
+    ],
+    "ga": "halla",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "engineer"
+    ],
+    "ga": "innealtóir",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "transport"
+    ],
+    "ga": "iompraíocht",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "inlet"
+    ],
+    "ga": "ionraon",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "cottage"
+    ],
+    "ga": "iostán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "haggard"
+    ],
+    "ga": "iothlainn",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "lay-by",
+      "layby"
+    ],
+    "ga": "leataobh",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "bank"
+    ],
+    "ga": "leathard",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "vale"
+    ],
+    "ga": "logán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 5,
+    "en": [
+      "speed limit"
+    ],
+    "ga": "luasteorainn",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "lane"
+    ],
+    "ga": "lána",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "median"
+    ],
+    "ga": "lárstráice",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "map"
+    ],
+    "ga": "léarscáil",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "leat"
+    ],
+    "ga": "léata",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "graticule"
+    ],
+    "ga": "líontán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "lantern"
+    ],
+    "ga": "lóchrann",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "lodge"
+    ],
+    "ga": "lóiste",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "manor"
+    ],
+    "ga": "mainéar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "mardyke"
+    ],
+    "ga": "mairdíog",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "brae"
+    ],
+    "ga": "mala",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "market"
+    ],
+    "ga": "margadh",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "mart"
+    ],
+    "ga": "marglann",
+    "gender": "feminine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "megatexture"
+    ],
+    "ga": "meaguigeacht",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "mall"
+    ],
+    "ga": "meal",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "mini roundabout"
+    ],
+    "ga": "mionchompal",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "meter parking"
+    ],
+    "ga": "méadar-pháirceáil",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "heath"
+    ],
+    "ga": "móinteach",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "moor",
+      "peat moor"
+    ],
+    "ga": "móinteán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "meadow"
+    ],
+    "ga": "móinéar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "major road"
+    ],
+    "ga": "mórbhóthar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "motorway"
+    ],
+    "ga": "mótarbhealach",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "autoroute"
+    ],
+    "ga": "mótarbhealach",
+    "gender": "masculine"
+  },
+  {
+    "declension": 5,
+    "en": [
+      "motor tax",
+      "motor taxation"
+    ],
+    "ga": "mótarcháin",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "opisometer"
+    ],
+    "ga": "opasaiméadar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "passage"
+    ],
+    "ga": "pasáiste",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "pedometer"
+    ],
+    "ga": "peidiméadar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "place"
+    ],
+    "ga": "plás",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "green"
+    ],
+    "ga": "plásóg",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "lawn"
+    ],
+    "ga": "plásóg",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "promenade"
+    ],
+    "ga": "promanáid",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "primary road"
+    ],
+    "ga": "príomhbhóthar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "main road"
+    ],
+    "ga": "príomhbhóthar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "main street"
+    ],
+    "ga": "príomhshráid",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "park"
+    ],
+    "ga": "páirc",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "pipeline"
+    ],
+    "ga": "píblíne",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "pile"
+    ],
+    "ga": "píle",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "piping"
+    ],
+    "ga": "píobánra",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "pound"
+    ],
+    "ga": "póna",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "warning"
+    ],
+    "ga": "rabhadh",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "beacon"
+    ],
+    "ga": "rabhchán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "row"
+    ],
+    "ga": "rae",
+    "gender": "feminine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "approach"
+    ],
+    "ga": "rochtain",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "rotary"
+    ],
+    "ga": "rothal",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "cycle track"
+    ],
+    "ga": "rothar-raon",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "wheelspin"
+    ],
+    "ga": "rothlam",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "railing"
+    ],
+    "ga": "ráille",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "over pre-revving"
+    ],
+    "ga": "ró-réamhreibheáil",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "road"
+    ],
+    "ga": "ród",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "sipe",
+      "lamelle"
+    ],
+    "ga": "saidhp",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "cill level",
+      "sill level"
+    ],
+    "ga": "sail-leibhéal",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "facility"
+    ],
+    "ga": "saoráid",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "alley"
+    ],
+    "ga": "scabhat",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "lot"
+    ],
+    "ga": "scair",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "pothole",
+      "pot-hole"
+    ],
+    "ga": "sclaig",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "by-pass",
+      "bypass"
+    ],
+    "ga": "seachbhóthar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "drainage"
+    ],
+    "ga": "siltean",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "gully"
+    ],
+    "ga": "silteán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "speed"
+    ],
+    "ga": "siúl",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "walkway"
+    ],
+    "ga": "siúlán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "walk"
+    ],
+    "ga": "siúlán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "slip road"
+    ],
+    "ga": "sliosbhóthar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "dell"
+    ],
+    "ga": "slád",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "integrity"
+    ],
+    "ga": "sláine",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "brace"
+    ],
+    "ga": "snaidhmeán",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "street"
+    ],
+    "ga": "sráid",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "village"
+    ],
+    "ga": "sráidbhaile",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "stop"
+    ],
+    "ga": "stop",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "centring",
+      "centering",
+      "centre"
+    ],
+    "ga": "stuachreatlach",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "arcade"
+    ],
+    "ga": "stuara",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "tacheometry"
+    ],
+    "ga": "taicéiméadracht",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "accident"
+    ],
+    "ga": "taisme",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "side road"
+    ],
+    "ga": "taobh-bhóthar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "tarmac",
+      "tarmacadam"
+    ],
+    "ga": "tarmac",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "dwelling"
+    ],
+    "ga": "teaghais",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "strut"
+    ],
+    "ga": "teanntóg",
+    "gender": "feminine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "driving"
+    ],
+    "ga": "tiomáint",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "excavation"
+    ],
+    "ga": "tochailt",
+    "gender": "feminine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "dimensions"
+    ],
+    "ga": "toisí",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "truck"
+    ],
+    "ga": "trucail",
+    "gender": "feminine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "traffic"
+    ],
+    "ga": "trácht",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "through road"
+    ],
+    "ga": "trébhóthar",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "through traffic"
+    ],
+    "ga": "tréthrácht",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "crash"
+    ],
+    "ga": "tuairt",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "tower"
+    ],
+    "ga": "túr",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "maximum clearance"
+    ],
+    "ga": "uas-ghlanspás",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "flyover"
+    ],
+    "ga": "uasbhealach",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "oval"
+    ],
+    "ga": "ubhchruth",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "sleeping policeman",
+      "ramp"
+    ],
+    "ga": "uchtóg",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "y-junction"
+    ],
+    "ga": "y-achomhal",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "arch"
+    ],
+    "ga": "áirse",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "mansion"
+    ],
+    "ga": "áras",
+    "gender": "masculine"
+  },
+  {
+    "declension": 3,
+    "en": [
+      "emergency"
+    ],
+    "ga": "éigeandáil",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "pay machine"
+    ],
+    "ga": "íoc-inneall",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "minimum clearance"
+    ],
+    "ga": "íos-ghlanspás",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "underpass",
+      "space under a bridge",
+      "subway"
+    ],
+    "ga": "íosbhealach",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "flyunder"
+    ],
+    "ga": "íosbhealach",
+    "gender": "masculine"
+  },
+  {
+    "declension": 4,
+    "en": [
+      "clearance gap"
+    ],
+    "ga": "íosbhearna",
+    "gender": "feminine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "clearance size"
+    ],
+    "ga": "íosmhéid",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "orchard"
+    ],
+    "ga": "úllord",
+    "gender": "masculine"
+  },
+  {
+    "declension": 2,
+    "en": [
+      "whip"
+    ],
+    "ga": "fuip",
+    "gender": "feminine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "tentering"
+    ],
+    "ga": "teannadh",
+    "gender": "masculine"
+  },
+  {
+    "declension": 1,
+    "en": [
+      "tower mill"
+    ],
+    "ga": "túrmhuileann",
+    "gender": "masculine"
+  }
 ]

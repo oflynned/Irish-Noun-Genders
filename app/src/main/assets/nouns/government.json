@@ -5187,5 +5187,109 @@
         ],
         "ga": "útóipeachas",
         "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Grand Lodge"
+        ],
+        "ga": "Ardlóiste",
+        "gender": "masculine"
+    },
+    {
+        "declension": 2,
+        "en": [
+            "Brownie"
+        ],
+        "ga": "Donnóg",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Eurobank"
+        ],
+        "ga": "Eorabhanc",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "the National Youth Development Organization"
+        ],
+        "ga": "Foróige",
+        "gender": "feminine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Hedayah"
+        ],
+        "ga": "Hiodáia",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "Cub Scout"
+        ],
+        "ga": "Macaomh",
+        "gender": "masculine"
+    },
+    {
+        "declension": 4,
+        "en": [
+            "Venturer"
+        ],
+        "ga": "Taiscéalaí",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "member organisation"
+        ],
+        "ga": "balleagraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "founder"
+        ],
+        "ga": "bunaitheoir",
+        "gender": "masculine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "lead-organisation"
+        ],
+        "ga": "ceanneagraíocht",
+        "gender": "feminine"
+    },
+    {
+        "declension": 3,
+        "en": [
+            "entrance"
+        ],
+        "ga": "iontráil",
+        "gender": "feminine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "master mason"
+        ],
+        "ga": "máistirmháisiún",
+        "gender": "masculine"
+    },
+    {
+        "declension": 1,
+        "en": [
+            "organ"
+        ],
+        "ga": "orgán",
+        "gender": "masculine"
     }
 ]
