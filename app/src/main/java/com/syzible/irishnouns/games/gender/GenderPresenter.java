@@ -37,7 +37,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         currentScore = 0;
     }
 
-    public void checkNewHighScore(Context context) {
+    void checkNewHighScore(Context context) {
         int currentHighScore = Cache.getHighScore(context);
         if (currentScore > currentHighScore) {
             Cache.setNewHighScore(context, currentScore);
@@ -48,7 +48,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         ifViewAttached(v -> v.showHighScore(String.valueOf(currentHighScore)));
     }
 
-    public void fetchNouns(Context context) {
+    void fetchNouns(Context context) {
         shownNouns = new ArrayList<>();
 
         try {
@@ -70,7 +70,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         ifViewAttached(v -> v.setChosenCategory(currentDomain));
     }
 
-    public void pickNoun() {
+    void pickNoun() {
         if (remainingNouns.size() == 0) {
             ifViewAttached(v -> v.notifyEndOfDeck(currentDomain, shownNouns.size()));
             return;
@@ -84,7 +84,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         });
     }
 
-    public void makeGuess(Context context, Noun.Gender gender) {
+    void makeGuess(Context context, Noun.Gender gender) {
         if (isGuessCorrect(gender)) {
             shownNouns.add(currentNoun);
             remainingNouns.remove(currentNoun);
@@ -100,7 +100,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         pickNoun();
     }
 
-    public void resetCurrentDeck() {
+    void resetCurrentDeck() {
         remainingNouns = shownNouns;
         shownNouns = new ArrayList<>();
         resetScore();
@@ -115,7 +115,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         return false;
     }
 
-    public void showCategoryScreen(Context context) {
+    void changeCategory(Context context) {
         String currentCategory;
         try {
             currentCategory = Cache.getLastChosenCategory(context);
@@ -124,6 +124,16 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
             return;
         }
 
+        resetScore();
         ifViewAttached(v -> v.showCategoryScreen(currentCategory));
+    }
+
+    void showCategoryScreen(Context context) {
+        if (currentScore > 0) {
+            ifViewAttached(GenderView::notifyProgressLoss);
+            return;
+        }
+
+        changeCategory(context);
     }
 }
