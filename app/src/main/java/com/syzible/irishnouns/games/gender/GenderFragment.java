@@ -136,6 +136,16 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     }
 
     @Override
+    public void notifyProgressLoss() {
+        new AlertDialog.Builder(getActivity())
+                .setTitle("Session in progress")
+                .setMessage("Are you sure you want to change category? Your progress will be reset if you return.")
+                .setPositiveButton("OK", (dialogInterface, i) -> presenter.changeCategory(getActivity()))
+                .setNegativeButton("Cancel", null)
+                .show();
+    }
+
+    @Override
     public void setScore(String score) {
         this.score.setText(score);
     }
