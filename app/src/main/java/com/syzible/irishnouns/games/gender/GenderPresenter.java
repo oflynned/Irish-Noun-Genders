@@ -5,9 +5,9 @@ import android.support.annotation.NonNull;
 
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.syzible.irishnouns.common.models.Noun;
+import com.syzible.irishnouns.common.persistence.Cache;
 import com.syzible.irishnouns.common.persistence.DomainNotFoundException;
 import com.syzible.irishnouns.common.persistence.MalformedFileException;
-import com.syzible.irishnouns.common.persistence.Cache;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -35,6 +35,17 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
 
     private void resetScore() {
         currentScore = 0;
+    }
+
+    public void checkNewHighScore(Context context) {
+        int currentHighScore = Cache.getHighScore(context);
+        if (currentScore > currentHighScore) {
+            Cache.setNewHighScore(context, currentScore);
+            ifViewAttached(v -> v.showHighScore(String.valueOf(currentScore)));
+            return;
+        }
+
+        ifViewAttached(v -> v.showHighScore(String.valueOf(currentHighScore)));
     }
 
     public void fetchNouns(Context context) {
@@ -73,11 +84,12 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         });
     }
 
-    public void makeGuess(Noun.Gender gender) {
+    public void makeGuess(Context context, Noun.Gender gender) {
         if (isGuessCorrect(gender)) {
             shownNouns.add(currentNoun);
             remainingNouns.remove(currentNoun);
             incrementScore();
+            checkNewHighScore(context);
             ifViewAttached(GenderView::notifyCorrectGuess);
         } else {
             resetScore();
