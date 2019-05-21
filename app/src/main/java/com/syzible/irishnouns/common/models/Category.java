@@ -1,5 +1,9 @@
 package com.syzible.irishnouns.common.models;
 
+import android.content.Context;
+
+import com.syzible.irishnouns.R;
+
 import java.util.Locale;
 
 public class Category {
@@ -18,6 +22,12 @@ public class Category {
 
     public String getFileName() {
         return fileName;
+    }
+
+    public int getIcon(Context context) {
+        int icon = context.getResources()
+                .getIdentifier(getFileName(), "drawable", context.getPackageName());
+        return icon == 0 ? R.drawable.accounting : icon;
     }
 
     public boolean isChosen() {

@@ -44,6 +44,7 @@ public class DomainAdaptor extends RecyclerView.Adapter<DomainAdaptor.GroupSelec
         Context context = groupSelectionHolder.itemView.getContext();
         Category category = categories.get(i);
         groupSelectionHolder.setIsRecyclable(false);
+        groupSelectionHolder.icon.setImageResource(category.getIcon(context));
         groupSelectionHolder.name.setText(category.getCategory());
         if (category.isChosen()) {
             groupSelectionHolder.name.setTypeface(groupSelectionHolder.name.getTypeface(), Typeface.BOLD);
