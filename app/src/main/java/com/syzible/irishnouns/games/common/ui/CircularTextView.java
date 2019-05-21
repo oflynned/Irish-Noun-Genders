@@ -48,8 +48,8 @@ public class CircularTextView extends AppCompatTextView {
         this.setHeight(diameter);
         this.setWidth(diameter);
 
-        canvas.drawCircle(diameter / 2, diameter / 2, radius, strokePaint);
-        canvas.drawCircle(diameter / 2, diameter / 2, radius - strokeWidth, circlePaint);
+        canvas.drawCircle((float) diameter / 2, (float) diameter / 2, radius, strokePaint);
+        canvas.drawCircle((float) diameter / 2, (float) diameter / 2, radius - strokeWidth, circlePaint);
 
         super.draw(canvas);
     }
