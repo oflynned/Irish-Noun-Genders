@@ -67,10 +67,11 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
         super.onViewCreated(view, savedInstanceState);
         unbinder = ButterKnife.bind(this, view);
 
-        maleButton.setOnClickListener(v -> presenter.makeGuess(Noun.Gender.MASCULINE));
-        femaleButton.setOnClickListener(v -> presenter.makeGuess(Noun.Gender.FEMININE));
+        maleButton.setOnClickListener(v -> presenter.makeGuess(getActivity(), Noun.Gender.MASCULINE));
+        femaleButton.setOnClickListener(v -> presenter.makeGuess(getActivity(), Noun.Gender.FEMININE));
         category.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
 
+        presenter.checkNewHighScore(getActivity());
         presenter.fetchNouns(getActivity());
         presenter.pickNoun();
     }
@@ -108,6 +109,11 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
 
     @Override
     public void notifyWrongGuess() {
+    }
+
+    @Override
+    public void showHighScore(String highScore) {
+        this.highScore.setText(highScore);
     }
 
     @Override
