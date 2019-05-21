@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.games.gender;
+package com.syzible.irishnouns.screens.modes.gender;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;

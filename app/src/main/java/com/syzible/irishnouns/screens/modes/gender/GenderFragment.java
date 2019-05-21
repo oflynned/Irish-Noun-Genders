@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.games.gender;
+package com.syzible.irishnouns.screens.modes.gender;
 
 import android.app.AlertDialog;
 import android.os.Bundle;
@@ -14,9 +14,9 @@ import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnouns.MainActivity;
 import com.syzible.irishnouns.R;
 import com.syzible.irishnouns.common.models.Noun;
-import com.syzible.irishnouns.games.common.domainchoice.DomainChoiceFragment;
-import com.syzible.irishnouns.games.common.ui.CircularTextView;
-import com.syzible.irishnouns.games.mainmenu.MainMenuFragment;
+import com.syzible.irishnouns.screens.common.domainchoice.DomainChoiceFragment;
+import com.syzible.irishnouns.screens.common.ui.CircularTextView;
+import com.syzible.irishnouns.screens.MainMenuFragment;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

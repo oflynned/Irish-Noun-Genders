@@ -8,7 +8,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 
-import com.syzible.irishnouns.games.gender.GenderFragment;
+import com.syzible.irishnouns.screens.modes.gender.GenderFragment;
 
 public class MainActivity extends AppCompatActivity {
     @Override

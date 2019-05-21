@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.games.common.ui;
+package com.syzible.irishnouns.screens.common.ui;
 
 import android.content.Context;
 import android.graphics.Canvas;

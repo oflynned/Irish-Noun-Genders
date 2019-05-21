@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.games.gender;
+package com.syzible.irishnouns.screens.modes.gender;
 
 import android.content.Context;
 import android.support.annotation.NonNull;

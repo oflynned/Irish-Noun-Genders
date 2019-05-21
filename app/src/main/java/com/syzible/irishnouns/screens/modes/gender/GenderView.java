@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.games.gender;
+package com.syzible.irishnouns.screens.modes.gender;
 
 import com.hannesdorfmann.mosby3.mvp.MvpView;
 

@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.games.common.domainchoice;
+package com.syzible.irishnouns.screens.common.domainchoice;
 
 import android.content.Context;
 import android.graphics.Typeface;
@@ -15,7 +15,7 @@ import com.syzible.irishnouns.MainActivity;
 import com.syzible.irishnouns.R;
 import com.syzible.irishnouns.common.models.Category;
 import com.syzible.irishnouns.common.persistence.Cache;
-import com.syzible.irishnouns.games.gender.GenderFragment;
+import com.syzible.irishnouns.screens.modes.gender.GenderFragment;
 
 import java.util.ArrayList;
 import java.util.List;

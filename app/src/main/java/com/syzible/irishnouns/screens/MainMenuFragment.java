@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.games.mainmenu;
+package com.syzible.irishnouns.screens;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import com.syzible.irishnouns.MainActivity;
 import com.syzible.irishnouns.R;
-import com.syzible.irishnouns.games.gender.GenderFragment;
+import com.syzible.irishnouns.screens.modes.gender.GenderFragment;
 import com.syzible.irishnouns.settings.SettingsActivity;
 
 import butterknife.BindView;
