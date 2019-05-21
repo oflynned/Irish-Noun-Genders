@@ -8,15 +8,15 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 
-import com.syzible.irishnouns.mainmenu.MainMenuFragment;
+import com.syzible.irishnouns.games.gender.GenderFragment;
 
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setFragment(getSupportFragmentManager(), MainMenuFragment.getInstance());
+        setFragment(getSupportFragmentManager(), GenderFragment.getInstance());
+//        setFragment(getSupportFragmentManager(), MainMenuFragment.getInstance());
     }
 
     @Override

@@ -1,5 +1,6 @@
-package com.syzible.irishnouns.mainmenu;
+package com.syzible.irishnouns.games.mainmenu;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -12,6 +13,7 @@ import android.widget.TextView;
 import com.syzible.irishnouns.MainActivity;
 import com.syzible.irishnouns.R;
 import com.syzible.irishnouns.games.gender.GenderFragment;
+import com.syzible.irishnouns.settings.SettingsActivity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -45,6 +47,7 @@ public class MainMenuFragment extends Fragment {
         super.onViewCreated(view, savedInstanceState);
         unbinder = ButterKnife.bind(this, view);
         genderMode.setOnClickListener(v -> MainActivity.setFragment(getFragmentManager(), GenderFragment.getInstance()));
+        settings.setOnClickListener(v -> startActivity(new Intent(getActivity(), SettingsActivity.class)));
     }
 
     @Override

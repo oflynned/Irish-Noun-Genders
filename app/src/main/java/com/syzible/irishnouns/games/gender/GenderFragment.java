@@ -16,7 +16,7 @@ import com.syzible.irishnouns.R;
 import com.syzible.irishnouns.common.models.Noun;
 import com.syzible.irishnouns.games.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnouns.games.common.ui.CircularTextView;
-import com.syzible.irishnouns.mainmenu.MainMenuFragment;
+import com.syzible.irishnouns.games.mainmenu.MainMenuFragment;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -74,7 +74,10 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
         maleButton.setOnClickListener(v -> presenter.makeGuess(getActivity(), Noun.Gender.MASCULINE));
         femaleButton.setOnClickListener(v -> presenter.makeGuess(getActivity(), Noun.Gender.FEMININE));
         category.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
+
         backButton.setOnClickListener(v -> presenter.returnToMainMenu());
+        // TODO remove when the main menu is in use
+        backButton.setVisibility(View.GONE);
 
         presenter.checkNewHighScore(getActivity());
         presenter.fetchNouns(getActivity());
