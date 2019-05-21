@@ -40,6 +40,9 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     @BindView(R.id.gender_game_card_title)
     TextView cardTitle;
 
+    @BindView(R.id.gender_game_card_hint)
+    TextView cardHint;
+
     @BindView(R.id.gender_game_card_translation)
     TextView cardTranslation;
 
@@ -94,13 +97,13 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     }
 
     @Override
-    public void showTranslation(String translation) {
-        cardTranslation.setText(translation);
+    public void showHint(String hint) {
+        cardHint.setText(hint);
     }
 
     @Override
-    public void showHint() {
-
+    public void showTranslation(String translation) {
+        cardTranslation.setText(translation);
     }
 
     @Override
