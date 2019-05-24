@@ -13,15 +13,13 @@ import java.util.HashMap;
 public class NounTest {
     @Test
     public void shouldHaveTranslationListWithoutComma() {
-        Noun noun = new Noun();
-        noun.setTranslations(Collections.singletonList("first"));
+        Noun noun = new Noun(1, "title", Collections.singletonList("first"), Noun.Gender.MASCULINE);
         Assert.assertEquals("first", noun.getTranslations());
     }
 
     @Test
     public void shouldHaveTranslationListCommaSeparated() {
-        Noun noun = new Noun();
-        noun.setTranslations(Arrays.asList("first", "second"));
+        Noun noun = new Noun(1, "title", Arrays.asList("first", "second"), Noun.Gender.MASCULINE);
         Assert.assertEquals("first, second", noun.getTranslations());
     }
 
@@ -52,5 +50,10 @@ public class NounTest {
     @Test
     public void shouldHaveGender() {
         Assert.assertEquals(Noun.Gender.MASCULINE, noun.getGender());
+    }
+
+    @Test
+    public void shouldFormatToString() {
+        Assert.assertEquals("Noun{declension=1, title='title', translations='en', gender='MASCULINE'}", noun.toString());
     }
 }
