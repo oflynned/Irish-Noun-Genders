@@ -21,6 +21,11 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
+        if (getSupportFragmentManager().getBackStackEntryCount() > 0) {
+            super.onBackPressed();
+            return;
+        }
+
         new AlertDialog.Builder(this)
                 .setTitle("Exit game?")
                 .setMessage("Click close below if you wish to exit the game")
