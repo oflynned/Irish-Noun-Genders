@@ -9,6 +9,10 @@
 /captures
 .externalNativeBuild
 
+Gemfile
+Gemfile.lock
+fastlane/
+
 
 # Created by https://www.gitignore.io/api/android,intellij,androidstudio
 
