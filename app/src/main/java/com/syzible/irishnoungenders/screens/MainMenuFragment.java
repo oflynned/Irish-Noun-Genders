@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.screens;
+package com.syzible.irishnoungenders.screens;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,10 +10,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.syzible.irishnouns.MainActivity;
-import com.syzible.irishnouns.R;
-import com.syzible.irishnouns.screens.modes.gender.GenderFragment;
-import com.syzible.irishnouns.settings.SettingsActivity;
+import com.syzible.irishnoungenders.MainActivity;
+import com.syzible.irishnoungenders.R;
+import com.syzible.irishnoungenders.screens.modes.gender.GenderFragment;
+import com.syzible.irishnoungenders.settings.SettingsActivity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

@@ -1,11 +1,11 @@
-package com.syzible.irishnouns.screens.modes.gender;
+package com.syzible.irishnoungenders.screens.modes.gender;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.syzible.irishnouns.common.models.Noun;
-import com.syzible.irishnouns.common.persistence.API;
-import com.syzible.irishnouns.common.persistence.DomainNotFoundException;
-import com.syzible.irishnouns.common.persistence.MalformedFileException;
+import com.syzible.irishnoungenders.common.models.Noun;
+import com.syzible.irishnoungenders.common.persistence.API;
+import com.syzible.irishnoungenders.common.persistence.DomainNotFoundException;
+import com.syzible.irishnoungenders.common.persistence.MalformedFileException;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -1,13 +1,13 @@
-package com.syzible.irishnouns.screens.modes.gender;
+package com.syzible.irishnoungenders.screens.modes.gender;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
 
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
-import com.syzible.irishnouns.common.models.Noun;
-import com.syzible.irishnouns.common.persistence.Cache;
-import com.syzible.irishnouns.common.persistence.DomainNotFoundException;
-import com.syzible.irishnouns.common.persistence.MalformedFileException;
+import com.syzible.irishnoungenders.common.models.Noun;
+import com.syzible.irishnoungenders.common.persistence.Cache;
+import com.syzible.irishnoungenders.common.persistence.DomainNotFoundException;
+import com.syzible.irishnoungenders.common.persistence.MalformedFileException;
 
 import java.util.ArrayList;
 import java.util.Collections;

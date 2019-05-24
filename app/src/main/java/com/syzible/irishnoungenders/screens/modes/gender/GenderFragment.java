@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.screens.modes.gender;
+package com.syzible.irishnoungenders.screens.modes.gender;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
@@ -12,12 +12,12 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
-import com.syzible.irishnouns.MainActivity;
-import com.syzible.irishnouns.R;
-import com.syzible.irishnouns.common.models.Noun;
-import com.syzible.irishnouns.screens.MainMenuFragment;
-import com.syzible.irishnouns.screens.common.domainchoice.DomainChoiceFragment;
-import com.syzible.irishnouns.screens.common.ui.CircularTextView;
+import com.syzible.irishnoungenders.MainActivity;
+import com.syzible.irishnoungenders.R;
+import com.syzible.irishnoungenders.common.models.Noun;
+import com.syzible.irishnoungenders.screens.MainMenuFragment;
+import com.syzible.irishnoungenders.screens.common.domainchoice.DomainChoiceFragment;
+import com.syzible.irishnoungenders.screens.common.ui.CircularTextView;
 
 import java.util.Locale;
 

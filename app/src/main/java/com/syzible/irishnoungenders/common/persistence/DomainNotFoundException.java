@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.common.persistence;
+package com.syzible.irishnoungenders.common.persistence;
 
 public class DomainNotFoundException extends Throwable {
 }

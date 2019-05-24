@@ -1,8 +1,8 @@
-package com.syzible.irishnouns.screens.common.domainchoice;
+package com.syzible.irishnoungenders.screens.common.domainchoice;
 
 import android.content.Context;
 
-import com.syzible.irishnouns.common.persistence.API;
+import com.syzible.irishnoungenders.common.persistence.API;
 
 import org.json.JSONArray;
 import org.json.JSONException;

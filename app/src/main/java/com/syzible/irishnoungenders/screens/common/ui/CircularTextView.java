@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.screens.common.ui;
+package com.syzible.irishnoungenders.screens.common.ui;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -7,7 +7,7 @@ import android.support.v4.content.ContextCompat;
 import android.support.v7.widget.AppCompatTextView;
 import android.util.AttributeSet;
 
-import com.syzible.irishnouns.R;
+import com.syzible.irishnoungenders.R;
 
 public class CircularTextView extends AppCompatTextView {
     private float strokeWidth;

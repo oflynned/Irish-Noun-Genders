@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.screens.common.domainchoice;
+package com.syzible.irishnoungenders.screens.common.domainchoice;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -11,8 +11,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
-import com.syzible.irishnouns.R;
-import com.syzible.irishnouns.common.models.Category;
+import com.syzible.irishnoungenders.R;
+import com.syzible.irishnoungenders.common.models.Category;
 
 import java.util.List;
 

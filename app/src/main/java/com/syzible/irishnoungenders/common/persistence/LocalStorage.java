@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.common.persistence;
+package com.syzible.irishnoungenders.common.persistence;
 
 import android.content.Context;
 import android.preference.PreferenceManager;

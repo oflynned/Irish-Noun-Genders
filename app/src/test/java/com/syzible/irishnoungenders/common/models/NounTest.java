@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.common.models;
+package com.syzible.irishnoungenders.common.models;
 
 import com.google.gson.Gson;
 

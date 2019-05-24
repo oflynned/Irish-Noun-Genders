@@ -1,8 +1,8 @@
-package com.syzible.irishnouns.common.persistence;
+package com.syzible.irishnoungenders.common.persistence;
 
 import android.content.Context;
 
-import com.syzible.irishnouns.common.models.Category;
+import com.syzible.irishnoungenders.common.models.Category;
 
 public class Cache {
     public static void setNewHighScore(Context context, int value) {

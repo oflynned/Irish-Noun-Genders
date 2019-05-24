@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.common.models;
+package com.syzible.irishnoungenders.common.models;
 
 import org.junit.Assert;
 import org.junit.Test;

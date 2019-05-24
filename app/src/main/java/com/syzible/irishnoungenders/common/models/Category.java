@@ -1,8 +1,8 @@
-package com.syzible.irishnouns.common.models;
+package com.syzible.irishnoungenders.common.models;
 
 import android.content.Context;
 
-import com.syzible.irishnouns.R;
+import com.syzible.irishnoungenders.R;
 
 import java.util.Locale;
 

@@ -1,6 +1,6 @@
-package com.syzible.irishnouns.common.persistence;
+package com.syzible.irishnoungenders.common.persistence;
 
-import com.syzible.irishnouns.common.models.Category;
+import com.syzible.irishnoungenders.common.models.Category;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -1,10 +1,10 @@
-package com.syzible.irishnouns.screens.common.domainchoice;
+package com.syzible.irishnoungenders.screens.common.domainchoice;
 
 import android.content.Context;
 
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
-import com.syzible.irishnouns.common.models.Category;
-import com.syzible.irishnouns.common.persistence.LocalStorage;
+import com.syzible.irishnoungenders.common.models.Category;
+import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 
 import org.json.JSONException;
 

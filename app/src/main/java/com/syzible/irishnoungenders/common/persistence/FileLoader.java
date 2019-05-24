@@ -1,4 +1,4 @@
-package com.syzible.irishnouns.common.persistence;
+package com.syzible.irishnoungenders.common.persistence;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.syzible.irishnouns">
+    package="com.syzible.irishnoungenders">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
         <activity
-            android:name=".MainActivity"
+            android:name="com.syzible.irishnoungenders.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme">
             <intent-filter>
@@ -21,9 +21,9 @@
         </activity>
 
         <activity
-            android:theme="@style/SettingsTheme"
-            android:name=".settings.SettingsActivity"
-            android:screenOrientation="portrait" />
+            android:name="com.syzible.irishnoungenders.settings.SettingsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SettingsTheme" />
     </application>
 
 </manifest>
