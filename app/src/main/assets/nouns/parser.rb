@@ -1,7 +1,5 @@
 require "json"
 
-APRIL_8TH = 1554674400000.freeze
-
 def open_file(filename)
     file_data = File.open("./" + filename + ".json", "rb").read
     JSON.parse(file_data)
