@@ -1,5 +1,6 @@
 package com.syzible.irishnouns.screens.modes.gender;
 
+import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -14,17 +15,23 @@ import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnouns.MainActivity;
 import com.syzible.irishnouns.R;
 import com.syzible.irishnouns.common.models.Noun;
+import com.syzible.irishnouns.screens.MainMenuFragment;
 import com.syzible.irishnouns.screens.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnouns.screens.common.ui.CircularTextView;
-import com.syzible.irishnouns.screens.MainMenuFragment;
+
+import java.util.Locale;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
+@SuppressLint("SetTextI18n")
 public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> implements GenderView {
 
     private Unbinder unbinder;
+
+    @BindView(R.id.gender_game_component_noun_card)
+    View card;
 
     @BindView(R.id.gender_game_back_button)
     ImageView backButton;
@@ -71,8 +78,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
         super.onViewCreated(view, savedInstanceState);
         unbinder = ButterKnife.bind(this, view);
 
-        maleButton.setOnClickListener(v -> presenter.makeGuess(getActivity(), Noun.Gender.MASCULINE));
-        femaleButton.setOnClickListener(v -> presenter.makeGuess(getActivity(), Noun.Gender.FEMININE));
+        setupGuessListeners();
         category.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
 
         backButton.setOnClickListener(v -> presenter.returnToMainMenu());
@@ -98,25 +104,77 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
 
     @Override
     public void showTitle(String title) {
+        cardTitle.setVisibility(View.VISIBLE);
         cardTitle.setText(title);
     }
 
     @Override
     public void showHint(String hint) {
+        cardHint.setVisibility(View.VISIBLE);
         cardHint.setText(hint);
     }
 
     @Override
     public void showTranslation(String translation) {
+        cardTranslation.setVisibility(View.VISIBLE);
         cardTranslation.setText(translation);
     }
 
-    @Override
-    public void notifyCorrectGuess() {
+    private void setupGuessListeners() {
+        maleButton.setOnClickListener(v -> presenter.makeGuess(getContext(), Noun.Gender.MASCULINE));
+        femaleButton.setOnClickListener(v -> presenter.makeGuess(getContext(), Noun.Gender.FEMININE));
+        card.setOnClickListener(null);
+    }
+
+    private void setupPostGuessListeners() {
+        femaleButton.setOnClickListener(null);
+        maleButton.setOnClickListener(null);
+        card.setOnClickListener(v -> presenter.pickNoun());
     }
 
     @Override
-    public void notifyWrongGuess() {
+    public void showChoiceButtons() {
+        maleButton.setVisibility(View.VISIBLE);
+        femaleButton.setVisibility(View.VISIBLE);
+    }
+
+    @Override
+    public void notifyCorrectGuess(Noun noun) {
+        cardTitle.setText("correct!");
+        String hintContents = noun.getTitle() + " is " + noun.getGender().name().toLowerCase(Locale.US);
+        cardTranslation.setText(hintContents);
+        cardHint.setVisibility(View.GONE);
+
+        if (noun.getGender() == Noun.Gender.MASCULINE) {
+            femaleButton.setVisibility(View.GONE);
+        } else {
+            maleButton.setVisibility(View.GONE);
+        }
+
+        setupPostGuessListeners();
+        card.setOnClickListener(v -> {
+            presenter.pickNoun();
+            setupGuessListeners();
+        });
+    }
+
+    @Override
+    public void notifyWrongGuess(Noun noun) {
+        cardTitle.setText("oops!");
+        String hintContents = noun.getTitle() + " is " + noun.getGender().name().toLowerCase(Locale.US);
+        cardTranslation.setText(hintContents);
+        cardHint.setVisibility(View.GONE);
+        if (noun.getGender() == Noun.Gender.MASCULINE) {
+            maleButton.setVisibility(View.GONE);
+        } else {
+            femaleButton.setVisibility(View.GONE);
+        }
+
+        setupPostGuessListeners();
+        card.setOnClickListener(v -> {
+            presenter.pickNoun();
+            setupGuessListeners();
+        });
     }
 
     @Override
