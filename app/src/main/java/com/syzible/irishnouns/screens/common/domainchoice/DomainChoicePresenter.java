@@ -33,14 +33,19 @@ class DomainChoicePresenter extends MvpBasePresenter<DomainChoiceView>
 
     @Override
     public void onSuccess(Context context, List<String> domainList) {
+        int selectedIndex = 0;
         List<Category> categoryList = new ArrayList<>();
         String currentCategory = LocalStorage.getStringPref(context, LocalStorage.Pref.CURRENT_CATEGORY);
         for (String domain : domainList) {
             Category category = new Category(domain, currentCategory);
+            if (category.isChosen()) {
+                selectedIndex = domainList.indexOf(domain);
+            }
             categoryList.add(category);
         }
 
-        ifViewAttached(v -> v.showCategoryList(categoryList));
+        int finalSelectedIndex = selectedIndex;
+        ifViewAttached(v -> v.showCategoryList(categoryList, finalSelectedIndex));
     }
 
     @Override

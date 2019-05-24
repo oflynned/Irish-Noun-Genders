@@ -62,7 +62,7 @@ public class DomainChoiceFragment extends MvpFragment<DomainChoiceView, DomainCh
     }
 
     @Override
-    public void showCategoryList(List<Category> categoryList) {
+    public void showCategoryList(List<Category> categoryList, int selectedIndex) {
         if (adaptor == null) {
             adaptor = new DomainAdaptor(getFragmentManager());
 
@@ -75,5 +75,6 @@ public class DomainChoiceFragment extends MvpFragment<DomainChoiceView, DomainCh
 
         adaptor.setCategoryList(categoryList);
         adaptor.notifyDataSetChanged();
+        recyclerView.scrollToPosition(selectedIndex);
     }
 }
