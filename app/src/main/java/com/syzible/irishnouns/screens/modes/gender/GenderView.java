@@ -1,6 +1,7 @@
 package com.syzible.irishnouns.screens.modes.gender;
 
 import com.hannesdorfmann.mosby3.mvp.MvpView;
+import com.syzible.irishnouns.common.models.Noun;
 
 public interface GenderView extends MvpView {
     void showTitle(String noun);
@@ -9,9 +10,11 @@ public interface GenderView extends MvpView {
 
     void showTranslation(String translation);
 
-    void notifyCorrectGuess();
+    void showChoiceButtons();
 
-    void notifyWrongGuess();
+    void notifyCorrectGuess(Noun noun);
+
+    void notifyWrongGuess(Noun noun);
 
     void showHighScore(String highScore);
 
