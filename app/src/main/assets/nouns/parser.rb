@@ -25,15 +25,13 @@ def parse_data(filename)
 
     terms_without_ga_and_en_hyphens = ga_terms_without_hyphens.reject do |term|
         # now remove any english translations containing hyphens
-        # remove completely
         term["en"].any? {|en| en.count("-") > 1 || en.count("(") > 0 || en.count(",") > 0}
     end
 
     output = terms_without_ga_and_en_hyphens.reject do |term|
+        # remove any items without any equivalent english terms due to hyphen removal, leaving just {en: []}
         term["en"].length == 0
     end
-
-    output.map {|t| puts t}
 
     write_file(filename + "-groomed", output)
     puts "completed!"
