@@ -6,5 +6,5 @@ import com.syzible.irishnouns.common.models.Category;
 import java.util.List;
 
 interface DomainChoiceView extends MvpView {
-    void showCategoryList(List<Category> categoryList);
+    void showCategoryList(List<Category> categoryList, int selectedIndex);
 }
