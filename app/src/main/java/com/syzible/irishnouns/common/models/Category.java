@@ -21,7 +21,7 @@ public class Category {
     }
 
     public String getFileName() {
-        return fileName;
+        return fileName.toLowerCase(Locale.US);
     }
 
     public int getIcon(Context context) {
