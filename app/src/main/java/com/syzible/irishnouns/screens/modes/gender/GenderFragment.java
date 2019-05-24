@@ -127,9 +127,18 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     }
 
     private void setupPostGuessListeners() {
-        femaleButton.setOnClickListener(null);
-        maleButton.setOnClickListener(null);
-        card.setOnClickListener(v -> presenter.pickNoun());
+        femaleButton.setOnClickListener(v -> {
+            presenter.pickNoun();
+            setupGuessListeners();
+        });
+        maleButton.setOnClickListener(v -> {
+            presenter.pickNoun();
+            setupGuessListeners();
+        });
+        card.setOnClickListener(v -> {
+            presenter.pickNoun();
+            setupGuessListeners();
+        });
     }
 
     @Override
@@ -152,10 +161,6 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
         }
 
         setupPostGuessListeners();
-        card.setOnClickListener(v -> {
-            presenter.pickNoun();
-            setupGuessListeners();
-        });
     }
 
     @Override
@@ -171,10 +176,6 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
         }
 
         setupPostGuessListeners();
-        card.setOnClickListener(v -> {
-            presenter.pickNoun();
-            setupGuessListeners();
-        });
     }
 
     @Override
