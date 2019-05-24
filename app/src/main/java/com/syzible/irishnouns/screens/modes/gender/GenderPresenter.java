@@ -91,7 +91,10 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         Collections.shuffle(remainingNouns);
         currentNoun = remainingNouns.get(0);
         checkHintIsAvailable(currentNoun);
-        ifViewAttached(v -> v.showTranslation(currentNoun.getTranslations()));
+        ifViewAttached(v -> {
+            v.showChoiceButtons();
+            v.showTranslation(currentNoun.getTranslations());
+        });
     }
 
     void makeGuess(Context context, Noun.Gender gender) {
@@ -100,14 +103,13 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
             remainingNouns.remove(currentNoun);
             incrementScore();
             checkNewHighScore(context);
-            ifViewAttached(GenderView::notifyCorrectGuess);
+            ifViewAttached(v -> v.notifyCorrectGuess(currentNoun));
         } else {
             resetScore();
-            ifViewAttached(GenderView::notifyWrongGuess);
+            ifViewAttached(v -> v.notifyWrongGuess(currentNoun));
         }
 
         ifViewAttached(v -> v.setScore(String.valueOf(currentScore)));
-        pickNoun();
     }
 
     void resetCurrentDeck() {
