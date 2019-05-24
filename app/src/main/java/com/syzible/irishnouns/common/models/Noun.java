@@ -26,29 +26,10 @@ public class Noun {
     @SerializedName("gender")
     private Gender gender;
 
-    public Noun() {
-    }
-
     public Noun(int declension, String title, List<String> translations, Gender gender) {
         this.declension = declension;
         this.title = title;
         this.translations = translations;
-        this.gender = gender;
-    }
-
-    public void setDeclension(int declension) {
-        this.declension = declension;
-    }
-
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
-    public void setTranslations(List<String> translations) {
-        this.translations = translations;
-    }
-
-    public void setGender(Gender gender) {
         this.gender = gender;
     }
 
@@ -82,8 +63,8 @@ public class Noun {
         return "Noun{" +
                 "declension=" + declension +
                 ", title='" + title + '\'' +
-                ", translations=" + translations +
-                ", gender=" + gender +
+                ", translations='" + getTranslations() + "\'" +
+                ", gender='" + gender.name() + "\'" +
                 '}';
     }
 }
