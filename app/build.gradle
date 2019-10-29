@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
 
 android {
     compileSdkVersion 29
@@ -6,8 +7,8 @@ android {
         applicationId "com.syzible.irishnoungenders"
         minSdkVersion 21
         targetSdkVersion 29
-        versionCode 5
-        versionName "2.0.0"
+        versionCode 6
+        versionName "2.1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
     }
