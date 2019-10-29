@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.screens.common.domainchoice;
+package com.syzible.irishnoungenders.screens.modes.common.domainchoice;
 
 import android.content.Context;
 import android.graphics.Typeface;

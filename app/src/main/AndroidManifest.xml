@@ -21,7 +21,7 @@
         </activity>
 
         <activity
-            android:name="com.syzible.irishnoungenders.settings.SettingsActivity"
+            android:name=".screens.options.settings.SettingsActivity"
             android:screenOrientation="portrait"
             android:theme="@style/SettingsTheme" />
     </application>

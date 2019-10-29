@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.screens.common.ui;
+package com.syzible.irishnoungenders.screens.modes.common.ui;
 
 import android.content.Context;
 import android.graphics.Canvas;

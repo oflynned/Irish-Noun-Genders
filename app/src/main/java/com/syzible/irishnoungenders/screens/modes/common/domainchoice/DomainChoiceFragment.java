@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.screens.common.domainchoice;
+package com.syzible.irishnoungenders.screens.modes.common.domainchoice;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;

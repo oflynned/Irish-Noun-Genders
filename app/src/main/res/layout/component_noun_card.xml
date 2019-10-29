@@ -80,7 +80,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1">
 
-            <com.syzible.irishnoungenders.screens.common.ui.CircularTextView
+            <com.syzible.irishnoungenders.screens.modes.common.ui.CircularTextView
                 android:id="@+id/gender_game_male_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -98,7 +98,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1">
 
-            <com.syzible.irishnoungenders.screens.common.ui.CircularTextView
+            <com.syzible.irishnoungenders.screens.modes.common.ui.CircularTextView
                 android:id="@+id/gender_game_female_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

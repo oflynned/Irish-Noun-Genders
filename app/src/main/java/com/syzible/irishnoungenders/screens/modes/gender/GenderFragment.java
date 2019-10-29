@@ -1,6 +1,5 @@
 package com.syzible.irishnoungenders.screens.modes.gender;
 
-import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -16,8 +15,8 @@ import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
-import com.syzible.irishnoungenders.screens.common.domainchoice.DomainChoiceFragment;
-import com.syzible.irishnoungenders.screens.common.ui.CircularTextView;
+import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
+import com.syzible.irishnoungenders.screens.modes.common.ui.CircularTextView;
 
 import java.util.Locale;
 
@@ -80,7 +79,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
         setupGuessListeners();
         category.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
 
-        backButton.setOnClickListener(v -> notifyLeavingGame());
+        backButton.setOnClickListener(v -> presenter.returnToMainMenu());
 
         presenter.checkNewHighScore(getActivity());
         presenter.fetchNouns(getActivity());
