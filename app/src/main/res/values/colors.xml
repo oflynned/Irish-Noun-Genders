@@ -3,4 +3,10 @@
     <color name="colorPrimary">#C06C84</color>
     <color name="colorAccent">#355C7D</color>
     <color name="action">#F67280</color>
+
+    <color name="lapisLazuli">#247BA0</color>
+    <color name="lightCarminePink">#EF626C</color>
+    <color name="darkPuce">#493843</color>
+    <color name="mediumTurquoise">#55DBCB</color>
+    <color name="jet">#30332E</color>
 </resources>
