@@ -1,5 +1,5 @@
-<android.support.v7.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
-    <android.support.v7.preference.PreferenceCategory android:title="🏃‍♂ Game Preferences️">
+<androidx.appcompat.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.preference.PreferenceCategory android:title="🏃‍♂ Game Preferences️">
         <android.support.v7.preference.SwitchPreferenceCompat
             android:defaultValue="true"
             android:key="settings_show_hints"
@@ -21,9 +21,9 @@
         <android.support.v7.preference.Preference
             android:summary="Log me out of my currently logged in account."
             android:title="Log Out" />
-    </android.support.v7.preference.PreferenceCategory>
+    </androidx.appcompat.preference.PreferenceCategory>
 
-    <android.support.v7.preference.PreferenceCategory android:title="⚡️ Developer">
+    <androidx.appcompat.preference.PreferenceCategory android:title="⚡️ Developer">
         <android.support.v7.preference.Preference
             android:summary="Love it? Hate it? Let us know by leaving a rating and review on Google Play."
             android:title="Leave a Review" />
@@ -35,9 +35,9 @@
         <android.support.v7.preference.Preference
             android:summary="Click to share the app with friends and family."
             android:title="Share App" />
-    </android.support.v7.preference.PreferenceCategory>
+    </androidx.appcompat.preference.PreferenceCategory>
 
-    <android.support.v7.preference.PreferenceCategory android:title="🎷 Legal Jazz">
+    <androidx.appcompat.preference.PreferenceCategory android:title="🎷 Legal Jazz">
         <android.support.v7.preference.Preference android:title="Privacy Policy" />
 
         <android.support.v7.preference.Preference android:title="User Agreement" />
@@ -45,9 +45,9 @@
         <android.support.v7.preference.Preference android:title="Acknowledgements" />
 
         <android.support.v7.preference.Preference android:title="Delete My Personal Data" />
-    </android.support.v7.preference.PreferenceCategory>
+    </androidx.appcompat.preference.PreferenceCategory>
 
-    <android.support.v7.preference.PreferenceCategory android:title="🔧 Build Information">
+    <androidx.appcompat.preference.PreferenceCategory android:title="🔧 Build Information">
         <android.support.v7.preference.Preference
             android:summary="Report technical issues or suggest new features."
             android:title="Send Feedback" />
@@ -55,5 +55,5 @@
         <android.support.v7.preference.Preference
             android:summary="Made with ❤ from Ireland 🇮🇪"
             android:title="Build version 2.0.0" />
-    </android.support.v7.preference.PreferenceCategory>
-</android.support.v7.preference.PreferenceScreen>
+    </androidx.appcompat.preference.PreferenceCategory>
+</androidx.appcompat.preference.PreferenceScreen>
