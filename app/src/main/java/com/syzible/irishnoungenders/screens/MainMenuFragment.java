@@ -59,8 +59,7 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
         unbinder = ButterKnife.bind(this, view);
         genderMode.setOnClickListener(v -> MainActivity.setFragment(getFragmentManager(), GenderFragment.getInstance()));
 
-        howToPlay.setOnClickListener(v -> notifyModeUnimplemented());
-//        settings.setOnClickListener(v -> notifyModeUnimplemented());
+        howToPlay.setVisibility(View.GONE);
         settings.setOnClickListener(v -> startActivity(new Intent(getActivity(), SettingsActivity.class)));
     }
 

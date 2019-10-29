@@ -1,6 +1,7 @@
 package com.syzible.irishnoungenders;
 
 import android.app.AlertDialog;
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.annotation.Nullable;
@@ -11,6 +12,7 @@ import androidx.fragment.app.FragmentTransaction;
 
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
+import com.syzible.irishnoungenders.screens.intro.IntroActivity;
 
 public class MainActivity extends AppCompatActivity {
     @Override
@@ -20,8 +22,8 @@ public class MainActivity extends AppCompatActivity {
         setFragment(getSupportFragmentManager(), MainMenuFragment.getInstance());
 
         if (!LocalStorage.getBooleanPref(this, LocalStorage.Pref.FIRST_RUN_COMPLETE)) {
-            LocalStorage.setBooleanPref(this, LocalStorage.Pref.SHOW_HINTS, true);
-            // TODO show a slideshow and set first run complete to false
+            setupInitialSettings();
+            startActivity(new Intent(this, IntroActivity.class));
         }
     }
 
@@ -38,6 +40,10 @@ public class MainActivity extends AppCompatActivity {
                 .setPositiveButton("Close", (dialogInterface, i) -> MainActivity.this.finish())
                 .setNegativeButton("Cancel", null)
                 .show();
+    }
+
+    private void setupInitialSettings() {
+        LocalStorage.setBooleanPref(this, LocalStorage.Pref.SHOW_HINTS, true);
     }
 
     public static void setFragment(FragmentManager fragmentManager, Fragment fragment) {
