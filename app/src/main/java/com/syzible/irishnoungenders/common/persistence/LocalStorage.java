@@ -6,7 +6,9 @@ import android.preference.PreferenceManager;
 public class LocalStorage {
     public enum Pref {
         HIGH_SCORE,
-        CURRENT_CATEGORY
+        CURRENT_CATEGORY,
+        SHOW_HINTS,
+        FIRST_RUN_COMPLETE
     }
 
     public static String getStringPref(Context context, Pref pref) {

@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Irish Nouns</string>
+    <string name="app_version" translatable="false">2.1.0</string>
+    <string name="app_name" translatable="false">Irish Nouns</string>
+
+    <string name="build_version">Build version</string>
+    <string name="made_in_ireland">Version %1$s - made with ❤ in Ireland 🇮🇪</string>
 </resources>

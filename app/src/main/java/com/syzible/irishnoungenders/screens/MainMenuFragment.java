@@ -1,18 +1,21 @@
 package com.syzible.irishnoungenders.screens;
 
+import android.content.Intent;
 import android.os.Bundle;
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
 import com.syzible.irishnoungenders.screens.modes.gender.GenderFragment;
+import com.syzible.irishnoungenders.screens.options.settings.SettingsActivity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -57,9 +60,8 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
         genderMode.setOnClickListener(v -> MainActivity.setFragment(getFragmentManager(), GenderFragment.getInstance()));
 
         howToPlay.setOnClickListener(v -> notifyModeUnimplemented());
-        settings.setOnClickListener(v -> notifyModeUnimplemented());
-
-        //        settings.setOnClickListener(v -> startActivity(new Intent(getActivity(), SettingsActivity.class)));
+//        settings.setOnClickListener(v -> notifyModeUnimplemented());
+        settings.setOnClickListener(v -> startActivity(new Intent(getActivity(), SettingsActivity.class)));
     }
 
     @Override
