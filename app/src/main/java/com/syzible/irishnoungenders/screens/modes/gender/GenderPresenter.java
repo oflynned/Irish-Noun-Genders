@@ -1,7 +1,7 @@
 package com.syzible.irishnoungenders.screens.modes.gender;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.syzible.irishnoungenders.common.models.Noun;
