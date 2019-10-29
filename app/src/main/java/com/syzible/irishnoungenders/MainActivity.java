@@ -2,12 +2,14 @@ package com.syzible.irishnoungenders;
 
 import android.app.AlertDialog;
 import android.os.Bundle;
+
 import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
-import androidx.appcompat.app.AppCompatActivity;
 
+import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
 
 public class MainActivity extends AppCompatActivity {
@@ -15,8 +17,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//        setFragment(getSupportFragmentManager(), GenderFragment.getInstance());
         setFragment(getSupportFragmentManager(), MainMenuFragment.getInstance());
+
+        if (!LocalStorage.getBooleanPref(this, LocalStorage.Pref.FIRST_RUN_COMPLETE)) {
+            LocalStorage.setBooleanPref(this, LocalStorage.Pref.SHOW_HINTS, true);
+            // TODO show a slideshow and set first run complete to false
+        }
     }
 
     @Override
