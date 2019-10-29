@@ -25,7 +25,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
-@SuppressLint("SetTextI18n")
 public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> implements GenderView {
 
     private Unbinder unbinder;
@@ -81,9 +80,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
         setupGuessListeners();
         category.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
 
-        backButton.setOnClickListener(v -> presenter.returnToMainMenu());
-        // TODO remove when the main menu is in use
-        backButton.setVisibility(View.GONE);
+        backButton.setOnClickListener(v -> notifyLeavingGame());
 
         presenter.checkNewHighScore(getActivity());
         presenter.fetchNouns(getActivity());

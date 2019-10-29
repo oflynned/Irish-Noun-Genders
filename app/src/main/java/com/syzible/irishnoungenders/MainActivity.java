@@ -8,6 +8,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 
+import com.syzible.irishnoungenders.screens.MainMenuFragment;
 import com.syzible.irishnoungenders.screens.modes.gender.GenderFragment;
 
 public class MainActivity extends AppCompatActivity {
@@ -15,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setFragment(getSupportFragmentManager(), GenderFragment.getInstance());
-//        setFragment(getSupportFragmentManager(), MainMenuFragment.getInstance());
+//        setFragment(getSupportFragmentManager(), GenderFragment.getInstance());
+        setFragment(getSupportFragmentManager(), MainMenuFragment.getInstance());
     }
 
     @Override
@@ -39,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
             fragmentManager.popBackStack(null, FragmentManager.POP_BACK_STACK_INCLUSIVE);
             fragmentManager.beginTransaction()
                     .replace(R.id.fragment_content, fragment)
+                    .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
                     .commit();
         }
     }

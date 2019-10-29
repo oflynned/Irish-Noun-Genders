@@ -1,4 +1,7 @@
 package com.syzible.irishnoungenders.screens;
 
-public interface MainMenuView {
+import com.hannesdorfmann.mosby3.mvp.MvpView;
+
+interface MainMenuView extends MvpView {
+    void notifyModeUnimplemented();
 }

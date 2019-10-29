@@ -1,4 +1,6 @@
 package com.syzible.irishnoungenders.screens;
 
-public class MainMenuPresenter {
+import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
+
+class MainMenuPresenter extends MvpBasePresenter<MainMenuView> {
 }
