@@ -83,7 +83,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
 
         presenter.checkNewHighScore(getActivity());
         presenter.fetchNouns(getActivity());
-        presenter.pickNoun();
+        presenter.pickNoun(getContext());
     }
 
     @Override
@@ -124,15 +124,15 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
 
     private void setupPostGuessListeners() {
         femaleButton.setOnClickListener(v -> {
-            presenter.pickNoun();
+            presenter.pickNoun(getContext());
             setupGuessListeners();
         });
         maleButton.setOnClickListener(v -> {
-            presenter.pickNoun();
+            presenter.pickNoun(getContext());
             setupGuessListeners();
         });
         card.setOnClickListener(v -> {
-            presenter.pickNoun();
+            presenter.pickNoun(getContext());
             setupGuessListeners();
         });
     }
@@ -187,12 +187,12 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
                         "Would you like to try again or choose another deck?")
                 .setPositiveButton("New Deck", (dialogInterface, i) -> {
                     presenter.resetCurrentDeck();
-                    presenter.pickNoun();
+                    presenter.pickNoun(getContext());
                     presenter.showCategoryScreen(getActivity());
                 })
                 .setNegativeButton("Restart", ((dialogInterface, i) -> {
                     presenter.resetCurrentDeck();
-                    presenter.pickNoun();
+                    presenter.pickNoun(getContext());
                 }))
                 .setCancelable(false)
                 .show();
