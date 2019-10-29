@@ -1,7 +1,8 @@
 package com.syzible.irishnoungenders.screens.options.settings;
 
 import android.os.Bundle;
-import android.support.v7.preference.PreferenceFragmentCompat;
+
+import androidx.preference.PreferenceFragmentCompat;
 
 import com.syzible.irishnoungenders.R;
 
