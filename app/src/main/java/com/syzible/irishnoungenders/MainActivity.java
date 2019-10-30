@@ -35,10 +35,10 @@ public class MainActivity extends AppCompatActivity {
         }
 
         new AlertDialog.Builder(this)
-                .setTitle("Exit game?")
-                .setMessage("Click close below if you wish to exit the game")
-                .setPositiveButton("Close", (dialogInterface, i) -> MainActivity.this.finish())
-                .setNegativeButton("Cancel", null)
+                .setTitle(R.string.exit_game)
+                .setMessage(R.string.confirm_exit_game)
+                .setPositiveButton(R.string.close, (dialogInterface, i) -> MainActivity.this.finish())
+                .setNegativeButton(R.string.cancel, null)
                 .show();
     }
 

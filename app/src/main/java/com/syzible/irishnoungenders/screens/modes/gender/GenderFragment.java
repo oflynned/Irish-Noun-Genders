@@ -2,8 +2,10 @@ package com.syzible.irishnoungenders.screens.modes.gender;
 
 import android.app.AlertDialog;
 import android.os.Bundle;
+
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -145,9 +147,14 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
 
     @Override
     public void notifyCorrectGuess(Noun noun) {
-        cardTitle.setText("correct!");
-        String hintContents = noun.getTitle() + " is " + noun.getGender().name().toLowerCase(Locale.US);
-        cardTranslation.setText(hintContents);
+        cardTitle.setText(R.string.correct);
+        cardTranslation.setText(
+                getString(R.string.noun_is_answer,
+                        noun.getTitle(),
+                        noun.getGender().equals(Noun.Gender.MASCULINE) ?
+                                getString(R.string.masculine) : getString(R.string.feminine)
+                )
+        );
         cardHint.setVisibility(View.GONE);
 
         if (noun.getGender() == Noun.Gender.MASCULINE) {
@@ -161,7 +168,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
 
     @Override
     public void notifyWrongGuess(Noun noun) {
-        cardTitle.setText("oops!");
+        cardTitle.setText(getString(R.string.oops));
         String hintContents = noun.getTitle() + " is " + noun.getGender().name().toLowerCase(Locale.US);
         cardTranslation.setText(hintContents);
         cardHint.setVisibility(View.GONE);
@@ -182,15 +189,14 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     @Override
     public void notifyEndOfDeck(String currentDomain, int deckSize) {
         new AlertDialog.Builder(getActivity())
-                .setTitle("End of " + currentDomain)
-                .setMessage("The end of the current deck of " + deckSize + " nouns has been reached. " +
-                        "Would you like to try again or choose another deck?")
-                .setPositiveButton("New Deck", (dialogInterface, i) -> {
+                .setTitle(getString(R.string.end_of_deck, currentDomain))
+                .setMessage(getString(R.string.end_of_deck_description, deckSize))
+                .setPositiveButton(getString(R.string.new_deck), (dialogInterface, i) -> {
                     presenter.resetCurrentDeck();
                     presenter.pickNoun(getContext());
                     presenter.showCategoryScreen(getActivity());
                 })
-                .setNegativeButton("Restart", ((dialogInterface, i) -> {
+                .setNegativeButton(getString(R.string.restart), ((dialogInterface, i) -> {
                     presenter.resetCurrentDeck();
                     presenter.pickNoun(getContext());
                 }))
@@ -201,20 +207,20 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     @Override
     public void notifyLeavingGame() {
         new AlertDialog.Builder(getActivity())
-                .setTitle("Session in progress")
-                .setMessage("Are you sure you want to leave the current game? Your progress will be lost.")
-                .setPositiveButton("OK", (dialogInterface, i) -> returnToMainMenu())
-                .setNegativeButton("Cancel", null)
+                .setTitle(R.string.session_in_progress)
+                .setMessage(R.string.confirm_leave_when_in_session)
+                .setPositiveButton(R.string.ok, (dialogInterface, i) -> returnToMainMenu())
+                .setNegativeButton(R.string.cancel, null)
                 .show();
     }
 
     @Override
     public void notifyProgressLoss() {
         new AlertDialog.Builder(getActivity())
-                .setTitle("Session in progress")
-                .setMessage("Are you sure you want to change category? Your progress will be reset if you return.")
-                .setPositiveButton("OK", (dialogInterface, i) -> presenter.changeCategory(getActivity()))
-                .setNegativeButton("Cancel", null)
+                .setTitle(R.string.session_in_progress)
+                .setMessage(R.string.confirm_leave_when_changing_category)
+                .setPositiveButton(R.string.ok, (dialogInterface, i) -> presenter.changeCategory(getActivity()))
+                .setNegativeButton(R.string.cancel, null)
                 .show();
     }
 

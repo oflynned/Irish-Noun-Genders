@@ -13,6 +13,8 @@ import com.syzible.irishnoungenders.R;
 import com.syzible.irishnoungenders.common.persistence.GameRules;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 
+import java.util.Objects;
+
 public class SettingsFragment extends PreferenceFragmentCompat {
     public SettingsFragment() {
     }
@@ -26,30 +28,38 @@ public class SettingsFragment extends PreferenceFragmentCompat {
         setPreferencesFromResource(R.xml.settings_preferences, rootKey);
 
         Preference buildVersion = findPreference("settings_build_version");
-        buildVersion.setSummary(getString(R.string.made_in_ireland, BuildConfig.VERSION_NAME));
+        if (buildVersion != null) {
+            buildVersion.setSummary(getString(R.string.made_in_ireland, BuildConfig.VERSION_NAME));
+        }
 
         Preference leaveReview = findPreference("settings_leave_review");
-        leaveReview.setOnPreferenceClickListener(v -> {
-            openAppRating();
-            return false;
-        });
+        if (leaveReview != null) {
+            leaveReview.setOnPreferenceClickListener(v -> {
+                openAppRating();
+                return false;
+            });
+        }
 
         Preference moreApps = findPreference("settings_more_apps");
-        moreApps.setOnPreferenceClickListener(v -> {
-            openDeveloperApps();
-            return false;
-        });
+        if (moreApps != null) {
+            moreApps.setOnPreferenceClickListener(v -> {
+                openDeveloperApps();
+                return false;
+            });
+        }
 
         SwitchPreferenceCompat nounHints = findPreference("settings_show_hints");
-        nounHints.setChecked(GameRules.wordHintsEnabled(getContext()));
-        nounHints.setOnPreferenceChangeListener((preference, newValue) -> {
-            LocalStorage.setBooleanPref(getContext(), LocalStorage.Pref.SHOW_HINTS, (Boolean) newValue);
-            return false;
-        });
+        if (nounHints != null) {
+            nounHints.setChecked(GameRules.wordHintsEnabled(getContext()));
+            nounHints.setOnPreferenceChangeListener((preference, newValue) -> {
+                LocalStorage.setBooleanPref(getContext(), LocalStorage.Pref.SHOW_HINTS, (Boolean) newValue);
+                return false;
+            });
+        }
     }
 
     private void openAppRating() {
-        final String appPackageName = getContext().getPackageName();
+        final String appPackageName = Objects.requireNonNull(getContext()).getPackageName();
         try {
             startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + appPackageName)));
         } catch (android.content.ActivityNotFoundException anfe) {
