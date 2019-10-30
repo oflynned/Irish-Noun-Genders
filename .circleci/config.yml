@@ -55,14 +55,10 @@ jobs:
           key: jars-{{ checksum "build.gradle" }}-{{ checksum  "app/build.gradle" }}
       - run:
           name: Decode and store Keystore
-          command: |
-            echo $ENCODED_KEYSTORE | base64 --decode >> ${HOME}/keystore
-            echo 'export KEYSTORE=${HOME}/keystore' >> $BASH_ENV
+          command: echo $ENCODED_KEYSTORE | sed ‘s/ /\n/g’ | base64 –decode >> ${HOME}/repo/keystore.jks
       - run:
           name: Decode and store Private Key
-          command: |
-            echo $DEPLOYMENT_PRIVATE_KEY | base64 --decode >> ${HOME}/deployment_private_key.json
-            echo 'export PRIVATE_KEY=${HOME}/rxstarter_pk.json' >> $BASH_ENV
+          command: echo $DEPLOYMENT_PRIVATE_KEY | sed ‘s/ /\n/g’ | base64 –decode >> ${HOME}/repo/deployment_private_key.json
       - run:
           name: Upload to Google Play
           command: ./gradlew publishRelease
