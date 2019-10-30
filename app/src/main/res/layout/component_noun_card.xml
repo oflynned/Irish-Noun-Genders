@@ -88,7 +88,7 @@
                 android:fontFamily="@font/open_sans"
                 android:gravity="center"
                 android:padding="16dp"
-                android:text="m"
+                android:text="@string/masc"
                 android:textColor="@color/white"
                 android:textSize="18sp" />
         </RelativeLayout>
@@ -106,7 +106,7 @@
                 android:fontFamily="@font/open_sans"
                 android:gravity="center"
                 android:padding="16dp"
-                android:text="f"
+                android:text="@string/fem"
                 android:textColor="@color/white"
                 android:textSize="18sp" />
         </RelativeLayout>

@@ -37,6 +37,7 @@
     <string name="confirm_leave_when_in_session">Are you sure you want to leave the current game? Your progress will be lost.</string>
     <string name="ok">OK</string>
     <string name="confirm_leave_when_changing_category">Are you sure you want to change category? Your progress will be reset if you return.</string>
+    <string name="high_score">high score:</string>
 
     <!-- settings -->
     <string name="build_version">Build version</string>
@@ -50,12 +51,12 @@
     <string name="game_preferences">🏃‍♂ Game Preferences️</string>
     <string name="developer">⚡️ Developer</string>
     <string name="build_information">🔧 Build Information</string>
+    <string name="irish_language">Irish Language</string>
+    <string name="irish_language_description">Enable this if you wish to play the game through the Irish language.</string>
 
     <!-- main menu -->
     <string name="guess_the_gender_mode">Guess the gender</string>
     <string name="how_to_play_mode">How to play</string>
     <string name="settings_mode">Settings</string>
-    <string name="irish_language">Irish Language</string>
-    <string name="irish_language_description">Enable this if you wish to play the game through the Irish language.</string>
 
 </resources>
