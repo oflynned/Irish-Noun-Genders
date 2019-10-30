@@ -57,7 +57,6 @@ jobs:
       - run: echo "export KEYSTORE=${HOME}/keystore.jks" >> $BASH_ENV
       - run: echo "$DEPLOYMENT_PRIVATE_KEY" | base64 --decode --ignore-garbage >> ${HOME}/deployment_private_key.json
       - run: echo "export PRIVATE_KEY=${HOME}/deployment_private_key.json" >> $BASH_ENV
-      - run: ls "${HOME}"
       - run:
           name: Upload to Google Play
           command: ./gradlew publishRelease
