@@ -1,6 +1,6 @@
 static def getBuildVersion() {
     // min number required
-    def version = 6
+    def version = 1
     def buildNumber = System.getenv("CIRCLE_BUILD_NUM")
     if (buildNumber != null) {
         version += buildNumber
