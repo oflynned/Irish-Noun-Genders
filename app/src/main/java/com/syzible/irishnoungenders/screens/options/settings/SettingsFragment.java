@@ -1,8 +1,7 @@
 package com.syzible.irishnoungenders.screens.options.settings;
 
-import android.content.pm.PackageInfo;
-import android.content.pm.PackageManager;
-import android.os.Build;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 
 import androidx.preference.Preference;
@@ -29,11 +28,40 @@ public class SettingsFragment extends PreferenceFragmentCompat {
         Preference buildVersion = findPreference("settings_build_version");
         buildVersion.setSummary(getString(R.string.made_in_ireland, BuildConfig.VERSION_NAME));
 
+        Preference leaveReview = findPreference("settings_leave_review");
+        leaveReview.setOnPreferenceClickListener(v -> {
+            openAppRating();
+            return false;
+        });
+
+        Preference moreApps = findPreference("settings_more_apps");
+        moreApps.setOnPreferenceClickListener(v -> {
+            openDeveloperApps();
+            return false;
+        });
+
         SwitchPreferenceCompat nounHints = findPreference("settings_show_hints");
         nounHints.setChecked(GameRules.wordHintsEnabled(getContext()));
         nounHints.setOnPreferenceChangeListener((preference, newValue) -> {
             LocalStorage.setBooleanPref(getContext(), LocalStorage.Pref.SHOW_HINTS, (Boolean) newValue);
-            return true;
+            return false;
         });
+    }
+
+    private void openAppRating() {
+        final String appPackageName = getContext().getPackageName();
+        try {
+            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + appPackageName)));
+        } catch (android.content.ActivityNotFoundException anfe) {
+            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=" + appPackageName)));
+        }
+    }
+
+    private void openDeveloperApps() {
+        try {
+            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://search?q=pub:Syzible")));
+        } catch (android.content.ActivityNotFoundException anfe) {
+            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://play.google.com/store/apps/developer?id=Syzible")));
+        }
     }
 }
