@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_version" translatable="false">2.1.0</string>
     <string name="app_name">Irish Nouns</string>
 
     <!-- intro slides -->
@@ -56,5 +55,7 @@
     <string name="guess_the_gender_mode">Guess the gender</string>
     <string name="how_to_play_mode">How to play</string>
     <string name="settings_mode">Settings</string>
+    <string name="irish_language">Irish Language</string>
+    <string name="irish_language_description">Enable this if you wish to play the game through the Irish language.</string>
 
 </resources>

@@ -9,8 +9,8 @@
         <SwitchPreferenceCompat
             android:defaultValue="false"
             android:key="settings_enable_irish_language"
-            android:summary="Enable this if you wish to play the game through the Irish language."
-            android:title="Irish Language" />
+            android:summary="@string/irish_language_description"
+            android:title="@string/irish_language" />
 
     </PreferenceCategory>
 
