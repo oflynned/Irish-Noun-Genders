@@ -17,7 +17,7 @@
             android:layout_width="24dp"
             android:layout_height="24dp"
             android:src="@drawable/ic_arrow_back_black_24dp"
-            android:tint="@color/grey_200" />
+            android:tint="@color/white" />
 
         <TextView
             android:id="@+id/gender_game_category"

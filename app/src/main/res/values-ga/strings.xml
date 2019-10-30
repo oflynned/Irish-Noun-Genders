@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ainmfhocail</string>
+    <string name="build_information">🔧 Eolas don Tógáil</string>
+    <string name="cancel">Cealaigh</string>
+    <string name="masc">f</string>
+    <string name="masculine">firinscneach</string>
+    <string name="restart">Atosaigh</string>
+    <string name="settings_mode">Socruithe</string>
+    <string name="fem">b</string>
+    <string name="feminine">beaninscneach</string>
+    <string name="end_of_deck">"Deireadh na deice (%1$s) "</string>
+    <string name="build_version">Leagan tógála</string>
+    <string name="close">Dún</string>
+    <string name="confirm_exit_game">Brúigh dún thíos má theastaíonn uait imeacht den chluiche</string>
+    <string name="confirm_leave_when_changing_category">An bhfuil tú cinnte go dteastaíonn uait an chatagóir a athrú? Athshocróidh do dhul chun cinn má fhileann tú ar ais.</string>
+    <string name="confirm_leave_when_in_session">An bhfuil tú cinnte go dteastaíonn uait imeacht den chluiche seo? Caillfear do dhul chun cinn.</string>
+    <string name="correct">i gceart!</string>
+    <string name="developer">⚡️ Forbróir</string>
+    <string name="exit_game">Imeacht den chluiche?</string>
+    <string name="game_preferences">🏃‍♂ Roghanna an Chluiche</string>
+    <string name="guess_the_gender_mode">Tomhais an inscne</string>
+    <string name="how_to_play_mode">Conas cluiche a imirt</string>
+    <string name="ok">OK</string>
+    <string name="oops">úps!</string>
+    <string name="session_in_progress">Seisiún ar siúl</string>
+    <string name="show_hints_title">Taispeán Leideanna d\'Ainmfhocail</string>
+    <string name="show_hints_description">Má tá leid ar fáil, leagfar béim ar dheireadh roinnt ainmfhocal.</string>
+    <string name="noun_is_answer">Tá %1$s %2$s</string>
+    <string name="new_deck">Deic Nua</string>
+    <string name="more_apps_title">Tuilleadh Aipeanna</string>
+    <string name="mode_coming_soon">Tá an mód ag teacht go luath!</string>
+    <string name="more_apps_description">Gliogáil chun aipeanna eile a fheiceáil ó Syzible.</string>
+    <string name="leave_review_title">Fág Léirmheas</string>
+    <string name="end_of_deck_description">Sroicheadh deireadh na deice láithreaí (%1$d). An dteastaíonn uait triail eile nó deic a roghnú?</string>
+    <string name="made_in_ireland">Leagan %1$s - Éire 🇮🇪 tír a dhéanta le ❤</string>
+    <string name="leave_review_description">Grá? Gráin? Cuir scéal chugainn trí rátáil nó léirmheas a fhágáil ar Google Play.</string>
+    <string name="irish_language">An Ghaeilge</string>
+    <string name="irish_language_description">Cumasaigh an rogha seo má theastaíonn uait an cluiche a imirt trí Ghaeilge.</string>
+</resources>

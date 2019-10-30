@@ -11,6 +11,7 @@ import com.github.paolorotolo.appintro.AppIntro;
 import com.github.paolorotolo.appintro.AppIntroFragment;
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
+import com.syzible.irishnoungenders.common.languageselection.BaseActivity;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 
 public class IntroActivity extends AppIntro {
@@ -28,9 +29,18 @@ public class IntroActivity extends AppIntro {
     }
 
     @Override
+    public void onSkipPressed(Fragment currentFragment) {
+        super.onSkipPressed(currentFragment);
+        startMain();
+    }
+
+    @Override
     public void onDonePressed(Fragment currentFragment) {
         super.onDonePressed(currentFragment);
+        startMain();
+    }
 
+    private void startMain() {
         LocalStorage.setBooleanPref(this, LocalStorage.Pref.FIRST_RUN_COMPLETE, true);
         startActivity(new Intent(this, MainActivity.class));
         this.finish();
@@ -38,9 +48,9 @@ public class IntroActivity extends AppIntro {
 
     private AppIntroFragment slide1() {
         return AppIntroFragment.newInstance(
-                "Welcome to " + getString(R.string.app_name),
+                getString(R.string.intro_slide_1_title, getString(R.string.app_name)),
                 R.font.open_sans,
-                "Learn noun genders through fun and interesting games",
+                getString(R.string.intro_slide_1_description),
                 R.font.open_sans,
                 R.drawable.lightbulb,
                 ContextCompat.getColor(this, R.color.lightCarminePink));
@@ -48,9 +58,9 @@ public class IntroActivity extends AppIntro {
 
     private AppIntroFragment slide2() {
         return AppIntroFragment.newInstance(
-                "Multiple mode types",
+                getString(R.string.intro_slide_2_title),
                 R.font.open_sans,
-                "Train various areas including gender, declension & plural.",
+                getString(R.string.intro_slide_2_description),
                 R.font.open_sans,
                 R.drawable.test,
                 ContextCompat.getColor(this, R.color.lapisLazuli));
@@ -58,9 +68,9 @@ public class IntroActivity extends AppIntro {
 
     private AppIntroFragment slide3() {
         return AppIntroFragment.newInstance(
-                "Compete with players",
+                getString(R.string.intro_slide_3_title),
                 R.font.open_sans,
-                "Earn a world-wide high score and rise in the ranks.",
+                getString(R.string.intro_slide_3_description),
                 R.font.open_sans,
                 R.drawable.medal,
                 ContextCompat.getColor(this, R.color.mediumTurquoise));
@@ -68,9 +78,9 @@ public class IntroActivity extends AppIntro {
 
     private AppIntroFragment slide4() {
         return AppIntroFragment.newInstance(
-                "Train your vocab",
+                getString(R.string.intro_slide_4_title),
                 R.font.open_sans,
-                "More than 130+ categories and 40,000+ words to expand your vocabulary.",
+                getString(R.string.intro_slide_4_description),
                 R.font.open_sans,
                 R.drawable.flask,
                 ContextCompat.getColor(this, R.color.lightCarminePink));
@@ -78,9 +88,9 @@ public class IntroActivity extends AppIntro {
 
     private AppIntroFragment slide5() {
         return AppIntroFragment.newInstance(
-                "Ready to start?",
+                getString(R.string.intro_slide_5_title),
                 R.font.open_sans,
-                "Begin your journey and widen your knowledge.",
+                getString(R.string.intro_slide_5_description),
                 R.font.open_sans,
                 R.drawable.diploma,
                 ContextCompat.getColor(this, R.color.jet));

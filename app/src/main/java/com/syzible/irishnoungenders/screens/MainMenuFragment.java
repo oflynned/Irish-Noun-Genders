@@ -71,6 +71,6 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
 
     @Override
     public void notifyModeUnimplemented() {
-        Toast.makeText(getContext(), "Mode coming soon!", Toast.LENGTH_LONG).show();
+        Toast.makeText(getContext(), R.string.mode_coming_soon, Toast.LENGTH_LONG).show();
     }
 }
