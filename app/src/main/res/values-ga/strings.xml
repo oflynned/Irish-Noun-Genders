@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Ainmfhocail</string>
+    <string name="build_information">🔧 Eolas</string>
+    <string name="cancel">Cealaigh</string>
+    <string name="masc">f</string>
+    <string name="masculine">firinscneach</string>
+    <string name="restart">Atosaigh</string>
+    <string name="settings_mode">Socruithe</string>
+    <string name="fem">b</string>
+    <string name="feminine">beaninscneach</string>
+    <string name="end_of_deck">"Deireadh na deice (%1$s) "</string>
+</resources>

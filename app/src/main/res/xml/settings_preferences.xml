@@ -6,6 +6,12 @@
             android:summary="@string/show_hints_description"
             android:title="@string/show_hints_title" />
 
+        <SwitchPreferenceCompat
+            android:defaultValue="false"
+            android:key="settings_enable_irish_language"
+            android:summary="Enable this if you wish to play the game through the Irish language."
+            android:title="Irish Language" />
+
     </PreferenceCategory>
 
     <PreferenceCategory android:title="@string/developer">
