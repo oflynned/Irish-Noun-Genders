@@ -44,8 +44,6 @@ android {
     buildTypes {
         release {
             signingConfig signingConfigs.release
-            minifyEnabled true
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
 }
@@ -76,6 +74,9 @@ dependencies {
     implementation 'com.github.paolorotolo:appintro:v5.1.0'
 
     implementation 'com.google.firebase:firebase-analytics:17.2.1'
+    implementation 'com.google.firebase:firebase-auth:19.1.0'
+    implementation 'com.google.android.gms:play-services-auth:17.0.0'
+
     implementation 'com.google.code.gson:gson:2.8.6'
     implementation 'com.theah64.materialcolors:materialcolors:1.0.0'
     implementation 'com.hannesdorfmann.mosby3:viewstate:3.1.1'
