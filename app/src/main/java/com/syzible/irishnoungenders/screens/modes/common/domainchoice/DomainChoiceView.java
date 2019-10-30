@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.screens.common.domainchoice;
+package com.syzible.irishnoungenders.screens.modes.common.domainchoice;
 
 import com.hannesdorfmann.mosby3.mvp.MvpView;
 import com.syzible.irishnoungenders.common.models.Category;

@@ -1,10 +1,10 @@
-package com.syzible.irishnoungenders.screens.common.ui;
+package com.syzible.irishnoungenders.screens.modes.common.ui;
 
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Paint;
-import android.support.v4.content.ContextCompat;
-import android.support.v7.widget.AppCompatTextView;
+import androidx.core.content.ContextCompat;
+import androidx.appcompat.widget.AppCompatTextView;
 import android.util.AttributeSet;
 
 import com.syzible.irishnoungenders.R;

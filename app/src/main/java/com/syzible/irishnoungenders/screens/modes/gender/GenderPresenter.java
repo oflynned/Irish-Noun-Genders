@@ -1,12 +1,14 @@
 package com.syzible.irishnoungenders.screens.modes.gender;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
+
+import androidx.annotation.NonNull;
 
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.common.persistence.Cache;
 import com.syzible.irishnoungenders.common.persistence.DomainNotFoundException;
+import com.syzible.irishnoungenders.common.persistence.GameRules;
 import com.syzible.irishnoungenders.common.persistence.MalformedFileException;
 
 import java.util.ArrayList;
@@ -82,7 +84,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         ifViewAttached(v -> v.setChosenCategory(currentDomain));
     }
 
-    void pickNoun() {
+    void pickNoun(Context context) {
         if (remainingNouns.size() == 0) {
             ifViewAttached(v -> v.notifyEndOfDeck(currentDomain, shownNouns.size()));
             return;
@@ -90,7 +92,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
 
         Collections.shuffle(remainingNouns);
         currentNoun = remainingNouns.get(0);
-        checkHintIsAvailable(currentNoun);
+        checkHintIsAvailable(context, currentNoun);
         ifViewAttached(v -> {
             v.showChoiceButtons();
             v.showTranslation(currentNoun.getTranslations());
@@ -127,16 +129,18 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         return noun.getTitle().substring(0, noun.getTitle().length() - hint.length());
     }
 
-    private void checkHintIsAvailable(Noun noun) {
-        List<String> hints = noun.getGender() == Noun.Gender.MASCULINE ? masculineHints : feminineHints;
-        for (String hint : hints) {
-            if (noun.getTitle().endsWith(hint)) {
-                String trimmedTitle = trimHintFromTitle(noun, hint);
-                ifViewAttached(v -> {
-                    v.showTitle(trimmedTitle);
-                    v.showHint(hint);
-                });
-                return;
+    private void checkHintIsAvailable(Context context, Noun noun) {
+        if (GameRules.wordHintsEnabled(context)) {
+            List<String> hints = noun.getGender() == Noun.Gender.MASCULINE ? masculineHints : feminineHints;
+            for (String hint : hints) {
+                if (noun.getTitle().endsWith(hint)) {
+                    String trimmedTitle = trimHintFromTitle(noun, hint);
+                    ifViewAttached(v -> {
+                        v.showTitle(trimmedTitle);
+                        v.showHint(hint);
+                    });
+                    return;
+                }
             }
         }
 

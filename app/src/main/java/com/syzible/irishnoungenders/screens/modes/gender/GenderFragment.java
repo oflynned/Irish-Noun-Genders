@@ -1,10 +1,9 @@
 package com.syzible.irishnoungenders.screens.modes.gender;
 
-import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -16,8 +15,8 @@ import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
-import com.syzible.irishnoungenders.screens.common.domainchoice.DomainChoiceFragment;
-import com.syzible.irishnoungenders.screens.common.ui.CircularTextView;
+import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
+import com.syzible.irishnoungenders.screens.modes.common.ui.CircularTextView;
 
 import java.util.Locale;
 
@@ -25,7 +24,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
-@SuppressLint("SetTextI18n")
 public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> implements GenderView {
 
     private Unbinder unbinder;
@@ -82,12 +80,10 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
         category.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
 
         backButton.setOnClickListener(v -> presenter.returnToMainMenu());
-        // TODO remove when the main menu is in use
-        backButton.setVisibility(View.GONE);
 
         presenter.checkNewHighScore(getActivity());
         presenter.fetchNouns(getActivity());
-        presenter.pickNoun();
+        presenter.pickNoun(getContext());
     }
 
     @Override
@@ -128,15 +124,15 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
 
     private void setupPostGuessListeners() {
         femaleButton.setOnClickListener(v -> {
-            presenter.pickNoun();
+            presenter.pickNoun(getContext());
             setupGuessListeners();
         });
         maleButton.setOnClickListener(v -> {
-            presenter.pickNoun();
+            presenter.pickNoun(getContext());
             setupGuessListeners();
         });
         card.setOnClickListener(v -> {
-            presenter.pickNoun();
+            presenter.pickNoun(getContext());
             setupGuessListeners();
         });
     }
@@ -191,12 +187,12 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
                         "Would you like to try again or choose another deck?")
                 .setPositiveButton("New Deck", (dialogInterface, i) -> {
                     presenter.resetCurrentDeck();
-                    presenter.pickNoun();
+                    presenter.pickNoun(getContext());
                     presenter.showCategoryScreen(getActivity());
                 })
                 .setNegativeButton("Restart", ((dialogInterface, i) -> {
                     presenter.resetCurrentDeck();
-                    presenter.pickNoun();
+                    presenter.pickNoun(getContext());
                 }))
                 .setCancelable(false)
                 .show();
