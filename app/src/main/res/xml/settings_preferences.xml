@@ -1,26 +1,26 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
-    <PreferenceCategory android:title="🏃‍♂ Game Preferences️">
+    <PreferenceCategory android:title="@string/game_preferences">
         <SwitchPreferenceCompat
             android:defaultValue="true"
             android:key="settings_show_hints"
-            android:summary="If a hint is available, some nouns will have a highlighted ending."
-            android:title="Show Noun Hints" />
+            android:summary="@string/show_hints_description"
+            android:title="@string/show_hints_title" />
 
     </PreferenceCategory>
 
-    <PreferenceCategory android:title="⚡️ Developer">
+    <PreferenceCategory android:title="@string/developer">
         <Preference
             android:key="settings_leave_review"
-            android:summary="Love it? Hate it? Let us know by leaving a rating and review on Google Play."
-            android:title="Leave a Review" />
+            android:summary="@string/leave_review_description"
+            android:title="@string/leave_review_title" />
 
         <Preference
             android:key="settings_more_apps"
-            android:summary="Click to view other apps from Syzible."
-            android:title="More Apps" />
+            android:summary="@string/more_apps_description"
+            android:title="@string/more_apps_title" />
     </PreferenceCategory>
 
-    <PreferenceCategory android:title="🔧 Build Information">
+    <PreferenceCategory android:title="@string/build_information">
         <Preference
             android:key="settings_build_version"
             android:summary="@string/made_in_ireland"
