@@ -10,11 +10,13 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
+import com.syzible.irishnoungenders.common.languageselection.BaseActivity;
+import com.syzible.irishnoungenders.common.languageselection.LocaleManager;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
 import com.syzible.irishnoungenders.screens.intro.IntroActivity;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -44,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void setupInitialSettings() {
         LocalStorage.setBooleanPref(this, LocalStorage.Pref.SHOW_HINTS, true);
+        LocalStorage.setBooleanPref(this, LocalStorage.Pref.FORCE_IRISH_LANGUAGE, false);
     }
 
     public static void setFragment(FragmentManager fragmentManager, Fragment fragment) {
