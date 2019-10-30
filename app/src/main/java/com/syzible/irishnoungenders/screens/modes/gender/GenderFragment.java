@@ -2,15 +2,14 @@ package com.syzible.irishnoungenders.screens.modes.gender;
 
 import android.app.AlertDialog;
 import android.os.Bundle;
-
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnoungenders.MainActivity;
@@ -19,8 +18,6 @@ import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
 import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnoungenders.screens.modes.common.ui.CircularTextView;
-
-import java.util.Locale;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -169,8 +166,13 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     @Override
     public void notifyWrongGuess(Noun noun) {
         cardTitle.setText(getString(R.string.oops));
-        String hintContents = noun.getTitle() + " is " + noun.getGender().name().toLowerCase(Locale.US);
-        cardTranslation.setText(hintContents);
+        cardTranslation.setText(
+                getString(R.string.noun_is_answer,
+                        noun.getTitle(),
+                        noun.getGender().equals(Noun.Gender.MASCULINE) ?
+                                getString(R.string.masculine) : getString(R.string.feminine)
+                )
+        );
         cardHint.setVisibility(View.GONE);
         if (noun.getGender() == Noun.Gender.MASCULINE) {
             maleButton.setVisibility(View.GONE);
