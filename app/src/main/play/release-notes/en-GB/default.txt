@@ -1,1 +1,1 @@
-Added slideshow introduction, added settings page, added hints toggle
+Fixed some bugs and crashes 🐛
