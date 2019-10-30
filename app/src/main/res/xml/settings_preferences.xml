@@ -10,10 +10,12 @@
 
     <PreferenceCategory android:title="⚡️ Developer">
         <Preference
+            android:key="settings_leave_review"
             android:summary="Love it? Hate it? Let us know by leaving a rating and review on Google Play."
             android:title="Leave a Review" />
 
         <Preference
+            android:key="settings_more_apps"
             android:summary="Click to view other apps from Syzible."
             android:title="More Apps" />
     </PreferenceCategory>
