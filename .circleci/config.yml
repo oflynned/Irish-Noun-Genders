@@ -53,9 +53,9 @@ jobs:
       - checkout
       - restore_cache:
           key: jars-{{ checksum "build.gradle" }}-{{ checksum  "app/build.gradle" }}
-      - run: cat $ENCODED_KEYSTORE | base64 --decode --ignore-garbage >> ${HOME}/keystore
+      - run: $ENCODED_KEYSTORE | base64 --decode --ignore-garbage >> ${HOME}/keystore
       - run: cat 'export KEYSTORE=${HOME}/keystore' >> $BASH_ENV
-      - run: cat $DEPLOYMENT_PRIVATE_KEY | base64 --decode --ignore-garbage >> ${HOME}/deployment_private_key.json
+      - run: $DEPLOYMENT_PRIVATE_KEY | base64 --decode --ignore-garbage >> ${HOME}/deployment_private_key.json
       - run: cat 'export PRIVATE_KEY=${HOME}/deployment_private_key.json' >> $BASH_ENV
       - run:
           name: Upload to Google Play
