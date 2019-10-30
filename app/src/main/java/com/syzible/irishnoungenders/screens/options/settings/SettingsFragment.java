@@ -41,8 +41,7 @@ public class SettingsFragment extends PreferenceFragmentCompat {
 
         SwitchPreferenceCompat irishLanguageEnabled = findPreference("settings_enable_irish_language");
         if (irishLanguageEnabled != null) {
-            boolean enableIrishLanguage = LocalStorage.getStringPref(getContext(), LocalStorage.Pref.DISPLAY_LANGUAGE)
-                    .equals(LocaleManager.LANGUAGE_IRISH);
+            boolean enableIrishLanguage = Objects.equals(LocalStorage.getStringPref(getContext(), LocalStorage.Pref.DISPLAY_LANGUAGE), LocaleManager.LANGUAGE_IRISH);
             irishLanguageEnabled.setChecked(enableIrishLanguage);
 
             irishLanguageEnabled.setOnPreferenceChangeListener((preference, newValue) -> {
