@@ -1,18 +1,19 @@
 <resources>
     <string name="app_version" translatable="false">2.1.0</string>
-    <string name="app_name" translatable="false">Irish Nouns</string>
+    <string name="app_name">Irish Nouns</string>
 
     <!-- intro slides -->
-    <string name="intro_slide_1_title">Welcome to %1$s</string>
-    <string name="intro_slide_1_description">Learn noun genders through fun and interesting games</string>
-    <string name="intro_slide_2_title">Multiple mode types</string>
-    <string name="intro_slide_2_description">Train various areas including gender, declension &amp; plural.</string>
-    <string name="intro_slide_3_title">Compete with players</string>
-    <string name="intro_slide_3_description">Earn a world-wide high score and rise in the ranks.</string>
-    <string name="intro_slide_4_title">Train your vocab</string>
-    <string name="intro_slide_4_description">More than 130+ categories and 40,000+ words to expand your vocabulary.</string>
-    <string name="intro_slide_5_title">Ready to start?</string>
-    <string name="intro_slide_5_description">Begin your journey and widen your knowledge.</string>
+    <!-- irish locale cannot be applied at this point so it will only default to english -->
+    <string name="intro_slide_1_title" translatable="false">Welcome to %1$s</string>
+    <string name="intro_slide_1_description" translatable="false">Learn noun genders through fun and interesting games</string>
+    <string name="intro_slide_2_title" translatable="false">Multiple mode types</string>
+    <string name="intro_slide_2_description" translatable="false">Train various areas including gender, declension &amp; plural.</string>
+    <string name="intro_slide_3_title" translatable="false">Compete with players</string>
+    <string name="intro_slide_3_description" translatable="false">Earn a world-wide high score and rise in the ranks.</string>
+    <string name="intro_slide_4_title" translatable="false">Train your vocab</string>
+    <string name="intro_slide_4_description" translatable="false">More than 130+ categories and 40,000+ words to expand your vocabulary.</string>
+    <string name="intro_slide_5_title" translatable="false">Ready to start?</string>
+    <string name="intro_slide_5_description" translatable="false">Begin your journey and widen your knowledge.</string>
 
     <!-- main activity -->
     <string name="exit_game">Exit game?</string>
@@ -23,10 +24,12 @@
 
     <!-- gender guessing mode -->
     <string name="correct">correct!</string>
+    <string name="oops">oops!</string>
     <string name="noun_is_answer">%1$s is %2$s</string>
     <string name="masculine">masculine</string>
     <string name="feminine">feminine</string>
-    <string name="oops">oops!</string>
+    <string name="masc">m</string>
+    <string name="fem">f</string>
     <string name="end_of_deck">End of %1$s</string>
     <string name="end_of_deck_description">The end of the current deck of %1$d has been reached. Would you like to try again or choose another deck?</string>
     <string name="new_deck">New Deck</string>
@@ -48,5 +51,10 @@
     <string name="game_preferences">🏃‍♂ Game Preferences️</string>
     <string name="developer">⚡️ Developer</string>
     <string name="build_information">🔧 Build Information</string>
+
+    <!-- main menu -->
+    <string name="guess_the_gender_mode">Guess the gender</string>
+    <string name="how_to_play_mode">How to play</string>
+    <string name="settings_mode">Settings</string>
 
 </resources>
