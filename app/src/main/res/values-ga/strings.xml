@@ -24,7 +24,7 @@
     <string name="ok">OK</string>
     <string name="oops">úps!</string>
     <string name="session_in_progress">Seisiún ar siúl</string>
-    <string name="show_hints_title">Taispeán Leideanna d\'Ainmfhocail</string>
+    <string name="show_hints_title">Taispeáin Leideanna</string>
     <string name="show_hints_description">Má tá leid ar fáil, leagfar béim ar dheireadh roinnt ainmfhocal.</string>
     <string name="noun_is_answer">Tá %1$s %2$s</string>
     <string name="new_deck">Deic Nua</string>
