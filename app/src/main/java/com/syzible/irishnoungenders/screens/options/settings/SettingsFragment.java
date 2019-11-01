@@ -32,9 +32,11 @@ public class SettingsFragment extends PreferenceFragmentCompat {
 
         SwitchPreferenceCompat nounHints = findPreference("settings_show_hints");
         if (nounHints != null) {
+
             nounHints.setChecked(GameRules.wordHintsEnabled(getContext()));
             nounHints.setOnPreferenceChangeListener((preference, newValue) -> {
-                LocalStorage.setBooleanPref(getContext(), LocalStorage.Pref.SHOW_HINTS, (Boolean) newValue);
+                LocalStorage.setBooleanPref(getContext(), LocalStorage.Pref.SHOW_HINTS, !GameRules.wordHintsEnabled(getContext()));
+                nounHints.setChecked(GameRules.wordHintsEnabled(getContext()));
                 return false;
             });
         }
