@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 
+import androidx.core.app.ShareCompat;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.SwitchPreferenceCompat;
@@ -69,6 +70,14 @@ public class SettingsFragment extends PreferenceFragmentCompat {
             });
         }
 
+        Preference shareApp = findPreference("settings_share_app");
+        if (shareApp != null) {
+            shareApp.setOnPreferenceClickListener(v -> {
+                openShareAppIntent();
+                return false;
+            });
+        }
+
         Preference buildVersion = findPreference("settings_build_version");
         if (buildVersion != null) {
             buildVersion.setSummary(getString(R.string.made_in_ireland, BuildConfig.VERSION_NAME));
@@ -86,20 +95,23 @@ public class SettingsFragment extends PreferenceFragmentCompat {
         }
     }
 
+    private String getPlayStoreUrl() {
+        return "http://play.google.com/store/apps/details?id=" + Objects.requireNonNull(getActivity()).getPackageName();
+    }
+
     private void openAppRating() {
-        final String appPackageName = Objects.requireNonNull(getContext()).getPackageName();
-        try {
-            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + appPackageName)));
-        } catch (android.content.ActivityNotFoundException anfe) {
-            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=" + appPackageName)));
-        }
+        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(getPlayStoreUrl())));
     }
 
     private void openDeveloperApps() {
-        try {
-            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://search?q=pub:Syzible")));
-        } catch (android.content.ActivityNotFoundException anfe) {
-            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://play.google.com/store/apps/developer?id=Syzible")));
-        }
+        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://play.google.com/store/apps/developer?id=Syzible")));
+    }
+
+    private void openShareAppIntent() {
+        ShareCompat.IntentBuilder.from(Objects.requireNonNull(getActivity()))
+                .setType("text/plain")
+                .setChooserTitle(getString(R.string.share_app))
+                .setText(getString(R.string.share_app_body, getPlayStoreUrl()))
+                .startChooser();
     }
 }

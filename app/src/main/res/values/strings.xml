@@ -53,6 +53,9 @@
     <string name="build_information">🔧 Build Information</string>
     <string name="irish_language">Irish Language</string>
     <string name="irish_language_description">Enable this if you wish to play the game through the Irish language.</string>
+    <string name="share_app">Share Irish Nouns</string>
+    <string name="share_app_body">Check out this app I found! %1$s</string>
+    <string name="share_app_description">Click here to share the app with friends and family</string>
 
     <!-- main menu -->
     <string name="guess_the_gender_mode">Guess the gender</string>
