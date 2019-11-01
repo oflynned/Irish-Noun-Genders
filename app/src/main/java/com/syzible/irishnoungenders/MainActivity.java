@@ -15,6 +15,7 @@ import com.syzible.irishnoungenders.common.languageselection.LocaleManager;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
 import com.syzible.irishnoungenders.screens.intro.IntroActivity;
+import com.syzible.irishnoungenders.screens.modes.gender.GenderFragment;
 
 public class MainActivity extends BaseActivity {
     @Override

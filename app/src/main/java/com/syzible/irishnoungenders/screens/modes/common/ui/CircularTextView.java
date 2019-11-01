@@ -3,9 +3,12 @@ package com.syzible.irishnoungenders.screens.modes.common.ui;
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Paint;
+
 import androidx.core.content.ContextCompat;
 import androidx.appcompat.widget.AppCompatTextView;
+
 import android.util.AttributeSet;
+import android.view.MotionEvent;
 
 import com.syzible.irishnoungenders.R;
 

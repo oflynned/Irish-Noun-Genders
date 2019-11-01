@@ -1,8 +1,12 @@
 package com.syzible.irishnoungenders.screens.modes.gender;
 
+import android.annotation.SuppressLint;
 import android.app.AlertDialog;
+import android.graphics.Point;
 import android.os.Bundle;
+import android.os.Handler;
 import android.view.LayoutInflater;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
@@ -23,9 +27,15 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
-public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> implements GenderView {
+public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
+        implements GenderView {
 
     private Unbinder unbinder;
+    private Handler handler;
+    private Runnable runnable;
+
+    @BindView(R.id.game_area)
+    View gameArea;
 
     @BindView(R.id.gender_game_component_noun_card)
     View card;
@@ -57,6 +67,12 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     @BindView(R.id.gender_game_female_button)
     CircularTextView femaleButton;
 
+    @BindView(R.id.draggable_button)
+    CircularTextView draggableButton;
+
+    @BindView(R.id.answer_target)
+    ImageView answerTarget;
+
     public GenderFragment() {
     }
 
@@ -73,11 +89,13 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        unbinder = ButterKnife.bind(this, view);
+        this.unbinder = ButterKnife.bind(this, view);
+        this.handler = new Handler();
 
         setupGuessListeners();
-        category.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
+        setupGuessAutoTransition();
 
+        category.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
         backButton.setOnClickListener(v -> presenter.returnToMainMenu());
 
         presenter.checkNewHighScore(getActivity());
@@ -116,23 +134,57 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     }
 
     private void setupGuessListeners() {
-        maleButton.setOnClickListener(v -> presenter.makeGuess(getContext(), Noun.Gender.MASCULINE));
-        femaleButton.setOnClickListener(v -> presenter.makeGuess(getContext(), Noun.Gender.FEMININE));
-        card.setOnClickListener(null);
+        setupTouchEvent(maleButton, Noun.Gender.MASCULINE, getString(R.string.masc));
+        setupTouchEvent(femaleButton, Noun.Gender.FEMININE, getString(R.string.fem));
+        gameArea.setOnClickListener(null);
+    }
+
+    @SuppressLint("ClickableViewAccessibility")
+    private void setupTouchEvent(CircularTextView optionChosen, Noun.Gender guess, String label) {
+        optionChosen.setOnTouchListener((view, motionEvent) -> {
+            switch (motionEvent.getActionMasked()) {
+                case MotionEvent.ACTION_DOWN:
+                    Point point = getLocation(optionChosen);
+                    draggableButton.setText(label);
+                    draggableButton.setVisibility(View.VISIBLE);
+                    draggableButton.setX(point.x);
+                    draggableButton.setY(point.y - (draggableButton.getHeight() / 2));
+                    optionChosen.setVisibility(View.GONE);
+                    break;
+
+                case MotionEvent.ACTION_MOVE:
+                    draggableButton.setX(motionEvent.getRawX() - draggableButton.getWidth());
+                    draggableButton.setY(motionEvent.getRawY() - draggableButton.getHeight());
+                    break;
+
+                case MotionEvent.ACTION_UP:
+                    if (isWithinTargetArea(draggableButton)) {
+                        presenter.makeGuess(getContext(), guess);
+                    }
+
+                    draggableButton.setVisibility(View.GONE);
+                    optionChosen.setVisibility(View.VISIBLE);
+                    break;
+
+                default:
+                    return false;
+            }
+            return true;
+        });
+    }
+
+    private void setupGuessAutoTransition() {
+        runnable = () -> gameArea.performClick();
     }
 
     private void setupPostGuessListeners() {
-        femaleButton.setOnClickListener(v -> {
+        handler.postDelayed(runnable, 2000);
+
+        gameArea.setOnClickListener(v -> {
+            handler.removeCallbacks(runnable);
             presenter.pickNoun(getContext());
             setupGuessListeners();
-        });
-        maleButton.setOnClickListener(v -> {
-            presenter.pickNoun(getContext());
-            setupGuessListeners();
-        });
-        card.setOnClickListener(v -> {
-            presenter.pickNoun(getContext());
-            setupGuessListeners();
+            setupGuessAutoTransition();
         });
     }
 
@@ -244,5 +296,22 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter> imp
     @Override
     public void returnToMainMenu() {
         MainActivity.setFragment(getFragmentManager(), MainMenuFragment.getInstance());
+    }
+
+    private Point getLocation(View view) {
+        int[] location = new int[2];
+        view.getLocationInWindow(location);
+        return new Point(location[0], location[1]);
+    }
+
+    private boolean isWithinTargetArea(View guessButton) {
+        Point point = getLocation(answerTarget);
+
+        float targetX1 = guessButton.getX() + (float) (guessButton.getWidth() / 2);
+        float targetY1 = guessButton.getY() + (float) (guessButton.getHeight() / 2);
+
+        boolean isWithinXTarget = targetX1 > point.x && targetX1 < (point.x + answerTarget.getWidth());
+        boolean isWithinYTarget = targetY1 > point.y && targetY1 < (point.y + answerTarget.getHeight());
+        return isWithinXTarget && isWithinYTarget;
     }
 }
