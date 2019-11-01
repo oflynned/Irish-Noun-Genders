@@ -15,13 +15,14 @@ import com.syzible.irishnoungenders.common.languageselection.LocaleManager;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
 import com.syzible.irishnoungenders.screens.intro.IntroActivity;
+import com.syzible.irishnoungenders.screens.modes.gender.GenderFragment;
 
 public class MainActivity extends BaseActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setFragment(getSupportFragmentManager(), MainMenuFragment.getInstance());
+        setFragment(getSupportFragmentManager(), GenderFragment.getInstance());
 
         if (!LocalStorage.getBooleanPref(this, LocalStorage.Pref.FIRST_RUN_COMPLETE)) {
             setupInitialSettings();
