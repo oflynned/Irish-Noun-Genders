@@ -41,6 +41,7 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/open_sans"
                     android:gravity="center_horizontal"
+                    android:text="irish"
                     android:textColor="@color/light_bg_dark_primary_text"
                     android:textSize="24sp" />
 
@@ -50,6 +51,7 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/open_sans"
                     android:gravity="center_horizontal"
+                    android:text="hint"
                     android:textColor="@color/red_500"
                     android:textSize="24sp" />
             </LinearLayout>
@@ -61,6 +63,7 @@
                 android:layout_marginTop="8dp"
                 android:fontFamily="@font/open_sans"
                 android:gravity="center_horizontal"
+                android:text="english translation"
                 android:textColor="@color/light_bg_dark_secondary_text"
                 android:textSize="16sp" />
         </LinearLayout>
