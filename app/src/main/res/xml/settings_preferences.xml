@@ -24,6 +24,11 @@
             android:key="settings_more_apps"
             android:summary="@string/more_apps_description"
             android:title="@string/more_apps_title" />
+
+        <Preference
+            android:key="settings_share_app"
+            android:summary="@string/share_app_description"
+            android:title="@string/share_app" />
     </PreferenceCategory>
 
     <PreferenceCategory android:title="@string/build_information">
