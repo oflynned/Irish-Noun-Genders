@@ -2,9 +2,9 @@ package com.syzible.irishnoungenders.screens.modes.gender;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
-import android.graphics.Color;
 import android.graphics.Point;
 import android.os.Bundle;
+import android.os.Handler;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
@@ -14,7 +14,6 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.cardview.widget.CardView;
 
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnoungenders.MainActivity;
@@ -130,91 +129,54 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
         cardTranslation.setText(translation);
     }
 
-    @SuppressLint("ClickableViewAccessibility")
     private void setupGuessListeners() {
-        maleButton.setOnTouchListener((view, motionEvent) -> {
-            switch (motionEvent.getActionMasked()) {
-                case MotionEvent.ACTION_DOWN:
-                    Point point = getLocation(maleButton);
-                    draggableButton.setText(getString(R.string.masc));
-                    draggableButton.setVisibility(View.VISIBLE);
-                    draggableButton.setX(point.x);
-                    draggableButton.setY(point.y - (draggableButton.getHeight() / 2));
-                    maleButton.setVisibility(View.GONE);
-                    break;
-
-                case MotionEvent.ACTION_MOVE:
-                    draggableButton.setX(motionEvent.getRawX() - draggableButton.getWidth());
-                    draggableButton.setY(motionEvent.getRawY() - draggableButton.getHeight());
-                    break;
-
-                case MotionEvent.ACTION_UP:
-                    if (isWithinTargetArea(draggableButton)) {
-                        presenter.makeGuess(getContext(), Noun.Gender.MASCULINE);
-                    }
-
-                    draggableButton.setVisibility(View.GONE);
-                    maleButton.setVisibility(View.VISIBLE);
-                    break;
-
-                default:
-                    return false;
-            }
-            return true;
-        });
-
-        femaleButton.setOnTouchListener((view, motionEvent) -> {
-            switch (motionEvent.getActionMasked()) {
-                case MotionEvent.ACTION_DOWN:
-                    Point point = getLocation(femaleButton);
-                    draggableButton.setText(getString(R.string.fem));
-                    draggableButton.setVisibility(View.VISIBLE);
-                    draggableButton.setX(point.x);
-                    draggableButton.setY(point.y - (draggableButton.getHeight() / 2));
-                    femaleButton.setVisibility(View.GONE);
-                    break;
-
-                case MotionEvent.ACTION_MOVE:
-                    draggableButton.setX(motionEvent.getRawX() - draggableButton.getWidth());
-                    draggableButton.setY(motionEvent.getRawY() - draggableButton.getHeight());
-                    break;
-
-                case MotionEvent.ACTION_UP:
-                    if (isWithinTargetArea(draggableButton)) {
-                        presenter.makeGuess(getContext(), Noun.Gender.FEMININE);
-                    }
-
-                    draggableButton.setVisibility(View.GONE);
-                    femaleButton.setVisibility(View.VISIBLE);
-                    break;
-
-                default:
-                    return false;
-            }
-            return true;
-        });
-
+        setupTouchEvent(maleButton, Noun.Gender.MASCULINE, getString(R.string.masc));
+        setupTouchEvent(femaleButton, Noun.Gender.FEMININE, getString(R.string.fem));
         gameArea.setOnClickListener(null);
     }
 
-    private void setupPostGuessListeners() {
-//        femaleButton.setOnClickListener(v -> {
-//            presenter.pickNoun(getContext());
-//            setupGuessListeners();
-//        });
-//        maleButton.setOnClickListener(v -> {
-//            presenter.pickNoun(getContext());
-//            setupGuessListeners();
-//        });
-//        card.setOnClickListener(v -> {
-//            presenter.pickNoun(getContext());
-//            setupGuessListeners();
-//        });
+    @SuppressLint("ClickableViewAccessibility")
+    private void setupTouchEvent(CircularTextView optionChosen, Noun.Gender guess, String label) {
+        optionChosen.setOnTouchListener((view, motionEvent) -> {
+            switch (motionEvent.getActionMasked()) {
+                case MotionEvent.ACTION_DOWN:
+                    Point point = getLocation(optionChosen);
+                    draggableButton.setText(label);
+                    draggableButton.setVisibility(View.VISIBLE);
+                    draggableButton.setX(point.x);
+                    draggableButton.setY(point.y - (draggableButton.getHeight() / 2));
+                    optionChosen.setVisibility(View.GONE);
+                    break;
 
+                case MotionEvent.ACTION_MOVE:
+                    draggableButton.setX(motionEvent.getRawX() - draggableButton.getWidth());
+                    draggableButton.setY(motionEvent.getRawY() - draggableButton.getHeight());
+                    break;
+
+                case MotionEvent.ACTION_UP:
+                    if (isWithinTargetArea(draggableButton)) {
+                        presenter.makeGuess(getContext(), guess);
+                    }
+
+                    draggableButton.setVisibility(View.GONE);
+                    optionChosen.setVisibility(View.VISIBLE);
+                    break;
+
+                default:
+                    return false;
+            }
+            return true;
+        });
+    }
+
+    private void setupPostGuessListeners() {
         gameArea.setOnClickListener(v -> {
             presenter.pickNoun(getContext());
             setupGuessListeners();
         });
+
+        Handler handler = new Handler();
+        handler.postDelayed(() -> gameArea.performClick(), 2000);
     }
 
     @Override
