@@ -10,11 +10,14 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
+import com.syzible.irishnoungenders.common.languageselection.BaseActivity;
+import com.syzible.irishnoungenders.common.languageselection.LocaleManager;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
 import com.syzible.irishnoungenders.screens.intro.IntroActivity;
+import com.syzible.irishnoungenders.screens.modes.gender.GenderFragment;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,15 +38,16 @@ public class MainActivity extends AppCompatActivity {
         }
 
         new AlertDialog.Builder(this)
-                .setTitle("Exit game?")
-                .setMessage("Click close below if you wish to exit the game")
-                .setPositiveButton("Close", (dialogInterface, i) -> MainActivity.this.finish())
-                .setNegativeButton("Cancel", null)
+                .setTitle(R.string.exit_game)
+                .setMessage(R.string.confirm_exit_game)
+                .setPositiveButton(R.string.close, (dialogInterface, i) -> MainActivity.this.finish())
+                .setNegativeButton(R.string.cancel, null)
                 .show();
     }
 
     private void setupInitialSettings() {
         LocalStorage.setBooleanPref(this, LocalStorage.Pref.SHOW_HINTS, true);
+        LocalStorage.setBooleanPref(this, LocalStorage.Pref.FORCE_IRISH_LANGUAGE, false);
     }
 
     public static void setFragment(FragmentManager fragmentManager, Fragment fragment) {

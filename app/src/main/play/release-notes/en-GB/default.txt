@@ -1,1 +1,1 @@
-Added slideshow introduction, added settings page, added hints toggle
+Added a new icon, added draggable answer choice, added Irish language interface, added settings options

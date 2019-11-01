@@ -20,7 +20,7 @@ android {
     compileSdkVersion 29
     defaultConfig {
         versionCode getBuildVersion() as int
-        versionName "2.1.1"
+        versionName "2.2.0"
 
         minSdkVersion 21
         targetSdkVersion 29

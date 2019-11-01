@@ -8,7 +8,9 @@ public class LocalStorage {
         HIGH_SCORE,
         CURRENT_CATEGORY,
         SHOW_HINTS,
-        FIRST_RUN_COMPLETE
+        FIRST_RUN_COMPLETE,
+        FORCE_IRISH_LANGUAGE,
+        DISPLAY_LANGUAGE
     }
 
     public static String getStringPref(Context context, Pref pref) {
