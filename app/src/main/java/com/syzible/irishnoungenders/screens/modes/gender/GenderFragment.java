@@ -31,6 +31,8 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
         implements GenderView {
 
     private Unbinder unbinder;
+    private Handler handler;
+    private Runnable runnable;
 
     @BindView(R.id.game_area)
     View gameArea;
@@ -88,8 +90,10 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         this.unbinder = ButterKnife.bind(this, view);
+        this.handler = new Handler();
 
         setupGuessListeners();
+        setupGuessAutoTransition();
 
         category.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
         backButton.setOnClickListener(v -> presenter.returnToMainMenu());
@@ -169,14 +173,19 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
         });
     }
 
+    private void setupGuessAutoTransition() {
+        runnable = () -> gameArea.performClick();
+    }
+
     private void setupPostGuessListeners() {
+        handler.postDelayed(runnable, 2000);
+
         gameArea.setOnClickListener(v -> {
+            handler.removeCallbacks(runnable);
             presenter.pickNoun(getContext());
             setupGuessListeners();
+            setupGuessAutoTransition();
         });
-
-        Handler handler = new Handler();
-        handler.postDelayed(() -> gameArea.performClick(), 2000);
     }
 
     @Override
