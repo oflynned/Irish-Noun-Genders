@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
-
+    <item>
+        <shape android:shape="oval">
+            <!--stroke create dot by 2dp width 2dp gap and 2dp height-->
+            <stroke
+                android:color="@color/white"
+                android:width="2dp"
+                android:dashWidth="8dp"
+                android:dashGap="8dp"
+                />
+        </shape>
+    </item>
 </selector>
