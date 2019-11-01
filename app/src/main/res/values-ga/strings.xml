@@ -38,4 +38,7 @@
     <string name="irish_language">An Ghaeilge</string>
     <string name="irish_language_description">Cumasaigh an rogha seo má theastaíonn uait an cluiche a imirt trí Ghaeilge.</string>
     <string name="high_score">an scór is airde:</string>
+    <string name="share_app">Roinn an Aip</string>
+    <string name="share_app_body">Féach ar an aip a bhfuair mé! %1$s</string>
+    <string name="share_app_description">Gliogáil anseo chun an aip a roinnt leis an gclann nó le cairde</string>
 </resources>
