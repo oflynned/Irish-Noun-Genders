@@ -1,1 +1,1 @@
-Fixed some bugs and crashes 🐛
+Added a new icon, added draggable answer choice, added Irish language interface, added settings options
