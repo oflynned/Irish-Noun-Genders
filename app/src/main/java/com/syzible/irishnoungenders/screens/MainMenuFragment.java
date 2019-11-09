@@ -1,7 +1,6 @@
 package com.syzible.irishnoungenders.screens;
 
 import android.app.AlertDialog;
-import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -17,6 +16,7 @@ import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
 import com.google.android.gms.common.api.ApiException;
+import com.google.android.gms.games.AchievementsClient;
 import com.google.android.gms.games.Games;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.snackbar.Snackbar;
@@ -34,8 +34,11 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
         implements MainMenuView {
 
     private static final int RC_SIGN_IN = 1;
+    private static final int RC_ACHIEVEMENTS = 2;
+    private static final int RC_LEADERBOARD = 3;
 
     private GoogleSignInClient googleSignInClient;
+    private AchievementsClient achievementsClient;
 
     private Unbinder unbinder;
     private View view;
@@ -101,11 +104,8 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
 
         genderMode.setOnClickListener(v -> MainActivity.setFragment(getFragmentManager(), GenderFragment.getInstance()));
         settings.setOnClickListener(v -> startActivity(new Intent(getContext(), SettingsActivity.class)));
-        signIn.setOnClickListener(v -> startSignInIntent());
-        signOut.setOnClickListener(v -> signOut());
 
-        // TODO remove this or use some feature flag service instead
-        hideUnimplementedOptions();
+        setupMenuOptions();
     }
 
     @Override
@@ -143,10 +143,16 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
         }
     }
 
-    private void hideUnimplementedOptions() {
+    private void setupMenuOptions() {
+        // TODO unimplemented
         howToPlay.setVisibility(View.GONE);
         leaderboards.setVisibility(View.GONE);
-        achievements.setVisibility(View.GONE);
+
+        // TODO requires sign in
+        signOut.setOnClickListener(v -> signOut());
+
+        // TODO requires being anonymous
+        signIn.setOnClickListener(v -> startSignInIntent());
     }
 
     private boolean isSignedIn() {
@@ -188,13 +194,20 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     }
 
     private void onConnected(GoogleSignInAccount account) {
-        // TODO move this to mainactivity and share the instance of gpg across fragments
         Games.getGamesClient(getActivity(), account).setViewForPopups(view);
+
+        achievementsClient = Games.getAchievementsClient(getActivity(), account);
+        achievements.setOnClickListener(v -> achievementsClient.getAchievementsIntent()
+                .addOnSuccessListener(intent -> startActivityForResult(intent, RC_ACHIEVEMENTS))
+                .addOnFailureListener(exception -> showGenericError()));
+
         hideSignIn();
         showSignOut();
     }
 
     private void onDisconnected() {
+        achievements.setOnClickListener(v -> showRequestSignIn());
+
         showSignIn();
         hideSignOut();
     }
@@ -227,5 +240,15 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     @Override
     public void showSignedOutSuccessfully() {
         showMessage("You have been signed out successfully.");
+    }
+
+    @Override
+    public void showGenericError() {
+        showMessage("Something went wrong");
+    }
+
+    @Override
+    public void showRequestSignIn() {
+        showMessage("Please sign in to access this feature.");
     }
 }

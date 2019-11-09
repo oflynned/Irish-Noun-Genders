@@ -14,4 +14,8 @@ interface MainMenuView extends MvpView {
     void showMessage(String message);
 
     void showSignedOutSuccessfully();
+
+    void showGenericError();
+
+    void showRequestSignIn();
 }
