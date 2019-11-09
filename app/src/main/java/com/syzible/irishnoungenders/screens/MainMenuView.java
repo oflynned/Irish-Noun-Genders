@@ -3,5 +3,21 @@ package com.syzible.irishnoungenders.screens;
 import com.hannesdorfmann.mosby3.mvp.MvpView;
 
 interface MainMenuView extends MvpView {
-    void notifyModeUnimplemented();
+    void showSignIn();
+
+    void hideSignIn();
+
+    void showSignOut();
+
+    void hideSignOut();
+
+    void showProgressDialog();
+
+    void hideProgressDialog();
+
+    void showMessage(String message);
+
+    void showSignedInSuccessfully(String displayName);
+
+    void showSignedOutSuccessfully();
 }
