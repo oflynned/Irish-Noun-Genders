@@ -206,6 +206,7 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     }
 
     private void onDisconnected() {
+        achievementsClient = null;
         achievements.setOnClickListener(v -> showRequestSignIn());
 
         showSignIn();
