@@ -1,4 +1,8 @@
 <resources>
+    <!-- api keys -->
+    <string name="client_id" translatable="false">634395716840-a89s9gmb61617t7e5afqt7c825uvvfcr.apps.googleusercontent.com</string>
+    <string name="app_id" translatable="false">634395716840</string>
+
     <string name="app_name">Irish Nouns</string>
 
     <!-- intro slides -->
