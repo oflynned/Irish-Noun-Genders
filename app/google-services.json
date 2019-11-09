@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "507026652752",
-    "firebase_url": "https://irish-nouns.firebaseio.com",
-    "project_id": "irish-nouns",
-    "storage_bucket": "irish-nouns.appspot.com"
+    "project_number": "634395716840",
+    "firebase_url": "https://irish-nouns-15358960.firebaseio.com",
+    "project_id": "irish-nouns-15358960",
+    "storage_bucket": "irish-nouns-15358960.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:507026652752:android:14874a94c4c2d5e5699b55",
+        "mobilesdk_app_id": "1:634395716840:android:5e58edccae3a14d8b42d5d",
         "android_client_info": {
           "package_name": "com.syzible.irishnoungenders"
         }
       },
       "oauth_client": [
         {
-          "client_id": "507026652752-1d3je1835jaj5ic43gbc66bjb4pfke5m.apps.googleusercontent.com",
+          "client_id": "634395716840-3k3b2t56cqanv17164jiim9856umihse.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC_g1LEvgWuolqEJCCS9l-SmOLmSswO944"
+          "current_key": "AIzaSyBXIoIShqMKQ9N7gvPKa3gWOf6eI9qCuwA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "507026652752-1d3je1835jaj5ic43gbc66bjb4pfke5m.apps.googleusercontent.com",
+              "client_id": "634395716840-3k3b2t56cqanv17164jiim9856umihse.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
