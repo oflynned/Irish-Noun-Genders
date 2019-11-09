@@ -11,13 +11,7 @@ interface MainMenuView extends MvpView {
 
     void hideSignOut();
 
-    void showProgressDialog();
-
-    void hideProgressDialog();
-
     void showMessage(String message);
-
-    void showSignedInSuccessfully(String displayName);
 
     void showSignedOutSuccessfully();
 }

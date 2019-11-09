@@ -2,7 +2,6 @@ package com.syzible.irishnoungenders.screens;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -21,7 +20,6 @@ import com.google.android.gms.common.api.ApiException;
 import com.google.android.gms.games.Games;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.snackbar.Snackbar;
-import com.google.gson.annotations.SerializedName;
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
@@ -38,7 +36,6 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     private static final int RC_SIGN_IN = 1;
 
     private GoogleSignInClient googleSignInClient;
-    private ProgressDialog progressDialog;
 
     private Unbinder unbinder;
     private View view;
@@ -107,9 +104,7 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
         signIn.setOnClickListener(v -> startSignInIntent());
         signOut.setOnClickListener(v -> signOut());
 
-        progressDialog = new ProgressDialog(getActivity());
-
-        // TODO ultimately remove this or use some feature flag service
+        // TODO remove this or use some feature flag service instead
         hideUnimplementedOptions();
     }
 
@@ -139,7 +134,6 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
         super.onActivityResult(requestCode, resultCode, intent);
         if (requestCode == RC_SIGN_IN) {
             Task<GoogleSignInAccount> task = GoogleSignIn.getSignedInAccountFromIntent(intent);
-
             try {
                 GoogleSignInAccount account = task.getResult(ApiException.class);
                 onConnected(account);
@@ -179,29 +173,30 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
             return;
         }
 
-        googleSignInClient.signOut().addOnCompleteListener(getActivity(), task ->
-                new AlertDialog.Builder(getActivity())
-                        .setTitle("Sign out")
-                        .setMessage("Are you sure you want to sign out? You will not be able to track achievements and leaderboards.")
-                        .setPositiveButton("Sign out", (dialogInterface, i) -> {
-                            onDisconnected();
-                            showSignedOutSuccessfully();
-                        })
-                        .setNegativeButton(getString(R.string.cancel), null)
-                        .show());
+        new AlertDialog.Builder(getActivity())
+                .setTitle(getString(R.string.sign_out))
+                .setMessage(getString(R.string.sign_out_information))
+                .setPositiveButton(getString(R.string.sign_out), (dialogInterface, i) ->
+                        googleSignInClient.signOut()
+                                .addOnCompleteListener(getActivity(), task -> {
+                                            onDisconnected();
+                                            showSignedOutSuccessfully();
+                                        }
+                                ))
+                .setNegativeButton(getString(R.string.cancel), null)
+                .show();
     }
 
     private void onConnected(GoogleSignInAccount account) {
+        // TODO move this to mainactivity and share the instance of gpg across fragments
         Games.getGamesClient(getActivity(), account).setViewForPopups(view);
         hideSignIn();
         showSignOut();
-        hideProgressDialog();
     }
 
     private void onDisconnected() {
         showSignIn();
         hideSignOut();
-        hideProgressDialog();
     }
 
     @Override
@@ -225,25 +220,8 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     }
 
     @Override
-    public void showProgressDialog() {
-        progressDialog.setMessage("Please wait...");
-        progressDialog.setIndeterminate(true);
-        progressDialog.show();
-    }
-
-    @Override
-    public void hideProgressDialog() {
-        progressDialog.cancel();
-    }
-
-    @Override
     public void showMessage(String message) {
         Snackbar.make(view, message, Snackbar.LENGTH_LONG).show();
-    }
-
-    @Override
-    public void showSignedInSuccessfully(String displayName) {
-        showMessage("Welcome back " + displayName + "!");
     }
 
     @Override
