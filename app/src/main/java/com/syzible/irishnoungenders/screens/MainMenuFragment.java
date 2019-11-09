@@ -145,11 +145,6 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
                 onConnected(account);
             } catch (ApiException apiException) {
                 onDisconnected();
-
-                new AlertDialog.Builder(getContext())
-                        .setMessage("Unable to sign in!")
-                        .setNeutralButton(android.R.string.ok, null)
-                        .show();
             }
         }
     }
@@ -188,7 +183,10 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
                 new AlertDialog.Builder(getActivity())
                         .setTitle("Sign out")
                         .setMessage("Are you sure you want to sign out? You will not be able to track achievements and leaderboards.")
-                        .setPositiveButton("Sign out", (dialogInterface, i) -> onDisconnected())
+                        .setPositiveButton("Sign out", (dialogInterface, i) -> {
+                            onDisconnected();
+                            showSignedOutSuccessfully();
+                        })
                         .setNegativeButton(getString(R.string.cancel), null)
                         .show());
     }
@@ -201,7 +199,6 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     }
 
     private void onDisconnected() {
-        showSignedOutSuccessfully();
         showSignIn();
         hideSignOut();
         hideProgressDialog();
