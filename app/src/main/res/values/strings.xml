@@ -3,8 +3,6 @@
     <string name="client_id" translatable="false">634395716840-a89s9gmb61617t7e5afqt7c825uvvfcr.apps.googleusercontent.com</string>
     <string name="app_id" translatable="false">634395716840</string>
 
-    <string name="app_name">Irish Nouns</string>
-
     <!-- intro slides -->
     <!-- irish locale cannot be applied at this point so it will only default to english -->
     <string name="intro_slide_1_title" translatable="false">Welcome to %1$s</string>
@@ -17,6 +15,9 @@
     <string name="intro_slide_4_description" translatable="false">More than 130+ categories and 40,000+ words to expand your vocabulary.</string>
     <string name="intro_slide_5_title" translatable="false">Ready to start?</string>
     <string name="intro_slide_5_description" translatable="false">Begin your journey and widen your knowledge.</string>
+
+    <!-- miscellaneous -->
+    <string name="app_name">Irish Nouns</string>
 
     <!-- main activity -->
     <string name="exit_game">Exit game?</string>
@@ -34,7 +35,7 @@
     <string name="masc">m</string>
     <string name="fem">f</string>
     <string name="end_of_deck">End of %1$s</string>
-    <string name="end_of_deck_description">The end of the current deck of %1$d has been reached. Would you like to try again or choose another deck?</string>
+    <string name="end_of_deck_description">The end of the current deck has been reached. Would you like to try again or choose another deck?</string>
     <string name="new_deck">New Deck</string>
     <string name="restart">Restart</string>
     <string name="session_in_progress">Session in progress</string>
@@ -62,8 +63,13 @@
     <string name="share_app_description">Click here to share the app with friends and family</string>
 
     <!-- main menu -->
+    <string name="sign_out">Sign out</string>
+    <string name="sign_out_information">Are you sure you want to sign out? You will not be able to track achievements and leaderboards.</string>
     <string name="guess_the_gender_mode">Guess the gender</string>
     <string name="how_to_play_mode">How to play</string>
     <string name="settings_mode">Settings</string>
+    <string name="sign_in">Sign in</string>
+    <string name="achievements">Achievements</string>
+    <string name="leaderboards">Leaderboards</string>
 
 </resources>

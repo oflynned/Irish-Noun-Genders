@@ -41,4 +41,9 @@
     <string name="share_app">Roinn an Aip</string>
     <string name="share_app_body">Féach ar an aip a bhfuair mé! %1$s</string>
     <string name="share_app_description">Gliogáil anseo chun an aip a roinnt leis an gclann nó le cairde</string>
+    <string name="achievements">Gaiscí</string>
+    <string name="leaderboards">Clár ceann riain</string>
+    <string name="sign_in">Sínigh isteach</string>
+    <string name="sign_out">Sínigh amach</string>
+    <string name="sign_out_information">An bhfuil tú cinnte go dteastaíonn uait síniú amach? Ní bheidh tú in ann gaiscí agus an clár ceann riain a leanúint.</string>
 </resources>
