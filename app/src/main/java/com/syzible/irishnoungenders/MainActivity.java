@@ -22,11 +22,12 @@ public class MainActivity extends BaseActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setFragment(getSupportFragmentManager(), MainMenuFragment.getInstance());
 
         if (!LocalStorage.getBooleanPref(this, LocalStorage.Pref.FIRST_RUN_COMPLETE)) {
             setupInitialSettings();
             startActivity(new Intent(this, IntroActivity.class));
+        } else {
+            setFragment(getSupportFragmentManager(), MainMenuFragment.getInstance());
         }
     }
 
