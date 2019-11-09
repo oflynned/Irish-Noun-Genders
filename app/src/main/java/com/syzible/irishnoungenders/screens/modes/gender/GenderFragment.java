@@ -244,7 +244,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     public void notifyEndOfDeck(String currentDomain, int deckSize) {
         new AlertDialog.Builder(getActivity())
                 .setTitle(getString(R.string.end_of_deck, currentDomain))
-                .setMessage(getString(R.string.end_of_deck_description, deckSize))
+                .setMessage(getString(R.string.end_of_deck_description))
                 .setPositiveButton(getString(R.string.new_deck), (dialogInterface, i) -> {
                     presenter.resetCurrentDeck();
                     presenter.pickNoun(getContext());
