@@ -10,8 +10,4 @@ interface MainMenuView extends MvpView {
     void showSignOut();
 
     void hideSignOut();
-
-    void showMessage(String message);
-
-    void showSignedOutSuccessfully();
 }
