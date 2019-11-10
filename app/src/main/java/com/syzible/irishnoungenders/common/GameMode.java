@@ -1,4 +1,5 @@
 package com.syzible.irishnoungenders.common;
 
-public class GameMode {
+public enum GameMode {
+    GENDER
 }
