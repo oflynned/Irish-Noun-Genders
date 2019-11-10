@@ -6,6 +6,7 @@ import androidx.annotation.NonNull;
 
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.syzible.irishnoungenders.common.firebase.Achievements;
+import com.syzible.irishnoungenders.common.firebase.FeatureFlag;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.common.persistence.Cache;
 import com.syzible.irishnoungenders.common.persistence.DomainNotFoundException;
@@ -110,14 +111,15 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
             ifViewAttached(v -> v.notifyWrongGuess(currentNoun));
         }
 
-        Achievements.incrementGuessCount(context);
-        ifViewAttached(v -> {
+        // TODO enable general access
+        if (FeatureFlag.EARN_ACHIEVEMENTS.isEnabled()) {
+            Achievements.incrementGuessCount(context);
             if (Achievements.hasPassedFirstSteps(context)) {
-                v.getAchievementListener().onAchievementUnlocked(Achievements.Achievement.FIRST_STEPS);
+                ifViewAttached(v -> v.getAchievementListener().onAchievementUnlocked(Achievements.Achievement.FIRST_STEPS));
             }
+        }
 
-            v.setScore(String.valueOf(currentScore));
-        });
+        ifViewAttached(v -> v.setScore(String.valueOf(currentScore)));
     }
 
     void resetCurrentDeck() {
