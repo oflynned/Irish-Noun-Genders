@@ -1,4 +1,7 @@
 package com.syzible.irishnoungenders.common.firebase;
 
-public class GameServices {
+public interface GameServices {
+    void signInSilently();
+
+    boolean isSignedIn();
 }

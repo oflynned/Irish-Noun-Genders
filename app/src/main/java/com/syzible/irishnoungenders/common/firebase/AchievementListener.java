@@ -1,4 +1,5 @@
 package com.syzible.irishnoungenders.common.firebase;
 
-public class AchievementListener {
+public interface AchievementListener {
+    void onAchievementUnlocked(Achievements.Achievement achievement);
 }

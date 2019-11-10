@@ -1,32 +1,36 @@
-package com.syzible.irishnoungenders.common.firebase
+package com.syzible.irishnoungenders.common.firebase;
 
-import android.content.Context
+import android.content.Context;
 
-import com.syzible.irishnoungenders.common.persistence.LocalStorage
+import androidx.annotation.NonNull;
 
-object Achievements {
-    enum class Achievement {
+import com.syzible.irishnoungenders.common.persistence.LocalStorage;
+
+public class Achievements {
+    public enum Achievement {
         FIRST_STEPS {
-            override fun toString(): String {
-                return "First Steps"
+            @NonNull
+            @Override
+            public String toString() {
+                return "First Steps";
             }
         }
     }
 
-    fun getGuessCount(context: Context): Int {
-        return LocalStorage.getIntegerPref(context, LocalStorage.Pref.GUESSES_MADE)
+    private static int getGuessCount(Context context) {
+        return LocalStorage.getIntegerPref(context, LocalStorage.Pref.GUESSES_MADE);
     }
 
-    fun incrementGuessCount(context: Context) {
-        val guessCount = LocalStorage.getIntegerPref(context, LocalStorage.Pref.GUESSES_MADE)
-        LocalStorage.setIntegerPref(context, LocalStorage.Pref.GUESSES_MADE, guessCount + 1)
+    public static void incrementGuessCount(Context context) {
+        int guessCount = LocalStorage.getIntegerPref(context, LocalStorage.Pref.GUESSES_MADE);
+        LocalStorage.setIntegerPref(context, LocalStorage.Pref.GUESSES_MADE, guessCount + 1);
     }
 
-    fun hasPassedFirstSteps(context: Context): Boolean {
-        return getGuessCount(context) == 5
+    public static boolean hasPassedFirstSteps(Context context) {
+        return getGuessCount(context) == 5;
     }
 
-    fun checkForAchievements() {
+    public static void checkForAchievements() {
 
     }
 }
