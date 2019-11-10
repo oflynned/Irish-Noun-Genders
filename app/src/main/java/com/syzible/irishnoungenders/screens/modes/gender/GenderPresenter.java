@@ -6,7 +6,7 @@ import androidx.annotation.NonNull;
 
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.syzible.irishnoungenders.common.firebase.Achievements;
-import com.syzible.irishnoungenders.common.firebase.FeatureFlag;
+import com.syzible.irishnoungenders.common.common.FeatureFlag;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.common.persistence.Cache;
 import com.syzible.irishnoungenders.common.persistence.DomainNotFoundException;
@@ -119,7 +119,10 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
             }
         }
 
-        ifViewAttached(v -> v.setScore(String.valueOf(currentScore)));
+        ifViewAttached(v -> {
+            v.setScore(String.valueOf(currentScore));
+            v.recordAsExperiment(currentNoun, gender);
+        });
     }
 
     void resetCurrentDeck() {

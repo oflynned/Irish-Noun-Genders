@@ -19,12 +19,18 @@ import com.google.android.gms.games.AchievementsClient;
 import com.google.android.gms.games.Games;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.snackbar.Snackbar;
-import com.syzible.irishnoungenders.common.GameMode;
-import com.syzible.irishnoungenders.common.UiHelper;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.syzible.irishnoungenders.common.common.GameMode;
+import com.syzible.irishnoungenders.common.common.UIHelper;
 import com.syzible.irishnoungenders.common.firebase.AchievementListener;
 import com.syzible.irishnoungenders.common.firebase.Achievements;
+import com.syzible.irishnoungenders.common.firebase.ExperimentClient;
 import com.syzible.irishnoungenders.common.firebase.GameServices;
+import com.syzible.irishnoungenders.common.http.FirebaseService;
 import com.syzible.irishnoungenders.common.languageselection.BaseActivity;
+import com.syzible.irishnoungenders.common.models.experiments.GenderExperiment;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
 import com.syzible.irishnoungenders.screens.intro.IntroActivity;
@@ -36,14 +42,17 @@ import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
 public class MainActivity extends BaseActivity
-        implements GameServices, AchievementListener, UiHelper, MainMenuFragment.Listener {
+        implements GameServices, AchievementListener, ExperimentClient, UIHelper, MainMenuFragment.Listener {
 
     public static final int RC_SIGN_IN = 1;
     public static final int RC_ACHIEVEMENTS = 2;
     public static final int RC_LEADERBOARD = 3;
 
-    private GoogleSignInClient googleSignInClient;
     private AchievementsClient achievementsClient;
+    private GoogleSignInClient googleSignInClient;
+    private DatabaseReference databaseReference;
+    private FirebaseAuth firebaseAuth;
+
     private MainMenuFragment mainMenuFragment;
 
     private Unbinder unbinder;
@@ -58,6 +67,10 @@ public class MainActivity extends BaseActivity
         unbinder = ButterKnife.bind(this);
 
         googleSignInClient = getClient();
+        firebaseAuth = FirebaseAuth.getInstance();
+
+        FirebaseDatabase.getInstance().setPersistenceEnabled(true);
+        databaseReference = FirebaseDatabase.getInstance().getReference();
         mainMenuFragment = MainMenuFragment.getInstance();
 
         if (!LocalStorage.getBooleanPref(this, LocalStorage.Pref.FIRST_RUN_COMPLETE)) {
@@ -176,6 +189,11 @@ public class MainActivity extends BaseActivity
     }
 
     public void onConnected(GoogleSignInAccount account) {
+        // we don't need any information about the user aside from their anonymous id
+        // to help with segregating some past results for helping future predictions
+        // for the given user
+        LocalStorage.setStringPref(this, LocalStorage.Pref.USER_ID, account.getId());
+
         Games.getGamesClient(this, account).setViewForPopups(view);
         mainMenuFragment.setShouldShowSignIn(false);
         achievementsClient = Games.getAchievementsClient(this, account);
@@ -231,6 +249,7 @@ public class MainActivity extends BaseActivity
             case GENDER:
                 GenderFragment fragment = GenderFragment.getInstance();
                 fragment.setAchievementListener(this);
+                fragment.setExperimentClient(this);
                 setFragmentBackstack(getSupportFragmentManager(), fragment);
                 break;
             default:
@@ -287,5 +306,15 @@ public class MainActivity extends BaseActivity
     @Override
     public void showGenericError() {
         showMessage("Something went wrong.");
+    }
+
+    @Override
+    public void syncGenderExperiment(String posedNoun, String answerGiven, String actualAnswer) {
+        GenderExperiment experiment = new GenderExperiment(
+                LocalStorage.getStringPref(this, LocalStorage.Pref.USER_ID),
+                posedNoun, answerGiven, actualAnswer
+        );
+
+        FirebaseService.syncExperiment(databaseReference, experiment);
     }
 }
