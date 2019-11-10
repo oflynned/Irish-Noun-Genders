@@ -12,6 +12,7 @@ import androidx.annotation.Nullable;
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnoungenders.R;
 import com.syzible.irishnoungenders.common.GameMode;
+import com.syzible.irishnoungenders.common.firebase.FeatureFlag;
 import com.syzible.irishnoungenders.common.firebase.GameServices;
 
 import butterknife.BindView;
@@ -91,7 +92,6 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
         signIn.setOnClickListener(this);
         signOut.setOnClickListener(this);
         settings.setOnClickListener(this);
-        achievements.setOnClickListener(this);
 
         setupMenuOptions();
     }
@@ -118,6 +118,13 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     }
 
     private void setupMenuOptions() {
+        // TODO enable generally
+        if (FeatureFlag.VIEW_ACHIEVEMENTS.isEnabled()) {
+            achievements.setOnClickListener(this);
+        } else {
+            achievements.setVisibility(View.GONE);
+        }
+
         howToPlay.setVisibility(View.GONE);
         leaderboards.setVisibility(View.GONE);
     }
@@ -158,7 +165,9 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
                 listener.onSettingsClicked();
                 break;
             case R.id.main_menu_achievements:
-                listener.onShowAchievementsRequested();
+                if (FeatureFlag.VIEW_ACHIEVEMENTS.isEnabled()) {
+                    listener.onShowAchievementsRequested();
+                }
                 break;
             case R.id.main_menu_how_to_play:
             case R.id.main_menu_leaderboards:
