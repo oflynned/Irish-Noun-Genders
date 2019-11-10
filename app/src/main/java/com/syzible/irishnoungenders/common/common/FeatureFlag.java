@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.common.firebase;
+package com.syzible.irishnoungenders.common.common;
 
 public enum FeatureFlag {
     EARN_ACHIEVEMENTS, VIEW_ACHIEVEMENTS, SHOW_LEADERBOARDS, SHOW_TUTORIAL_SANDBOX;

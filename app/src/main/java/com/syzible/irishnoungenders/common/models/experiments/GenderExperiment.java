@@ -1,4 +1,4 @@
-package com.syzible.irishnoungenders.common.models.firebase;
+package com.syzible.irishnoungenders.common.models.experiments;
 
 import com.google.firebase.database.IgnoreExtraProperties;
 

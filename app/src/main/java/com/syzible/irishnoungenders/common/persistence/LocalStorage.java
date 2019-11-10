@@ -11,7 +11,8 @@ public class LocalStorage {
         FIRST_RUN_COMPLETE,
         FORCE_IRISH_LANGUAGE,
         DISPLAY_LANGUAGE,
-        GUESSES_MADE
+        GUESSES_MADE,
+        USER_ID
     }
 
     public static String getStringPref(Context context, Pref pref) {
