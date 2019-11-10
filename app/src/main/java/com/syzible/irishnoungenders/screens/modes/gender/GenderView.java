@@ -34,6 +34,4 @@ public interface GenderView extends MvpView {
     void returnToMainMenu();
 
     AchievementListener getAchievementListener();
-
-    void recordAsExperiment(Noun answerGiven, Noun.Gender genderGiven);
 }

@@ -19,7 +19,6 @@ import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
 import com.syzible.irishnoungenders.common.firebase.AchievementListener;
-import com.syzible.irishnoungenders.common.firebase.ExperimentClient;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnoungenders.screens.modes.common.ui.CircularTextView;
@@ -37,7 +36,6 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     private Handler handler;
     private Runnable runnable;
 
-    private ExperimentClient experimentClient;
     private AchievementListener achievementListener;
 
     @BindView(R.id.game_area)
@@ -326,16 +324,8 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
         return achievementListener;
     }
 
-    @Override
-    public void recordAsExperiment(Noun noun, Noun.Gender answer) {
-        experimentClient.syncGenderExperiment(noun.getTitle(), answer.name(), noun.getGender().name());
-    }
-
     public void setAchievementListener(AchievementListener achievementListener) {
         this.achievementListener = achievementListener;
     }
 
-    public void setExperimentClient(ExperimentClient experimentClient) {
-        this.experimentClient = experimentClient;
-    }
 }
