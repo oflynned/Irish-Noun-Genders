@@ -1,4 +1,9 @@
 package com.syzible.irishnoungenders.common;
 
-public class UiHelper {
+public interface UiHelper {
+    void showMessage(String message);
+
+    void showRequestSignIn();
+
+    void showGenericError();
 }
