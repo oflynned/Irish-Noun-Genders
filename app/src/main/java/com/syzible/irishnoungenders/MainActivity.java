@@ -19,8 +19,8 @@ import com.google.android.gms.games.AchievementsClient;
 import com.google.android.gms.games.Games;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.snackbar.Snackbar;
-import com.syzible.irishnoungenders.common.GameMode;
-import com.syzible.irishnoungenders.common.UiHelper;
+import com.syzible.irishnoungenders.common.common.GameMode;
+import com.syzible.irishnoungenders.common.common.UIHelper;
 import com.syzible.irishnoungenders.common.firebase.AchievementListener;
 import com.syzible.irishnoungenders.common.firebase.Achievements;
 import com.syzible.irishnoungenders.common.firebase.GameServices;
@@ -36,14 +36,15 @@ import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
 public class MainActivity extends BaseActivity
-        implements GameServices, AchievementListener, UiHelper, MainMenuFragment.Listener {
+        implements GameServices, AchievementListener, UIHelper, MainMenuFragment.Listener {
 
     public static final int RC_SIGN_IN = 1;
     public static final int RC_ACHIEVEMENTS = 2;
     public static final int RC_LEADERBOARD = 3;
 
-    private GoogleSignInClient googleSignInClient;
     private AchievementsClient achievementsClient;
+    private GoogleSignInClient googleSignInClient;
+
     private MainMenuFragment mainMenuFragment;
 
     private Unbinder unbinder;
@@ -176,6 +177,11 @@ public class MainActivity extends BaseActivity
     }
 
     public void onConnected(GoogleSignInAccount account) {
+        // we don't need any information about the user aside from their anonymous id
+        // to help with segregating some past results for helping future predictions
+        // for the given user
+        LocalStorage.setStringPref(this, LocalStorage.Pref.USER_ID, account.getId());
+
         Games.getGamesClient(this, account).setViewForPopups(view);
         mainMenuFragment.setShouldShowSignIn(false);
         achievementsClient = Games.getAchievementsClient(this, account);
@@ -272,6 +278,7 @@ public class MainActivity extends BaseActivity
     @Override
     public void onSignOutButtonClicked() {
         signOut();
+        clearUserId();
     }
 
     @Override
@@ -287,5 +294,9 @@ public class MainActivity extends BaseActivity
     @Override
     public void showGenericError() {
         showMessage("Something went wrong.");
+    }
+
+    private void clearUserId() {
+        LocalStorage.setStringPref(this, LocalStorage.Pref.USER_ID, null);
     }
 }

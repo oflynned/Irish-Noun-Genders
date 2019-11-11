@@ -1,6 +1,6 @@
-package com.syzible.irishnoungenders.common;
+package com.syzible.irishnoungenders.common.common;
 
-public interface UiHelper {
+public interface UIHelper {
     void showMessage(String message);
 
     void showRequestSignIn();

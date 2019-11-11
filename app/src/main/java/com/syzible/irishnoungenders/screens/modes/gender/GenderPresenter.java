@@ -5,20 +5,24 @@ import android.content.Context;
 import androidx.annotation.NonNull;
 
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
+import com.syzible.irishnoungenders.common.common.FeatureFlag;
 import com.syzible.irishnoungenders.common.firebase.Achievements;
-import com.syzible.irishnoungenders.common.firebase.FeatureFlag;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.common.persistence.Cache;
 import com.syzible.irishnoungenders.common.persistence.DomainNotFoundException;
 import com.syzible.irishnoungenders.common.persistence.GameRules;
 import com.syzible.irishnoungenders.common.persistence.MalformedFileException;
+import com.syzible.irishnoungenders.screens.modes.common.interactors.ExperimentInteractor;
+
+import org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-class GenderPresenter extends MvpBasePresenter<GenderView> {
-    private GenderInteractor interactor;
+class GenderPresenter extends MvpBasePresenter<GenderView> implements ExperimentInteractor.ExperimentCallback {
+    private GenderInteractor genderInteractor;
+    private ExperimentInteractor experimentInteractor;
 
     private Noun currentNoun;
     private List<Noun> shownNouns;
@@ -31,14 +35,15 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
     @Override
     public void attachView(@NonNull GenderView view) {
         super.attachView(view);
-        interactor = new GenderInteractor();
+        genderInteractor = new GenderInteractor();
+        experimentInteractor = new ExperimentInteractor();
         fetchHints();
     }
 
     private void fetchHints() {
         try {
-            masculineHints = interactor.fetchHints(Noun.Gender.MASCULINE);
-            feminineHints = interactor.fetchHints(Noun.Gender.FEMININE);
+            masculineHints = genderInteractor.fetchHints(Noun.Gender.MASCULINE);
+            feminineHints = genderInteractor.fetchHints(Noun.Gender.FEMININE);
         } catch (MalformedFileException e) {
             e.printStackTrace();
             masculineHints = feminineHints = new ArrayList<>();
@@ -76,7 +81,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         }
 
         try {
-            remainingNouns = interactor.fetchNouns(currentDomain);
+            remainingNouns = genderInteractor.fetchNouns(currentDomain);
         } catch (DomainNotFoundException | MalformedFileException e) {
             e.printStackTrace();
         }
@@ -119,7 +124,13 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
             }
         }
 
+        logExperiment(context, gender);
         ifViewAttached(v -> v.setScore(String.valueOf(currentScore)));
+    }
+
+    private void logExperiment(Context context, Noun.Gender attempt) {
+        JSONObject payload = experimentInteractor.buildGenderExperimentPayload(currentDomain, currentNoun, attempt);
+        experimentInteractor.requestExperiment(context, payload, this);
     }
 
     void resetCurrentDeck() {
@@ -187,5 +198,15 @@ class GenderPresenter extends MvpBasePresenter<GenderView> {
         }
 
         changeCategory(context);
+    }
+
+    @Override
+    public void onSuccess() {
+
+    }
+
+    @Override
+    public void onFailure(int status, JSONObject response) {
+
     }
 }

@@ -20,7 +20,6 @@ import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
 import com.syzible.irishnoungenders.common.firebase.AchievementListener;
 import com.syzible.irishnoungenders.common.models.Noun;
-import com.syzible.irishnoungenders.screens.MainMenuFragment;
 import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnoungenders.screens.modes.common.ui.CircularTextView;
 
@@ -36,6 +35,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     private Unbinder unbinder;
     private Handler handler;
     private Runnable runnable;
+
     private AchievementListener achievementListener;
 
     @BindView(R.id.game_area)
@@ -327,4 +327,5 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     public void setAchievementListener(AchievementListener achievementListener) {
         this.achievementListener = achievementListener;
     }
+
 }

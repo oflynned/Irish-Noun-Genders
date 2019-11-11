@@ -11,8 +11,8 @@ import androidx.annotation.Nullable;
 
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnoungenders.R;
-import com.syzible.irishnoungenders.common.GameMode;
-import com.syzible.irishnoungenders.common.firebase.FeatureFlag;
+import com.syzible.irishnoungenders.common.common.GameMode;
+import com.syzible.irishnoungenders.common.common.FeatureFlag;
 import com.syzible.irishnoungenders.common.firebase.GameServices;
 
 import butterknife.BindView;
@@ -170,7 +170,13 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
                 }
                 break;
             case R.id.main_menu_how_to_play:
+                if (FeatureFlag.SHOW_TUTORIAL_SANDBOX.isEnabled()) {
+                    // TODO stub
+                }
             case R.id.main_menu_leaderboards:
+                if (FeatureFlag.SHOW_LEADERBOARDS.isEnabled()) {
+                    // TODO stub
+                }
                 break;
         }
     }
