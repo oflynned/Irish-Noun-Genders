@@ -299,7 +299,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
 
     @Override
     public void returnToMainMenu() {
-        Objects.requireNonNull(getActivity()).getSupportFragmentManager().popBackStack();
+        MainActivity.popFragment(getFragmentManager());
     }
 
     private Point getLocation(View view) {
