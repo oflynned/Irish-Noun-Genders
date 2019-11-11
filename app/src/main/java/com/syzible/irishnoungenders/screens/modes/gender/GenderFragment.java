@@ -18,10 +18,12 @@ import androidx.annotation.Nullable;
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
+import com.syzible.irishnoungenders.common.firebase.AchievementListener;
 import com.syzible.irishnoungenders.common.models.Noun;
-import com.syzible.irishnoungenders.screens.MainMenuFragment;
 import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnoungenders.screens.modes.common.ui.CircularTextView;
+
+import java.util.Objects;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -33,6 +35,8 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     private Unbinder unbinder;
     private Handler handler;
     private Runnable runnable;
+
+    private AchievementListener achievementListener;
 
     @BindView(R.id.game_area)
     View gameArea;
@@ -244,7 +248,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     public void notifyEndOfDeck(String currentDomain, int deckSize) {
         new AlertDialog.Builder(getActivity())
                 .setTitle(getString(R.string.end_of_deck, currentDomain))
-                .setMessage(getString(R.string.end_of_deck_description, deckSize))
+                .setMessage(getString(R.string.end_of_deck_description))
                 .setPositiveButton(getString(R.string.new_deck), (dialogInterface, i) -> {
                     presenter.resetCurrentDeck();
                     presenter.pickNoun(getContext());
@@ -295,7 +299,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
 
     @Override
     public void returnToMainMenu() {
-        MainActivity.setFragment(getFragmentManager(), MainMenuFragment.getInstance());
+        MainActivity.popFragment(getFragmentManager());
     }
 
     private Point getLocation(View view) {
@@ -314,4 +318,14 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
         boolean isWithinYTarget = targetY1 > point.y && targetY1 < (point.y + answerTarget.getHeight());
         return isWithinXTarget && isWithinYTarget;
     }
+
+    @Override
+    public AchievementListener getAchievementListener() {
+        return achievementListener;
+    }
+
+    public void setAchievementListener(AchievementListener achievementListener) {
+        this.achievementListener = achievementListener;
+    }
+
 }

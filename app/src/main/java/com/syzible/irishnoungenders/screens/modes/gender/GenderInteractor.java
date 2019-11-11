@@ -16,6 +16,7 @@ import java.util.List;
 import java.util.Locale;
 
 class GenderInteractor {
+
     List<String> fetchHints(Noun.Gender gender) throws MalformedFileException {
         JSONArray hints;
         try {
