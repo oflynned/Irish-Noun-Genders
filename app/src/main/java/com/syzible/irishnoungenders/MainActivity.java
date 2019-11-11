@@ -278,6 +278,7 @@ public class MainActivity extends BaseActivity
     @Override
     public void onSignOutButtonClicked() {
         signOut();
+        clearUserId();
     }
 
     @Override
@@ -293,5 +294,9 @@ public class MainActivity extends BaseActivity
     @Override
     public void showGenericError() {
         showMessage("Something went wrong.");
+    }
+
+    private void clearUserId() {
+        LocalStorage.setStringPref(this, LocalStorage.Pref.USER_ID, null);
     }
 }
