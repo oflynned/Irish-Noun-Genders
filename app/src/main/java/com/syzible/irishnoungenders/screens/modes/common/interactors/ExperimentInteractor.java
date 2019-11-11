@@ -28,11 +28,7 @@ public class ExperimentInteractor {
             e.printStackTrace();
         }
 
-        try {
-            RestClient.post(context, Endpoints.REPORT_EXPERIMENT, payload, new ExperimentHttpHandler(callback));
-        } catch (UnsupportedEncodingException e) {
-            e.printStackTrace();
-        }
+        RestClient.post(context, Endpoints.REPORT_EXPERIMENT, payload, new ExperimentHttpHandler(callback));
     }
 
     // TODO replace with factory or builder pattern when more modes are added
