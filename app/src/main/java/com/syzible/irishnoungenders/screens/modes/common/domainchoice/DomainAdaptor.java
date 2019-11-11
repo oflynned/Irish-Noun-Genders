@@ -2,21 +2,20 @@ package com.syzible.irishnoungenders.screens.modes.common.domainchoice;
 
 import android.content.Context;
 import android.graphics.Typeface;
-import androidx.annotation.NonNull;
-import androidx.fragment.app.FragmentManager;
-import androidx.recyclerview.widget.RecyclerView;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import androidx.annotation.NonNull;
+import androidx.fragment.app.FragmentManager;
+import androidx.recyclerview.widget.RecyclerView;
+
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
 import com.syzible.irishnoungenders.common.models.Category;
 import com.syzible.irishnoungenders.common.persistence.Cache;
-import com.syzible.irishnoungenders.screens.modes.gender.GenderFragment;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -54,7 +53,7 @@ public class DomainAdaptor extends RecyclerView.Adapter<DomainAdaptor.GroupSelec
 
         groupSelectionHolder.itemView.setOnClickListener(v -> {
             Cache.setLastChosenCategoryFileName(context, category.getFileName());
-            MainActivity.setFragment(fragmentManager, GenderFragment.getInstance());
+            MainActivity.popFragment(fragmentManager);
         });
     }
 

@@ -11,8 +11,8 @@ import androidx.annotation.Nullable;
 
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnoungenders.R;
-import com.syzible.irishnoungenders.common.common.GameMode;
 import com.syzible.irishnoungenders.common.common.FeatureFlag;
+import com.syzible.irishnoungenders.common.common.GameMode;
 import com.syzible.irishnoungenders.common.firebase.GameServices;
 
 import butterknife.BindView;

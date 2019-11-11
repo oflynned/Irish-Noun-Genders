@@ -117,6 +117,12 @@ public class MainActivity extends BaseActivity
         }
     }
 
+    public static void popFragment(FragmentManager fragmentManager) {
+        if (fragmentManager != null) {
+            fragmentManager.popBackStack();
+        }
+    }
+
     public GoogleSignInClient getClient() {
         GoogleSignInOptions options = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_GAMES_SIGN_IN)
                 .requestEmail()
