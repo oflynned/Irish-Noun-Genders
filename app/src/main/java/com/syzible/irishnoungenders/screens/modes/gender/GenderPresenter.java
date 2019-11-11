@@ -202,11 +202,11 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
 
     @Override
     public void onSuccess() {
-        System.out.println("logged experiment");
+
     }
 
     @Override
     public void onFailure(int status, JSONObject response) {
-        System.out.println("something is fucked: " + status + " " + response.toString());
+
     }
 }
