@@ -313,15 +313,15 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     }
 
     private void emphasiseView(View view) {
-        YoYo.with(Techniques.RubberBand).duration(700).playOn(view);
+        YoYo.with(Techniques.RubberBand).duration(750).playOn(view);
     }
 
     private void animateViewIn(View view) {
-        YoYo.with(Techniques.RollIn).duration(700).playOn(view);
+        YoYo.with(Techniques.RollIn).duration(300).playOn(view);
     }
 
     private void animateViewOut(View view) {
-        YoYo.with(Techniques.RollOut).duration(700).playOn(view);
+        YoYo.with(Techniques.RollOut).duration(300).playOn(view);
     }
 
     private Point getLocation(View view) {
