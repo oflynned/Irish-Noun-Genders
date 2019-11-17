@@ -89,7 +89,7 @@
             android:id="@+id/answer_target"
             android:layout_width="64dp"
             android:layout_height="64dp"
-            android:layout_marginBottom="32dp"
+            android:layout_margin="64dp"
             android:src="@drawable/dotted_circle_outline"
             tools:ignore="ContentDescription" />
 
