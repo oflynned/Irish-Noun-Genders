@@ -40,6 +40,7 @@
                     android:layout_marginTop="24dp"
                     android:fontFamily="@font/open_sans"
                     android:gravity="center_vertical"
+                    android:padding="4dp"
                     android:text="@string/guess_the_gender_mode"
                     android:textColor="@color/white"
                     android:textSize="20sp" />
@@ -57,6 +58,7 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/open_sans"
                     android:gravity="center_vertical"
+                    android:padding="4dp"
                     android:text="@string/sign_in"
                     android:textColor="@color/white"
                     android:textSize="20sp" />
@@ -67,6 +69,7 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/open_sans"
                     android:gravity="center_vertical"
+                    android:padding="4dp"
                     android:text="@string/sign_out"
                     android:textColor="@color/white"
                     android:textSize="20sp" />
@@ -78,6 +81,7 @@
                     android:layout_marginTop="24dp"
                     android:fontFamily="@font/open_sans"
                     android:gravity="center_vertical"
+                    android:padding="4dp"
                     android:text="@string/settings_mode"
                     android:textColor="@color/white"
                     android:textSize="20sp" />
@@ -89,6 +93,7 @@
                     android:layout_marginTop="24dp"
                     android:fontFamily="@font/open_sans"
                     android:gravity="center_vertical"
+                    android:padding="4dp"
                     android:text="@string/how_to_play_mode"
                     android:textColor="@color/white"
                     android:textSize="20sp" />
@@ -100,6 +105,7 @@
                     android:layout_marginTop="24dp"
                     android:fontFamily="@font/open_sans"
                     android:gravity="center_vertical"
+                    android:padding="4dp"
                     android:text="@string/leaderboards"
                     android:textColor="@color/white"
                     android:textSize="20sp" />
@@ -111,6 +117,7 @@
                     android:layout_marginTop="24dp"
                     android:fontFamily="@font/open_sans"
                     android:gravity="center_vertical"
+                    android:padding="4dp"
                     android:text="@string/achievements"
                     android:textColor="@color/white"
                     android:textSize="20sp" />

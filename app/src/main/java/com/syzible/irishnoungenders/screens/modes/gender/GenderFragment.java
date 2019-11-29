@@ -15,6 +15,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
+import com.daimajia.androidanimations.library.Techniques;
+import com.daimajia.androidanimations.library.YoYo;
 import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
@@ -22,8 +24,6 @@ import com.syzible.irishnoungenders.common.firebase.AchievementListener;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnoungenders.screens.modes.common.ui.CircularTextView;
-
-import java.util.Objects;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -154,6 +154,9 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
                     draggableButton.setX(point.x);
                     draggableButton.setY(point.y - (draggableButton.getHeight() / 2));
                     optionChosen.setVisibility(View.GONE);
+
+                    animateViewOut(optionChosen == maleButton ? femaleButton : maleButton);
+                    emphasiseView(answerTarget);
                     break;
 
                 case MotionEvent.ACTION_MOVE:
@@ -168,6 +171,11 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
 
                     draggableButton.setVisibility(View.GONE);
                     optionChosen.setVisibility(View.VISIBLE);
+                    if (optionChosen == maleButton) {
+                        animateViewIn(femaleButton);
+                    } else {
+                        animateViewIn(maleButton);
+                    }
                     break;
 
                 default:
@@ -195,7 +203,9 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     @Override
     public void showChoiceButtons() {
         maleButton.setVisibility(View.VISIBLE);
+        animateViewIn(maleButton);
         femaleButton.setVisibility(View.VISIBLE);
+        animateViewIn(femaleButton);
     }
 
     @Override
@@ -302,6 +312,18 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
         MainActivity.popFragment(getFragmentManager());
     }
 
+    private void emphasiseView(View view) {
+        YoYo.with(Techniques.RubberBand).duration(750).playOn(view);
+    }
+
+    private void animateViewIn(View view) {
+        YoYo.with(Techniques.RollIn).duration(300).playOn(view);
+    }
+
+    private void animateViewOut(View view) {
+        YoYo.with(Techniques.RollOut).duration(300).playOn(view);
+    }
+
     private Point getLocation(View view) {
         int[] location = new int[2];
         view.getLocationInWindow(location);
@@ -327,5 +349,4 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     public void setAchievementListener(AchievementListener achievementListener) {
         this.achievementListener = achievementListener;
     }
-
 }
