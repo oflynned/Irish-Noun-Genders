@@ -2,8 +2,8 @@ package com.syzible.irishnoungenders.common.http;
 
 import android.os.Build;
 
-class Development {
-    static boolean isDebugMode() {
+public class Development {
+    public static boolean isDebugMode() {
         return Build.FINGERPRINT.startsWith("generic")
                 || Build.FINGERPRINT.startsWith("unknown")
                 || Build.MODEL.contains("google_sdk")

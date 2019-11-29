@@ -1,6 +1,7 @@
 package com.syzible.irishnoungenders;
 
 import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -30,6 +31,7 @@ import com.syzible.irishnoungenders.screens.MainMenuFragment;
 import com.syzible.irishnoungenders.screens.intro.IntroActivity;
 import com.syzible.irishnoungenders.screens.modes.gender.GenderFragment;
 import com.syzible.irishnoungenders.screens.options.settings.SettingsActivity;
+import com.syzible.irishnoungenders.screens.options.tutorial.TutorialFragment;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -225,14 +227,6 @@ public class MainActivity extends BaseActivity
         Snackbar.make(view, message, Snackbar.LENGTH_LONG).show();
     }
 
-    private void syncAchievements() {
-        if (!isSignedIn()) {
-            return;
-        }
-
-        showMessage("Offline cache sync not implemented");
-    }
-
     private void showAnonymousAchievementToast(Achievements.Achievement achievementUnlocked) {
         showMessage("Achievement unlocked: " + achievementUnlocked.toString());
     }
@@ -253,6 +247,11 @@ public class MainActivity extends BaseActivity
     @Override
     public void onSettingsClicked() {
         startActivity(new Intent(this, SettingsActivity.class));
+    }
+
+    @Override
+    public void onTutorialClicked() {
+        MainActivity.setFragmentBackstack(getSupportFragmentManager(), TutorialFragment.getInstance());
     }
 
     @Override
@@ -300,6 +299,15 @@ public class MainActivity extends BaseActivity
     @Override
     public void showGenericError() {
         showMessage("Something went wrong.");
+    }
+
+    @Override
+    public void showDialogMessage(String title, String message, DialogInterface.OnClickListener listener) {
+        new AlertDialog.Builder(this)
+                .setTitle(title)
+                .setMessage(message)
+                .setPositiveButton("OK", listener)
+                .show();
     }
 
     private void clearUserId() {

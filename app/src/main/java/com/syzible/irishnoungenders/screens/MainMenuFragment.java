@@ -32,6 +32,8 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
 
         void onSettingsClicked();
 
+        void onTutorialClicked();
+
         void onShowAchievementsRequested();
 
         void onShowLeaderboardsRequested();
@@ -92,6 +94,7 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
         signIn.setOnClickListener(this);
         signOut.setOnClickListener(this);
         settings.setOnClickListener(this);
+        howToPlay.setOnClickListener(this);
 
         setupMenuOptions();
     }
@@ -118,15 +121,17 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     }
 
     private void setupMenuOptions() {
-        // TODO enable generally
         if (FeatureFlag.VIEW_ACHIEVEMENTS.isEnabled()) {
             achievements.setOnClickListener(this);
         } else {
             achievements.setVisibility(View.GONE);
         }
 
-        howToPlay.setVisibility(View.GONE);
-        leaderboards.setVisibility(View.GONE);
+        if (FeatureFlag.SHOW_LEADERBOARDS.isEnabled()){
+            leaderboards.setVisibility(View.VISIBLE);
+        } else {
+            leaderboards.setVisibility(View.GONE);
+        }
     }
 
     @Override
@@ -164,18 +169,17 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
             case R.id.main_menu_settings:
                 listener.onSettingsClicked();
                 break;
-            case R.id.main_menu_achievements:
-                if (FeatureFlag.VIEW_ACHIEVEMENTS.isEnabled()) {
-                    listener.onShowAchievementsRequested();
-                }
-                break;
             case R.id.main_menu_how_to_play:
-                if (FeatureFlag.SHOW_TUTORIAL_SANDBOX.isEnabled()) {
-                    // TODO stub
-                }
+                listener.onTutorialClicked();
+                break;
             case R.id.main_menu_leaderboards:
                 if (FeatureFlag.SHOW_LEADERBOARDS.isEnabled()) {
                     // TODO stub
+                }
+                break;
+            case R.id.main_menu_achievements:
+                if (FeatureFlag.VIEW_ACHIEVEMENTS.isEnabled()) {
+                    listener.onShowAchievementsRequested();
                 }
                 break;
         }

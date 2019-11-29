@@ -176,6 +176,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
                     } else {
                         animateViewIn(maleButton);
                     }
+
                     break;
 
                 default:
@@ -247,6 +248,10 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
         }
 
         setupPostGuessListeners();
+    }
+
+    public void setSpecificNoun(String title) {
+
     }
 
     @Override

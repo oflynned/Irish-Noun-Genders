@@ -1,12 +1,14 @@
 package com.syzible.irishnoungenders.screens.modes.gender;
 
 import android.content.Context;
+import android.util.Log;
 
 import androidx.annotation.NonNull;
 
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.syzible.irishnoungenders.common.common.FeatureFlag;
 import com.syzible.irishnoungenders.common.firebase.Achievements;
+import com.syzible.irishnoungenders.common.http.Development;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.common.persistence.Cache;
 import com.syzible.irishnoungenders.common.persistence.DomainNotFoundException;
@@ -20,7 +22,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-class GenderPresenter extends MvpBasePresenter<GenderView> implements ExperimentInteractor.ExperimentCallback {
+public class GenderPresenter extends MvpBasePresenter<GenderView> implements ExperimentInteractor.ExperimentCallback {
     private GenderInteractor genderInteractor;
     private ExperimentInteractor experimentInteractor;
 
@@ -129,8 +131,12 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
     }
 
     private void logExperiment(Context context, Noun.Gender attempt) {
-        JSONObject payload = experimentInteractor.buildGenderExperimentPayload(currentDomain, currentNoun, attempt);
-        experimentInteractor.requestExperiment(context, payload, this);
+        if (Development.isDebugMode()) {
+            Log.d("GenderPresenter", "Logged experiment");
+        } else {
+            JSONObject payload = experimentInteractor.buildGenderExperimentPayload(currentDomain, currentNoun, attempt);
+            experimentInteractor.requestExperiment(context, payload, this);
+        }
     }
 
     void resetCurrentDeck() {
