@@ -74,10 +74,10 @@ dependencies {
     implementation 'com.github.paolorotolo:appintro:v5.1.0'
 
     implementation 'com.google.firebase:firebase-analytics:17.2.1'
-    implementation 'com.google.firebase:firebase-auth:19.1.0'
+    implementation 'com.google.firebase:firebase-auth:19.2.0'
 
     implementation 'com.google.android.gms:play-services-auth:17.0.0'
-    implementation 'com.google.android.gms:play-services-games:18.0.1'
+    implementation 'com.google.android.gms:play-services-games:19.0.0'
 
     implementation 'com.google.code.gson:gson:2.8.6'
     implementation 'com.theah64.materialcolors:materialcolors:1.0.0'
