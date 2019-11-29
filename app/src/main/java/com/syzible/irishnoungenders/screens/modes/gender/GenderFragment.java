@@ -189,10 +189,15 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
         runnable = () -> gameArea.performClick();
     }
 
+    @SuppressLint("ClickableViewAccessibility")
     private void setupPostGuessListeners() {
+        // first prevent the listeners from being draggable
+        femaleButton.setOnTouchListener(null);
+        maleButton.setOnTouchListener(null);
         handler.postDelayed(runnable, 2000);
 
         gameArea.setOnClickListener(v -> {
+            // reenable touch listeners for dragging options
             handler.removeCallbacks(runnable);
             presenter.pickNoun(getContext());
             setupGuessListeners();
@@ -240,6 +245,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
                 )
         );
         cardHint.setVisibility(View.GONE);
+
         if (noun.getGender() == Noun.Gender.MASCULINE) {
             maleButton.setVisibility(View.GONE);
         } else {
