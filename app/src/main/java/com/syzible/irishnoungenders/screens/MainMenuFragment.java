@@ -22,59 +22,37 @@ import butterknife.Unbinder;
 public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresenter>
         implements MainMenuView, TextView.OnClickListener {
 
+    @BindView(R.id.main_menu_gender_mode)
+    TextView genderMode;
+    @BindView(R.id.main_menu_sign_in)
+    TextView signIn;
+    @BindView(R.id.main_menu_sign_out)
+    TextView signOut;
+    @BindView(R.id.main_menu_settings)
+    TextView settings;
+    @BindView(R.id.main_menu_how_to_play)
+    TextView howToPlay;
+    @BindView(R.id.main_menu_leaderboards)
+    TextView leaderboards;
+    @BindView(R.id.main_menu_achievements)
+    TextView achievements;
+
     private GameServices gameServices;
     private Unbinder unbinder;
     private Listener listener;
     private boolean shouldShowSignIn = true;
 
-    public interface Listener {
-        void onStartGameRequested(GameMode gameMode);
-
-        void onSettingsClicked();
-
-        void onShowAchievementsRequested();
-
-        void onShowLeaderboardsRequested();
-
-        void onSignInButtonClicked();
-
-        void onSignOutButtonClicked();
-
-        void onSuccessfulSignOut();
+    public MainMenuFragment() {
     }
 
-    @BindView(R.id.main_menu_gender_mode)
-    TextView genderMode;
-
-    @BindView(R.id.main_menu_sign_in)
-    TextView signIn;
-
-    @BindView(R.id.main_menu_sign_out)
-    TextView signOut;
-
-    @BindView(R.id.main_menu_settings)
-    TextView settings;
-
-    @BindView(R.id.main_menu_how_to_play)
-    TextView howToPlay;
-
-    @BindView(R.id.main_menu_leaderboards)
-    TextView leaderboards;
-
-    @BindView(R.id.main_menu_achievements)
-    TextView achievements;
-
-    public MainMenuFragment() {
+    public static MainMenuFragment getInstance() {
+        return new MainMenuFragment();
     }
 
     @NonNull
     @Override
     public MainMenuPresenter createPresenter() {
         return new MainMenuPresenter();
-    }
-
-    public static MainMenuFragment getInstance() {
-        return new MainMenuFragment();
     }
 
     @Nullable
@@ -108,7 +86,9 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
             showSignOut();
         }
 
-        gameServices.signInSilently();
+        if (!gameServices.isSignedIn()) {
+            gameServices.signInExplicitly();
+        }
     }
 
     @Override
@@ -206,5 +186,21 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     public void setShouldShowSignIn(boolean shouldShowSignIn) {
         this.shouldShowSignIn = shouldShowSignIn;
         updateUI();
+    }
+
+    public interface Listener {
+        void onStartGameRequested(GameMode gameMode);
+
+        void onSettingsClicked();
+
+        void onShowAchievementsRequested();
+
+        void onShowLeaderboardsRequested();
+
+        void onSignInButtonClicked();
+
+        void onSignOutButtonClicked();
+
+        void onSuccessfulSignOut();
     }
 }
