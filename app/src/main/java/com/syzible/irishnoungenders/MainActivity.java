@@ -251,6 +251,11 @@ public class MainActivity extends BaseActivity
     }
 
     @Override
+    public void onQuickstartClicked() {
+
+    }
+
+    @Override
     public void onSettingsClicked() {
         startActivity(new Intent(this, SettingsActivity.class));
     }

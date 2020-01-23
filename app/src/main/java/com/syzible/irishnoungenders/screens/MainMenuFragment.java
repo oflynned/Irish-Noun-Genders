@@ -30,6 +30,8 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     public interface Listener {
         void onStartGameRequested(GameMode gameMode);
 
+        void onQuickstartClicked();
+
         void onSettingsClicked();
 
         void onShowAchievementsRequested();
@@ -63,6 +65,9 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
 
     @BindView(R.id.main_menu_achievements)
     TextView achievements;
+
+    @BindView(R.id.main_menu_rule_quickstart_mode)
+    TextView ruleQuickstart;
 
     public MainMenuFragment() {
     }

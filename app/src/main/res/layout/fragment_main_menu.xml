@@ -31,7 +31,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:orientation="vertical">
 
                 <TextView
                     android:id="@+id/main_menu_gender_mode"
@@ -42,6 +43,18 @@
                     android:gravity="center_vertical"
                     android:padding="4dp"
                     android:text="@string/guess_the_gender_mode"
+                    android:textColor="@color/white"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/main_menu_rule_quickstart_mode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="24dp"
+                    android:fontFamily="@font/open_sans"
+                    android:gravity="center_vertical"
+                    android:padding="4dp"
+                    android:text="Rule quickstart"
                     android:textColor="@color/white"
                     android:textSize="20sp" />
             </LinearLayout>
@@ -96,7 +109,8 @@
                     android:padding="4dp"
                     android:text="@string/how_to_play_mode"
                     android:textColor="@color/white"
-                    android:textSize="20sp" />
+                    android:textSize="20sp"
+                    android:visibility="gone" />
 
                 <TextView
                     android:id="@+id/main_menu_leaderboards"
@@ -108,7 +122,8 @@
                     android:padding="4dp"
                     android:text="@string/leaderboards"
                     android:textColor="@color/white"
-                    android:textSize="20sp" />
+                    android:textSize="20sp"
+                    android:visibility="gone" />
 
                 <TextView
                     android:id="@+id/main_menu_achievements"
@@ -120,7 +135,8 @@
                     android:padding="4dp"
                     android:text="@string/achievements"
                     android:textColor="@color/white"
-                    android:textSize="20sp" />
+                    android:textSize="20sp"
+                    android:visibility="gone" />
 
             </LinearLayout>
         </LinearLayout>
