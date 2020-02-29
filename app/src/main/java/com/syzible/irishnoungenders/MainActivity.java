@@ -114,7 +114,7 @@ public class MainActivity extends BaseActivity
         new AlertDialog.Builder(this)
                 .setTitle(R.string.exit_game)
                 .setMessage(R.string.confirm_exit_game)
-                .setPositiveButton(R.string.close, (dialogInterface, i) -> MainActivity.this.finish())
+                .setPositiveButton(R.string.close, (dialogInterface, i) -> MainActivity.this.finishAndRemoveTask())
                 .setNegativeButton(R.string.cancel, null)
                 .show();
     }
