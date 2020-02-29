@@ -247,7 +247,7 @@ public class MainActivity extends BaseActivity
     @Override
     public void onStartGameRequested(GameMode gameMode) {
         if (isSigningIn) {
-            showMessage("Please wait, signing in ...");
+            showMessage(getString(R.string.please_wait_signing_in));
             return;
         }
 
