@@ -23,6 +23,8 @@ import com.syzible.irishnoungenders.common.common.GameMode;
 import com.syzible.irishnoungenders.common.common.UIHelper;
 import com.syzible.irishnoungenders.common.firebase.AchievementListener;
 import com.syzible.irishnoungenders.common.firebase.Achievements;
+import com.syzible.irishnoungenders.common.firebase.Event;
+import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
 import com.syzible.irishnoungenders.common.firebase.GameServices;
 import com.syzible.irishnoungenders.common.languageselection.BaseActivity;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
@@ -42,15 +44,40 @@ public class MainActivity extends BaseActivity
     public static final int RC_ACHIEVEMENTS = 2;
     public static final int RC_LEADERBOARD = 3;
 
-    private AchievementsClient achievementsClient;
-    private GoogleSignInClient googleSignInClient;
-
-    private MainMenuFragment mainMenuFragment;
-
-    private Unbinder unbinder;
-
     @BindView(R.id.fragment_content)
     View view;
+
+    private AchievementsClient achievementsClient;
+    private GoogleSignInClient googleSignInClient;
+    private MainMenuFragment mainMenuFragment;
+    private Unbinder unbinder;
+    private boolean isSigningIn = false;
+
+    public static void setFragment(FragmentManager fragmentManager, Fragment fragment) {
+        if (fragmentManager != null) {
+            fragmentManager.popBackStack(null, FragmentManager.POP_BACK_STACK_INCLUSIVE);
+            fragmentManager.beginTransaction()
+                    .replace(R.id.fragment_content, fragment)
+                    .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
+                    .commit();
+        }
+    }
+
+    public static void setFragmentBackstack(FragmentManager fragmentManager, Fragment fragment) {
+        if (fragmentManager != null) {
+            fragmentManager.beginTransaction()
+                    .replace(R.id.fragment_content, fragment)
+                    .addToBackStack(fragment.getClass().getSimpleName())
+                    .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
+                    .commit();
+        }
+    }
+
+    public static void popFragment(FragmentManager fragmentManager) {
+        if (fragmentManager != null) {
+            fragmentManager.popBackStack();
+        }
+    }
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -87,7 +114,7 @@ public class MainActivity extends BaseActivity
         new AlertDialog.Builder(this)
                 .setTitle(R.string.exit_game)
                 .setMessage(R.string.confirm_exit_game)
-                .setPositiveButton(R.string.close, (dialogInterface, i) -> MainActivity.this.finish())
+                .setPositiveButton(R.string.close, (dialogInterface, i) -> MainActivity.this.finishAndRemoveTask())
                 .setNegativeButton(R.string.cancel, null)
                 .show();
     }
@@ -95,32 +122,6 @@ public class MainActivity extends BaseActivity
     private void setupInitialSettings() {
         LocalStorage.setBooleanPref(this, LocalStorage.Pref.SHOW_HINTS, true);
         LocalStorage.setBooleanPref(this, LocalStorage.Pref.FORCE_IRISH_LANGUAGE, false);
-    }
-
-    public static void setFragment(FragmentManager fragmentManager, Fragment fragment) {
-        if (fragmentManager != null) {
-            fragmentManager.popBackStack(null, FragmentManager.POP_BACK_STACK_INCLUSIVE);
-            fragmentManager.beginTransaction()
-                    .replace(R.id.fragment_content, fragment)
-                    .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
-                    .commit();
-        }
-    }
-
-    public static void setFragmentBackstack(FragmentManager fragmentManager, Fragment fragment) {
-        if (fragmentManager != null) {
-            fragmentManager.beginTransaction()
-                    .replace(R.id.fragment_content, fragment)
-                    .addToBackStack(fragment.getClass().getSimpleName())
-                    .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
-                    .commit();
-        }
-    }
-
-    public static void popFragment(FragmentManager fragmentManager) {
-        if (fragmentManager != null) {
-            fragmentManager.popBackStack();
-        }
     }
 
     public GoogleSignInClient getClient() {
@@ -143,14 +144,18 @@ public class MainActivity extends BaseActivity
                 onConnected(account);
             } catch (ApiException apiException) {
                 onDisconnected();
+            } finally {
+                isSigningIn = false;
             }
         }
     }
 
     @Override
     public void signInSilently() {
+        FirebaseLogger.logEvent(getApplicationContext(), Event.SILENT_SIGN_IN);
         googleSignInClient.silentSignIn().addOnCompleteListener(this,
                 task -> {
+                    isSigningIn = false;
                     if (task.isSuccessful()) {
                         onConnected(task.getResult());
                     } else {
@@ -159,7 +164,8 @@ public class MainActivity extends BaseActivity
                 });
     }
 
-    public void startSignInIntent() {
+    @Override
+    public void signInExplicitly() {
         startActivityForResult(googleSignInClient.getSignInIntent(), RC_SIGN_IN);
     }
 
@@ -186,6 +192,7 @@ public class MainActivity extends BaseActivity
         // we don't need any information about the user aside from their anonymous id
         // to help with segregating some past results for helping future predictions
         // for the given user
+        FirebaseLogger.logEvent(getApplicationContext(), Event.COMPLETE_SIGN_IN);
         LocalStorage.setStringPref(this, LocalStorage.Pref.USER_ID, account.getId());
 
         Games.getGamesClient(this, account).setViewForPopups(view);
@@ -239,8 +246,14 @@ public class MainActivity extends BaseActivity
 
     @Override
     public void onStartGameRequested(GameMode gameMode) {
+        if (isSigningIn) {
+            showMessage(getString(R.string.please_wait_signing_in));
+            return;
+        }
+
         switch (gameMode) {
             case GENDER:
+                FirebaseLogger.logEvent(getApplicationContext(), Event.START_GAME_MODE, "start_game", "gender");
                 GenderFragment fragment = GenderFragment.getInstance();
                 fragment.setAchievementListener(this);
                 setFragmentBackstack(getSupportFragmentManager(), fragment);
@@ -278,11 +291,14 @@ public class MainActivity extends BaseActivity
 
     @Override
     public void onSignInButtonClicked() {
-        startSignInIntent();
+        isSigningIn = true;
+        FirebaseLogger.logEvent(getApplicationContext(), Event.START_SIGN_IN);
+        signInExplicitly();
     }
 
     @Override
     public void onSignOutButtonClicked() {
+        FirebaseLogger.logEvent(getApplicationContext(), Event.SIGN_OUT);
         signOut();
         clearUserId();
     }

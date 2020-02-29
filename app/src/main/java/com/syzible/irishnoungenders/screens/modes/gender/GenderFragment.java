@@ -21,6 +21,8 @@ import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
 import com.syzible.irishnoungenders.common.firebase.AchievementListener;
+import com.syzible.irishnoungenders.common.firebase.Event;
+import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnoungenders.screens.modes.common.ui.CircularTextView;
@@ -152,7 +154,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
                     draggableButton.setText(label);
                     draggableButton.setVisibility(View.VISIBLE);
                     draggableButton.setX(point.x);
-                    draggableButton.setY(point.y - (draggableButton.getHeight() / 2));
+                    draggableButton.setY(point.y - ((float) draggableButton.getHeight() / 2));
                     optionChosen.setVisibility(View.GONE);
 
                     animateViewOut(optionChosen == maleButton ? femaleButton : maleButton);
@@ -315,6 +317,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
 
     @Override
     public void returnToMainMenu() {
+        FirebaseLogger.logEvent(getContext(), Event.LEAVE_GAME, "score", presenter.getCurrentScore());
         MainActivity.popFragment(getFragmentManager());
     }
 

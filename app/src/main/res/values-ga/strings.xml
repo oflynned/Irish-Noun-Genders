@@ -46,4 +46,5 @@
     <string name="sign_in">Sínigh isteach</string>
     <string name="sign_out">Sínigh amach</string>
     <string name="sign_out_information">An bhfuil tú cinnte go dteastaíonn uait síniú amach? Ní bheidh tú in ann gaiscí agus an clár ceann riain a leanúint.</string>
+    <string name="please_wait_signing_in">Fan le do thoil, á síniú isteach ...</string>
 </resources>

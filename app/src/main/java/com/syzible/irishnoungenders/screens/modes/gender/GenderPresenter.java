@@ -7,6 +7,8 @@ import androidx.annotation.NonNull;
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.syzible.irishnoungenders.common.common.FeatureFlag;
 import com.syzible.irishnoungenders.common.firebase.Achievements;
+import com.syzible.irishnoungenders.common.firebase.Event;
+import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.common.persistence.Cache;
 import com.syzible.irishnoungenders.common.persistence.DomainNotFoundException;
@@ -91,10 +93,12 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
 
     void pickNoun(Context context) {
         if (remainingNouns.size() == 0) {
+            FirebaseLogger.logEvent(context, Event.DECK_FINISHED);
             ifViewAttached(v -> v.notifyEndOfDeck(currentDomain, shownNouns.size()));
             return;
         }
 
+        FirebaseLogger.logEvent(context, Event.SHOW_NEW_WORD);
         Collections.shuffle(remainingNouns);
         currentNoun = remainingNouns.get(0);
         checkHintIsAvailable(context, currentNoun);
@@ -106,12 +110,14 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
 
     void makeGuess(Context context, Noun.Gender gender) {
         if (isGuessCorrect(gender)) {
+            FirebaseLogger.logEvent(context, Event.MAKE_GUESS, "guess_correct", true);
             shownNouns.add(currentNoun);
             remainingNouns.remove(currentNoun);
             incrementScore();
             checkNewHighScore(context);
             ifViewAttached(v -> v.notifyCorrectGuess(currentNoun));
         } else {
+            FirebaseLogger.logEvent(context, Event.MAKE_GUESS, "guess_correct", false);
             resetScore();
             ifViewAttached(v -> v.notifyWrongGuess(currentNoun));
         }
@@ -124,6 +130,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
             }
         }
 
+        // log experiment to remote db, should migrate this to firebase for ease of viewing events
         logExperiment(context, gender);
         ifViewAttached(v -> v.setScore(String.valueOf(currentScore)));
     }
@@ -208,5 +215,9 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
     @Override
     public void onFailure(int status, JSONObject response) {
 
+    }
+
+    public int getCurrentScore() {
+        return currentScore;
     }
 }
