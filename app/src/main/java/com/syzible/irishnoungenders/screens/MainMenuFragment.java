@@ -55,6 +55,15 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
         return new MainMenuPresenter();
     }
 
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+
+        if (!gameServices.isSignedIn()) {
+            gameServices.signInExplicitly();
+        }
+    }
+
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
@@ -84,10 +93,6 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
         } else {
             hideSignIn();
             showSignOut();
-        }
-
-        if (!gameServices.isSignedIn()) {
-            gameServices.signInExplicitly();
         }
     }
 
