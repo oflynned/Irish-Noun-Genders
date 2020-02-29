@@ -18,4 +18,18 @@ public class FirebaseLogger {
         bundle.putLong("event_time", System.currentTimeMillis());
         FirebaseAnalytics.getInstance(context).logEvent(event.name().toLowerCase(), bundle);
     }
+
+    public static void logEvent(Context context, Event event, String key, boolean value) {
+        Bundle bundle = new Bundle();
+        bundle.putBoolean(key, value);
+        bundle.putLong("event_time", System.currentTimeMillis());
+        FirebaseAnalytics.getInstance(context).logEvent(event.name().toLowerCase(), bundle);
+    }
+
+    public static void logEvent(Context context, Event event, String key, int value) {
+        Bundle bundle = new Bundle();
+        bundle.putInt(key, value);
+        bundle.putLong("event_time", System.currentTimeMillis());
+        FirebaseAnalytics.getInstance(context).logEvent(event.name().toLowerCase(), bundle);
+    }
 }
