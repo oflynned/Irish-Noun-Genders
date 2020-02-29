@@ -44,15 +44,39 @@ public class MainActivity extends BaseActivity
     public static final int RC_ACHIEVEMENTS = 2;
     public static final int RC_LEADERBOARD = 3;
 
-    private AchievementsClient achievementsClient;
-    private GoogleSignInClient googleSignInClient;
-
-    private MainMenuFragment mainMenuFragment;
-
-    private Unbinder unbinder;
-
     @BindView(R.id.fragment_content)
     View view;
+
+    private AchievementsClient achievementsClient;
+    private GoogleSignInClient googleSignInClient;
+    private MainMenuFragment mainMenuFragment;
+    private Unbinder unbinder;
+
+    public static void setFragment(FragmentManager fragmentManager, Fragment fragment) {
+        if (fragmentManager != null) {
+            fragmentManager.popBackStack(null, FragmentManager.POP_BACK_STACK_INCLUSIVE);
+            fragmentManager.beginTransaction()
+                    .replace(R.id.fragment_content, fragment)
+                    .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
+                    .commit();
+        }
+    }
+
+    public static void setFragmentBackstack(FragmentManager fragmentManager, Fragment fragment) {
+        if (fragmentManager != null) {
+            fragmentManager.beginTransaction()
+                    .replace(R.id.fragment_content, fragment)
+                    .addToBackStack(fragment.getClass().getSimpleName())
+                    .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
+                    .commit();
+        }
+    }
+
+    public static void popFragment(FragmentManager fragmentManager) {
+        if (fragmentManager != null) {
+            fragmentManager.popBackStack();
+        }
+    }
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -99,32 +123,6 @@ public class MainActivity extends BaseActivity
         LocalStorage.setBooleanPref(this, LocalStorage.Pref.FORCE_IRISH_LANGUAGE, false);
     }
 
-    public static void setFragment(FragmentManager fragmentManager, Fragment fragment) {
-        if (fragmentManager != null) {
-            fragmentManager.popBackStack(null, FragmentManager.POP_BACK_STACK_INCLUSIVE);
-            fragmentManager.beginTransaction()
-                    .replace(R.id.fragment_content, fragment)
-                    .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
-                    .commit();
-        }
-    }
-
-    public static void setFragmentBackstack(FragmentManager fragmentManager, Fragment fragment) {
-        if (fragmentManager != null) {
-            fragmentManager.beginTransaction()
-                    .replace(R.id.fragment_content, fragment)
-                    .addToBackStack(fragment.getClass().getSimpleName())
-                    .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
-                    .commit();
-        }
-    }
-
-    public static void popFragment(FragmentManager fragmentManager) {
-        if (fragmentManager != null) {
-            fragmentManager.popBackStack();
-        }
-    }
-
     public GoogleSignInClient getClient() {
         GoogleSignInOptions options = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_GAMES_SIGN_IN)
                 .requestEmail()
@@ -162,7 +160,8 @@ public class MainActivity extends BaseActivity
                 });
     }
 
-    public void startSignInIntent() {
+    @Override
+    public void signInExplicitly() {
         startActivityForResult(googleSignInClient.getSignInIntent(), RC_SIGN_IN);
     }
 
@@ -284,7 +283,7 @@ public class MainActivity extends BaseActivity
     @Override
     public void onSignInButtonClicked() {
         FirebaseLogger.logEvent(getApplicationContext(), Event.START_SIGN_IN);
-        startSignInIntent();
+        signInExplicitly();
     }
 
     @Override
