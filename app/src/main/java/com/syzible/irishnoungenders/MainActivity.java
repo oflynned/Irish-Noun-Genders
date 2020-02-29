@@ -51,6 +51,7 @@ public class MainActivity extends BaseActivity
     private GoogleSignInClient googleSignInClient;
     private MainMenuFragment mainMenuFragment;
     private Unbinder unbinder;
+    private boolean isSigningIn = false;
 
     public static void setFragment(FragmentManager fragmentManager, Fragment fragment) {
         if (fragmentManager != null) {
@@ -143,6 +144,8 @@ public class MainActivity extends BaseActivity
                 onConnected(account);
             } catch (ApiException apiException) {
                 onDisconnected();
+            } finally {
+                isSigningIn = false;
             }
         }
     }
@@ -152,6 +155,7 @@ public class MainActivity extends BaseActivity
         FirebaseLogger.logEvent(getApplicationContext(), Event.SILENT_SIGN_IN);
         googleSignInClient.silentSignIn().addOnCompleteListener(this,
                 task -> {
+                    isSigningIn = false;
                     if (task.isSuccessful()) {
                         onConnected(task.getResult());
                     } else {
@@ -242,6 +246,11 @@ public class MainActivity extends BaseActivity
 
     @Override
     public void onStartGameRequested(GameMode gameMode) {
+        if (isSigningIn) {
+            showMessage("Please wait, signing in ...");
+            return;
+        }
+
         switch (gameMode) {
             case GENDER:
                 FirebaseLogger.logEvent(getApplicationContext(), Event.START_GAME_MODE, "start_game", "gender");
@@ -282,6 +291,7 @@ public class MainActivity extends BaseActivity
 
     @Override
     public void onSignInButtonClicked() {
+        isSigningIn = true;
         FirebaseLogger.logEvent(getApplicationContext(), Event.START_SIGN_IN);
         signInExplicitly();
     }
