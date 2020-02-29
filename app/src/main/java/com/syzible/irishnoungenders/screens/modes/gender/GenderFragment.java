@@ -152,7 +152,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
                     draggableButton.setText(label);
                     draggableButton.setVisibility(View.VISIBLE);
                     draggableButton.setX(point.x);
-                    draggableButton.setY(point.y - (draggableButton.getHeight() / 2));
+                    draggableButton.setY(point.y - ((float) draggableButton.getHeight() / 2));
                     optionChosen.setVisibility(View.GONE);
 
                     animateViewOut(optionChosen == maleButton ? femaleButton : maleButton);
