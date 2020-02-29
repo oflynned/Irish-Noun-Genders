@@ -23,6 +23,8 @@ import com.syzible.irishnoungenders.common.common.GameMode;
 import com.syzible.irishnoungenders.common.common.UIHelper;
 import com.syzible.irishnoungenders.common.firebase.AchievementListener;
 import com.syzible.irishnoungenders.common.firebase.Achievements;
+import com.syzible.irishnoungenders.common.firebase.Event;
+import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
 import com.syzible.irishnoungenders.common.firebase.GameServices;
 import com.syzible.irishnoungenders.common.languageselection.BaseActivity;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
@@ -147,6 +149,7 @@ public class MainActivity extends BaseActivity
 
     @Override
     public void signInSilently() {
+        FirebaseLogger.logEvent(getApplicationContext(), Event.SILENT_SIGN_IN);
         googleSignInClient.silentSignIn().addOnCompleteListener(this,
                 task -> {
                     if (task.isSuccessful()) {
@@ -185,6 +188,7 @@ public class MainActivity extends BaseActivity
         // we don't need any information about the user aside from their anonymous id
         // to help with segregating some past results for helping future predictions
         // for the given user
+        FirebaseLogger.logEvent(getApplicationContext(), Event.COMPLETE_SIGN_IN);
         LocalStorage.setStringPref(this, LocalStorage.Pref.USER_ID, account.getId());
 
         Games.getGamesClient(this, account).setViewForPopups(view);
@@ -240,6 +244,7 @@ public class MainActivity extends BaseActivity
     public void onStartGameRequested(GameMode gameMode) {
         switch (gameMode) {
             case GENDER:
+                FirebaseLogger.logEvent(getApplicationContext(), Event.START_GAME_MODE, "start_game", "gender");
                 GenderFragment fragment = GenderFragment.getInstance();
                 fragment.setAchievementListener(this);
                 setFragmentBackstack(getSupportFragmentManager(), fragment);
@@ -277,11 +282,13 @@ public class MainActivity extends BaseActivity
 
     @Override
     public void onSignInButtonClicked() {
+        FirebaseLogger.logEvent(getApplicationContext(), Event.START_SIGN_IN);
         signInExplicitly();
     }
 
     @Override
     public void onSignOutButtonClicked() {
+        FirebaseLogger.logEvent(getApplicationContext(), Event.SIGN_OUT);
         signOut();
         clearUserId();
     }

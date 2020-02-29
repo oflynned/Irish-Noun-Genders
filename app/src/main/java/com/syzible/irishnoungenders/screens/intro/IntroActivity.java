@@ -11,6 +11,8 @@ import com.github.paolorotolo.appintro.AppIntro;
 import com.github.paolorotolo.appintro.AppIntroFragment;
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
+import com.syzible.irishnoungenders.common.firebase.Event;
+import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
 import com.syzible.irishnoungenders.common.languageselection.BaseActivity;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 
@@ -41,6 +43,7 @@ public class IntroActivity extends AppIntro {
     }
 
     private void startMain() {
+        FirebaseLogger.logEvent(getApplicationContext(), Event.COMPLETE_FIRST_RUN);
         LocalStorage.setBooleanPref(this, LocalStorage.Pref.FIRST_RUN_COMPLETE, true);
         startActivity(new Intent(this, MainActivity.class));
         this.finish();
