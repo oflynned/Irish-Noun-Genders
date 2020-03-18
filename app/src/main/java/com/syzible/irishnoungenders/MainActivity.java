@@ -196,12 +196,12 @@ public class MainActivity extends BaseActivity
         LocalStorage.setStringPref(this, LocalStorage.Pref.USER_ID, account.getId());
 
         Games.getGamesClient(this, account).setViewForPopups(view);
-        mainMenuFragment.setShouldShowSignIn(false);
+        mainMenuFragment.updateUI(false);
         achievementsClient = Games.getAchievementsClient(this, account);
     }
 
     public void onDisconnected() {
-        mainMenuFragment.setShouldShowSignIn(true);
+        mainMenuFragment.updateUI(true);
         achievementsClient = null;
     }
 

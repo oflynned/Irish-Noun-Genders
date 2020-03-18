@@ -45,6 +45,7 @@ public class IntroActivity extends AppIntro {
     private void startMain() {
         FirebaseLogger.logEvent(getApplicationContext(), Event.COMPLETE_FIRST_RUN);
         LocalStorage.setBooleanPref(this, LocalStorage.Pref.FIRST_RUN_COMPLETE, true);
+        LocalStorage.setBooleanPref(this, LocalStorage.Pref.HAS_SIGNED_OUT, false);
         startActivity(new Intent(this, MainActivity.class));
         this.finish();
     }
