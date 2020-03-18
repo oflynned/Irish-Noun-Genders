@@ -210,9 +210,9 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     @Override
     public void showChoiceButtons() {
         maleButton.setVisibility(View.VISIBLE);
-        animateViewIn(maleButton);
         femaleButton.setVisibility(View.VISIBLE);
-        animateViewIn(femaleButton);
+        animateViewFirstDraw(maleButton);
+        animateViewFirstDraw(femaleButton);
     }
 
     @Override
@@ -323,6 +323,10 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
 
     private void emphasiseView(View view) {
         YoYo.with(Techniques.RubberBand).duration(750).playOn(view);
+    }
+
+    private void animateViewFirstDraw(View view) {
+        YoYo.with(Techniques.FadeIn).duration(600).playOn(view);
     }
 
     private void animateViewIn(View view) {
