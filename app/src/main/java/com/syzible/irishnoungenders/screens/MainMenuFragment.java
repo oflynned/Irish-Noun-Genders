@@ -14,6 +14,7 @@ import com.syzible.irishnoungenders.R;
 import com.syzible.irishnoungenders.common.common.FeatureFlag;
 import com.syzible.irishnoungenders.common.common.GameMode;
 import com.syzible.irishnoungenders.common.firebase.GameServices;
+import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -40,7 +41,6 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     private GameServices gameServices;
     private Unbinder unbinder;
     private Listener listener;
-    private boolean shouldShowSignIn = true;
 
     public MainMenuFragment() {
     }
@@ -58,8 +58,9 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        boolean hasManuallySignedOut = LocalStorage.getBooleanPref(getContext(), LocalStorage.Pref.HAS_SIGNED_OUT);
 
-        if (!gameServices.isSignedIn()) {
+        if (!hasManuallySignedOut && !gameServices.isSignedIn()) {
             gameServices.signInExplicitly();
         }
     }
@@ -86,14 +87,7 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
     @Override
     public void onResume() {
         super.onResume();
-
-        if (shouldShowSignIn) {
-            showSignIn();
-            hideSignOut();
-        } else {
-            hideSignIn();
-            showSignOut();
-        }
+        updateUI(gameServices.isSignedIn());
     }
 
     @Override
@@ -141,9 +135,11 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
                 listener.onStartGameRequested(GameMode.GENDER);
                 break;
             case R.id.main_menu_sign_in:
+                LocalStorage.setBooleanPref(getContext(), LocalStorage.Pref.HAS_SIGNED_OUT, false);
                 listener.onSignInButtonClicked();
                 break;
             case R.id.main_menu_sign_out:
+                LocalStorage.setBooleanPref(getContext(), LocalStorage.Pref.HAS_SIGNED_OUT, true);
                 listener.onSignOutButtonClicked();
                 break;
             case R.id.main_menu_settings:
@@ -166,14 +162,15 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
         }
     }
 
-    private void updateUI() {
-        if (shouldShowSignIn) {
-            showSignIn();
-            hideSignOut();
-        } else {
+    public void updateUI(boolean isSignedIn) {
+        if (isSignedIn) {
             hideSignIn();
             showSignOut();
+            return;
         }
+
+        showSignIn();
+        hideSignOut();
     }
 
     public void setGameServices(GameServices gameServices) {
@@ -186,11 +183,6 @@ public class MainMenuFragment extends MvpFragment<MainMenuView, MainMenuPresente
 
     public void setListener(Listener listener) {
         this.listener = listener;
-    }
-
-    public void setShouldShowSignIn(boolean shouldShowSignIn) {
-        this.shouldShowSignIn = shouldShowSignIn;
-        updateUI();
     }
 
     public interface Listener {
