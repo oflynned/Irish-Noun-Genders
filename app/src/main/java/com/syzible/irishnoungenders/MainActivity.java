@@ -30,6 +30,7 @@ import com.syzible.irishnoungenders.common.languageselection.BaseActivity;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
 import com.syzible.irishnoungenders.screens.intro.IntroActivity;
+import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnoungenders.screens.modes.gender.GenderFragment;
 import com.syzible.irishnoungenders.screens.options.settings.SettingsActivity;
 
@@ -79,11 +80,25 @@ public class MainActivity extends BaseActivity
         }
     }
 
+    private void migrateLocalPrefs() {
+        String currentLocale = LocalStorage.getStringPref(this, LocalStorage.Pref.DISPLAY_LANGUAGE);
+        if (currentLocale == null) {
+            LocalStorage.setStringPref(this, LocalStorage.Pref.DISPLAY_LANGUAGE, "en");
+        }
+
+        String defaultCategory = LocalStorage.getStringPref(this, LocalStorage.Pref.CURRENT_CATEGORY);
+        if (defaultCategory == null) {
+            LocalStorage.setStringPref(this, LocalStorage.Pref.CURRENT_CATEGORY, "general");
+        }
+    }
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         unbinder = ButterKnife.bind(this);
+
+        migrateLocalPrefs();
 
         googleSignInClient = getClient();
         mainMenuFragment = MainMenuFragment.getInstance();
@@ -121,7 +136,6 @@ public class MainActivity extends BaseActivity
 
     private void setupInitialSettings() {
         LocalStorage.setBooleanPref(this, LocalStorage.Pref.SHOW_HINTS, true);
-        LocalStorage.setBooleanPref(this, LocalStorage.Pref.FORCE_IRISH_LANGUAGE, false);
     }
 
     public GoogleSignInClient getClient() {

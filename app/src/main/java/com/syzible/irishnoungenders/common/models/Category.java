@@ -6,22 +6,20 @@ import com.syzible.irishnoungenders.R;
 
 import java.util.Locale;
 
-public class Category {
-    private String displayName, fileName;
+public class Category extends Domain {
     private boolean isChosen;
 
-    public Category(String displayName, String currentCategory) {
-        this.displayName = displayName;
-        this.fileName = domainToFile(displayName);
-        this.isChosen = getFileName().equals(currentCategory);
+    public Category(String currentCategoryFileName, Domain domain) {
+        this(currentCategoryFileName, domain.getFileName(), domain.getEn(), domain.getGa(), domain.getActiveLocale());
     }
 
-    public String getCategory() {
-        return displayName.toLowerCase(Locale.US);
+    private Category(String currentCategoryFileName, String fileName, String en, String ga, String activeLocale) {
+        super(fileName, en, ga, activeLocale);
+        this.isChosen = getFileName().equals(currentCategoryFileName);
     }
 
-    public String getFileName() {
-        return fileName.toLowerCase(Locale.US);
+    public String getDisplayName(String locale) {
+        return locale.equals("en") ? getEn() : getGa();
     }
 
     public int getIcon(Context context) {

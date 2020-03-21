@@ -4,6 +4,7 @@ import android.content.Context;
 
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.syzible.irishnoungenders.common.models.Category;
+import com.syzible.irishnoungenders.common.models.Domain;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 
 import org.json.JSONException;
@@ -23,21 +24,20 @@ class DomainChoicePresenter extends MvpBasePresenter<DomainChoiceView>
 
     void fetchCategories(Context context) {
         try {
-            interactor.fetchDomains(context, this);
-        } catch (JSONException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
+            interactor.fetchDomains(LocalStorage.getStringPref(context, LocalStorage.Pref.DISPLAY_LANGUAGE), context, this);
+        } catch (JSONException | IOException e) {
             e.printStackTrace();
         }
     }
 
     @Override
-    public void onSuccess(Context context, List<String> domainList) {
+    public void onSuccess(Context context, List<Domain> domainList) {
         int selectedIndex = 0;
         List<Category> categoryList = new ArrayList<>();
         String currentCategory = LocalStorage.getStringPref(context, LocalStorage.Pref.CURRENT_CATEGORY);
-        for (String domain : domainList) {
-            Category category = new Category(domain, currentCategory);
+
+        for (Domain domain : domainList) {
+            Category category = new Category(currentCategory, domain);
             if (category.isChosen()) {
                 selectedIndex = domainList.indexOf(domain);
             }

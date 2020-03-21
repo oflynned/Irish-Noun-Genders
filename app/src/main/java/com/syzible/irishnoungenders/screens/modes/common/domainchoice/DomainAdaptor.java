@@ -18,6 +18,7 @@ import com.syzible.irishnoungenders.common.firebase.Event;
 import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
 import com.syzible.irishnoungenders.common.models.Category;
 import com.syzible.irishnoungenders.common.persistence.Cache;
+import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -44,17 +45,20 @@ public class DomainAdaptor extends RecyclerView.Adapter<DomainAdaptor.GroupSelec
     @Override
     public void onBindViewHolder(@NonNull GroupSelectionHolder groupSelectionHolder, int i) {
         Context context = groupSelectionHolder.itemView.getContext();
+        String locale = LocalStorage.getStringPref(context, LocalStorage.Pref.DISPLAY_LANGUAGE);
         Category category = categories.get(i);
         groupSelectionHolder.setIsRecyclable(false);
         groupSelectionHolder.icon.setImageResource(category.getIcon(context));
-        groupSelectionHolder.name.setText(category.getCategory());
+
+        groupSelectionHolder.name.setText(category.getDisplayName(locale).toLowerCase());
+
         if (category.isChosen()) {
             groupSelectionHolder.name.setTypeface(groupSelectionHolder.name.getTypeface(), Typeface.BOLD);
             groupSelectionHolder.name.setTextSize(18);
         }
 
         groupSelectionHolder.itemView.setOnClickListener(v -> {
-            FirebaseLogger.logEvent(groupSelectionHolder.itemView.getContext(), Event.CHANGE_DOMAIN, "new_domain", category.getCategory());
+            FirebaseLogger.logEvent(groupSelectionHolder.itemView.getContext(), Event.CHANGE_DOMAIN, "new_domain", category.getDisplayName("en"));
             Cache.setLastChosenCategoryFileName(context, category.getFileName());
             MainActivity.popFragment(fragmentManager);
         });

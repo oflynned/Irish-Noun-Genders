@@ -9,21 +9,28 @@ import com.syzible.irishnoungenders.common.common.FeatureFlag;
 import com.syzible.irishnoungenders.common.firebase.Achievements;
 import com.syzible.irishnoungenders.common.firebase.Event;
 import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
+import com.syzible.irishnoungenders.common.models.Domain;
 import com.syzible.irishnoungenders.common.models.Noun;
+import com.syzible.irishnoungenders.common.persistence.API;
 import com.syzible.irishnoungenders.common.persistence.Cache;
 import com.syzible.irishnoungenders.common.persistence.DomainNotFoundException;
 import com.syzible.irishnoungenders.common.persistence.GameRules;
+import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 import com.syzible.irishnoungenders.common.persistence.MalformedFileException;
+import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceInteractor;
 import com.syzible.irishnoungenders.screens.modes.common.interactors.ExperimentInteractor;
 
+import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
 class GenderPresenter extends MvpBasePresenter<GenderView> implements ExperimentInteractor.ExperimentCallback {
     private GenderInteractor genderInteractor;
+    private DomainChoiceInteractor domainInteractor;
     private ExperimentInteractor experimentInteractor;
 
     private Noun currentNoun;
@@ -31,13 +38,14 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
     private List<Noun> remainingNouns;
     private List<String> masculineHints, feminineHints;
 
-    private String currentDomain = "accounting";
+    private Domain currentDomain;
     private int currentScore = 0;
 
     @Override
     public void attachView(@NonNull GenderView view) {
         super.attachView(view);
         genderInteractor = new GenderInteractor();
+        domainInteractor = new DomainChoiceInteractor();
         experimentInteractor = new ExperimentInteractor();
         fetchHints();
     }
@@ -71,30 +79,44 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
         ifViewAttached(v -> v.showHighScore(String.valueOf(currentHighScore)));
     }
 
-    void fetchNouns(Context context) {
+    void fetchNouns(Context context) throws IOException, JSONException {
         shownNouns = new ArrayList<>();
 
-        try {
-            currentDomain = Cache.getLastChosenCategory(context);
-        } catch (DomainNotFoundException e) {
-            e.printStackTrace();
-            Cache.setLastChosenCategoryFileName(context, "accounting");
-            currentDomain = "accounting";
-        }
+        // TODO refactor this heavily
+        domainInteractor.fetchDomains(LocalStorage.getStringPref(context, LocalStorage.Pref.DISPLAY_LANGUAGE), context, new DomainChoiceInteractor.DomainCallback() {
+            @Override
+            public void onSuccess(Context context, List<Domain> domainList) {
+                String lastChosenCategoryFilename = Cache.getLastChosenCategory(context);
+                for (Domain domain : domainList) {
+                    if (domain.getFileName().equals(lastChosenCategoryFilename)) {
+                        currentDomain = domain;
+                        break;
+                    }
+                }
 
-        try {
-            remainingNouns = genderInteractor.fetchNouns(currentDomain);
-        } catch (DomainNotFoundException | MalformedFileException e) {
-            e.printStackTrace();
-        }
+                try {
+                    remainingNouns = genderInteractor.fetchNouns(currentDomain.getFileName());
+                } catch (DomainNotFoundException | MalformedFileException e) {
+                    e.printStackTrace();
+                }
 
-        ifViewAttached(v -> v.setChosenCategory(currentDomain));
+                ifViewAttached(v -> v.setChosenCategory(currentDomain.getLocalisedName().toLowerCase()));
+                pickNoun(context);
+            }
+
+            @Override
+            public void onFailure(String message) {
+
+            }
+        });
+
+
     }
 
     void pickNoun(Context context) {
         if (remainingNouns.size() == 0) {
             FirebaseLogger.logEvent(context, Event.DECK_FINISHED);
-            ifViewAttached(v -> v.notifyEndOfDeck(currentDomain, shownNouns.size()));
+            ifViewAttached(v -> v.notifyEndOfDeck(currentDomain.getLocalisedName(), shownNouns.size()));
             return;
         }
 
@@ -136,7 +158,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
     }
 
     private void logExperiment(Context context, Noun.Gender attempt) {
-        JSONObject payload = experimentInteractor.buildGenderExperimentPayload(currentDomain, currentNoun, attempt);
+        JSONObject payload = experimentInteractor.buildGenderExperimentPayload(currentDomain.getEn(), currentNoun, attempt);
         experimentInteractor.requestExperiment(context, payload, this);
     }
 
@@ -177,15 +199,8 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
     }
 
     void changeCategory(Context context) {
-        String currentCategory;
-        try {
-            currentCategory = Cache.getLastChosenCategory(context);
-        } catch (DomainNotFoundException e) {
-            e.printStackTrace();
-            return;
-        }
-
         resetScore();
+        String currentCategory = Cache.getLastChosenCategory(context);
         ifViewAttached(v -> v.showCategoryScreen(currentCategory));
     }
 
