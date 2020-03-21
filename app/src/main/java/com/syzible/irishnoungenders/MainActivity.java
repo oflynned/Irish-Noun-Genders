@@ -80,25 +80,37 @@ public class MainActivity extends BaseActivity
         }
     }
 
+    private void migrateLocalPrefs() {
+        String currentLocale = LocalStorage.getStringPref(this, LocalStorage.Pref.DISPLAY_LANGUAGE);
+        if (currentLocale == null) {
+            LocalStorage.setStringPref(this, LocalStorage.Pref.DISPLAY_LANGUAGE, "en");
+        }
+
+        String defaultCategory = LocalStorage.getStringPref(this, LocalStorage.Pref.CURRENT_CATEGORY);
+        if (defaultCategory == null) {
+            LocalStorage.setStringPref(this, LocalStorage.Pref.CURRENT_CATEGORY, "general");
+        }
+    }
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         unbinder = ButterKnife.bind(this);
 
-        googleSignInClient = getClient();
-        setFragment(getSupportFragmentManager(), DomainChoiceFragment.getInstance());
+        migrateLocalPrefs();
 
-//        mainMenuFragment = MainMenuFragment.getInstance();
-//
-//        if (!LocalStorage.getBooleanPref(this, LocalStorage.Pref.FIRST_RUN_COMPLETE)) {
-//            setupInitialSettings();
-//            startActivity(new Intent(this, IntroActivity.class));
-//        } else {
-//            mainMenuFragment.setGameServices(this);
-//            mainMenuFragment.setListener(this);
-//            setFragment(getSupportFragmentManager(), mainMenuFragment);
-//        }
+        googleSignInClient = getClient();
+        mainMenuFragment = MainMenuFragment.getInstance();
+
+        if (!LocalStorage.getBooleanPref(this, LocalStorage.Pref.FIRST_RUN_COMPLETE)) {
+            setupInitialSettings();
+            startActivity(new Intent(this, IntroActivity.class));
+        } else {
+            mainMenuFragment.setGameServices(this);
+            mainMenuFragment.setListener(this);
+            setFragment(getSupportFragmentManager(), mainMenuFragment);
+        }
     }
 
     @Override

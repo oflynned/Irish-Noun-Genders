@@ -17,12 +17,8 @@ public class Cache {
         LocalStorage.setStringPref(context, LocalStorage.Pref.CURRENT_CATEGORY, filename);
     }
 
-    public static String getLastChosenCategory(Context context) throws DomainNotFoundException {
+    public static String getLastChosenCategory(Context context) {
         String lastChosenCategoryFile = LocalStorage.getStringPref(context, LocalStorage.Pref.CURRENT_CATEGORY);
-        if (lastChosenCategoryFile == null) {
-            throw new DomainNotFoundException();
-        }
-
         return Category.fileToDomain(lastChosenCategoryFile);
     }
 }

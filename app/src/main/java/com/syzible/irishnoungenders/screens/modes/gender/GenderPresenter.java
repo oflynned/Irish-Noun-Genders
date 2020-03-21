@@ -82,20 +82,11 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
     void fetchNouns(Context context) throws IOException, JSONException {
         shownNouns = new ArrayList<>();
 
-        String currentLocale = LocalStorage.getStringPref(context, LocalStorage.Pref.DISPLAY_LANGUAGE);
-
         // TODO refactor this heavily
-        domainInteractor.fetchDomains(currentLocale, context, new DomainChoiceInteractor.DomainCallback() {
+        domainInteractor.fetchDomains(LocalStorage.getStringPref(context, LocalStorage.Pref.DISPLAY_LANGUAGE), context, new DomainChoiceInteractor.DomainCallback() {
             @Override
             public void onSuccess(Context context, List<Domain> domainList) {
-                String lastChosenCategoryFilename;
-                try {
-                    lastChosenCategoryFilename = Cache.getLastChosenCategory(context);
-                } catch (DomainNotFoundException e) {
-                    e.printStackTrace();
-                    lastChosenCategoryFilename = domainList.get(0).getFileName();
-                }
-
+                String lastChosenCategoryFilename = Cache.getLastChosenCategory(context);
                 for (Domain domain : domainList) {
                     if (domain.getFileName().equals(lastChosenCategoryFilename)) {
                         currentDomain = domain;
@@ -208,15 +199,8 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
     }
 
     void changeCategory(Context context) {
-        String currentCategory;
-        try {
-            currentCategory = Cache.getLastChosenCategory(context);
-        } catch (DomainNotFoundException e) {
-            e.printStackTrace();
-            return;
-        }
-
         resetScore();
+        String currentCategory = Cache.getLastChosenCategory(context);
         ifViewAttached(v -> v.showCategoryScreen(currentCategory));
     }
 

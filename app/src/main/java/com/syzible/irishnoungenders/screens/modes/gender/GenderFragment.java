@@ -111,7 +111,6 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
         presenter.checkNewHighScore(getActivity());
         try {
             presenter.fetchNouns(getActivity());
-//            presenter.pickNoun(getContext());
         } catch (IOException | JSONException e) {
             e.printStackTrace();
         }
