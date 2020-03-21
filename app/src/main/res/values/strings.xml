@@ -72,5 +72,7 @@
     <string name="achievements">Achievements</string>
     <string name="leaderboards">Leaderboards</string>
     <string name="please_wait_signing_in">Please wait, signing in ...</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="push_notifications_description">Allow push notifications to be dispatched from time to time.</string>
 
 </resources>

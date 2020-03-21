@@ -12,6 +12,12 @@
             android:summary="@string/irish_language_description"
             android:title="@string/irish_language" />
 
+        <SwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="settings_allow_occasional_notifications"
+            android:summary="@string/push_notifications_description"
+            android:title="@string/push_notifications" />
+
     </PreferenceCategory>
 
     <PreferenceCategory android:title="@string/developer">
