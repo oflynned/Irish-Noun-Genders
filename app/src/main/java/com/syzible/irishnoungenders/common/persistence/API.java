@@ -10,7 +10,7 @@ import java.io.IOException;
 
 public class API {
     public static JSONArray domainStore() throws IOException, JSONException {
-        return FileLoader.loadJSONArrayFile("domains_multilingual.json");
+        return FileLoader.loadJSONArrayFile("domains.json");
     }
 
     public static JSONObject hintStore() throws IOException, JSONException {

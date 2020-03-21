@@ -1,125 +1,617 @@
 [
-  "Agriculture",
-  "Fishing",
-  "Chemistry",
-  "Mathematics",
-  "Computers",
-  "Computer Science",
-  "Biology",
-  "Music",
-  "Education",
-  "Fashion",
-  "Astronomy",
-  "Business",
-  "Food Chemistry",
-  "Religion",
-  "Anthropology",
-  "History",
-  "Linguistics",
-  "Nationalities & Peoples",
-  "Geology",
-  "Names",
-  "Geography",
-  "Placenames",
-  "Literature",
-  "Calendar",
-  "Aviation",
-  "Drama",
-  "Popular Culture",
-  "Media",
-  "Politics",
-  "Military",
-  "Philosophy",
-  "Zoology",
-  "Environment & Ecology",
-  "Archaeology",
-  "Law",
-  "Government",
-  "Policing",
-  "Civil Engineering",
-  "Employment",
-  "Leisure",
-  "Cinema & Video Arts",
-  "Tourism",
-  "Art",
-  "Culinary",
-  "Medicine",
-  "Medical",
-  "General",
-  "Printing",
-  "Finance",
-  "Safety",
-  "Dancing",
-  "Botany",
-  "Nautical",
-  "Sculpture",
-  "Social Science",
-  "Physics",
-  "Natural Sciences & Mathematics",
-  "Statistics",
-  "Architecture",
-  "Industry",
-  "Trades",
-  "Crafts",
-  "Librarianship",
-  "Electricity",
-  "Electronics",
-  "Metal Industry",
-  "Metal Finishing",
-  "Publishing",
-  "Palaeontology",
-  "Signage",
-  "Arts",
-  "Stationery",
-  "Pulpwood & Paper Industry",
-  "Graphic Industry & Duplicating Techniques",
-  "Vehicles",
-  "Health",
-  "Woodwork",
-  "Carpentry",
-  "Printmaking",
-  "Technical Drawing",
-  "Electrical Engineering",
-  "Hydrology",
-  "Sports",
-  "Entertainment",
-  "Psychology",
-  "Transport",
-  "Meteorology",
-  "Communications Technology",
-  "Street Art",
-  "Economics",
-  "Food",
-  "Drink & Tobacco Industry",
-  "Photography",
-  "Mechanical Engineering",
-  "Ceramics",
-  "Raw Material Industry",
-  "Veterinary science",
-  "Microbiology",
-  "Energy Technology",
-  "Textile Industries",
-  "Shoe Industry",
-  "Oceanography",
-  "Colours",
-  "Dentistry",
-  "Rubber & Plastics Industry",
-  "Building Industry",
-  "Geophysics",
-  "Development",
-  "Street Arts",
-  "Furniture",
-  "Engineering",
-  "Marine Biology",
-  "Childcare",
-  "Geochemistry",
-  "Forestry",
-  "Graphics",
-  "Toiletries",
-  "Domestic Fittings & Appliances",
-  "Decorating & Home Improvement",
-  "Accounting",
-  "Beauty Industry",
-  "Railway Industry",
-  "Chemical Engineering"
+  {
+    "filename": "agriculture",
+    "en": "Agriculture",
+    "ga": "Talmhaíocht"
+  },
+  {
+    "filename": "fishing",
+    "en": "Fishing",
+    "ga": "Iascaireacht"
+  },
+  {
+    "filename": "chemistry",
+    "en": "Chemistry",
+    "ga": "Ceimic"
+  },
+  {
+    "filename": "mathematics",
+    "en": "Mathematics",
+    "ga": "Matamaitic"
+  },
+  {
+    "filename": "computers",
+    "en": "Computers",
+    "ga": "Ríomhaire"
+  },
+  {
+    "filename": "computer_science",
+    "en": "Computer Science",
+    "ga": "Ríomheolaíocht"
+  },
+  {
+    "filename": "biology",
+    "en": "Biology",
+    "ga": "Bitheolaíocht"
+  },
+  {
+    "filename": "music",
+    "en": "Music",
+    "ga": "Ceol"
+  },
+  {
+    "filename": "education",
+    "en": "Education",
+    "ga": "Oideachas"
+  },
+  {
+    "filename": "fashion",
+    "en": "Fashion",
+    "ga": "Faisean"
+  },
+  {
+    "filename": "astronomy",
+    "en": "Astronomy",
+    "ga": "Réalteolaíocht"
+  },
+  {
+    "filename": "business",
+    "en": "Business",
+    "ga": "Gnó"
+  },
+  {
+    "filename": "food_chemistry",
+    "en": "Food Chemistry",
+    "ga": "Ceimic an bhia"
+  },
+  {
+    "filename": "religion",
+    "en": "Religion",
+    "ga": "Creideamh"
+  },
+  {
+    "filename": "anthropology",
+    "en": "Anthropology",
+    "ga": "Antraipeolaíocht"
+  },
+  {
+    "filename": "anthropology",
+    "en": "History",
+    "ga": "Stair"
+  },
+  {
+    "filename": "linguistics",
+    "en": "Linguistics",
+    "ga": "Teangeolaíocht"
+  },
+  {
+    "filename": "nationalities_and_peoples",
+    "en": "Nationalities & Peoples",
+    "ga": "Náisiúntachtaí & Pobail"
+  },
+  {
+    "filename": "geology",
+    "en": "Geology",
+    "ga": "Geolaíocht"
+  },
+  {
+    "filename": "names",
+    "en": "Names",
+    "ga": "Ainmneacha"
+  },
+  {
+    "filename": "geography",
+    "en": "Geography",
+    "ga": "Tíreolaíocht"
+  },
+  {
+    "filename": "placenames",
+    "en": "Placenames",
+    "ga": "Logainmneacha"
+  },
+  {
+    "filename": "literature",
+    "en": "Literature",
+    "ga": "Litríocht"
+  },
+  {
+    "filename": "calendar",
+    "en": "Calendar",
+    "ga": "Féilire"
+  },
+  {
+    "filename": "aviation",
+    "en": "Aviation",
+    "ga": "Eitlíocht"
+  },
+  {
+    "filename": "drama",
+    "en": "Drama",
+    "ga": "Drámaíocht"
+  },
+  {
+    "filename": "popular_culture",
+    "en": "Popular Culture",
+    "ga": "Cultúr an Phobail"
+  },
+  {
+    "filename": "media",
+    "en": "Media",
+    "ga": "Meáin"
+  },
+  {
+    "filename": "politics",
+    "en": "Politics",
+    "ga": "Polaitíocht"
+  },
+  {
+    "filename": "military",
+    "en": "Military",
+    "ga": "Cúrsaí Míleata"
+  },
+  {
+    "filename": "philosophy",
+    "en": "Philosophy",
+    "ga": "Fealsúnacht"
+  },
+  {
+    "filename": "zoology",
+    "en": "Zoology",
+    "ga": "Zó-eolaíocht"
+  },
+  {
+    "filename": "environment_and_ecology",
+    "en": "Environment & Ecology",
+    "ga": "Comhshaol & Éiceolaíocht"
+  },
+  {
+    "filename": "archaeology",
+    "en": "Archaeology",
+    "ga": "Seandálaíocht"
+  },
+  {
+    "filename": "law",
+    "en": "Law",
+    "ga": "Dlí"
+  },
+  {
+    "filename": "government",
+    "en": "Government",
+    "ga": "Rialtas"
+  },
+  {
+    "filename": "policing",
+    "en": "Policing",
+    "ga": "Póilíneacht"
+  },
+  {
+    "filename": "civil_engineering",
+    "en": "Civil Engineering",
+    "ga": "Innealtóireacht Shibialta"
+  },
+  {
+    "filename": "employment",
+    "en": "Employment",
+    "ga": "Fostaíocht"
+  },
+  {
+    "filename": "leisure",
+    "en": "Leisure",
+    "ga": "Fóillíocht"
+  },
+  {
+    "filename": "cinema_and_video_arts",
+    "en": "Cinema & Video Arts",
+    "ga": "Scannánaíocht & Físealaíona"
+  },
+  {
+    "filename": "tourism",
+    "en": "Tourism",
+    "ga": "Turasóireacht"
+  },
+  {
+    "filename": "art",
+    "en": "Art",
+    "ga": "Ealaín"
+  },
+  {
+    "filename": "culinary",
+    "en": "Culinary",
+    "ga": "Cócaireacht"
+  },
+  {
+    "filename": "medicine",
+    "en": "Medicine",
+    "ga": "Leigheas"
+  },
+  {
+    "filename": "medicine",
+    "en": "Medical",
+    "ga": "Cúrsaí leighis"
+  },
+  {
+    "filename": "general",
+    "en": "General",
+    "ga": "Cúrsaí ginearálta"
+  },
+  {
+    "filename": "printing",
+    "en": "Printing",
+    "ga": "Clódóireacht"
+  },
+  {
+    "filename": "finance",
+    "en": "Finance",
+    "ga": "Airgeadas"
+  },
+  {
+    "filename": "safety",
+    "en": "Safety",
+    "ga": "Slándáil"
+  },
+  {
+    "filename": "dancing",
+    "en": "Dancing",
+    "ga": "Damhsa"
+  },
+  {
+    "filename": "botany",
+    "en": "Botany",
+    "ga": "Luibheolaíocht"
+  },
+  {
+    "filename": "nautical",
+    "en": "Nautical",
+    "ga": "Muir"
+  },
+  {
+    "filename": "sculpture",
+    "en": "Sculpture",
+    "ga": "Dealbhóireacht"
+  },
+  {
+    "filename": "social_science",
+    "en": "Social science",
+    "ga": "Eolaíocht Sóisialta"
+  },
+  {
+    "filename": "physics",
+    "en": "Physics",
+    "ga": "Fisic"
+  },
+  {
+    "filename": "natural_sciences_and_mathematics",
+    "en": "Natural Sciences & Mathematics",
+    "ga": "Eolaíocht Nádúrtha & Matamaitic"
+  },
+  {
+    "filename": "statistics",
+    "en": "Statistics",
+    "ga": "Staitistic"
+  },
+  {
+    "filename": "architecture",
+    "en": "Architecture",
+    "ga": "Ailtireacht"
+  },
+  {
+    "filename": "industry",
+    "en": "Industry",
+    "ga": "Tionsclaíocht"
+  },
+  {
+    "filename": "trades",
+    "en": "Trades",
+    "ga": "Ceirdeanna"
+  },
+  {
+    "filename": "crafts",
+    "en": "Crafts",
+    "ga": "Ceardaíocht"
+  },
+  {
+    "filename": "librarianship",
+    "en": "Librarianship",
+    "ga": "Leabharlannaíocht"
+  },
+  {
+    "filename": "electricity",
+    "en": "Electricity",
+    "ga": "Leictreachas"
+  },
+  {
+    "filename": "electronics",
+    "en": "Electronics",
+    "ga": "Leictreonaic"
+  },
+  {
+    "filename": "metal_industry",
+    "en": "Metal Industry",
+    "ga": "Tionscal an Mhiotail"
+  },
+  {
+    "filename": "metal_finishing",
+    "en": "Metal Finishing",
+    "ga": "Bailchríochnú Miotail"
+  },
+  {
+    "filename": "publishing",
+    "en": "Publishing",
+    "ga": "Foilsiú"
+  },
+  {
+    "filename": "palaeontology",
+    "en": "Palaeontology",
+    "ga": "Pailé-Ointeolaíocht"
+  },
+  {
+    "filename": "signage",
+    "en": "Signage",
+    "ga": "Fógraí"
+  },
+  {
+    "filename": "arts",
+    "en": "Arts",
+    "ga": "Na h-Ealaíona"
+  },
+  {
+    "filename": "stationery",
+    "en": "Stationery",
+    "ga": "Páipéarachas"
+  },
+  {
+    "filename": "pulpwood_and_paper_industry",
+    "en": "Pulpwood & Paper Industry",
+    "ga": "Tionscal an Pháipéir"
+  },
+  {
+    "filename": "graphic_industry_and_duplicating_techniques",
+    "en": "Graphic Industry",
+    "ga": "Tionscal na graifice"
+  },
+  {
+    "filename": "vehicles",
+    "en": "Vehicles",
+    "ga": "Feithiclí"
+  },
+  {
+    "filename": "health",
+    "en": "Health",
+    "ga": "Sláinte"
+  },
+  {
+    "filename": "woodwork",
+    "en": "Woodwork",
+    "ga": "Adhmadóireacht"
+  },
+  {
+    "filename": "carpentry",
+    "en": "Carpentry",
+    "ga": "Siúinéireacht"
+  },
+  {
+    "filename": "printmaking",
+    "en": "Printmaking",
+    "ga": "Priontaíocht"
+  },
+  {
+    "filename": "technical_drawing",
+    "en": "Technical Drawing",
+    "ga": "Líníocht Theicniúil"
+  },
+  {
+    "filename": "electrical_engineering",
+    "en": "Electrical Engineering",
+    "ga": "Innealtóireacht Leictreach"
+  },
+  {
+    "filename": "hydrology",
+    "en": "Hydrology",
+    "ga": "Hidreolaíocht"
+  },
+  {
+    "filename": "sports",
+    "en": "Sports",
+    "ga": "Spóirt"
+  },
+  {
+    "filename": "entertainment",
+    "en": "Entertainment",
+    "ga": "Féilteachas"
+  },
+  {
+    "filename": "psychology",
+    "en": "Psychology",
+    "ga": "Síceolaíocht"
+  },
+  {
+    "filename": "transport",
+    "en": "Transport",
+    "ga": "Iompraíocht"
+  },
+  {
+    "filename": "meteorology",
+    "en": "Meteorology",
+    "ga": "Meitéareolaíocht"
+  },
+  {
+    "filename": "communications_technology",
+    "en": "Communications Technology",
+    "ga": "Teicneolaíocht Chumarsáide"
+  },
+  {
+    "filename": "street_art",
+    "en": "Street Art",
+    "ga": "Ealaín Sráide"
+  },
+  {
+    "filename": "economics",
+    "en": "Economics",
+    "ga": "Eacnamaíocht"
+  },
+  {
+    "filename": "food",
+    "en": "Food",
+    "ga": "Bia"
+  },
+  {
+    "filename": "drink_and_tobacco_industry",
+    "en": "Drink & Tobacco Industry",
+    "ga": "Tionscal na Dí & an Tobac"
+  },
+  {
+    "filename": "photography",
+    "en": "Photography",
+    "ga": "Grianghrafadóireacht"
+  },
+  {
+    "filename": "mechanical_engineering",
+    "en": "Mechanical Engineering",
+    "ga": "Innealtóireacht Mheicniúil"
+  },
+  {
+    "filename": "ceramics",
+    "en": "Ceramics",
+    "ga": "Criadóireacht"
+  },
+  {
+    "filename": "raw_material_industry",
+    "en": "Raw Material Industry",
+    "ga": "Tionscal na n-Amhábhar"
+  },
+  {
+    "filename": "veterinary_science",
+    "en": "Veterinary Science",
+    "ga": "Tréidliacht"
+  },
+  {
+    "filename": "microbiology",
+    "en": "Microbiology",
+    "ga": "Micribhitheolaíocht"
+  },
+  {
+    "filename": "energy_technology",
+    "en": "Energy Technology",
+    "ga": "Teicneolaíocht Fhuinnimh"
+  },
+  {
+    "filename": "textile_industries",
+    "en": "Textile Industries",
+    "ga": "Tionscadal Teicstíle"
+  },
+  {
+    "filename": "shoe_industry",
+    "en": "Shoe Industry",
+    "ga": "Tionscal na mBróg"
+  },
+  {
+    "filename": "oceanography",
+    "en": "Oceanography",
+    "ga": "Aigéaneolaíocht"
+  },
+  {
+    "filename": "colours",
+    "en": "Colours",
+    "ga": "Dathanna"
+  },
+  {
+    "filename": "dentistry",
+    "en": "Dentistry",
+    "ga": "Fiaclóireacht"
+  },
+  {
+    "filename": "rubber_and_plastics_industry",
+    "en": "Rubber & Plastics Industry",
+    "ga": "Tionscal an Rubair & na bPlaisteach"
+  },
+  {
+    "filename": "building_industry",
+    "en": "Building Industry",
+    "ga": "Tionscal Tógála"
+  },
+  {
+    "filename": "geophysics",
+    "en": "Geophysics",
+    "ga": "Geoifisic"
+  },
+  {
+    "filename": "development",
+    "en": "Development",
+    "ga": "Forbairt"
+  },
+  {
+    "filename": "street_arts",
+    "en": "Street Arts",
+    "ga": "Ealaíona ar an tSráid"
+  },
+  {
+    "filename": "furniture",
+    "en": "Furniture",
+    "ga": "Troscán"
+  },
+  {
+    "filename": "engineering",
+    "en": "Engineering",
+    "ga": "Innealtóireacht"
+  },
+  {
+    "filename": "marine_biology",
+    "en": "Marine Biology",
+    "ga": "Bitheolaíocht Mhuirí"
+  },
+  {
+    "filename": "childcare",
+    "en": "Childcare",
+    "ga": "Cúram Leanaí"
+  },
+  {
+    "filename": "geochemistry",
+    "en": "Geochemistry",
+    "ga": "Geoiceimic"
+  },
+  {
+    "filename": "forestry",
+    "en": "Forestry",
+    "ga": "Foraoiseacht"
+  },
+  {
+    "filename": "graphics",
+    "en": "Graphics",
+    "ga": "Graific"
+  },
+  {
+    "filename": "toiletries",
+    "en": "Toiletries",
+    "ga": "Earraí Níocháin"
+  },
+  {
+    "filename": "domestic_fittings_and_appliances",
+    "en": "Domestic Fittings & Appliances",
+    "ga": "Feistiú Tí & Gléasanna"
+  },
+  {
+    "filename": "decorating_and_home_improvement",
+    "en": "Decorating & Home Improvement",
+    "ga": "Maisiú & Feabhsú Tí"
+  },
+  {
+    "filename": "accounting",
+    "en": "Accounting",
+    "ga": "Cuntasaíocht"
+  },
+  {
+    "filename": "beauty_industry",
+    "en": "Beauty Industry",
+    "ga": "Tionscal na Teiripe Scéimhe"
+  },
+  {
+    "filename": "railway_industry",
+    "en": "Railway Industry",
+    "ga": "Tionscal an Iarnróid"
+  },
+  {
+    "filename": "chemical_engineering",
+    "en": "Chemical Engineering",
+    "ga": "Innealtóireacht Cheimiceach"
+  }
 ]
