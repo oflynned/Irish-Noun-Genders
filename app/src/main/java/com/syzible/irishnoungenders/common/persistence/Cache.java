@@ -18,7 +18,6 @@ public class Cache {
     }
 
     public static String getLastChosenCategory(Context context) {
-        String lastChosenCategoryFile = LocalStorage.getStringPref(context, LocalStorage.Pref.CURRENT_CATEGORY);
-        return Category.fileToDomain(lastChosenCategoryFile);
+        return LocalStorage.getStringPref(context, LocalStorage.Pref.CURRENT_CATEGORY);
     }
 }

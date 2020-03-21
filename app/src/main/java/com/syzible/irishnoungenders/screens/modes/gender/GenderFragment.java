@@ -117,6 +117,11 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     }
 
     @Override
+    public void onResume() {
+        super.onResume();
+    }
+
+    @Override
     public void onDestroyView() {
         super.onDestroyView();
         unbinder.unbind();

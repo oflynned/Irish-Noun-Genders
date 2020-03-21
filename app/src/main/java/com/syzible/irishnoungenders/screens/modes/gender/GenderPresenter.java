@@ -83,7 +83,8 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
         shownNouns = new ArrayList<>();
 
         // TODO refactor this heavily
-        domainInteractor.fetchDomains(LocalStorage.getStringPref(context, LocalStorage.Pref.DISPLAY_LANGUAGE), context, new DomainChoiceInteractor.DomainCallback() {
+        String displayLocale = LocalStorage.getStringPref(context, LocalStorage.Pref.DISPLAY_LANGUAGE);
+        domainInteractor.fetchDomains(displayLocale, context, new DomainChoiceInteractor.DomainCallback() {
             @Override
             public void onSuccess(Context context, List<Domain> domainList) {
                 String lastChosenCategoryFilename = Cache.getLastChosenCategory(context);
