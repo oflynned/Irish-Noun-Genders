@@ -9,6 +9,7 @@ import com.syzible.irishnoungenders.common.persistence.MalformedFileException;
 
 import org.json.JSONArray;
 import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -36,28 +37,6 @@ class GenderInteractor {
         }
 
         return hintsList;
-    }
-
-    List<String> fetchDomains() throws MalformedFileException {
-        JSONArray domains;
-        try {
-            domains = API.domainStore();
-        } catch (IOException | JSONException e) {
-            e.printStackTrace();
-            throw new MalformedFileException();
-        }
-
-        List<String> domainList = new ArrayList<>();
-        for (int i = 0; i < domains.length(); i++) {
-            try {
-                String domain = domains.getString(i);
-                domainList.add(domain);
-            } catch (JSONException e) {
-                e.printStackTrace();
-            }
-        }
-
-        return domainList;
     }
 
     List<Noun> fetchNouns(String domain) throws DomainNotFoundException, MalformedFileException {

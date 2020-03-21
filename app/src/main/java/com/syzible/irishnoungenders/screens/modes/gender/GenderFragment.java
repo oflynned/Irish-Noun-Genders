@@ -27,6 +27,10 @@ import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnoungenders.screens.modes.common.ui.CircularTextView;
 
+import org.json.JSONException;
+
+import java.io.IOException;
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
@@ -105,8 +109,12 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
         backButton.setOnClickListener(v -> presenter.returnToMainMenu());
 
         presenter.checkNewHighScore(getActivity());
-        presenter.fetchNouns(getActivity());
-        presenter.pickNoun(getContext());
+        try {
+            presenter.fetchNouns(getActivity());
+//            presenter.pickNoun(getContext());
+        } catch (IOException | JSONException e) {
+            e.printStackTrace();
+        }
     }
 
     @Override

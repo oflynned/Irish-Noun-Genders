@@ -30,6 +30,7 @@ import com.syzible.irishnoungenders.common.languageselection.BaseActivity;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
 import com.syzible.irishnoungenders.screens.intro.IntroActivity;
+import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnoungenders.screens.modes.gender.GenderFragment;
 import com.syzible.irishnoungenders.screens.options.settings.SettingsActivity;
 
@@ -86,16 +87,18 @@ public class MainActivity extends BaseActivity
         unbinder = ButterKnife.bind(this);
 
         googleSignInClient = getClient();
-        mainMenuFragment = MainMenuFragment.getInstance();
+        setFragment(getSupportFragmentManager(), DomainChoiceFragment.getInstance());
 
-        if (!LocalStorage.getBooleanPref(this, LocalStorage.Pref.FIRST_RUN_COMPLETE)) {
-            setupInitialSettings();
-            startActivity(new Intent(this, IntroActivity.class));
-        } else {
-            mainMenuFragment.setGameServices(this);
-            mainMenuFragment.setListener(this);
-            setFragment(getSupportFragmentManager(), mainMenuFragment);
-        }
+//        mainMenuFragment = MainMenuFragment.getInstance();
+//
+//        if (!LocalStorage.getBooleanPref(this, LocalStorage.Pref.FIRST_RUN_COMPLETE)) {
+//            setupInitialSettings();
+//            startActivity(new Intent(this, IntroActivity.class));
+//        } else {
+//            mainMenuFragment.setGameServices(this);
+//            mainMenuFragment.setListener(this);
+//            setFragment(getSupportFragmentManager(), mainMenuFragment);
+//        }
     }
 
     @Override
@@ -121,7 +124,6 @@ public class MainActivity extends BaseActivity
 
     private void setupInitialSettings() {
         LocalStorage.setBooleanPref(this, LocalStorage.Pref.SHOW_HINTS, true);
-        LocalStorage.setBooleanPref(this, LocalStorage.Pref.FORCE_IRISH_LANGUAGE, false);
     }
 
     public GoogleSignInClient getClient() {
