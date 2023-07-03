@@ -12,7 +12,6 @@ static def getBuildVersion() {
 
 plugins {
     id 'com.android.application'
-    id 'com.google.firebase.crashlytics'
     id 'com.github.triplet.play' version '2.4.2'
 }
 
@@ -83,5 +82,3 @@ dependencies {
     implementation 'com.daimajia.easing:library:2.0@aar'
     implementation 'com.daimajia.androidanimations:library:2.3@aar'
 }
-
-apply plugin: 'com.google.gms.google-services'
