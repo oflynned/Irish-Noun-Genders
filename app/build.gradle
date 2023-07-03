@@ -75,8 +75,6 @@ dependencies {
 
     testImplementation 'junit:junit:4.13.2'
 
-    implementation 'com.github.paolorotolo:appintro:v5.1.0'
-
     implementation 'com.google.code.gson:gson:2.9.0'
     implementation 'com.theah64.materialcolors:materialcolors:1.0.0'
 
