@@ -1,9 +1,8 @@
 package com.syzible.irishnoungenders.screens.modes.gender;
 
-import com.hannesdorfmann.mosby3.mvp.MvpView;
 import com.syzible.irishnoungenders.common.models.Noun;
 
-public interface GenderView extends MvpView {
+public interface GenderView {
     void showTitle(String noun);
 
     void showHint(String hint);
