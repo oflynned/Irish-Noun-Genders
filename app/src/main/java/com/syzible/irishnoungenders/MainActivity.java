@@ -11,8 +11,6 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
 import com.syzible.irishnoungenders.common.common.GameMode;
-import com.syzible.irishnoungenders.common.firebase.Event;
-import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 import com.syzible.irishnoungenders.databinding.ActivityMainBinding;
 import com.syzible.irishnoungenders.screens.MainMenuFragment;
@@ -90,7 +88,6 @@ public class MainActivity extends AppCompatActivity implements MainMenuFragment.
     @Override
     public void onStartGameRequested(GameMode gameMode) {
         if (gameMode == GameMode.GENDER) {
-            FirebaseLogger.logEvent(getApplicationContext(), Event.START_GAME_MODE, "start_game", "gender");
             GenderFragment fragment = new GenderFragment();
             setFragmentBackstack(getSupportFragmentManager(), fragment);
         }

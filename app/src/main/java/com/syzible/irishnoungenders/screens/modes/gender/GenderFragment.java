@@ -18,9 +18,6 @@ import com.daimajia.androidanimations.library.Techniques;
 import com.daimajia.androidanimations.library.YoYo;
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
-import com.syzible.irishnoungenders.common.firebase.AchievementListener;
-import com.syzible.irishnoungenders.common.firebase.Event;
-import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.databinding.FragmentGenderMainBinding;
 import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
@@ -32,8 +29,6 @@ public class GenderFragment extends Fragment implements GenderView {
 
     private Handler handler;
     private Runnable runnable;
-
-    private AchievementListener achievementListener;
 
     private GenderPresenter presenter;
 
@@ -271,7 +266,6 @@ public class GenderFragment extends Fragment implements GenderView {
 
     @Override
     public void returnToMainMenu() {
-        FirebaseLogger.logEvent(getContext(), Event.LEAVE_GAME, "score", presenter.getCurrentScore());
         MainActivity.popFragment(getFragmentManager());
     }
 

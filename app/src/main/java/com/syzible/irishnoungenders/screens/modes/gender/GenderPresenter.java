@@ -1,12 +1,7 @@
 package com.syzible.irishnoungenders.screens.modes.gender;
 
 import android.content.Context;
-import android.util.Log;
 
-import com.syzible.irishnoungenders.common.common.FeatureFlag;
-import com.syzible.irishnoungenders.common.firebase.Achievements;
-import com.syzible.irishnoungenders.common.firebase.Event;
-import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.common.persistence.Cache;
 import com.syzible.irishnoungenders.common.persistence.DomainNotFoundException;
@@ -90,16 +85,12 @@ class GenderPresenter implements ExperimentInteractor.ExperimentCallback {
 
     void pickNoun(Context context) {
         if (remainingNouns.size() == 0) {
-            FirebaseLogger.logEvent(context, Event.DECK_FINISHED);
             screen.notifyEndOfDeck(currentDomain, shownNouns.size());
             return;
         }
 
-        FirebaseLogger.logEvent(context, Event.SHOW_NEW_WORD);
         Collections.shuffle(remainingNouns);
         currentNoun = remainingNouns.get(0);
-
-        Log.d("TAG", currentNoun.toString());
 
         checkHintIsAvailable(context, currentNoun);
         screen.showChoiceButtons();
@@ -108,14 +99,12 @@ class GenderPresenter implements ExperimentInteractor.ExperimentCallback {
 
     void makeGuess(Context context, Noun.Gender gender) {
         if (isGuessCorrect(gender)) {
-            FirebaseLogger.logEvent(context, Event.MAKE_GUESS, "guess_correct", true);
             shownNouns.add(currentNoun);
             remainingNouns.remove(currentNoun);
             incrementScore();
             checkNewHighScore(context);
             screen.notifyCorrectGuess(currentNoun);
         } else {
-            FirebaseLogger.logEvent(context, Event.MAKE_GUESS, "guess_correct", false);
             resetScore();
             screen.notifyWrongGuess(currentNoun);
         }
