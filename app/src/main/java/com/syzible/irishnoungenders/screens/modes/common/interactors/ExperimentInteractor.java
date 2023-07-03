@@ -1,6 +1,7 @@
 package com.syzible.irishnoungenders.screens.modes.common.interactors;
 
 import android.content.Context;
+import android.util.Log;
 
 import com.syzible.irishnoungenders.common.http.Endpoints;
 import com.syzible.irishnoungenders.common.http.RestClient;
@@ -20,14 +21,7 @@ public class ExperimentInteractor {
     }
 
     public void requestExperiment(Context context, JSONObject payload, ExperimentCallback callback) {
-        String userId = LocalStorage.getStringPref(context, LocalStorage.Pref.USER_ID);
-        try {
-            // users do not need to be registered in order to use the game and report experiments
-            payload.put("userId", userId == null ? JSONObject.NULL : userId);
-        } catch (JSONException e) {
-            e.printStackTrace();
-        }
-
+        Log.d("TAG", payload.toString());
         RestClient.post(context, Endpoints.REPORT_EXPERIMENT, payload, new ExperimentHttpHandler(callback));
     }
 

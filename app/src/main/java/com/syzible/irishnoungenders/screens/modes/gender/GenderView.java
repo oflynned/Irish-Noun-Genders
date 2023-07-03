@@ -32,6 +32,4 @@ public interface GenderView extends MvpView {
     void showCategoryScreen(String currentCategory);
 
     void returnToMainMenu();
-
-    AchievementListener getAchievementListener();
 }

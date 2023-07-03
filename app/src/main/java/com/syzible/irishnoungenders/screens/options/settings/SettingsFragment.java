@@ -23,10 +23,6 @@ public class SettingsFragment extends PreferenceFragmentCompat {
     public SettingsFragment() {
     }
 
-    public static SettingsFragment getInstance() {
-        return new SettingsFragment();
-    }
-
     @Override
     public void onCreatePreferences(Bundle bundle, String rootKey) {
         setPreferencesFromResource(R.xml.settings_preferences, rootKey);
@@ -34,10 +30,10 @@ public class SettingsFragment extends PreferenceFragmentCompat {
         SwitchPreferenceCompat nounHints = findPreference("settings_show_hints");
         if (nounHints != null) {
 
-            nounHints.setChecked(GameRules.wordHintsEnabled(getContext()));
+            nounHints.setChecked(GameRules.isGenderHintEnabled(getContext()));
             nounHints.setOnPreferenceChangeListener((preference, newValue) -> {
-                LocalStorage.setBooleanPref(getContext(), LocalStorage.Pref.SHOW_HINTS, !GameRules.wordHintsEnabled(getContext()));
-                nounHints.setChecked(GameRules.wordHintsEnabled(getContext()));
+                LocalStorage.setBooleanPref(getContext(), LocalStorage.Pref.SHOW_HINTS, !GameRules.isGenderHintEnabled(getContext()));
+                nounHints.setChecked(GameRules.isGenderHintEnabled(getContext()));
                 return false;
             });
         }
