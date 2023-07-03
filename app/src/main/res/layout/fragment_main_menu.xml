@@ -53,28 +53,6 @@
                 android:orientation="vertical">
 
                 <TextView
-                    android:id="@+id/main_menu_sign_in"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/open_sans"
-                    android:gravity="center_vertical"
-                    android:padding="4dp"
-                    android:text="@string/sign_in"
-                    android:textColor="@color/white"
-                    android:textSize="20sp" />
-
-                <TextView
-                    android:id="@+id/main_menu_sign_out"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/open_sans"
-                    android:gravity="center_vertical"
-                    android:padding="4dp"
-                    android:text="@string/sign_out"
-                    android:textColor="@color/white"
-                    android:textSize="20sp" />
-
-                <TextView
                     android:id="@+id/main_menu_settings"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -85,43 +63,6 @@
                     android:text="@string/settings_mode"
                     android:textColor="@color/white"
                     android:textSize="20sp" />
-
-                <TextView
-                    android:id="@+id/main_menu_how_to_play"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="24dp"
-                    android:fontFamily="@font/open_sans"
-                    android:gravity="center_vertical"
-                    android:padding="4dp"
-                    android:text="@string/how_to_play_mode"
-                    android:textColor="@color/white"
-                    android:textSize="20sp" />
-
-                <TextView
-                    android:id="@+id/main_menu_leaderboards"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="24dp"
-                    android:fontFamily="@font/open_sans"
-                    android:gravity="center_vertical"
-                    android:padding="4dp"
-                    android:text="@string/leaderboards"
-                    android:textColor="@color/white"
-                    android:textSize="20sp" />
-
-                <TextView
-                    android:id="@+id/main_menu_achievements"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="24dp"
-                    android:fontFamily="@font/open_sans"
-                    android:gravity="center_vertical"
-                    android:padding="4dp"
-                    android:text="@string/achievements"
-                    android:textColor="@color/white"
-                    android:textSize="20sp" />
-
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
