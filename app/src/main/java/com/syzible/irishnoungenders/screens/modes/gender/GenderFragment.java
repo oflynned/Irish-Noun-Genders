@@ -9,100 +9,53 @@ import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
-import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
 
 import com.daimajia.androidanimations.library.Techniques;
 import com.daimajia.androidanimations.library.YoYo;
-import com.hannesdorfmann.mosby3.mvp.MvpFragment;
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
-import com.syzible.irishnoungenders.common.firebase.AchievementListener;
-import com.syzible.irishnoungenders.common.firebase.Event;
-import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
 import com.syzible.irishnoungenders.common.models.Noun;
+import com.syzible.irishnoungenders.databinding.FragmentGenderMainBinding;
 import com.syzible.irishnoungenders.screens.modes.common.domainchoice.DomainChoiceFragment;
 import com.syzible.irishnoungenders.screens.modes.common.ui.CircularTextView;
 
-import butterknife.BindView;
-import butterknife.ButterKnife;
-import butterknife.Unbinder;
+public class GenderFragment extends Fragment implements GenderView {
 
-public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
-        implements GenderView {
+    private FragmentGenderMainBinding binding;
 
-    private Unbinder unbinder;
     private Handler handler;
     private Runnable runnable;
 
-    private AchievementListener achievementListener;
-
-    @BindView(R.id.game_area)
-    View gameArea;
-
-    @BindView(R.id.gender_game_component_noun_card)
-    View card;
-
-    @BindView(R.id.gender_game_back_button)
-    ImageView backButton;
-
-    @BindView(R.id.gender_game_category)
-    TextView category;
-
-    @BindView(R.id.gender_game_high_score)
-    TextView highScore;
-
-    @BindView(R.id.gender_game_score_count)
-    TextView score;
-
-    @BindView(R.id.gender_game_card_title)
-    TextView cardTitle;
-
-    @BindView(R.id.gender_game_card_hint)
-    TextView cardHint;
-
-    @BindView(R.id.gender_game_card_translation)
-    TextView cardTranslation;
-
-    @BindView(R.id.gender_game_male_button)
-    CircularTextView maleButton;
-
-    @BindView(R.id.gender_game_female_button)
-    CircularTextView femaleButton;
-
-    @BindView(R.id.draggable_button)
-    CircularTextView draggableButton;
-
-    @BindView(R.id.answer_target)
-    ImageView answerTarget;
+    private GenderPresenter presenter;
 
     public GenderFragment() {
-    }
-
-    public static GenderFragment getInstance() {
-        return new GenderFragment();
+        super(R.layout.fragment_gender_main);
     }
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_gender_main, container, false);
+        binding = FragmentGenderMainBinding.inflate(inflater, container, false);
+
+        return binding.getRoot();
     }
 
     @Override
-    public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
+    public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        this.unbinder = ButterKnife.bind(this, view);
-        this.handler = new Handler();
+
+        presenter = new GenderPresenter(this);
+        handler = new Handler();
 
         setupGuessListeners();
         setupGuessAutoTransition();
 
-        category.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
-        backButton.setOnClickListener(v -> presenter.returnToMainMenu());
+        binding.genderGameCategory.setOnClickListener(v -> presenter.showCategoryScreen(getActivity()));
+        binding.genderGameBackButton.setOnClickListener(v -> presenter.returnToMainMenu());
 
         presenter.checkNewHighScore(getActivity());
         presenter.fetchNouns(getActivity());
@@ -112,37 +65,32 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     @Override
     public void onDestroyView() {
         super.onDestroyView();
-        unbinder.unbind();
-    }
-
-    @NonNull
-    @Override
-    public GenderPresenter createPresenter() {
-        return new GenderPresenter();
+        binding = null;
     }
 
     @Override
     public void showTitle(String title) {
-        cardTitle.setVisibility(View.VISIBLE);
-        cardTitle.setText(title);
+        binding.genderGameComponentNounCard.genderGameCardTitle.setVisibility(View.VISIBLE);
+        binding.genderGameComponentNounCard.genderGameCardTitle.setText(title);
     }
 
     @Override
     public void showHint(String hint) {
-        cardHint.setVisibility(View.VISIBLE);
-        cardHint.setText(hint);
+        binding.genderGameComponentNounCard.genderGameCardHint.setVisibility(View.VISIBLE);
+        binding.genderGameComponentNounCard.genderGameCardHint.setText(hint);
     }
 
     @Override
     public void showTranslation(String translation) {
-        cardTranslation.setVisibility(View.VISIBLE);
-        cardTranslation.setText(translation);
+        binding.genderGameComponentNounCard.genderGameCardTranslation.setVisibility(View.VISIBLE);
+        binding.genderGameComponentNounCard.genderGameCardTranslation.setText(translation);
     }
 
     private void setupGuessListeners() {
-        setupTouchEvent(maleButton, Noun.Gender.MASCULINE, getString(R.string.masc));
-        setupTouchEvent(femaleButton, Noun.Gender.FEMININE, getString(R.string.fem));
-        gameArea.setOnClickListener(null);
+
+        setupTouchEvent(binding.genderGameComponentNounCard.genderGameMaleButton, Noun.Gender.MASCULINE, getString(R.string.masc));
+        setupTouchEvent(binding.genderGameComponentNounCard.genderGameFemaleButton, Noun.Gender.FEMININE, getString(R.string.fem));
+        binding.answerTarget.setOnClickListener(null);
     }
 
     @SuppressLint("ClickableViewAccessibility")
@@ -151,32 +99,32 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
             switch (motionEvent.getActionMasked()) {
                 case MotionEvent.ACTION_DOWN:
                     Point point = getLocation(optionChosen);
-                    draggableButton.setText(label);
-                    draggableButton.setVisibility(View.VISIBLE);
-                    draggableButton.setX(point.x);
-                    draggableButton.setY(point.y - ((float) draggableButton.getHeight() / 2));
+                    binding.draggableButton.setText(label);
+                    binding.draggableButton.setVisibility(View.VISIBLE);
+                    binding.draggableButton.setX(point.x);
+                    binding.draggableButton.setY(point.y - ((float) binding.draggableButton.getHeight() / 2));
                     optionChosen.setVisibility(View.GONE);
 
-                    animateViewOut(optionChosen == maleButton ? femaleButton : maleButton);
-                    emphasiseView(answerTarget);
+                    animateViewOut(optionChosen == binding.genderGameComponentNounCard.genderGameMaleButton ? binding.genderGameComponentNounCard.genderGameFemaleButton : binding.genderGameComponentNounCard.genderGameMaleButton);
+                    emphasiseView(binding.answerTarget);
                     break;
 
                 case MotionEvent.ACTION_MOVE:
-                    draggableButton.setX(motionEvent.getRawX() - draggableButton.getWidth());
-                    draggableButton.setY(motionEvent.getRawY() - draggableButton.getHeight());
+                    binding.draggableButton.setX(motionEvent.getRawX() - binding.draggableButton.getWidth());
+                    binding.draggableButton.setY(motionEvent.getRawY() - binding.draggableButton.getHeight());
                     break;
 
                 case MotionEvent.ACTION_UP:
-                    if (isWithinTargetArea(draggableButton)) {
+                    if (isWithinTargetArea(binding.draggableButton)) {
                         presenter.makeGuess(getContext(), guess);
                     }
 
-                    draggableButton.setVisibility(View.GONE);
+                    binding.draggableButton.setVisibility(View.GONE);
                     optionChosen.setVisibility(View.VISIBLE);
-                    if (optionChosen == maleButton) {
-                        animateViewIn(femaleButton);
+                    if (optionChosen == binding.genderGameComponentNounCard.genderGameMaleButton) {
+                        animateViewIn(binding.genderGameComponentNounCard.genderGameFemaleButton);
                     } else {
-                        animateViewIn(maleButton);
+                        animateViewIn(binding.genderGameComponentNounCard.genderGameMaleButton);
                     }
                     break;
 
@@ -188,18 +136,18 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     }
 
     private void setupGuessAutoTransition() {
-        runnable = () -> gameArea.performClick();
+        runnable = () -> binding.gameArea.performClick();
     }
 
     @SuppressLint("ClickableViewAccessibility")
     private void setupPostGuessListeners() {
         // first prevent the listeners from being draggable
-        femaleButton.setOnTouchListener(null);
-        maleButton.setOnTouchListener(null);
+        binding.genderGameComponentNounCard.genderGameFemaleButton.setOnTouchListener(null);
+        binding.genderGameComponentNounCard.genderGameMaleButton.setOnTouchListener(null);
         handler.postDelayed(runnable, 2000);
 
-        gameArea.setOnClickListener(v -> {
-            // reenable touch listeners for dragging options
+        binding.gameArea.setOnClickListener(v -> {
+            // re-enable touch listeners for dragging options
             handler.removeCallbacks(runnable);
             presenter.pickNoun(getContext());
             setupGuessListeners();
@@ -209,28 +157,29 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
 
     @Override
     public void showChoiceButtons() {
-        maleButton.setVisibility(View.VISIBLE);
-        animateViewIn(maleButton);
-        femaleButton.setVisibility(View.VISIBLE);
-        animateViewIn(femaleButton);
+        binding.genderGameComponentNounCard.genderGameMaleButton.setVisibility(View.VISIBLE);
+        animateViewIn(binding.genderGameComponentNounCard.genderGameMaleButton);
+
+        binding.genderGameComponentNounCard.genderGameFemaleButton.setVisibility(View.VISIBLE);
+        animateViewIn(binding.genderGameComponentNounCard.genderGameFemaleButton);
     }
 
     @Override
     public void notifyCorrectGuess(Noun noun) {
-        cardTitle.setText(R.string.correct);
-        cardTranslation.setText(
+        binding.genderGameComponentNounCard.genderGameCardTitle.setText(R.string.correct);
+        binding.genderGameComponentNounCard.genderGameCardTranslation.setText(
                 getString(R.string.noun_is_answer,
                         noun.getTitle(),
                         noun.getGender().equals(Noun.Gender.MASCULINE) ?
                                 getString(R.string.masculine) : getString(R.string.feminine)
                 )
         );
-        cardHint.setVisibility(View.GONE);
+        binding.genderGameComponentNounCard.genderGameCardHint.setVisibility(View.GONE);
 
         if (noun.getGender() == Noun.Gender.MASCULINE) {
-            femaleButton.setVisibility(View.GONE);
+            binding.genderGameComponentNounCard.genderGameFemaleButton.setVisibility(View.GONE);
         } else {
-            maleButton.setVisibility(View.GONE);
+            binding.genderGameComponentNounCard.genderGameMaleButton.setVisibility(View.GONE);
         }
 
         setupPostGuessListeners();
@@ -238,20 +187,20 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
 
     @Override
     public void notifyWrongGuess(Noun noun) {
-        cardTitle.setText(getString(R.string.oops));
-        cardTranslation.setText(
+        binding.genderGameComponentNounCard.genderGameCardTitle.setText(getString(R.string.oops));
+        binding.genderGameComponentNounCard.genderGameCardTranslation.setText(
                 getString(R.string.noun_is_answer,
                         noun.getTitle(),
                         noun.getGender().equals(Noun.Gender.MASCULINE) ?
                                 getString(R.string.masculine) : getString(R.string.feminine)
                 )
         );
-        cardHint.setVisibility(View.GONE);
+        binding.genderGameComponentNounCard.genderGameCardHint.setVisibility(View.GONE);
 
         if (noun.getGender() == Noun.Gender.MASCULINE) {
-            maleButton.setVisibility(View.GONE);
+            binding.genderGameComponentNounCard.genderGameMaleButton.setVisibility(View.GONE);
         } else {
-            femaleButton.setVisibility(View.GONE);
+            binding.genderGameComponentNounCard.genderGameFemaleButton.setVisibility(View.GONE);
         }
 
         setupPostGuessListeners();
@@ -259,7 +208,7 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
 
     @Override
     public void showHighScore(String highScore) {
-        this.highScore.setText(highScore);
+        this.binding.genderGameHighScore.setText(highScore);
     }
 
     @Override
@@ -302,22 +251,21 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
 
     @Override
     public void setScore(String score) {
-        this.score.setText(score);
+        binding.genderGameScoreCount.setText(score);
     }
 
     @Override
     public void setChosenCategory(String category) {
-        this.category.setText(category);
+        binding.genderGameCategory.setText(category);
     }
 
     @Override
     public void showCategoryScreen(String currentCategory) {
-        MainActivity.setFragmentBackstack(getFragmentManager(), DomainChoiceFragment.getInstance());
+        MainActivity.setFragmentBackstack(getFragmentManager(), new DomainChoiceFragment());
     }
 
     @Override
     public void returnToMainMenu() {
-        FirebaseLogger.logEvent(getContext(), Event.LEAVE_GAME, "score", presenter.getCurrentScore());
         MainActivity.popFragment(getFragmentManager());
     }
 
@@ -340,22 +288,14 @@ public class GenderFragment extends MvpFragment<GenderView, GenderPresenter>
     }
 
     private boolean isWithinTargetArea(View guessButton) {
-        Point point = getLocation(answerTarget);
+        Point point = getLocation(binding.answerTarget);
 
         float targetX1 = guessButton.getX() + (float) (guessButton.getWidth() / 2);
         float targetY1 = guessButton.getY() + (float) (guessButton.getHeight() / 2);
 
-        boolean isWithinXTarget = targetX1 > point.x && targetX1 < (point.x + answerTarget.getWidth());
-        boolean isWithinYTarget = targetY1 > point.y && targetY1 < (point.y + answerTarget.getHeight());
+        boolean isWithinXTarget = targetX1 > point.x && targetX1 < (point.x + binding.answerTarget.getWidth());
+        boolean isWithinYTarget = targetY1 > point.y && targetY1 < (point.y + binding.answerTarget.getHeight());
+
         return isWithinXTarget && isWithinYTarget;
-    }
-
-    @Override
-    public AchievementListener getAchievementListener() {
-        return achievementListener;
-    }
-
-    public void setAchievementListener(AchievementListener achievementListener) {
-        this.achievementListener = achievementListener;
     }
 }

@@ -14,22 +14,17 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.syzible.irishnoungenders.MainActivity;
 import com.syzible.irishnoungenders.R;
-import com.syzible.irishnoungenders.common.firebase.Event;
-import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
 import com.syzible.irishnoungenders.common.models.Category;
 import com.syzible.irishnoungenders.common.persistence.Cache;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import butterknife.BindView;
-import butterknife.ButterKnife;
-
-public class DomainAdaptor extends RecyclerView.Adapter<DomainAdaptor.GroupSelectionHolder> {
+public class DomainAdapter extends RecyclerView.Adapter<DomainAdapter.GroupSelectionHolder> {
     private List<Category> categories = new ArrayList<>();
     private FragmentManager fragmentManager;
 
-    DomainAdaptor(FragmentManager fragmentManager) {
+    DomainAdapter(FragmentManager fragmentManager) {
         this.fragmentManager = fragmentManager;
     }
 
@@ -54,7 +49,6 @@ public class DomainAdaptor extends RecyclerView.Adapter<DomainAdaptor.GroupSelec
         }
 
         groupSelectionHolder.itemView.setOnClickListener(v -> {
-            FirebaseLogger.logEvent(groupSelectionHolder.itemView.getContext(), Event.CHANGE_DOMAIN, "new_domain", category.getCategory());
             Cache.setLastChosenCategoryFileName(context, category.getFileName());
             MainActivity.popFragment(fragmentManager);
         });
@@ -70,15 +64,13 @@ public class DomainAdaptor extends RecyclerView.Adapter<DomainAdaptor.GroupSelec
     }
 
     static class GroupSelectionHolder extends RecyclerView.ViewHolder {
-        @BindView(R.id.category_item_icon)
         ImageView icon;
-
-        @BindView(R.id.category_item_name)
         TextView name;
 
         GroupSelectionHolder(@NonNull View itemView) {
             super(itemView);
-            ButterKnife.bind(this, itemView);
+            icon = itemView.findViewById(R.id.category_item_icon);
+            name = itemView.findViewById(R.id.category_item_name);
         }
     }
 }

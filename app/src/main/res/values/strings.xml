@@ -46,7 +46,7 @@
 
     <!-- settings -->
     <string name="build_version">Build version</string>
-    <string name="made_in_ireland">Version %1$s - made with ❤ in Ireland 🇮🇪</string>
+    <string name="made_in_ireland">Version %1$s</string>
     <string name="show_hints_title">Show Noun Hints</string>
     <string name="show_hints_description">If a hint is available, some nouns will have a highlighted ending.</string>
     <string name="leave_review_title">Leave a Review</string>
@@ -56,8 +56,6 @@
     <string name="game_preferences">🏃‍♂ Game Preferences️</string>
     <string name="developer">⚡️ Developer</string>
     <string name="build_information">🔧 Build Information</string>
-    <string name="irish_language">Irish Language</string>
-    <string name="irish_language_description">Enable this if you wish to play the game through the Irish language.</string>
     <string name="share_app">Share Irish Nouns</string>
     <string name="share_app_body">Check out this app I found! %1$s</string>
     <string name="share_app_description">Click here to share the app with friends and family</string>
@@ -71,6 +69,6 @@
     <string name="sign_in">Sign in</string>
     <string name="achievements">Achievements</string>
     <string name="leaderboards">Leaderboards</string>
-    <string name="please_wait_signing_in">Please wait, signing in ...</string>
+    <string name="please_wait_signing_in">Please wait, signing in …</string>
 
 </resources>
