@@ -2,7 +2,6 @@ package com.syzible.irishnoungenders.screens.modes.common.domainchoice;
 
 import android.content.Context;
 
-import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.syzible.irishnoungenders.common.models.Category;
 import com.syzible.irishnoungenders.common.persistence.LocalStorage;
 
@@ -12,21 +11,19 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-class DomainChoicePresenter extends MvpBasePresenter<DomainChoiceView>
-        implements DomainChoiceInteractor.DomainCallback {
+class DomainChoicePresenter implements DomainChoiceInteractor.DomainCallback {
 
-    private DomainChoiceInteractor interactor;
+    private final DomainChoiceInteractor interactor = new DomainChoiceInteractor();
+    private final DomainChoiceView screen;
 
-    DomainChoicePresenter() {
-        interactor = new DomainChoiceInteractor();
+    DomainChoicePresenter(DomainChoiceView screen) {
+        this.screen = screen;
     }
 
     void fetchCategories(Context context) {
         try {
             interactor.fetchDomains(context, this);
-        } catch (JSONException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
+        } catch (JSONException | IOException e) {
             e.printStackTrace();
         }
     }
@@ -45,7 +42,7 @@ class DomainChoicePresenter extends MvpBasePresenter<DomainChoiceView>
         }
 
         int finalSelectedIndex = selectedIndex;
-        ifViewAttached(v -> v.showCategoryList(categoryList, finalSelectedIndex));
+        screen.showCategoryList(categoryList, finalSelectedIndex);
     }
 
     @Override

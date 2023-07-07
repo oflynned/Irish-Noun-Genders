@@ -2,13 +2,6 @@ package com.syzible.irishnoungenders.screens.modes.gender;
 
 import android.content.Context;
 
-import androidx.annotation.NonNull;
-
-import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
-import com.syzible.irishnoungenders.common.common.FeatureFlag;
-import com.syzible.irishnoungenders.common.firebase.Achievements;
-import com.syzible.irishnoungenders.common.firebase.Event;
-import com.syzible.irishnoungenders.common.firebase.FirebaseLogger;
 import com.syzible.irishnoungenders.common.models.Noun;
 import com.syzible.irishnoungenders.common.persistence.Cache;
 import com.syzible.irishnoungenders.common.persistence.DomainNotFoundException;
@@ -22,9 +15,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-class GenderPresenter extends MvpBasePresenter<GenderView> implements ExperimentInteractor.ExperimentCallback {
-    private GenderInteractor genderInteractor;
-    private ExperimentInteractor experimentInteractor;
+class GenderPresenter implements ExperimentInteractor.ExperimentCallback {
+    private final GenderInteractor genderInteractor = new GenderInteractor();
+    private final ExperimentInteractor experimentInteractor = new ExperimentInteractor();
 
     private Noun currentNoun;
     private List<Noun> shownNouns;
@@ -34,11 +27,10 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
     private String currentDomain = "accounting";
     private int currentScore = 0;
 
-    @Override
-    public void attachView(@NonNull GenderView view) {
-        super.attachView(view);
-        genderInteractor = new GenderInteractor();
-        experimentInteractor = new ExperimentInteractor();
+    private final GenderView screen;
+
+    GenderPresenter(GenderView screen) {
+        this.screen = screen;
         fetchHints();
     }
 
@@ -64,11 +56,11 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
         int currentHighScore = Cache.getHighScore(context);
         if (currentScore > currentHighScore) {
             Cache.setNewHighScore(context, currentScore);
-            ifViewAttached(v -> v.showHighScore(String.valueOf(currentScore)));
+            screen.showHighScore(String.valueOf(currentScore));
             return;
         }
 
-        ifViewAttached(v -> v.showHighScore(String.valueOf(currentHighScore)));
+        screen.showHighScore(String.valueOf(currentHighScore));
     }
 
     void fetchNouns(Context context) {
@@ -88,51 +80,38 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
             e.printStackTrace();
         }
 
-        ifViewAttached(v -> v.setChosenCategory(currentDomain));
+        screen.setChosenCategory(currentDomain);
     }
 
     void pickNoun(Context context) {
         if (remainingNouns.size() == 0) {
-            FirebaseLogger.logEvent(context, Event.DECK_FINISHED);
-            ifViewAttached(v -> v.notifyEndOfDeck(currentDomain, shownNouns.size()));
+            screen.notifyEndOfDeck(currentDomain, shownNouns.size());
             return;
         }
 
-        FirebaseLogger.logEvent(context, Event.SHOW_NEW_WORD);
         Collections.shuffle(remainingNouns);
         currentNoun = remainingNouns.get(0);
+
         checkHintIsAvailable(context, currentNoun);
-        ifViewAttached(v -> {
-            v.showChoiceButtons();
-            v.showTranslation(currentNoun.getTranslations());
-        });
+        screen.showChoiceButtons();
+        screen.showTranslation(currentNoun.getTranslations());
     }
 
     void makeGuess(Context context, Noun.Gender gender) {
         if (isGuessCorrect(gender)) {
-            FirebaseLogger.logEvent(context, Event.MAKE_GUESS, "guess_correct", true);
             shownNouns.add(currentNoun);
             remainingNouns.remove(currentNoun);
             incrementScore();
             checkNewHighScore(context);
-            ifViewAttached(v -> v.notifyCorrectGuess(currentNoun));
+            screen.notifyCorrectGuess(currentNoun);
         } else {
-            FirebaseLogger.logEvent(context, Event.MAKE_GUESS, "guess_correct", false);
             resetScore();
-            ifViewAttached(v -> v.notifyWrongGuess(currentNoun));
-        }
-
-        // TODO enable general access
-        if (FeatureFlag.EARN_ACHIEVEMENTS.isEnabled()) {
-            Achievements.incrementGuessCount(context);
-            if (Achievements.hasPassedFirstSteps(context)) {
-                ifViewAttached(v -> v.getAchievementListener().onAchievementUnlocked(Achievements.Achievement.FIRST_STEPS));
-            }
+            screen.notifyWrongGuess(currentNoun);
         }
 
         // log experiment to remote db, should migrate this to firebase for ease of viewing events
         logExperiment(context, gender);
-        ifViewAttached(v -> v.setScore(String.valueOf(currentScore)));
+        screen.setScore(String.valueOf(currentScore));
     }
 
     private void logExperiment(Context context, Noun.Gender attempt) {
@@ -144,7 +123,7 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
         remainingNouns = shownNouns;
         shownNouns = new ArrayList<>();
         resetScore();
-        ifViewAttached(v -> v.setScore("0"));
+        screen.setScore("0");
     }
 
     private boolean isGuessCorrect(Noun.Gender gender) {
@@ -156,24 +135,21 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
     }
 
     private void checkHintIsAvailable(Context context, Noun noun) {
-        if (GameRules.wordHintsEnabled(context)) {
+        if (GameRules.isGenderHintEnabled(context)) {
             List<String> hints = noun.getGender() == Noun.Gender.MASCULINE ? masculineHints : feminineHints;
             for (String hint : hints) {
                 if (noun.getTitle().endsWith(hint)) {
                     String trimmedTitle = trimHintFromTitle(noun, hint);
-                    ifViewAttached(v -> {
-                        v.showTitle(trimmedTitle);
-                        v.showHint(hint);
-                    });
+                    screen.showTitle(trimmedTitle);
+                    screen.showHint(hint);
+
                     return;
                 }
             }
         }
 
-        ifViewAttached(v -> {
-            v.showTitle(noun.getTitle());
-            v.showHint("");
-        });
+        screen.showTitle(noun.getTitle());
+        screen.showHint("");
     }
 
     void changeCategory(Context context) {
@@ -186,21 +162,21 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
         }
 
         resetScore();
-        ifViewAttached(v -> v.showCategoryScreen(currentCategory));
+        screen.showCategoryScreen(currentCategory);
     }
 
     void returnToMainMenu() {
         if (shownNouns.size() > 0) {
-            ifViewAttached(GenderView::notifyLeavingGame);
+            screen.notifyLeavingGame();
             return;
         }
 
-        ifViewAttached(GenderView::returnToMainMenu);
+        screen.returnToMainMenu();
     }
 
     void showCategoryScreen(Context context) {
         if (shownNouns.size() > 0) {
-            ifViewAttached(GenderView::notifyProgressLoss);
+            screen.notifyProgressLoss();
             return;
         }
 
@@ -209,12 +185,12 @@ class GenderPresenter extends MvpBasePresenter<GenderView> implements Experiment
 
     @Override
     public void onSuccess() {
-
+        System.out.println("Success!");
     }
 
     @Override
     public void onFailure(int status, JSONObject response) {
-
+        System.out.println("Failed!");
     }
 
     public int getCurrentScore() {

@@ -38,28 +38,6 @@ class GenderInteractor {
         return hintsList;
     }
 
-    List<String> fetchDomains() throws MalformedFileException {
-        JSONArray domains;
-        try {
-            domains = API.domainStore();
-        } catch (IOException | JSONException e) {
-            e.printStackTrace();
-            throw new MalformedFileException();
-        }
-
-        List<String> domainList = new ArrayList<>();
-        for (int i = 0; i < domains.length(); i++) {
-            try {
-                String domain = domains.getString(i);
-                domainList.add(domain);
-            } catch (JSONException e) {
-                e.printStackTrace();
-            }
-        }
-
-        return domainList;
-    }
-
     List<Noun> fetchNouns(String domain) throws DomainNotFoundException, MalformedFileException {
         JSONArray response;
         try {
@@ -72,8 +50,6 @@ class GenderInteractor {
             throw new MalformedFileException();
         }
 
-        return new Gson().fromJson(response.toString(),
-                new TypeToken<List<Noun>>() {
-                }.getType());
+        return new Gson().fromJson(response.toString(), new TypeToken<List<Noun>>() {}.getType());
     }
 }

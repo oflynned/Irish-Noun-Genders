@@ -42,10 +42,7 @@ public class CircularTextView extends AppCompatTextView {
         strokePaint.setColor(strokeColor);
         strokePaint.setFlags(Paint.ANTI_ALIAS_FLAG);
 
-        int h = this.getHeight();
-        int w = this.getWidth();
-
-        int diameter = ((h > w) ? h : w);
+        int diameter = Math.max(getHeight(), getWidth());
         int radius = diameter / 2;
 
         this.setHeight(diameter);

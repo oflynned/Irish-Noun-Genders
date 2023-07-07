@@ -7,7 +7,7 @@ import org.json.JSONObject;
 import cz.msebera.android.httpclient.Header;
 
 class ExperimentHttpHandler extends BaseJsonHttpResponseHandler<JSONObject> {
-    private ExperimentInteractor.ExperimentCallback callback;
+    private final ExperimentInteractor.ExperimentCallback callback;
 
     ExperimentHttpHandler(ExperimentInteractor.ExperimentCallback callback) {
         super();

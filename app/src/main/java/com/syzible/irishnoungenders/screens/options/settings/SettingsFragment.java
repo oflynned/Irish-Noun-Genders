@@ -23,10 +23,6 @@ public class SettingsFragment extends PreferenceFragmentCompat {
     public SettingsFragment() {
     }
 
-    public static SettingsFragment getInstance() {
-        return new SettingsFragment();
-    }
-
     @Override
     public void onCreatePreferences(Bundle bundle, String rootKey) {
         setPreferencesFromResource(R.xml.settings_preferences, rootKey);
@@ -34,22 +30,10 @@ public class SettingsFragment extends PreferenceFragmentCompat {
         SwitchPreferenceCompat nounHints = findPreference("settings_show_hints");
         if (nounHints != null) {
 
-            nounHints.setChecked(GameRules.wordHintsEnabled(getContext()));
+            nounHints.setChecked(GameRules.isGenderHintEnabled(getContext()));
             nounHints.setOnPreferenceChangeListener((preference, newValue) -> {
-                LocalStorage.setBooleanPref(getContext(), LocalStorage.Pref.SHOW_HINTS, !GameRules.wordHintsEnabled(getContext()));
-                nounHints.setChecked(GameRules.wordHintsEnabled(getContext()));
-                return false;
-            });
-        }
-
-        SwitchPreferenceCompat irishLanguageEnabled = findPreference("settings_enable_irish_language");
-        if (irishLanguageEnabled != null) {
-            boolean enableIrishLanguage = Objects.equals(LocalStorage.getStringPref(getContext(), LocalStorage.Pref.DISPLAY_LANGUAGE), LocaleManager.LANGUAGE_IRISH);
-            irishLanguageEnabled.setChecked(enableIrishLanguage);
-
-            irishLanguageEnabled.setOnPreferenceChangeListener((preference, newValue) -> {
-                boolean forced = (boolean) newValue;
-                setNewLocale(forced ? LocaleManager.LANGUAGE_IRISH : LocaleManager.LANGUAGE_ENGLISH, true);
+                LocalStorage.setBooleanPref(getContext(), LocalStorage.Pref.SHOW_HINTS, !GameRules.isGenderHintEnabled(getContext()));
+                nounHints.setChecked(GameRules.isGenderHintEnabled(getContext()));
                 return false;
             });
         }
@@ -84,19 +68,8 @@ public class SettingsFragment extends PreferenceFragmentCompat {
         }
     }
 
-    private void setNewLocale(String language, boolean restartProcess) {
-        App.localeManager.setNewLocale(getActivity(), language);
-
-        Intent i = new Intent(getActivity(), MainActivity.class);
-        startActivity(i.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK));
-
-        if (restartProcess) {
-            System.exit(0);
-        }
-    }
-
     private String getPlayStoreUrl() {
-        return "http://play.google.com/store/apps/details?id=" + Objects.requireNonNull(getActivity()).getPackageName();
+        return "http://play.google.com/store/apps/details?id=" + requireActivity().getPackageName();
     }
 
     private void openAppRating() {
@@ -108,7 +81,7 @@ public class SettingsFragment extends PreferenceFragmentCompat {
     }
 
     private void openShareAppIntent() {
-        ShareCompat.IntentBuilder.from(Objects.requireNonNull(getActivity()))
+        ShareCompat.IntentBuilder.from(requireActivity())
                 .setType("text/plain")
                 .setChooserTitle(getString(R.string.share_app))
                 .setText(getString(R.string.share_app_body, getPlayStoreUrl()))

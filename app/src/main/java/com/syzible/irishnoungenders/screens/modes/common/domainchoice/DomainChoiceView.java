@@ -1,10 +1,9 @@
 package com.syzible.irishnoungenders.screens.modes.common.domainchoice;
 
-import com.hannesdorfmann.mosby3.mvp.MvpView;
 import com.syzible.irishnoungenders.common.models.Category;
 
 import java.util.List;
 
-interface DomainChoiceView extends MvpView {
+interface DomainChoiceView {
     void showCategoryList(List<Category> categoryList, int selectedIndex);
 }
